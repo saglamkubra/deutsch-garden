@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "a1-01-words",
+    "unitId": "a1-01",
+    "level": "A1",
+    "title": "Selamlaşma ve Tanışma",
+    "goal": "Birini uygun biçimde selamla; adını, yaşadığın yeri ve nasıl olduğunu kısa bir konuşmada anlat.",
+    "steps": [
+      {
+        "id": "a1-01-words-teach-1",
+        "title": "1 · Günün saatine göre merhaba",
+        "introduction": "Bir konuşmaya başlamak için uzun cümle kurman gerekmez. Önce duruma uygun bir selam seç.",
+        "rule": "Hallo günlük ve genellikle samimi bir selamdır. Guten Morgen sabah, Guten Tag gün içinde, Guten Abend akşam kullanılır. Bu selamları bütün olarak öğren.",
+        "usage": "Bir dükkânda Guten Tag, sabah sınıfta Guten Morgen diyebilirsin. Gute Nacht ise genellikle ayrılırken veya yatmadan önce söylenir.",
+        "structure": "Guten + Morgen / Tag / Abend; yatarken: Gute Nacht.",
+        "mistake": "Guten Nacht değil, Gute Nacht. Guten Abend ile Gute Nacht aynı bağlamda kullanılmaz.",
+        "memory": "Akşam biriyle karşılaş: Guten Abend. Uykuya hazırlan: Gute Nacht.",
+        "table": {
+          "heading": "Zaman ve durum seç",
+          "rows": [
+            [
+              "sabah",
+              "Guten Morgen!",
+              "Günaydın!"
+            ],
+            [
+              "gün içinde",
+              "Guten Tag!",
+              "İyi günler!"
+            ],
+            [
+              "akşam karşılaşırken",
+              "Guten Abend!",
+              "İyi akşamlar!"
+            ],
+            [
+              "yatarken / gece vedası",
+              "Gute Nacht!",
+              "İyi geceler!"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "a1-01-words-teach-2",
+        "title": "2 · Ben ve sen: heißen",
+        "introduction": "Türkçede “Adım Elif” deriz. Almancada aynı düşünceyi bir fiille kurabiliriz: heißen, adı olmak.",
+        "rule": "Ich ile heiße, du ile heißt kullanılır. Türkçeden farklı olarak özneyi genellikle açıkça söyle: Ich heiße Elif.",
+        "usage": "Birinin adını samimi biçimde sormak için Wie heißt du? de. İsim yerine Ich bin Elif de kullanılabilir.",
+        "structure": "Bildirme: Ich + heiße + ad. Soru: Wie + heißt + du?",
+        "mistake": "Ich heißt yanlış; ich öznesi heiße ister. “Wie du heißt?” burada bağımsız soru sırası değildir.",
+        "memory": "Ich: sonu -e. Du: heißen fiilinde heißt; ayrıca bir s daha ekleme.",
+        "table": {
+          "heading": "Özneye dokun, biçimi fark et",
+          "rows": [
+            [
+              "ich",
+              "heiße",
+              "benim adım…"
+            ],
+            [
+              "du",
+              "heißt",
+              "senin adın…"
+            ],
+            [
+              "er / sie",
+              "heißt",
+              "onun adı…"
+            ],
+            [
+              "Sie",
+              "heißen",
+              "sizin adınız… (resmî)"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "a1-01-words-teach-3",
+        "title": "3 · du mu, Sie mi?",
+        "introduction": "Almancada konuştuğun kişiye göre hitap biçimi değişir. Yeni tanıştığın yetişkinle resmî başlamak güvenli bir seçimdir.",
+        "rule": "du samimi tekil hitaptır. Sie resmî hitaptır ve büyük S ile yazılır. Wie heißen Sie? sorusunda fiil heißen olur.",
+        "usage": "Arkadaşınla Wie heißt du?; bir görevliyle Wie heißen Sie? kullan. Resmî Sie hem bir kişiye hem birden fazla kişiye yöneltilebilir.",
+        "structure": "Samimi: Wie heißt du? / Resmî: Wie heißen Sie?",
+        "mistake": "Küçük harfli sie cümle içinde “o (kadın)” veya “onlar” olabilir. Resmî Sie her yerde büyük yazılır.",
+        "memory": "Büyük S: saygılı hitap. Hitabı değiştirirsen fiili de kontrol et.",
+        "table": {
+          "heading": "Aynı amacı iki yolla söyle",
+          "rows": [
+            [
+              "arkadaş",
+              "Wie heißt du?",
+              "Adın ne?"
+            ],
+            [
+              "resmî görüşme",
+              "Wie heißen Sie?",
+              "Adınız ne?"
+            ],
+            [
+              "arkadaş",
+              "Wie geht es dir?",
+              "Nasılsın?"
+            ],
+            [
+              "resmî görüşme",
+              "Wie geht es Ihnen?",
+              "Nasılsınız?"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "a1-01-words-teach-4",
+        "title": "4 · Nerede, nereden, nasıl?",
+        "introduction": "Tanışmayı adından sonra iki küçük bilgiyle sürdürebilirsin: nerede yaşadığın ve nereden geldiğin.",
+        "rule": "Ich wohne in Berlin yaşadığın yeri; Ich komme aus Ankara geldiğin yeri anlatır. Wo nerede, woher nereden demektir. Wie geht es dir? bir hâl hatır sorusudur.",
+        "usage": "Bu derste şehir adlarıyla in ve aus kullanıyoruz. Ülke adlarının artikel kuralları ayrı bir konudur; örneğin aus der Türkei farklı bir yapıdır.",
+        "structure": "Wo wohnst du? → Ich wohne in Berlin. Woher kommst du? → Ich komme aus Ankara.",
+        "mistake": "Woher wohnst du? bu anlamda uygun değildir: ikamet yeri için wo, köken için woher seç.",
+        "memory": "in bir noktanın içinde yaşamayı; aus çıkış noktasını hatırlatsın. ch ve w seslerini ses kaydından dinle: Almanca w, çoğunlukla Türkçedeki v sesine yakındır."
+      }
+    ],
+    "examples": [
+      {
+        "id": "a1-01-words-example-1",
+        "de": "Guten Morgen, Frau Weber!",
+        "tr": "Günaydın, Bayan Weber!",
+        "explanation": "Sabah selamı Guten Morgen kalıp hâlindedir. Frau, soyadından önce kullanılan bir hitaptır.",
+        "highlights": [
+          "Guten Morgen"
+        ]
+      },
+      {
+        "id": "a1-01-words-example-2",
+        "de": "Hallo, ich bin Elif.",
+        "tr": "Merhaba, ben Elif.",
+        "explanation": "Hallo ile samimi başlayabilirsin. ich bin, sein fiilinin “ben” biçimidir; özne açıkça söylenir.",
+        "highlights": [
+          "ich bin"
+        ]
+      },
+      {
+        "id": "a1-01-words-example-3",
+        "de": "Ich heiße Elif.",
+        "tr": "Adım Elif.",
+        "explanation": "heißen fiili ich ile heiße olur. Bu cümle kelimesi kelimesine çevrilmez; Türkçede doğal karşılığı “Adım Elif”.",
+        "highlights": [
+          "Ich",
+          "heiße"
+        ]
+      },
+      {
+        "id": "a1-01-words-example-13",
+        "de": "Mein Name ist Elif.",
+        "tr": "Benim adım Elif.",
+        "explanation": "Name isimdir ve büyük harfle yazılır. Mein Name ist… ile Ich heiße… aynı tanışma amacını iki farklı yapıyla anlatır.",
+        "highlights": [
+          "Mein Name",
+          "ist"
+        ]
+      },
+      {
+        "id": "a1-01-words-example-4",
+        "de": "Wie heißt du?",
+        "tr": "Adın ne?",
+        "explanation": "Soru sözcüğü Wie önce, çekimli fiil heißt ikinci, özne du üçüncü sırada.",
+        "highlights": [
+          "Wie",
+          "heißt",
+          "du"
+        ]
+      },
+      {
+        "id": "a1-01-words-example-5",
+        "de": "Ich heiße Ben. Und du?",
+        "tr": "Adım Ben. Ya senin?",
+        "explanation": "Und du? aynı soruyu konuşma içinde kısa biçimde karşı tarafa yöneltir.",
+        "highlights": [
+          "heiße",
+          "Und du"
+        ]
+      },
+      {
+        "id": "a1-01-words-example-6",
+        "de": "Guten Tag! Wie heißen Sie?",
+        "tr": "İyi günler! Adınız ne?",
+        "explanation": "Resmî Sie büyük harfle yazılır ve heißen biçimini alır.",
+        "highlights": [
+          "Guten Tag",
+          "heißen",
+          "Sie"
+        ]
+      },
+      {
+        "id": "a1-01-words-example-14",
+        "de": "Frau Weber ist freundlich.",
+        "tr": "Bayan Weber güler yüzlü.",
+        "explanation": "freundlich bir sıfattır. sein fiilinden sonra burada ek almadan kullanılır; kişinin nasıl olduğunu anlatır.",
+        "highlights": [
+          "ist",
+          "freundlich"
+        ]
+      },
+      {
+        "id": "a1-01-words-example-7",
+        "de": "Wo wohnst du?",
+        "tr": "Nerede yaşıyorsun?",
+        "explanation": "Yer soran wo ile wohnen fiili kullanılır. du ile fiilin sonu -st olur: wohnst.",
+        "highlights": [
+          "Wo",
+          "wohnst"
+        ]
+      },
+      {
+        "id": "a1-01-words-example-8",
+        "de": "Ich wohne in Berlin.",
+        "tr": "Berlin’de yaşıyorum.",
+        "explanation": "Şehirde yaşamak için wohnen + in + şehir adı kurulur. ich ile wohne kullanılır.",
+        "highlights": [
+          "wohne",
+          "in"
+        ]
+      },
+      {
+        "id": "a1-01-words-example-9",
+        "de": "Woher kommst du?",
+        "tr": "Nereden geliyorsun?",
+        "explanation": "Köken veya geldiğin yer için woher sorulur. du ile kommst kullanılır.",
+        "highlights": [
+          "Woher",
+          "kommst"
+        ]
+      },
+      {
+        "id": "a1-01-words-example-10",
+        "de": "Ich komme aus Ankara.",
+        "tr": "Ankara’dan geliyorum.",
+        "explanation": "aus çıkış/köken yerini gösterir. Ankara şehir adı olduğu için burada artikel yok.",
+        "highlights": [
+          "komme",
+          "aus"
+        ]
+      },
+      {
+        "id": "a1-01-words-example-11",
+        "de": "Wie geht es dir? — Gut, danke!",
+        "tr": "Nasılsın? — İyiyim, teşekkürler!",
+        "explanation": "Wie geht es dir? kalıp olarak öğrenilebilir. Kısa yanıtta Gut, danke! yeterlidir.",
+        "highlights": [
+          "Wie geht es dir",
+          "Gut",
+          "danke"
+        ]
+      },
+      {
+        "id": "a1-01-words-example-12",
+        "de": "Auf Wiedersehen, Frau Weber! Bis morgen!",
+        "tr": "Hoşça kalın, Bayan Weber! Yarın görüşürüz!",
+        "explanation": "Auf Wiedersehen daha resmî bir vedadır. Bis morgen bir sonraki buluşma zamanını söyler.",
+        "highlights": [
+          "Auf Wiedersehen",
+          "Bis morgen"
+        ]
+      }
+    ],
+    "guided": [
+      {
+        "id": "a1-01-words-guided-1",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-01-2"
+        ],
+        "prompt": "Sabah sınıfa giriyorsun. Hangi selam uygun?",
+        "options": [
+          "Guten Morgen!",
+          "Auf Wiedersehen!",
+          "Gute Nacht!"
+        ],
+        "accepted": [
+          "Guten Morgen!"
+        ],
+        "explanation": "Sabah için Guten Morgen kullanılır. Gute Nacht gece vedasıdır; Auf Wiedersehen ayrılırken söylenir.",
+        "rule": "Selamı günün saati ve konuşmanın başlangıcı/sonuna göre seç.",
+        "hints": [
+          "Selamı günün saati ve konuşmanın başlangıcı/sonuna göre seç."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "optionNotes": {
+          "Gute Nacht!": "Bu, genellikle yatarken veya gece ayrılırken kullanılır.",
+          "Auf Wiedersehen!": "Bu bir vedalaşmadır."
+        },
+        "reviewWordIds": [
+          "dg-a1-01-2"
+        ]
+      },
+      {
+        "id": "a1-01-words-guided-2",
+        "type": "blank",
+        "wordIds": [
+          "dg-a1-01-3"
+        ],
+        "prompt": "Yalnızca eksik fiili yaz: Ich ___ Elif. (Adım Elif.)",
+        "options": [],
+        "accepted": [
+          "heiße"
+        ],
+        "explanation": "ich ile heißen fiili heiße olur. heißt, du ve er/sie/es ile kullanılır.",
+        "rule": "ich → heiße; du → heißt.",
+        "hints": [
+          "ich → heiße; du → heißt."
+        ],
+        "kindLabel": "Boşluğu tamamla",
+        "reviewWordIds": [
+          "dg-a1-01-3"
+        ]
+      },
+      {
+        "id": "a1-01-words-guided-3",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-01-5"
+        ],
+        "prompt": "Yeni tanıştığın bir görevliye resmî biçimde adını sor.",
+        "options": [
+          "Wie heißt du?",
+          "Wie heißen Sie?",
+          "Wie heißt Sie?"
+        ],
+        "accepted": [
+          "Wie heißen Sie?"
+        ],
+        "explanation": "Resmî hitap Sie olduğu için fiil heißen olur. du samimi hitaptır.",
+        "rule": "Büyük harfli Sie resmî hitaptır; heißen ile kullanılır.",
+        "hints": [
+          "Büyük harfli Sie resmî hitaptır; heißen ile kullanılır."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "optionNotes": {
+          "Wie heißt du?": "Doğru bir samimi sorudur, fakat istenen resmî hitap değil.",
+          "Wie heißt Sie?": "Resmî Sie için fiil heißen olmalı."
+        },
+        "reviewWordIds": [
+          "dg-a1-01-5"
+        ]
+      },
+      {
+        "id": "a1-01-words-guided-4",
+        "type": "sentence",
+        "wordIds": [
+          "a1-01-words"
+        ],
+        "prompt": "Sözcüklerle “Berlin’de yaşıyorum” cümlesini kur. İlk sözcük: Ich.",
+        "options": [],
+        "accepted": [
+          "Ich wohne in Berlin."
+        ],
+        "explanation": "Bildirme cümlesinde çekimli fiil ikinci ögedir: Ich | wohne | in Berlin.",
+        "rule": "Özne + çekimli fiil + yer bilgisi.",
+        "hints": [
+          "Özne + çekimli fiil + yer bilgisi."
+        ],
+        "kindLabel": "Cümleyi kur",
+        "tiles": [
+          "Berlin",
+          "wohne",
+          "Ich",
+          "in"
+        ],
+        "reviewWordIds": []
+      },
+      {
+        "id": "a1-01-words-guided-5",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-01-4"
+        ],
+        "prompt": "Ankara’dan geldiğini söylemek istiyorsun. Hangi sözcük eksik? Ich komme ___ Ankara.",
+        "options": [
+          "und",
+          "in",
+          "aus"
+        ],
+        "accepted": [
+          "aus"
+        ],
+        "explanation": "aus geldiğin yeri gösterir. in ile wohnen birlikte yaşadığın yeri anlatır.",
+        "rule": "Nereden: woher? → aus + şehir.",
+        "hints": [
+          "Nereden: woher? → aus + şehir."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "optionNotes": {
+          "in": "Bu derste yaşadığın yeri Ich wohne in… ile anlatıyoruz.",
+          "und": "und “ve” demektir; bir yer edatı değildir."
+        },
+        "reviewWordIds": [
+          "dg-a1-01-4"
+        ]
+      },
+      {
+        "id": "a1-01-words-guided-6",
+        "type": "tr-de",
+        "wordIds": [
+          "dg-a1-10-1"
+        ],
+        "prompt": "“Teşekkürler!” ifadesini Almanca yaz.",
+        "options": [],
+        "accepted": [
+          "Danke",
+          "Danke schön",
+          "Vielen Dank"
+        ],
+        "explanation": "Danke tek başına nazik ve doğru bir teşekkürdür. Cümlenin başında büyük D kullanılır.",
+        "rule": "Teşekkür için Danke; karşılık veya rica için bitte kullanılır.",
+        "hints": [
+          "Teşekkür için Danke; karşılık veya rica için bitte kullanılır."
+        ],
+        "kindLabel": "Çevir / tamamla",
+        "reviewWordIds": [
+          "dg-a1-10-1"
+        ]
+      }
+    ],
+    "independent": [
+      {
+        "id": "a1-01-words-independent-1",
+        "type": "choice",
+        "wordIds": [
+          "a1-01-words"
+        ],
+        "prompt": "Akşam bir komşunla karşılaşıyorsun. Hangisi uygun bir başlangıç?",
+        "options": [
+          "Guten Abend!",
+          "Tschüss!",
+          "Gute Nacht!"
+        ],
+        "accepted": [
+          "Guten Abend!"
+        ],
+        "explanation": "Karşılaşırken akşam selamı Guten Abend kullanılır. Gute Nacht ise çoğunlukla gece vedasıdır.",
+        "rule": "Akşam karşılaşması ve gece vedasını ayır.",
+        "hints": [
+          "Akşam karşılaşması ve gece vedasını ayır."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "reviewWordIds": []
+      },
+      {
+        "id": "a1-01-words-independent-2",
+        "type": "blank",
+        "wordIds": [
+          "dg-a1-01-3"
+        ],
+        "prompt": "Adım Anna: Ich ___ Anna. (heißen)",
+        "options": [],
+        "accepted": [
+          "heiße"
+        ],
+        "explanation": "Ich heiße Anna. ich öznesi -e biçimini ister.",
+        "rule": "ich → heiße.",
+        "hints": [
+          "ich → heiße."
+        ],
+        "kindLabel": "Boşluğu tamamla",
+        "reviewWordIds": [
+          "dg-a1-01-3"
+        ]
+      },
+      {
+        "id": "a1-01-words-independent-3",
+        "type": "sentence",
+        "wordIds": [
+          "dg-a1-01-3"
+        ],
+        "prompt": "Samimi biçimde “Adın ne?” sorusunu kur. İlk sözcük: Wie.",
+        "options": [],
+        "accepted": [
+          "Wie heißt du?"
+        ],
+        "explanation": "Soru sözcüğü, fiil ve özne sırası: Wie | heißt | du?",
+        "rule": "W sorusu: soru sözcüğü + çekimli fiil + özne.",
+        "hints": [
+          "W sorusu: soru sözcüğü + çekimli fiil + özne."
+        ],
+        "kindLabel": "Cümleyi kur",
+        "tiles": [
+          "du",
+          "Wie",
+          "heißt"
+        ],
+        "reviewWordIds": [
+          "dg-a1-01-3"
+        ]
+      },
+      {
+        "id": "a1-01-words-independent-4",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-01-5"
+        ],
+        "prompt": "Resmî hitapta doğru yazımı seç.",
+        "options": [
+          "Wie heißt Sie?",
+          "Wie heißen du?",
+          "Wie heißen Sie?"
+        ],
+        "accepted": [
+          "Wie heißen Sie?"
+        ],
+        "explanation": "Resmî Sie büyük yazılır ve heißen ile eşleşir.",
+        "rule": "Sie → heißen.",
+        "hints": [
+          "Sie → heißen."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "reviewWordIds": [
+          "dg-a1-01-5"
+        ]
+      },
+      {
+        "id": "a1-01-words-independent-5",
+        "type": "tr-de",
+        "wordIds": [
+          "a1-01-words"
+        ],
+        "prompt": "“Ankara’da yaşıyorum.” cümlesini Almanca yaz.",
+        "options": [],
+        "accepted": [
+          "Ich wohne in Ankara."
+        ],
+        "explanation": "Yaşanan şehir wohnen + in ile söylenir. Burada aus gelinen yeri anlatırdı.",
+        "rule": "Ich wohne in + şehir.",
+        "hints": [
+          "Ich wohne in + şehir."
+        ],
+        "kindLabel": "Çevir / tamamla",
+        "reviewWordIds": []
+      },
+      {
+        "id": "a1-01-words-independent-6",
+        "type": "blank",
+        "wordIds": [
+          "dg-a1-01-4"
+        ],
+        "prompt": "“Nereden geliyorsun?” sorusunda eksik sözcük: ___ kommst du?",
+        "options": [],
+        "accepted": [
+          "Woher"
+        ],
+        "explanation": "Köken/gelinen yer için woher; nerede olduğu için wo sorulur.",
+        "rule": "wo = nerede; woher = nereden.",
+        "hints": [
+          "wo = nerede; woher = nereden."
+        ],
+        "kindLabel": "Boşluğu tamamla",
+        "reviewWordIds": [
+          "dg-a1-01-4"
+        ]
+      },
+      {
+        "id": "a1-01-words-independent-7",
+        "type": "choice",
+        "wordIds": [
+          "a1-01-words"
+        ],
+        "prompt": "“Guten Nacht!” ifadesinin doğru düzeltmesi hangisi?",
+        "options": [
+          "Gute Nacht!",
+          "Guter Nacht!",
+          "Guten Nächte!"
+        ],
+        "accepted": [
+          "Gute Nacht!"
+        ],
+        "explanation": "Nacht ile kullanılan bu kalıp Gute Nacht şeklindedir. Guten Morgen ile karıştırma.",
+        "rule": "Kalıpları tek tek bütün olarak öğren.",
+        "hints": [
+          "Kalıpları tek tek bütün olarak öğren."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "reviewWordIds": []
+      },
+      {
+        "id": "a1-01-words-independent-8",
+        "type": "sentence",
+        "wordIds": [
+          "dg-a1-01-4"
+        ],
+        "prompt": "“Ben Berlin’den geliyorum.” cümlesini kur. İlk sözcük: Ich.",
+        "options": [],
+        "accepted": [
+          "Ich komme aus Berlin."
+        ],
+        "explanation": "komme fiili ich ile uyumlu; aus çıkış/köken yerini gösteriyor.",
+        "rule": "Ich + komme + aus + şehir.",
+        "hints": [
+          "Ich + komme + aus + şehir."
+        ],
+        "kindLabel": "Cümleyi kur",
+        "tiles": [
+          "aus",
+          "Berlin",
+          "komme",
+          "Ich"
+        ],
+        "reviewWordIds": [
+          "dg-a1-01-4"
+        ]
+      },
+      {
+        "id": "a1-01-words-independent-9",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-01-5"
+        ],
+        "prompt": "Oku: “Hallo! Ich heiße Eva. Ich wohne in Bonn.” Eva nerede yaşıyor?",
+        "options": [
+          "Berlin’de",
+          "Ankara’da",
+          "Bonn’da"
+        ],
+        "accepted": [
+          "Bonn’da"
+        ],
+        "explanation": "İkinci bilgi Ich wohne in Bonn. Bonn yaşadığı şehir; Eva kişinin adı.",
+        "rule": "wohnen + in ikamet yerini anlatır.",
+        "hints": [
+          "wohnen + in ikamet yerini anlatır."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "reviewWordIds": [
+          "dg-a1-01-5"
+        ]
+      },
+      {
+        "id": "a1-01-words-independent-10",
+        "type": "blank",
+        "wordIds": [
+          "dg-a1-01-3"
+        ],
+        "prompt": "Fiili düzelt: Du heiße Ben. → Du ___ Ben.",
+        "options": [],
+        "accepted": [
+          "heißt"
+        ],
+        "explanation": "du ile heißt kullanılır; heiße yalnızca ich biçimidir.",
+        "rule": "heißen: ich heiße / du heißt.",
+        "hints": [
+          "heißen: ich heiße / du heißt."
+        ],
+        "kindLabel": "Boşluğu tamamla",
+        "reviewWordIds": [
+          "dg-a1-01-3"
+        ]
+      },
+      {
+        "id": "a1-01-words-independent-11",
+        "type": "tr-de",
+        "wordIds": [
+          "dg-a1-01-1"
+        ],
+        "prompt": "“Merhaba, ben Elif.” cümlesini Almanca yaz.",
+        "options": [],
+        "accepted": [
+          "Hallo, ich bin Elif.",
+          "Hallo! Ich bin Elif."
+        ],
+        "explanation": "Türkçedeki “ben Elif” ifadesinde ek gibi duran bölüm, Almancada bin fiiliyle anlatılır.",
+        "rule": "ich + bin + ad.",
+        "hints": [
+          "ich + bin + ad."
+        ],
+        "kindLabel": "Çevir / tamamla",
+        "reviewWordIds": [
+          "dg-a1-01-1"
+        ]
+      },
+      {
+        "id": "a1-01-words-independent-12",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-10-2"
+        ],
+        "prompt": "“Danke!” diyen arkadaşına hangi karşılık uygun?",
+        "options": [
+          "Gute Nacht!",
+          "Bitte!",
+          "Ich heiße!"
+        ],
+        "accepted": [
+          "Bitte!"
+        ],
+        "explanation": "Bitte teşekkürün karşılığı olarak “rica ederim” demektir; bir istekte “lütfen” de olabilir.",
+        "rule": "Bir sözcüğün anlamını konuşma bağlamı belirleyebilir.",
+        "hints": [
+          "Bir sözcüğün anlamını konuşma bağlamı belirleyebilir."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "reviewWordIds": [
+          "dg-a1-10-2"
+        ]
+      },
+      {
+        "id": "a1-01-words-independent-13",
+        "type": "sentence",
+        "wordIds": [
+          "a1-01-words"
+        ],
+        "prompt": "“Sen nerede yaşıyorsun?” sorusunu kur. İlk sözcük: Wo.",
+        "options": [],
+        "accepted": [
+          "Wo wohnst du?"
+        ],
+        "explanation": "wohnen fiili du ile wohnst olur. Wo sorusundan sonra fiil gelir.",
+        "rule": "Wo + wohnst + du?",
+        "hints": [
+          "Wo + wohnst + du?"
+        ],
+        "kindLabel": "Cümleyi kur",
+        "tiles": [
+          "wohnst",
+          "du",
+          "Wo"
+        ],
+        "reviewWordIds": []
+      },
+      {
+        "id": "a1-01-words-independent-14",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-01-4"
+        ],
+        "prompt": "Kaydı dinle. Konuşan hangi şehirde yaşıyor?",
+        "options": [
+          "Belli değil",
+          "Ankara’da",
+          "Berlin’de"
+        ],
+        "accepted": [
+          "Berlin’de"
+        ],
+        "explanation": "Kayıtta “Ich wohne in Berlin” deniyor. Yaşadığı şehir Berlin; in burada ikamet yerini belirtir.",
+        "rule": "wohnen + in + şehir.",
+        "hints": [
+          "Yaşadığı yer ile geldiği yeri ayrı oku."
+        ],
+        "kindLabel": "Dinleyerek anla",
+        "reviewWordIds": [
+          "dg-a1-01-4"
+        ],
+        "audioExampleId": "a1-01-words-example-8"
+      },
+      {
+        "id": "a1-01-words-independent-15",
+        "type": "blank",
+        "wordIds": [
+          "a1-01-words"
+        ],
+        "prompt": "“Yarın görüşürüz!” ifadesini tamamla: Bis ___!",
+        "options": [],
+        "accepted": [
+          "morgen"
+        ],
+        "explanation": "Bis morgen bir sonraki buluşmanın yarın olduğunu söyler.",
+        "rule": "bis + buluşma zamanı.",
+        "hints": [
+          "bis + buluşma zamanı."
+        ],
+        "kindLabel": "Boşluğu tamamla",
+        "reviewWordIds": []
+      },
+      {
+        "id": "a1-01-words-independent-16",
+        "type": "tr-de",
+        "wordIds": [
+          "dg-a1-10-4"
+        ],
+        "prompt": "Bir arkadaşına “Nasılsın?” diye sor.",
+        "options": [],
+        "accepted": [
+          "Wie geht es dir?",
+          "Wie geht’s dir?",
+          "Wie gehts dir?"
+        ],
+        "explanation": "Samimi tekil hitapta bu kalıp Wie geht es dir? şeklindedir. Resmî karşılığı Wie geht es Ihnen? olur.",
+        "rule": "du ile konuşurken: Wie geht es dir?",
+        "hints": [
+          "du ile konuşurken: Wie geht es dir?"
+        ],
+        "kindLabel": "Çevir / tamamla",
+        "reviewWordIds": [
+          "dg-a1-10-4"
+        ]
+      }
+    ],
+    "summary": {
+      "takeaways": [
+        "Selamı zamana ve karşılaşma/ayrılma durumuna göre seç.",
+        "Adını Ich heiße… veya Ich bin… ile söyle.",
+        "du → heißt; resmî Sie → heißen.",
+        "Bağımsız W sorusunda fiil, soru sözcüğünün ardından gelir.",
+        "Wo wohnst du? yaşadığın yeri sorar; in + şehir ile yanıtlanır.",
+        "Woher kommst du? geldiğin yeri sorar; aus + şehir ile yanıtlanır.",
+        "Teşekkürde Danke, karşılık olarak Bitte; vedada Auf Wiedersehen kullan."
+      ],
+      "vocabulary": [
+        {
+          "de": "Hallo",
+          "tr": "merhaba"
+        },
+        {
+          "de": "heißen",
+          "tr": "adı olmak"
+        },
+        {
+          "de": "wohnen",
+          "tr": "yaşamak / oturmak"
+        },
+        {
+          "de": "kommen aus",
+          "tr": "bir yerden gelmek"
+        },
+        {
+          "de": "Danke / Bitte",
+          "tr": "teşekkürler / rica ederim"
+        }
+      ],
+      "mistakes": [
+        "Ich heißt yerine Ich heiße.",
+        "Guten Nacht yerine Gute Nacht.",
+        "Resmî Sie küçük s ile yazılmaz."
+      ],
+      "examples": [
+        "Ich heiße Elif.",
+        "Wo wohnst du? — Ich wohne in Berlin.",
+        "Woher kommst du? — Ich komme aus Ankara."
+      ]
+    }
+  },
+  {
+    "id": "a1-02-words",
+    "unitId": "a1-02",
+    "level": "A1",
+    "title": "Aile ve Arkadaşlar",
+    "goal": "Aile üyelerini tanıt; er/sie, sein ve iyelik sözcüklerini kullanarak yakınların hakkında kısa bilgi ver.",
+    "steps": [
+      {
+        "id": "a1-02-words-teach-1",
+        "title": "1 · Aile sözcüklerini artikelle öğren",
+        "introduction": "Almancada isimleri tek başına değil, artikeliyle birlikte öğrenmek sonraki cümlelerini kolaylaştırır. Bu derste bir kişiyi tanıtan basit cümlelerle başlıyoruz.",
+        "rule": "der Vater, der Bruder; die Mutter, die Schwester. İsimler Almancada büyük harfle başlar. Artikel bir ismin dilbilgisel cinsiyetinin parçasıdır.",
+        "usage": "Bir kişiyi ilk kez Das ist mein Vater gibi tanıtabilirsin. Buradaki Das ist… bir tanıtma kalıbıdır; tanıtılan kişinin “das” artikelli olduğu anlamına gelmez.",
+        "structure": "Das ist + mein / meine + aile üyesi.",
+        "mistake": "Das ist mein Mutter yanlış: Mutter dişil isim olduğu için meine gerekir. Artikel doğal cinsiyetle her zaman örtüşmez; örneğin das Mädchen.",
+        "memory": "Sözcük çiftlerini renklerle hatırla: der Vater / die Mutter; der Bruder / die Schwester.",
+        "table": {
+          "heading": "Artikelli aile kartları",
+          "rows": [
+            [
+              "der Vater",
+              "mein Vater",
+              "babam"
+            ],
+            [
+              "die Mutter",
+              "meine Mutter",
+              "annem"
+            ],
+            [
+              "der Bruder",
+              "mein Bruder",
+              "erkek kardeşim / abim"
+            ],
+            [
+              "die Schwester",
+              "meine Schwester",
+              "kız kardeşim / ablam"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "a1-02-words-teach-2",
+        "title": "2 · İsim yerine er, sie; fiil olarak sein",
+        "introduction": "Birini adıyla tanıttıktan sonra her cümlede adını yinelemek zorunda değilsin. Zamirle devam et.",
+        "rule": "Er bir erkek kişiden, sie bir kadın kişiden söz edebilir. Er ist / Sie ist, “o …” cümlesini kurar. Çoğul sie sind ise “onlar …” demektir.",
+        "usage": "Bu derste er/sie ile kişileri anlatıyoruz. Nesneler için zamirin seçimi ismin dilbilgisel cinsiyetine bağlıdır. Resmî Sie ayrı bir kullanımdır.",
+        "structure": "Ich bin … / Du bist … / Er ist … / Sie ist … / Wir sind … / Sie sind … (onlar).",
+        "mistake": "Meine Mutter ist Leyla. Er… yerine Sie… ile devam et. Sie ist ile Sie sind arasındaki fiili okuyarak tekil/çoğul ayrımını yap.",
+        "memory": "İki küçük çift: ich bin / du bist; er ist / wir sind.",
+        "table": {
+          "heading": "sein: olmak",
+          "rows": [
+            [
+              "ich",
+              "bin",
+              "ben …-im"
+            ],
+            [
+              "du",
+              "bist",
+              "sen …-sin"
+            ],
+            [
+              "er / sie / es",
+              "ist",
+              "o …"
+            ],
+            [
+              "wir",
+              "sind",
+              "biz …-iz"
+            ],
+            [
+              "ihr",
+              "seid",
+              "siz …-siniz (samimi çoğul)"
+            ],
+            [
+              "sie / Sie",
+              "sind",
+              "onlar / siz (resmî)"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "a1-02-words-teach-3",
+        "title": "3 · mein ve meine: kimin, neyin?",
+        "introduction": "mein “benim”, dein “senin” demektir. Sonlarına gelen -e, tanıtılan isme göre değişir. Sahibi olan kişinin kadın/erkek olması bu seçimi belirlemez.",
+        "rule": "Bu dersteki yalın hâlde der ve das isimleriyle mein/dein; die ve çoğul isimlerle meine/deine kullanılır.",
+        "usage": "mein Bruder, meine Schwester, mein Kind, meine Eltern. Bunlar burada özne veya sein ile tanıtılan yalın hâldeki yapılardır; başka hâllerde biçimler değişebilir.",
+        "structure": "der/das → mein / dein; die ve çoğul → meine / deine.",
+        "mistake": "Ben kadın olduğum için her isimde meine kullanırım düşüncesi yanlış. Bir kadın da mein Vater der; son ek isme bağlıdır.",
+        "memory": "Önce “kim sahip?” → mein/dein. Sonra “hangi isim?” → -e gerekir mi?",
+        "table": {
+          "heading": "Yalın hâlde iyelik seç",
+          "rows": [
+            [
+              "der Bruder",
+              "mein Bruder",
+              "erkek kardeşim"
+            ],
+            [
+              "die Schwester",
+              "meine Schwester",
+              "kız kardeşim"
+            ],
+            [
+              "das Kind",
+              "mein Kind",
+              "çocuğum"
+            ],
+            [
+              "die Eltern (çoğul)",
+              "meine Eltern",
+              "annem ve babam / ebeveynlerim"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "a1-02-words-teach-4",
+        "title": "4 · Sahip olmak: haben ve kısa tanıtım",
+        "introduction": "Yakınların hakkında konuşurken hem kim olduklarını hem de bir kardeşin olup olmadığını söylemek istersin. sein ile haben farklı işler yapar.",
+        "rule": "Ich habe eine Schwester “Bir kız kardeşim var.”; Das ist meine Schwester “Bu benim kız kardeşim.” demektir. haben burada sahip olunan kişiyi nesne olarak alır.",
+        "usage": "eine Schwester dişil nesnede aynı kalır. Erkek isimde nesne hâli değişir: Ich habe einen Bruder. Bu, Akkusativ için ilk küçük gözlemdir.",
+        "structure": "Ich habe + eine Schwester / einen Bruder. Du hast …; er/sie hat …",
+        "mistake": "Ich bin eine Schwester “Ben bir kız kardeşim” demektir; “Bir kız kardeşim var” için habe gerekir. Ich habe ein Bruder yerine einen Bruder kullan.",
+        "memory": "Kim/ne olduğun: sein. Neyin/kimin olduğu: haben. der Bruder nesne olduğunda einen Bruder olur.",
+        "table": {
+          "heading": "haben: sahip olmak",
+          "rows": [
+            [
+              "ich",
+              "habe",
+              "benim … var"
+            ],
+            [
+              "du",
+              "hast",
+              "senin … var"
+            ],
+            [
+              "er / sie",
+              "hat",
+              "onun … var"
+            ],
+            [
+              "wir",
+              "haben",
+              "bizim … var"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "a1-02-words-teach-5",
+        "title": "5 · Aile içinde yardım istemek",
+        "introduction": "Ailenden ve arkadaşlarından söz ederken onların yaptığı bir şeyi de anlatabilirsin. helfen yardım etmek demektir.",
+        "rule": "helfen fiilinde du ve er/sie biçimleri değişir: du hilfst, er/sie hilft. Ich helfe mir değil, birinin bana yardımını söylemek için Er hilft mir kullan.",
+        "usage": "mir burada “bana” anlamındadır. helfen fiili Dativ isteyen fiillerden biridir; bu derste hilft mir kalıbını öğreniyoruz, tüm Dativ tablosunu değil.",
+        "structure": "Meine Schwester + hilft + mir.",
+        "mistake": "Er helft yerine Er hilft. Helfen fiilini düzenli bir fiil gibi çekimleme.",
+        "memory": "helfen sözcüğündeki e, du ve er/sie ile i olur: hilfst / hilft.",
+        "table": {
+          "heading": "helfen: değişen ünlüyü gör",
+          "rows": [
+            [
+              "ich",
+              "helfe",
+              "ben yardım ederim"
+            ],
+            [
+              "du",
+              "hilfst",
+              "sen yardım edersin"
+            ],
+            [
+              "er / sie",
+              "hilft",
+              "o yardım eder"
+            ],
+            [
+              "wir",
+              "helfen",
+              "biz yardım ederiz"
+            ]
+          ]
+        }
+      }
+    ],
+    "examples": [
+      {
+        "id": "a1-02-words-example-1",
+        "de": "Das ist meine Mutter.",
+        "tr": "Bu benim annem.",
+        "explanation": "Mutter die artikelli dişil isimdir; yalın tanıtmada meine kullanılır. Das ist tanıtma kalıbıdır.",
+        "highlights": [
+          "meine",
+          "Mutter"
+        ]
+      },
+      {
+        "id": "a1-02-words-example-2",
+        "de": "Das ist mein Vater.",
+        "tr": "Bu benim babam.",
+        "explanation": "Vater der artikellidir. Bu yalın tanıtma yapısında mein, sonuna -e almadan kullanılır.",
+        "highlights": [
+          "mein",
+          "Vater"
+        ]
+      },
+      {
+        "id": "a1-02-words-example-3",
+        "de": "Meine Mutter heißt Leyla.",
+        "tr": "Annemin adı Leyla.",
+        "explanation": "Özne üçüncü tekildir; heißen fiili heißt olur. İsimler büyük harfle yazılır.",
+        "highlights": [
+          "Meine Mutter",
+          "heißt"
+        ]
+      },
+      {
+        "id": "a1-02-words-example-4",
+        "de": "Mein Vater heißt Ali.",
+        "tr": "Babamın adı Ali.",
+        "explanation": "Mein Vater üçüncü tekil kişi gibi çekimlenir; bu yüzden heißt kullanılır, heiße değil.",
+        "highlights": [
+          "Mein Vater",
+          "heißt"
+        ]
+      },
+      {
+        "id": "a1-02-words-example-5",
+        "de": "Meine Schwester ist nett.",
+        "tr": "Kız kardeşim nazik.",
+        "explanation": "sein fiilinin üçüncü tekil biçimi ist. nett burada kişiyi anlatan ve ek almayan yüklem sıfatıdır.",
+        "highlights": [
+          "Schwester",
+          "ist",
+          "nett"
+        ]
+      },
+      {
+        "id": "a1-02-words-example-6",
+        "de": "Mein Bruder ist zehn Jahre alt.",
+        "tr": "Erkek kardeşim on yaşında.",
+        "explanation": "Almancada yaş sein + sayı + Jahre alt ile söylenir. Türkçedeki “on yaşında” ifadesine karşılık gelir.",
+        "highlights": [
+          "Bruder",
+          "ist",
+          "Jahre alt"
+        ]
+      },
+      {
+        "id": "a1-02-words-example-7",
+        "de": "Er ist mein Freund.",
+        "tr": "O benim arkadaşım.",
+        "explanation": "Er, erkek bir kişiyi temsil eder. Freund erkek kişiyi anlatan der isimdir; mein kullanılır. Bağlama göre sevgili anlamı da olabilir.",
+        "highlights": [
+          "Er",
+          "ist",
+          "mein Freund"
+        ]
+      },
+      {
+        "id": "a1-02-words-example-8",
+        "de": "Sie ist meine Freundin.",
+        "tr": "O benim arkadaşım.",
+        "explanation": "Sie burada tekil kadın kişiyi anlatır; ist bunu gösterir. Freundin kadın arkadaştır; meine kullanılır. Bağlama göre sevgili anlamı da olabilir.",
+        "highlights": [
+          "Sie",
+          "ist",
+          "meine Freundin"
+        ]
+      },
+      {
+        "id": "a1-02-words-example-9",
+        "de": "Wir sind eine Familie.",
+        "tr": "Biz bir aileyiz.",
+        "explanation": "wir çoğul bir öznedir; sein fiili sind olur. eine Familie tek bir aileyi anlatır.",
+        "highlights": [
+          "Wir",
+          "sind",
+          "Familie"
+        ]
+      },
+      {
+        "id": "a1-02-words-example-10",
+        "de": "Meine Eltern sind hier.",
+        "tr": "Annem ve babam burada.",
+        "explanation": "Eltern çoğuldur; meine ve sind kullanılır. Türkçede çoğul özneyle tekil yüklem mümkün olsa da burada Almanca sind gerekir.",
+        "highlights": [
+          "Meine Eltern",
+          "sind"
+        ]
+      },
+      {
+        "id": "a1-02-words-example-11",
+        "de": "Ich habe eine Schwester.",
+        "tr": "Bir kız kardeşim var.",
+        "explanation": "Sahiplik/varlık için habe kullanılır. Schwester dişil nesne olduğu için eine biçimi korunur.",
+        "highlights": [
+          "habe",
+          "eine Schwester"
+        ]
+      },
+      {
+        "id": "a1-02-words-example-12",
+        "de": "Ich habe einen Bruder.",
+        "tr": "Bir erkek kardeşim var.",
+        "explanation": "Bruder erkek isimdir. haben fiilinin nesnesinde ein → einen olur; bu bir Akkusativ örneğidir.",
+        "highlights": [
+          "habe",
+          "einen Bruder"
+        ]
+      },
+      {
+        "id": "a1-02-words-example-13",
+        "de": "Meine Schwester hilft mir.",
+        "tr": "Kız kardeşim bana yardım ediyor.",
+        "explanation": "Meine Schwester üçüncü tekildir; helfen → hilft olur. mir “bana” demektir; bu fiilin Dativ kullanımını burada kalıp olarak öğreniyoruz.",
+        "highlights": [
+          "Schwester",
+          "hilft",
+          "mir"
+        ]
+      }
+    ],
+    "guided": [
+      {
+        "id": "a1-02-words-guided-1",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-02-1"
+        ],
+        "prompt": "Doğru iyelik sözcüğünü seç: Das ist ___ Mutter.",
+        "options": [
+          "meine",
+          "meinen",
+          "mein"
+        ],
+        "accepted": [
+          "meine"
+        ],
+        "explanation": "Mutter die artikelli olduğu için yalın tanıtma cümlesinde meine gerekir. mein, der/das isimleriyle kullanılır.",
+        "rule": "Yalın hâlde die → meine.",
+        "hints": [
+          "Yalın hâlde die → meine."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "optionNotes": {
+          "mein": "mein, yalın hâlde der/das isimleri içindir.",
+          "meinen": "Bu dersteki dişil yalın isim için uygun değildir."
+        },
+        "reviewWordIds": [
+          "dg-a1-02-1"
+        ]
+      },
+      {
+        "id": "a1-02-words-guided-2",
+        "type": "blank",
+        "wordIds": [
+          "dg-a1-02-2"
+        ],
+        "prompt": "sein fiilini tamamla: Mein Vater ___ Ali.",
+        "options": [],
+        "accepted": [
+          "ist"
+        ],
+        "explanation": "Mein Vater üçüncü tekildir; sein fiili ist olur. bin yalnızca ich ile kullanılır.",
+        "rule": "er / sie / es → ist.",
+        "hints": [
+          "er / sie / es → ist."
+        ],
+        "kindLabel": "Boşluğu tamamla",
+        "reviewWordIds": [
+          "dg-a1-02-2"
+        ]
+      },
+      {
+        "id": "a1-02-words-guided-3",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-02-1"
+        ],
+        "prompt": "“Leyla benim annem.” Sonraki cümlede hangi zamir uygun? ___ ist nett.",
+        "options": [
+          "Er",
+          "Sie",
+          "Wir"
+        ],
+        "accepted": [
+          "Sie"
+        ],
+        "explanation": "Annen Leyla’dan söz ederken kadın kişi için sie kullanılır. Cümlenin başında büyük yazılır.",
+        "rule": "Kadın kişi → sie; erkek kişi → er.",
+        "hints": [
+          "Kadın kişi → sie; erkek kişi → er."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "optionNotes": {
+          "Er": "Bu bağlamda erkek kişiden söz eder.",
+          "Wir": "Biz demektir; ayrıca ist yerine sind gerektirir."
+        },
+        "reviewWordIds": [
+          "dg-a1-02-1"
+        ]
+      },
+      {
+        "id": "a1-02-words-guided-4",
+        "type": "sentence",
+        "wordIds": [
+          "a1-02-words"
+        ],
+        "prompt": "“Biz bir aileyiz.” cümlesini kur. İlk sözcük: Wir.",
+        "options": [],
+        "accepted": [
+          "Wir sind eine Familie."
+        ],
+        "explanation": "Wir çoğul olduğu için sind gerekir. Çekimli fiil bildirme cümlesinde ikinci ögedir.",
+        "rule": "Wir + sind + eine Familie.",
+        "hints": [
+          "Wir + sind + eine Familie."
+        ],
+        "kindLabel": "Cümleyi kur",
+        "tiles": [
+          "Familie",
+          "eine",
+          "Wir",
+          "sind"
+        ],
+        "reviewWordIds": []
+      },
+      {
+        "id": "a1-02-words-guided-5",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-02-4"
+        ],
+        "prompt": "“Bir erkek kardeşim var.” cümlesinde doğru nesne hangisi? Ich habe ___.",
+        "options": [
+          "eine Bruder",
+          "ein Bruder",
+          "einen Bruder"
+        ],
+        "accepted": [
+          "einen Bruder"
+        ],
+        "explanation": "haben fiilinden sonra Bruder nesnedir. Erkek isimde Akkusativ ein → einen olur.",
+        "rule": "der Bruder → einen Bruder (haben nesnesi).",
+        "hints": [
+          "der Bruder → einen Bruder (haben nesnesi)."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "optionNotes": {
+          "ein Bruder": "Bu, yalın biçimdir; burada haben nesnesi için einen gerekir.",
+          "eine Bruder": "eine dişil biçimdir; Bruder erkek isimdir."
+        },
+        "reviewWordIds": [
+          "dg-a1-02-4"
+        ]
+      },
+      {
+        "id": "a1-02-words-guided-6",
+        "type": "tr-de",
+        "wordIds": [
+          "dg-a1-02-3"
+        ],
+        "prompt": "“Bu benim kız kardeşim.” cümlesini Almanca yaz.",
+        "options": [],
+        "accepted": [
+          "Das ist meine Schwester."
+        ],
+        "explanation": "Das ist ile tanıtıyoruz. Schwester dişil olduğu için meine seçiyoruz.",
+        "rule": "Das ist + meine + Schwester.",
+        "hints": [
+          "Das ist + meine + Schwester."
+        ],
+        "kindLabel": "Çevir / tamamla",
+        "reviewWordIds": [
+          "dg-a1-02-3"
+        ]
+      }
+    ],
+    "independent": [
+      {
+        "id": "a1-02-words-independent-1",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-02-2"
+        ],
+        "prompt": "Doğru cümleyi seç.",
+        "options": [
+          "Das ist mein Vater.",
+          "Das sind mein Vater.",
+          "Das ist meine Vater."
+        ],
+        "accepted": [
+          "Das ist mein Vater."
+        ],
+        "explanation": "Vater der artikellidir; yalın tanıtmada mein Vater olur.",
+        "rule": "der → mein (yalın hâl).",
+        "hints": [
+          "der → mein (yalın hâl)."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "reviewWordIds": [
+          "dg-a1-02-2"
+        ]
+      },
+      {
+        "id": "a1-02-words-independent-2",
+        "type": "blank",
+        "wordIds": [
+          "dg-a1-02-1"
+        ],
+        "prompt": "Tamamla: Meine Mutter ___ Leyla. (heißen)",
+        "options": [],
+        "accepted": [
+          "heißt"
+        ],
+        "explanation": "Meine Mutter üçüncü tekil öznedir; heißen fiili heißt olur.",
+        "rule": "er/sie → heißt.",
+        "hints": [
+          "er/sie → heißt."
+        ],
+        "kindLabel": "Boşluğu tamamla",
+        "reviewWordIds": [
+          "dg-a1-02-1"
+        ]
+      },
+      {
+        "id": "a1-02-words-independent-3",
+        "type": "sentence",
+        "wordIds": [
+          "dg-a1-02-3"
+        ],
+        "prompt": "“Kız kardeşim nazik.” cümlesini kur. İlk sözcük: Meine.",
+        "options": [],
+        "accepted": [
+          "Meine Schwester ist nett."
+        ],
+        "explanation": "Schwester dişil, bu yüzden meine; üçüncü tekil özneyle ist kullanılır.",
+        "rule": "Meine Schwester + ist + nett.",
+        "hints": [
+          "Meine Schwester + ist + nett."
+        ],
+        "kindLabel": "Cümleyi kur",
+        "tiles": [
+          "nett",
+          "ist",
+          "Schwester",
+          "Meine"
+        ],
+        "reviewWordIds": [
+          "dg-a1-02-3"
+        ]
+      },
+      {
+        "id": "a1-02-words-independent-4",
+        "type": "tr-de",
+        "wordIds": [
+          "dg-a1-02-1"
+        ],
+        "prompt": "“Bu benim annem.” cümlesini Almanca yaz.",
+        "options": [],
+        "accepted": [
+          "Das ist meine Mutter."
+        ],
+        "explanation": "Mutter dişil olduğu için meine kullanılır. Das ist tanıtma kalıbıdır.",
+        "rule": "Das ist + meine Mutter.",
+        "hints": [
+          "Das ist + meine Mutter."
+        ],
+        "kindLabel": "Çevir / tamamla",
+        "reviewWordIds": [
+          "dg-a1-02-1"
+        ]
+      },
+      {
+        "id": "a1-02-words-independent-5",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-02-4"
+        ],
+        "prompt": "“Mein Bruder heißt Ben.” Sonraki cümlede doğru zamiri seç: ___ ist zehn Jahre alt.",
+        "options": [
+          "Er",
+          "Wir",
+          "Sie"
+        ],
+        "accepted": [
+          "Er"
+        ],
+        "explanation": "Ben erkek kardeştir; er ile devam edilir. ist üçüncü tekil biçimdir.",
+        "rule": "Er erkek kişiyi temsil eder.",
+        "hints": [
+          "Er erkek kişiyi temsil eder."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "reviewWordIds": [
+          "dg-a1-02-4"
+        ]
+      },
+      {
+        "id": "a1-02-words-independent-6",
+        "type": "blank",
+        "wordIds": [
+          "a1-02-words"
+        ],
+        "prompt": "“Annem ve babam burada.”: Meine Eltern ___ hier.",
+        "options": [],
+        "accepted": [
+          "sind"
+        ],
+        "explanation": "Eltern çoğuldur. Çoğul özneyle sein fiili sind olur.",
+        "rule": "sie (onlar) → sind.",
+        "hints": [
+          "sie (onlar) → sind."
+        ],
+        "kindLabel": "Boşluğu tamamla",
+        "reviewWordIds": []
+      },
+      {
+        "id": "a1-02-words-independent-7",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-02-3"
+        ],
+        "prompt": "“Ich bin eine Schwester.” yerine “Bir kız kardeşim var” anlamı için ne söylemelisin?",
+        "options": [
+          "Ich ist eine Schwester.",
+          "Ich sind eine Schwester.",
+          "Ich habe eine Schwester."
+        ],
+        "accepted": [
+          "Ich habe eine Schwester."
+        ],
+        "explanation": "bin kim olduğumu, habe ise neye/kime sahip olduğumu anlatır.",
+        "rule": "Varlık/sahiplik: haben.",
+        "hints": [
+          "Varlık/sahiplik: haben."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "reviewWordIds": [
+          "dg-a1-02-3"
+        ]
+      },
+      {
+        "id": "a1-02-words-independent-8",
+        "type": "sentence",
+        "wordIds": [
+          "dg-a1-02-4"
+        ],
+        "prompt": "“Bir erkek kardeşim var.” cümlesini kur. İlk sözcük: Ich.",
+        "options": [],
+        "accepted": [
+          "Ich habe einen Bruder."
+        ],
+        "explanation": "haben fiilinin erkek isim nesnesi einen Bruder olur.",
+        "rule": "Ich habe + einen Bruder.",
+        "hints": [
+          "Ich habe + einen Bruder."
+        ],
+        "kindLabel": "Cümleyi kur",
+        "tiles": [
+          "Bruder",
+          "habe",
+          "Ich",
+          "einen"
+        ],
+        "reviewWordIds": [
+          "dg-a1-02-4"
+        ]
+      },
+      {
+        "id": "a1-02-words-independent-9",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-02-3"
+        ],
+        "prompt": "Oku: “Das ist Emma. Sie ist meine Schwester. Sie ist zwölf Jahre alt.” Emma kim?",
+        "options": [
+          "Konuşanın annesi",
+          "Konuşanın kız kardeşi",
+          "Konuşanın erkek kardeşi"
+        ],
+        "accepted": [
+          "Konuşanın kız kardeşi"
+        ],
+        "explanation": "Metin Emma’yı meine Schwester olarak tanıtıyor; Bruder erkek kardeş olurdu.",
+        "rule": "Schwester = kız kardeş / abla.",
+        "hints": [
+          "Schwester = kız kardeş / abla."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "reviewWordIds": [
+          "dg-a1-02-3"
+        ]
+      },
+      {
+        "id": "a1-02-words-independent-10",
+        "type": "blank",
+        "wordIds": [
+          "dg-a1-02-2"
+        ],
+        "prompt": "Konuşan kişi bir kadın. “Bu benim babam.”: Das ist ___ Vater.",
+        "options": [],
+        "accepted": [
+          "mein"
+        ],
+        "explanation": "İyelikte son ek, sahibin cinsiyetine değil isme bağlıdır. Vater der olduğu için mein.",
+        "rule": "İsim belirler: der Vater → mein Vater.",
+        "hints": [
+          "İsim belirler: der Vater → mein Vater."
+        ],
+        "kindLabel": "Boşluğu tamamla",
+        "reviewWordIds": [
+          "dg-a1-02-2"
+        ]
+      },
+      {
+        "id": "a1-02-words-independent-11",
+        "type": "tr-de",
+        "wordIds": [
+          "a1-02-words"
+        ],
+        "prompt": "“Biz bir aileyiz.” cümlesini Almanca yaz.",
+        "options": [],
+        "accepted": [
+          "Wir sind eine Familie."
+        ],
+        "explanation": "Wir öznesi sind ile eşleşir. Familie dişil tekil isimdir; eine Familie denir.",
+        "rule": "Wir → sind.",
+        "hints": [
+          "Wir → sind."
+        ],
+        "kindLabel": "Çevir / tamamla",
+        "reviewWordIds": []
+      },
+      {
+        "id": "a1-02-words-independent-12",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-02-3"
+        ],
+        "prompt": "Arkadaşının kız kardeşini tanıt: Das ist ___ Schwester. (senin)",
+        "options": [
+          "dein",
+          "meine",
+          "deine"
+        ],
+        "accepted": [
+          "deine"
+        ],
+        "explanation": "Senin için dein seçilir; Schwester dişil olduğu için -e eklenir: deine.",
+        "rule": "dein/deine sahibin sen olduğunu söyler; -e isme bağlıdır.",
+        "hints": [
+          "dein/deine sahibin sen olduğunu söyler; -e isme bağlıdır."
+        ],
+        "kindLabel": "Seç ve açıkla",
+        "reviewWordIds": [
+          "dg-a1-02-3"
+        ]
+      },
+      {
+        "id": "a1-02-words-independent-13",
+        "type": "sentence",
+        "wordIds": [
+          "dg-a1-02-5"
+        ],
+        "prompt": "“O benim arkadaşım.” (erkek kişi) cümlesini kur. İlk sözcük: Er.",
+        "options": [],
+        "accepted": [
+          "Er ist mein Freund."
+        ],
+        "explanation": "Er erkek kişi; Freund der artikelli isim olduğundan mein kullanılır.",
+        "rule": "Er + ist + mein Freund.",
+        "hints": [
+          "Er + ist + mein Freund."
+        ],
+        "kindLabel": "Cümleyi kur",
+        "tiles": [
+          "Freund",
+          "mein",
+          "ist",
+          "Er"
+        ],
+        "reviewWordIds": [
+          "dg-a1-02-5"
+        ]
+      },
+      {
+        "id": "a1-02-words-independent-14",
+        "type": "choice",
+        "wordIds": [
+          "dg-a1-02-3"
+        ],
+        "prompt": "Kaydı dinle. Konuşanın kimi var?",
+        "options": [
+          "Bir erkek kardeşi",
+          "Bir kız kardeşi",
+          "İki çocuğu"
+        ],
+        "accepted": [
+          "Bir kız kardeşi"
+        ],
+        "explanation": "Kayıtta “Ich habe eine Schwester” deniyor. Schwester kız kardeş; Bruder erkek kardeş demektir.",
+        "rule": "Ich habe eine Schwester = Bir kız kardeşim var.",
+        "hints": [
+          "Zamirin hangi kişiye döndüğünü önceki cümleden bul."
+        ],
+        "kindLabel": "Dinleyerek anla",
+        "reviewWordIds": [
+          "dg-a1-02-3"
+        ],
+        "audioExampleId": "a1-02-words-example-11"
+      },
+      {
+        "id": "a1-02-words-independent-15",
+        "type": "blank",
+        "wordIds": [
+          "dg-a1-02-6"
+        ],
+        "prompt": "Fiili tamamla: Mein Bruder ___ mir. (helfen)",
+        "options": [],
+        "accepted": [
+          "hilft"
+        ],
+        "explanation": "Mein Bruder üçüncü tekil kişidir. helfen fiilindeki e, bu biçimde i olur: hilft. mir “bana” demektir.",
+        "rule": "helfen: ich helfe; du hilfst; er/sie hilft.",
+        "hints": [
+          "Çoğul özneye çoğul fiil."
+        ],
+        "kindLabel": "Boşluğu tamamla",
+        "reviewWordIds": [
+          "dg-a1-02-6"
+        ]
+      },
+      {
+        "id": "a1-02-words-independent-16",
+        "type": "tr-de",
+        "wordIds": [
+          "dg-a1-02-3"
+        ],
+        "prompt": "“Bir kız kardeşim var.” cümlesini Almanca yaz.",
+        "options": [],
+        "accepted": [
+          "Ich habe eine Schwester."
+        ],
+        "explanation": "Var/sahip olmak için habe, dişil nesne için eine Schwester kullanılır.",
+        "rule": "Ich habe + eine Schwester.",
+        "hints": [
+          "Ich habe + eine Schwester."
+        ],
+        "kindLabel": "Çevir / tamamla",
+        "reviewWordIds": [
+          "dg-a1-02-3"
+        ]
+      }
+    ],
+    "summary": {
+      "takeaways": [
+        "İsimleri artikeliyle öğren ve büyük harfle yaz.",
+        "Das ist… kalıbı bir kişiyi tanıtır; das tanıtılan ismin artikeli değildir.",
+        "Yalın hâlde der/das → mein/dein; die ve çoğul → meine/deine.",
+        "İyelikte son ek sahibin cinsiyetine değil, isme bağlıdır.",
+        "sein: ich bin, du bist, er/sie ist, wir sind.",
+        "Eltern çoğuldur: Meine Eltern sind…",
+        "haben ile varlık/sahiplik anlatılır: Ich habe eine Schwester / einen Bruder."
+      ],
+      "vocabulary": [
+        {
+          "de": "der Vater / die Mutter",
+          "tr": "baba / anne"
+        },
+        {
+          "de": "der Bruder / die Schwester",
+          "tr": "erkek kardeş / kız kardeş"
+        },
+        {
+          "de": "die Eltern",
+          "tr": "ebeveynler"
+        },
+        {
+          "de": "mein / meine",
+          "tr": "benim"
+        },
+        {
+          "de": "haben",
+          "tr": "sahip olmak; … var"
+        },
+        {
+          "de": "helfen → hilft mir",
+          "tr": "yardım etmek → bana yardım ediyor"
+        }
+      ],
+      "mistakes": [
+        "Meine Vater yerine mein Vater.",
+        "Meine Eltern ist yerine Meine Eltern sind.",
+        "Ich habe ein Bruder yerine Ich habe einen Bruder."
+      ],
+      "examples": [
+        "Das ist meine Mutter.",
+        "Meine Eltern sind hier.",
+        "Ich habe einen Bruder."
+      ]
+    }
+  }
+]

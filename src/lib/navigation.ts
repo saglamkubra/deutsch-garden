@@ -1,0 +1,130 @@
+import {
+  House,
+  NotebookPen,
+  ShoppingBag,
+  Gift,
+  Mail,
+  Flower2,
+  BookOpen,
+  LibraryBig,
+  PencilRuler,
+  SpellCheck,
+  Headphones,
+  BookHeart,
+  Sparkles,
+  Trophy,
+  UserRound,
+} from "lucide-react";
+export const navigation = [
+  {
+    title: "Ana Sayfa",
+    href: "/",
+    icon: House,
+    color: "lavender",
+    description: "Almanca yolculuğunun küçük, mutlu başlangıç noktası.",
+  },
+  {
+    title: "Bahçem",
+    href: "/bahcem",
+    icon: Flower2,
+    color: "mint",
+    description: "Öğrendikçe çiçek açacak kişisel bahçen burada filizlenecek.",
+  },
+  {
+    title: "Çiçek Dükkânım",
+    href: "/cicek-dukkani",
+    icon: ShoppingBag,
+    color: "pink",
+    description:
+      "Öğrenme emeğini tohumlara ve kalıcı bahçe süslerine dönüştür.",
+  },
+  {
+    title: "Derslerim",
+    href: "/derslerim",
+    icon: BookOpen,
+    color: "peach",
+    description:
+      "Küçük adımlarla keşfedeceğin Almanca dersleri burada yerini alacak.",
+  },
+  {
+    title: "Kelimelerim",
+    href: "/kelimelerim",
+    icon: LibraryBig,
+    color: "pink",
+    description:
+      "Yeni Almanca kelimelerin için rengârenk bir koleksiyon hazırlanıyor.",
+  },
+  {
+    title: "Alıştırmalar",
+    href: "/alistirmalar",
+    icon: PencilRuler,
+    color: "yellow",
+    description:
+      "Öğrendiklerini pekiştireceğin eğlenceli alıştırmalar burada olacak.",
+  },
+  {
+    title: "Gramer",
+    href: "/gramer",
+    icon: SpellCheck,
+    color: "sky",
+    description:
+      "Almancanın kurallarını anlaşılır küçük parçalarda keşfedeceksin.",
+  },
+  {
+    title: "Dinleme Kulübü",
+    href: "/dinleme-kulubu",
+    icon: Headphones,
+    color: "peach",
+    description:
+      "Almancanın seslerine kulak vereceğin sıcacık bir köşe hazırlanıyor.",
+  },
+  {
+    title: "Hikâye Dünyam",
+    href: "/hikayeler",
+    icon: BookHeart,
+    color: "pink",
+    description: "Seçimlerinle şekillenen Almanca maceralar.",
+  },
+  {
+    title: "Almanca Günlüğüm",
+    href: "/gunlugum",
+    icon: NotebookPen,
+    color: "mint",
+    description: "Almanca yaz, hatıralarını özel günlüğünde sakla.",
+  },
+  {
+    title: "Lumi AI",
+    href: "/lumi-ai",
+    icon: Sparkles,
+    color: "lavender",
+    description: "Lumi ile düzeyine uygun Almanca sohbet ve öğrenme notları.",
+  },
+  {
+    title: "Günlük Hediyem",
+    href: "/gunluk-hediyem",
+    icon: Gift,
+    color: "yellow",
+    description: "Her gün bir ücretsiz sürpriz ve bahçene yeni bir mutluluk.",
+  },
+  {
+    title: "Hatıra Bahçem",
+    href: "/hatira-bahcem",
+    icon: Mail,
+    color: "pink",
+    description: "Sana özel bir mektup ve saklamak istediğin güzel anlar.",
+  },
+  {
+    title: "Başarılarım",
+    href: "/basarilarim",
+    icon: Trophy,
+    color: "yellow",
+    description: "Yolculuğunun küçük ve büyük başarıları burada çiçek açacak.",
+  },
+  {
+    title: "Profilim",
+    href: "/profilim",
+    icon: UserRound,
+    color: "mint",
+    description: "Kişisel öğrenme alanının temelleri burada hazırlanıyor.",
+  },
+] as const;

@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Çevrimdışı Ders Çantam · Deutsch Garden</title>
+    <style>
+      body {
+        font-family: system-ui, sans-serif;
+        background: #fff9f0;
+        color: #514364;
+        margin: 0;
+      }
+      main {
+        max-width: 920px;
+        margin: auto;
+        padding: 24px;
+      }
+      h1 {
+        font-size: 1.8rem;
+      }
+      button,
+      select,
+      input {
+        font: inherit;
+        min-height: 44px;
+        border: 1px solid #cbb5e6;
+        border-radius: 12px;
+        padding: 10px;
+        background: white;
+        color: #514364;
+      }
+      button {
+        cursor: pointer;
+      }
+      button:disabled {
+        opacity: 0.5;
+      }
+      button:focus-visible,
+      select:focus-visible {
+        outline: 3px solid #8966ba;
+      }
+      header,
+      section,
+      article {
+        background: #fffdf9;
+        border: 1px solid #e5d5ef;
+        border-radius: 22px;
+        padding: 22px;
+        margin: 18px 0;
+      }
+      header {
+        background: linear-gradient(110deg, #eadfff, #ffe4d7);
+      }
+      p,
+      li {
+        line-height: 1.85;
+      }
+      #list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 12px;
+      }
+      #list button {
+        text-align: left;
+        background: #eee5fb;
+      }
+      details {
+        padding: 14px;
+        border-radius: 14px;
+        background: #f5eefb;
+        margin: 12px 0;
+      }
+      summary {
+        cursor: pointer;
+        font-weight: bold;
+        padding: 10px;
+      }
+      blockquote {
+        padding: 16px;
+        background: #e4f3eb;
+        border-radius: 14px;
+        margin: 14px 0;
+        white-space: pre-wrap;
+      }
+      audio {
+        max-width: 100%;
+        width: 100%;
+      }
+      .feedback {
+        padding: 12px;
+        background: #fff0d2;
+        border-radius: 12px;
+      }
+      a {
+        color: #76549c;
+      }
+      label {
+        display: inline-block;
+        margin: 8px;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      td,
+      th {
+        border: 1px solid #dfd1e8;
+        padding: 9px;
+        overflow-wrap: anywhere;
+      }
+      .table {
+        overflow: auto;
+      }
+      .tools {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+      }
+      small {
+        line-height: 1.7;
+        display: block;
+      }
+      pre {
+        white-space: pre-wrap;
+        font: inherit;
+      }
+    </style>
+    <script src="/offline-reader.js" defer></script>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Çevrimdışı Ders Çantam 🌷</h1>
+        <p>
+          İnternet varken düzey paketini indir; ders açıklamaları, örnekler ve
+          sorular internet yokken de açılsın. İstediğin dersin seslerini ayrıca
+          indirebilirsin.
+        </p>
+        <p>
+          Bu bölüm tekrar ve öz çalışma içindir. Buradaki cevaplar bulut
+          ilerlemesi veya XP oluşturmaz. Hesap, Lumi AI ve bulut eşitlemesi için
+          internet gerekir.
+        </p>
+        <a href="/derslerim">Ana uygulamaya dön</a>
+      </header>
+      <section>
+        <label
+          >Düzey
+          <select id="level">
+            <option>A1</option>
+            <option>A2</option>
+            <option>B1</option>
+            <option>B2</option>
+            <option>C1</option>
+            <option>C2</option>
+          </select></label
+        >
+        <div class="tools">
+          <button id="download">Düzey paketini indir / güncelle</button
+          ><button id="open">İndirilmiş paketi aç</button
+          ><button id="remove">Bu düzeyin indirilmiş paketini kaldır</button>
+        </div>
+        <p id="status" role="status" aria-live="polite"></p>
+        <small
+          >Yalnızca genel eğitim dosyaları indirilir; günlük, sohbet, e-posta ve
+          hesap sayfaları önbelleğe alınmaz. Tarayıcı indirilen dosyaları yer
+          açmak için silebilir. Ses indirmeleri internet kotanı kullanır.</small
+        >
+      </section>
+      <div id="list"></div>
+      <div id="lesson"></div>
+    </main>
+  </body>
+</html>

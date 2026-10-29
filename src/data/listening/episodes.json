@@ -1,0 +1,1389 @@
+[
+  {
+    "id": "listen-a1-greetings",
+    "level": "A1",
+    "title": "Merhaba, ben Elif",
+    "german": "Hallo, ich bin Elif",
+    "category": "conversation",
+    "icon": "🌷",
+    "summary": "Merhaba! Benim adım Elif.",
+    "lemmas": [
+      "Hallo",
+      "Name",
+      "kommen",
+      "lernen",
+      "freundlich"
+    ],
+    "sentences": [
+      {
+        "id": "listen-a1-greetings:s1",
+        "de": "Hallo! Ich heiße Elif.",
+        "tr": "Merhaba! Benim adım Elif.",
+        "links": [
+          {
+            "text": "Hallo",
+            "lemma": "Hallo"
+          },
+          {
+            "text": "heiße",
+            "lemma": "heißen"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-greetings:s2",
+        "de": "Ich komme aus der Türkei.",
+        "tr": "Türkiye'den geliyorum.",
+        "links": [
+          {
+            "text": "komme",
+            "lemma": "kommen"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-greetings:s3",
+        "de": "Jetzt wohne ich in Berlin.",
+        "tr": "Şimdi Berlin'de yaşıyorum.",
+        "links": []
+      },
+      {
+        "id": "listen-a1-greetings:s4",
+        "de": "Mein Name ist kurz.",
+        "tr": "Benim adım kısa.",
+        "links": [
+          {
+            "text": "Name",
+            "lemma": "Name"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-greetings:s5",
+        "de": "Ich lerne jeden Tag Deutsch.",
+        "tr": "Her gün Almanca öğreniyorum.",
+        "links": [
+          {
+            "text": "lerne",
+            "lemma": "lernen"
+          },
+          {
+            "text": "Tag",
+            "lemma": "Tag"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-greetings:s6",
+        "de": "Meine Lehrerin ist freundlich.",
+        "tr": "Öğretmenim güler yüzlü.",
+        "links": [
+          {
+            "text": "freundlich",
+            "lemma": "freundlich"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-a1-greetings:q1",
+        "kind": "choice",
+        "prompt": "Elif nereden geliyor?",
+        "answer": "Türkiye'den",
+        "options": [
+          "Almanya'dan",
+          "Fransa'dan",
+          "İtalya'dan"
+        ],
+        "explanation": "Ich komme aus der Türkei: Türkiye'den geliyorum."
+      },
+      {
+        "id": "listen-a1-greetings:q2",
+        "kind": "boolean",
+        "prompt": "Elif Berlin'de yaşıyor.",
+        "answer": "Doğru",
+        "options": [
+          "Yanlış"
+        ],
+        "explanation": "Jetzt wohne ich in Berlin cümlesi bunu söylüyor."
+      },
+      {
+        "id": "listen-a1-greetings:q3",
+        "kind": "blank",
+        "prompt": "Ich ___ jeden Tag Deutsch. Eksik fiili yaz.",
+        "answer": "lerne",
+        "options": [],
+        "explanation": "ich ile lernen → lerne."
+      },
+      {
+        "id": "listen-a1-greetings:q4",
+        "kind": "sentence",
+        "prompt": "Metne uygun cümleyi seç.",
+        "answer": "Mein Name ist kurz.",
+        "options": [
+          "Mein Name ist lang.",
+          "Ich wohne in Paris.",
+          "Ich lerne nie Deutsch."
+        ],
+        "explanation": "Elif adının kısa olduğunu söylüyor."
+      }
+    ],
+    "vocabularyQuestion": "Hallo"
+  },
+  {
+    "id": "listen-a1-family",
+    "level": "A1",
+    "title": "Benim küçük ailem",
+    "german": "Meine Familie",
+    "category": "stories",
+    "icon": "🏡",
+    "summary": "Ailem Berlin'de yaşıyor.",
+    "lemmas": [
+      "Mutter",
+      "Vater",
+      "Schwester",
+      "Bruder",
+      "Buch",
+      "spielen"
+    ],
+    "sentences": [
+      {
+        "id": "listen-a1-family:s1",
+        "de": "Meine Familie wohnt in Berlin.",
+        "tr": "Ailem Berlin'de yaşıyor.",
+        "links": []
+      },
+      {
+        "id": "listen-a1-family:s2",
+        "de": "Ich habe eine Schwester und einen Bruder.",
+        "tr": "Bir kız kardeşim ve bir erkek kardeşim var.",
+        "links": [
+          {
+            "text": "Schwester",
+            "lemma": "Schwester"
+          },
+          {
+            "text": "Bruder",
+            "lemma": "Bruder"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-family:s3",
+        "de": "Meine Mutter liest gern.",
+        "tr": "Annem okumayı sever.",
+        "links": [
+          {
+            "text": "Mutter",
+            "lemma": "Mutter"
+          },
+          {
+            "text": "liest",
+            "lemma": "lesen"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-family:s4",
+        "de": "Mein Vater kocht heute Suppe.",
+        "tr": "Babam bugün çorba pişiriyor.",
+        "links": [
+          {
+            "text": "Vater",
+            "lemma": "Vater"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-family:s5",
+        "de": "Meine Schwester spielt Gitarre.",
+        "tr": "Kız kardeşim gitar çalıyor.",
+        "links": [
+          {
+            "text": "Schwester",
+            "lemma": "Schwester"
+          },
+          {
+            "text": "spielt",
+            "lemma": "spielen"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-family:s6",
+        "de": "Mein Bruder ist zehn Jahre alt.",
+        "tr": "Erkek kardeşim on yaşında.",
+        "links": [
+          {
+            "text": "Bruder",
+            "lemma": "Bruder"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-family:s7",
+        "de": "Am Abend lesen wir zusammen ein Buch.",
+        "tr": "Akşam birlikte bir kitap okuyoruz.",
+        "links": [
+          {
+            "text": "lesen",
+            "lemma": "lesen"
+          },
+          {
+            "text": "Buch",
+            "lemma": "Buch"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-a1-family:q1",
+        "kind": "choice",
+        "prompt": "Ailenin yaşadığı şehir hangisi?",
+        "answer": "Berlin",
+        "options": [
+          "Ankara",
+          "Hamburg",
+          "Wien"
+        ],
+        "explanation": "Meine Familie wohnt in Berlin."
+      },
+      {
+        "id": "listen-a1-family:q2",
+        "kind": "boolean",
+        "prompt": "Erkek kardeş on yaşında.",
+        "answer": "Doğru",
+        "options": [
+          "Yanlış"
+        ],
+        "explanation": "zehn Jahre alt: on yaşında."
+      },
+      {
+        "id": "listen-a1-family:q3",
+        "kind": "blank",
+        "prompt": "Meine Schwester spielt ___. Hangi çalgı?",
+        "answer": "Gitarre",
+        "options": [],
+        "explanation": "Metinde kız kardeş gitar çalıyor."
+      },
+      {
+        "id": "listen-a1-family:q4",
+        "kind": "sentence",
+        "prompt": "Metne uygun cümleyi seç.",
+        "answer": "Meine Mutter liest gern.",
+        "options": [
+          "Mein Bruder ist drei Jahre alt.",
+          "Mein Vater fährt nach Paris.",
+          "Meine Mutter spielt Gitarre."
+        ],
+        "explanation": "Annenin okumayı sevdiği söyleniyor."
+      }
+    ],
+    "vocabularyQuestion": "Schwester"
+  },
+  {
+    "id": "listen-a1-morning",
+    "level": "A1",
+    "title": "Birlikte güne başlayalım",
+    "german": "Mein Morgen",
+    "category": "stories",
+    "icon": "🌞",
+    "summary": "Saat yedide kalkıyorum.",
+    "lemmas": [
+      "aufstehen",
+      "Wasser",
+      "Brot",
+      "fahren",
+      "Schule",
+      "lernen",
+      "Buch"
+    ],
+    "sentences": [
+      {
+        "id": "listen-a1-morning:s1",
+        "de": "Ich stehe um sieben Uhr auf.",
+        "tr": "Saat yedide kalkıyorum.",
+        "links": [
+          {
+            "text": "stehe",
+            "lemma": "aufstehen"
+          },
+          {
+            "text": "Uhr",
+            "lemma": "Uhr"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-morning:s2",
+        "de": "Zuerst trinke ich ein Glas Wasser.",
+        "tr": "Önce bir bardak su içiyorum.",
+        "links": [
+          {
+            "text": "trinke",
+            "lemma": "trinken"
+          },
+          {
+            "text": "Wasser",
+            "lemma": "Wasser"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-morning:s3",
+        "de": "Dann esse ich Brot.",
+        "tr": "Sonra ekmek yiyorum.",
+        "links": [
+          {
+            "text": "esse",
+            "lemma": "essen"
+          },
+          {
+            "text": "Brot",
+            "lemma": "Brot"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-morning:s4",
+        "de": "Ich fahre mit dem Bus zur Schule.",
+        "tr": "Otobüsle okula gidiyorum.",
+        "links": [
+          {
+            "text": "fahre",
+            "lemma": "fahren"
+          },
+          {
+            "text": "Schule",
+            "lemma": "Schule"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-morning:s5",
+        "de": "Am Nachmittag lerne ich Deutsch.",
+        "tr": "Öğleden sonra Almanca öğreniyorum.",
+        "links": [
+          {
+            "text": "lerne",
+            "lemma": "lernen"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-morning:s6",
+        "de": "Am Abend lese ich ein Buch.",
+        "tr": "Akşam bir kitap okuyorum.",
+        "links": [
+          {
+            "text": "lese",
+            "lemma": "lesen"
+          },
+          {
+            "text": "Buch",
+            "lemma": "Buch"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-morning:s7",
+        "de": "Um zehn Uhr gehe ich ins Bett.",
+        "tr": "Saat onda yatağa gidiyorum.",
+        "links": [
+          {
+            "text": "Uhr",
+            "lemma": "Uhr"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-a1-morning:q1",
+        "kind": "choice",
+        "prompt": "Anlatıcı kaçta kalkıyor?",
+        "answer": "Saat yedide",
+        "options": [
+          "Saat beşte",
+          "Saat onda",
+          "Saat sekizde"
+        ],
+        "explanation": "um sieben Uhr: saat yedide."
+      },
+      {
+        "id": "listen-a1-morning:q2",
+        "kind": "boolean",
+        "prompt": "Anlatıcı okula trenle gidiyor.",
+        "answer": "Yanlış",
+        "options": [
+          "Doğru"
+        ],
+        "explanation": "mit dem Bus: otobüsle."
+      },
+      {
+        "id": "listen-a1-morning:q3",
+        "kind": "blank",
+        "prompt": "Zuerst trinke ich ein Glas ___. Ne içiyor?",
+        "answer": "Wasser",
+        "options": [],
+        "explanation": "Bir bardak su: ein Glas Wasser."
+      },
+      {
+        "id": "listen-a1-morning:q4",
+        "kind": "sentence",
+        "prompt": "Metne uygun cümleyi seç.",
+        "answer": "Am Abend lese ich ein Buch.",
+        "options": [
+          "Am Abend gehe ich zur Schule.",
+          "Ich stehe um zehn Uhr auf.",
+          "Ich esse am Morgen Suppe."
+        ],
+        "explanation": "Akşam bir kitap okunuyor."
+      }
+    ],
+    "vocabularyQuestion": "aufstehen"
+  },
+  {
+    "id": "listen-a1-cafe",
+    "level": "A1",
+    "title": "Kafede küçük bir mola",
+    "german": "Ein Tag im Café",
+    "category": "stories",
+    "icon": "☕",
+    "summary": "Bugün bir kafeye gidiyorum.",
+    "lemmas": [
+      "frisch",
+      "freundlich",
+      "bezahlen",
+      "Guten Morgen"
+    ],
+    "sentences": [
+      {
+        "id": "listen-a1-cafe:s1",
+        "de": "Heute gehe ich in ein Café.",
+        "tr": "Bugün bir kafeye gidiyorum.",
+        "links": []
+      },
+      {
+        "id": "listen-a1-cafe:s2",
+        "de": "Die Frau im Café ist freundlich.",
+        "tr": "Kafedeki kadın güler yüzlü.",
+        "links": [
+          {
+            "text": "freundlich",
+            "lemma": "freundlich"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-cafe:s3",
+        "de": "Ich sage: Guten Morgen!",
+        "tr": "Günaydın diyorum!",
+        "links": [
+          {
+            "text": "Guten Morgen",
+            "lemma": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-cafe:s4",
+        "de": "Ich bestelle einen Tee und ein Stück Kuchen.",
+        "tr": "Bir çay ve bir dilim kek sipariş ediyorum.",
+        "links": []
+      },
+      {
+        "id": "listen-a1-cafe:s5",
+        "de": "Der Tee kostet zwei Euro.",
+        "tr": "Çay iki avro tutuyor.",
+        "links": []
+      },
+      {
+        "id": "listen-a1-cafe:s6",
+        "de": "Der Kuchen kostet drei Euro.",
+        "tr": "Kek üç avro tutuyor.",
+        "links": []
+      },
+      {
+        "id": "listen-a1-cafe:s7",
+        "de": "Ich bezahle fünf Euro.",
+        "tr": "Beş avro ödüyorum.",
+        "links": [
+          {
+            "text": "bezahle",
+            "lemma": "bezahlen"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-cafe:s8",
+        "de": "Der Tee ist warm und der Kuchen ist frisch.",
+        "tr": "Çay sıcak, kek de taze.",
+        "links": [
+          {
+            "text": "frisch",
+            "lemma": "frisch"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-a1-cafe:q1",
+        "kind": "choice",
+        "prompt": "Ne sipariş ediliyor?",
+        "answer": "Çay ve kek",
+        "options": [
+          "Kahve ve ekmek",
+          "Su ve elma",
+          "Çorba ve çay"
+        ],
+        "explanation": "einen Tee und ein Stück Kuchen: bir çay ve bir dilim kek."
+      },
+      {
+        "id": "listen-a1-cafe:q2",
+        "kind": "boolean",
+        "prompt": "Çay üç avro tutuyor.",
+        "answer": "Yanlış",
+        "options": [
+          "Doğru"
+        ],
+        "explanation": "Çay iki, kek üç avro."
+      },
+      {
+        "id": "listen-a1-cafe:q3",
+        "kind": "blank",
+        "prompt": "Ich bezahle ___ Euro. Toplamı Almanca yaz.",
+        "answer": "fünf",
+        "options": [],
+        "explanation": "İki + üç = fünf Euro."
+      },
+      {
+        "id": "listen-a1-cafe:q4",
+        "kind": "sentence",
+        "prompt": "Metne uygun cümleyi seç.",
+        "answer": "Der Kuchen ist frisch.",
+        "options": [
+          "Der Tee ist kalt.",
+          "Die Frau ist nicht freundlich.",
+          "Der Kuchen kostet zehn Euro."
+        ],
+        "explanation": "Kekin taze olduğu söyleniyor."
+      }
+    ],
+    "vocabularyQuestion": "frisch"
+  },
+  {
+    "id": "listen-a1-shopping",
+    "level": "A1",
+    "title": "Pazardan çantama",
+    "german": "Beim Einkaufen",
+    "category": "conversation",
+    "icon": "🛍️",
+    "summary": "Bugün alışverişe gidiyorum.",
+    "lemmas": [
+      "kaufen",
+      "Apfel",
+      "Brot",
+      "frisch",
+      "Tasche",
+      "bezahlen"
+    ],
+    "sentences": [
+      {
+        "id": "listen-a1-shopping:s1",
+        "de": "Heute gehe ich einkaufen.",
+        "tr": "Bugün alışverişe gidiyorum.",
+        "links": []
+      },
+      {
+        "id": "listen-a1-shopping:s2",
+        "de": "Ich kaufe zwei Äpfel und ein Brot.",
+        "tr": "İki elma ve bir ekmek satın alıyorum.",
+        "links": [
+          {
+            "text": "kaufe",
+            "lemma": "kaufen"
+          },
+          {
+            "text": "Äpfel",
+            "lemma": "Apfel"
+          },
+          {
+            "text": "Brot",
+            "lemma": "Brot"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-shopping:s3",
+        "de": "Die Äpfel sind frisch.",
+        "tr": "Elmalar taze.",
+        "links": [
+          {
+            "text": "Äpfel",
+            "lemma": "Apfel"
+          },
+          {
+            "text": "frisch",
+            "lemma": "frisch"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-shopping:s4",
+        "de": "Das Brot kostet drei Euro.",
+        "tr": "Ekmek üç avro tutuyor.",
+        "links": [
+          {
+            "text": "Brot",
+            "lemma": "Brot"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-shopping:s5",
+        "de": "Ich lege alles in meine Tasche.",
+        "tr": "Her şeyi çantama koyuyorum.",
+        "links": [
+          {
+            "text": "Tasche",
+            "lemma": "Tasche"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-shopping:s6",
+        "de": "Dann bezahle ich mit Karte.",
+        "tr": "Sonra kartla ödüyorum.",
+        "links": [
+          {
+            "text": "bezahle",
+            "lemma": "bezahlen"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-a1-shopping:q1",
+        "kind": "choice",
+        "prompt": "Kaç elma alınıyor?",
+        "answer": "İki",
+        "options": [
+          "Bir",
+          "Üç",
+          "Beş"
+        ],
+        "explanation": "zwei Äpfel: iki elma."
+      },
+      {
+        "id": "listen-a1-shopping:q2",
+        "kind": "boolean",
+        "prompt": "Ekmek üç avro tutuyor.",
+        "answer": "Doğru",
+        "options": [
+          "Yanlış"
+        ],
+        "explanation": "Das Brot kostet drei Euro."
+      },
+      {
+        "id": "listen-a1-shopping:q3",
+        "kind": "blank",
+        "prompt": "Ich lege alles in meine ___. Hangi eşyaya?",
+        "answer": "Tasche",
+        "options": [],
+        "explanation": "Alışveriş çantaya konuyor."
+      },
+      {
+        "id": "listen-a1-shopping:q4",
+        "kind": "sentence",
+        "prompt": "Ödeme biçimini söyleyen cümle hangisi?",
+        "answer": "Ich bezahle mit Karte.",
+        "options": [
+          "Ich bezahle mit Brot.",
+          "Ich kaufe eine Karte.",
+          "Ich bezahle nicht."
+        ],
+        "explanation": "mit Karte: kartla ödeme."
+      }
+    ],
+    "vocabularyQuestion": "kaufen"
+  },
+  {
+    "id": "listen-a1-time",
+    "level": "A1",
+    "title": "Saat kaç, günlerden ne?",
+    "german": "Zahlen und Zeit",
+    "category": "words",
+    "icon": "🕘",
+    "summary": "Bugün pazartesi.",
+    "lemmas": [
+      "Uhr",
+      "Schule",
+      "Woche",
+      "Tag",
+      "heute"
+    ],
+    "sentences": [
+      {
+        "id": "listen-a1-time:s1",
+        "de": "Heute ist Montag.",
+        "tr": "Bugün pazartesi.",
+        "links": [
+          {
+            "text": "Heute",
+            "lemma": "heute"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-time:s2",
+        "de": "Es ist neun Uhr.",
+        "tr": "Saat dokuz.",
+        "links": [
+          {
+            "text": "Uhr",
+            "lemma": "Uhr"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-time:s3",
+        "de": "Die Schule beginnt um zehn Uhr.",
+        "tr": "Okul saat onda başlıyor.",
+        "links": [
+          {
+            "text": "Schule",
+            "lemma": "Schule"
+          },
+          {
+            "text": "Uhr",
+            "lemma": "Uhr"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-time:s4",
+        "de": "Ich habe heute zwei Stunden Deutsch.",
+        "tr": "Bugün iki saat Almanca dersim var.",
+        "links": [
+          {
+            "text": "heute",
+            "lemma": "heute"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-time:s5",
+        "de": "Eine Woche hat sieben Tage.",
+        "tr": "Bir hafta yedi gündür.",
+        "links": [
+          {
+            "text": "Woche",
+            "lemma": "Woche"
+          },
+          {
+            "text": "Tage",
+            "lemma": "Tag"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-time:s6",
+        "de": "Am Samstag habe ich keine Schule.",
+        "tr": "Cumartesi günü okulum yok.",
+        "links": [
+          {
+            "text": "Schule",
+            "lemma": "Schule"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-a1-time:q1",
+        "kind": "choice",
+        "prompt": "Bugün hangi gün?",
+        "answer": "Pazartesi",
+        "options": [
+          "Salı",
+          "Cuma",
+          "Pazar"
+        ],
+        "explanation": "Montag pazartesidir."
+      },
+      {
+        "id": "listen-a1-time:q2",
+        "kind": "boolean",
+        "prompt": "Okul saat dokuzda başlıyor.",
+        "answer": "Yanlış",
+        "options": [
+          "Doğru"
+        ],
+        "explanation": "Saat dokuz; ama okul saat onda başlıyor."
+      },
+      {
+        "id": "listen-a1-time:q3",
+        "kind": "blank",
+        "prompt": "Eine Woche hat ___ Tage. Sayıyı Almanca yaz.",
+        "answer": "sieben",
+        "options": [],
+        "explanation": "Bir hafta yedi gündür."
+      },
+      {
+        "id": "listen-a1-time:q4",
+        "kind": "sentence",
+        "prompt": "Metne uygun cümleyi seç.",
+        "answer": "Ich habe heute zwei Stunden Deutsch.",
+        "options": [
+          "Heute ist Freitag.",
+          "Die Schule beginnt um acht Uhr.",
+          "Eine Woche hat fünf Tage."
+        ],
+        "explanation": "Bugün iki saat Almanca dersi var."
+      }
+    ],
+    "vocabularyQuestion": "Uhr"
+  },
+  {
+    "id": "listen-a1-hobbies",
+    "level": "A1",
+    "title": "Bahçede bir hafta sonu",
+    "german": "Meine Hobbys",
+    "category": "culture",
+    "icon": "🌼",
+    "summary": "Hafta sonu bahçeye gidiyorum.",
+    "lemmas": [
+      "Garten",
+      "Blume",
+      "Schwester",
+      "spielen",
+      "Musik",
+      "lesen",
+      "Buch"
+    ],
+    "sentences": [
+      {
+        "id": "listen-a1-hobbies:s1",
+        "de": "Am Wochenende gehe ich in den Garten.",
+        "tr": "Hafta sonu bahçeye gidiyorum.",
+        "links": [
+          {
+            "text": "Garten",
+            "lemma": "Garten"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-hobbies:s2",
+        "de": "Dort wachsen viele Blumen.",
+        "tr": "Orada çok sayıda çiçek yetişiyor.",
+        "links": [
+          {
+            "text": "Blumen",
+            "lemma": "Blume"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-hobbies:s3",
+        "de": "Meine Schwester spielt Gitarre.",
+        "tr": "Kız kardeşim gitar çalıyor.",
+        "links": [
+          {
+            "text": "Schwester",
+            "lemma": "Schwester"
+          },
+          {
+            "text": "spielt",
+            "lemma": "spielen"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-hobbies:s4",
+        "de": "Ich höre gern Musik.",
+        "tr": "Müzik dinlemeyi severim.",
+        "links": [
+          {
+            "text": "Musik",
+            "lemma": "Musik"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-hobbies:s5",
+        "de": "Manchmal spielen wir zusammen.",
+        "tr": "Bazen birlikte çalıyoruz.",
+        "links": [
+          {
+            "text": "spielen",
+            "lemma": "spielen"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-hobbies:s6",
+        "de": "Am Abend lese ich ein Buch.",
+        "tr": "Akşam bir kitap okuyorum.",
+        "links": [
+          {
+            "text": "lese",
+            "lemma": "lesen"
+          },
+          {
+            "text": "Buch",
+            "lemma": "Buch"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-a1-hobbies:q1",
+        "kind": "choice",
+        "prompt": "Hafta sonu nereye gidiliyor?",
+        "answer": "Bahçeye",
+        "options": [
+          "Okula",
+          "İstasyona",
+          "Kafeye"
+        ],
+        "explanation": "in den Garten: bahçeye."
+      },
+      {
+        "id": "listen-a1-hobbies:q2",
+        "kind": "boolean",
+        "prompt": "Kız kardeş piyano çalıyor.",
+        "answer": "Yanlış",
+        "options": [
+          "Doğru"
+        ],
+        "explanation": "Gitarre gitar demektir."
+      },
+      {
+        "id": "listen-a1-hobbies:q3",
+        "kind": "blank",
+        "prompt": "Ich höre gern ___. Ne dinlemeyi seviyor?",
+        "answer": "Musik",
+        "options": [],
+        "explanation": "Müzik: Musik."
+      },
+      {
+        "id": "listen-a1-hobbies:q4",
+        "kind": "sentence",
+        "prompt": "Metne uygun cümleyi seç.",
+        "answer": "Im Garten wachsen Blumen.",
+        "options": [
+          "Im Garten steht ein Zug.",
+          "Ich lese nie ein Buch.",
+          "Meine Schwester spielt nicht."
+        ],
+        "explanation": "Bahçede çiçekler yetişiyor."
+      }
+    ],
+    "vocabularyQuestion": "Blume"
+  },
+  {
+    "id": "listen-a1-weather",
+    "level": "A1",
+    "title": "Güneşten yağmura",
+    "german": "Das Wetter heute",
+    "category": "germany",
+    "icon": "🌦️",
+    "summary": "Bugün hava güzel.",
+    "lemmas": [
+      "heute",
+      "schön",
+      "Haus"
+    ],
+    "sentences": [
+      {
+        "id": "listen-a1-weather:s1",
+        "de": "Heute ist das Wetter schön.",
+        "tr": "Bugün hava güzel.",
+        "links": [
+          {
+            "text": "Heute",
+            "lemma": "heute"
+          },
+          {
+            "text": "schön",
+            "lemma": "schön"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-weather:s2",
+        "de": "Die Sonne scheint.",
+        "tr": "Güneş parlıyor.",
+        "links": []
+      },
+      {
+        "id": "listen-a1-weather:s3",
+        "de": "Es ist warm.",
+        "tr": "Hava sıcak.",
+        "links": []
+      },
+      {
+        "id": "listen-a1-weather:s4",
+        "de": "Ich gehe in den Park.",
+        "tr": "Parka gidiyorum.",
+        "links": []
+      },
+      {
+        "id": "listen-a1-weather:s5",
+        "de": "Am Abend regnet es.",
+        "tr": "Akşam yağmur yağıyor.",
+        "links": []
+      },
+      {
+        "id": "listen-a1-weather:s6",
+        "de": "Dann gehe ich nach Hause.",
+        "tr": "Sonra eve gidiyorum.",
+        "links": [
+          {
+            "text": "Hause",
+            "lemma": "Haus"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-a1-weather:q1",
+        "kind": "choice",
+        "prompt": "Günün başında hava nasıl?",
+        "answer": "Güzel ve sıcak",
+        "options": [
+          "Soğuk ve karlı",
+          "Yağmurlu",
+          "Rüzgârlı ve soğuk"
+        ],
+        "explanation": "Wetter schön ve Es ist warm cümleleri bunu anlatır."
+      },
+      {
+        "id": "listen-a1-weather:q2",
+        "kind": "boolean",
+        "prompt": "Akşam yağmur yağıyor.",
+        "answer": "Doğru",
+        "options": [
+          "Yanlış"
+        ],
+        "explanation": "Am Abend regnet es."
+      },
+      {
+        "id": "listen-a1-weather:q3",
+        "kind": "blank",
+        "prompt": "Am Abend ___ es. Fiili yaz.",
+        "answer": "regnet",
+        "options": [],
+        "explanation": "es regnet: yağmur yağıyor."
+      },
+      {
+        "id": "listen-a1-weather:q4",
+        "kind": "sentence",
+        "prompt": "Metne uygun cümleyi seç.",
+        "answer": "Ich gehe in den Park.",
+        "options": [
+          "Ich gehe in die Schule.",
+          "Es schneit am Morgen.",
+          "Die Sonne scheint nicht."
+        ],
+        "explanation": "Anlatıcı parka gidiyor."
+      }
+    ],
+    "vocabularyQuestion": "schön"
+  },
+  {
+    "id": "listen-a1-school",
+    "level": "A1",
+    "title": "Sınıfımda bir gün",
+    "german": "In der Schule",
+    "category": "education",
+    "icon": "📚",
+    "summary": "Okulum küçük.",
+    "lemmas": [
+      "Schule",
+      "Buch",
+      "Tisch",
+      "freundlich",
+      "lernen",
+      "einfach"
+    ],
+    "sentences": [
+      {
+        "id": "listen-a1-school:s1",
+        "de": "Meine Schule ist klein.",
+        "tr": "Okulum küçük.",
+        "links": [
+          {
+            "text": "Schule",
+            "lemma": "Schule"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-school:s2",
+        "de": "Mein Klassenzimmer ist hell.",
+        "tr": "Sınıfım aydınlık.",
+        "links": []
+      },
+      {
+        "id": "listen-a1-school:s3",
+        "de": "Ein Buch liegt auf dem Tisch.",
+        "tr": "Masanın üzerinde bir kitap duruyor.",
+        "links": [
+          {
+            "text": "Buch",
+            "lemma": "Buch"
+          },
+          {
+            "text": "Tisch",
+            "lemma": "Tisch"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-school:s4",
+        "de": "Der Lehrer ist freundlich.",
+        "tr": "Öğretmen güler yüzlü.",
+        "links": [
+          {
+            "text": "freundlich",
+            "lemma": "freundlich"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-school:s5",
+        "de": "Wir lernen heute zehn Wörter.",
+        "tr": "Bugün on sözcük öğreniyoruz.",
+        "links": [
+          {
+            "text": "lernen",
+            "lemma": "lernen"
+          },
+          {
+            "text": "heute",
+            "lemma": "heute"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-school:s6",
+        "de": "Die Aufgabe ist einfach.",
+        "tr": "Alıştırma kolay.",
+        "links": [
+          {
+            "text": "einfach",
+            "lemma": "einfach"
+          }
+        ]
+      },
+      {
+        "id": "listen-a1-school:s7",
+        "de": "Nach der Schule fahre ich nach Hause.",
+        "tr": "Okuldan sonra eve gidiyorum.",
+        "links": [
+          {
+            "text": "Schule",
+            "lemma": "Schule"
+          },
+          {
+            "text": "fahre",
+            "lemma": "fahren"
+          },
+          {
+            "text": "Hause",
+            "lemma": "Haus"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-a1-school:q1",
+        "kind": "choice",
+        "prompt": "Kitap nerede?",
+        "answer": "Masanın üzerinde",
+        "options": [
+          "Çantanın içinde",
+          "Sandalyenin altında",
+          "Bahçede"
+        ],
+        "explanation": "auf dem Tisch: masanın üzerinde."
+      },
+      {
+        "id": "listen-a1-school:q2",
+        "kind": "boolean",
+        "prompt": "Öğretmen güler yüzlü.",
+        "answer": "Doğru",
+        "options": [
+          "Yanlış"
+        ],
+        "explanation": "Der Lehrer ist freundlich."
+      },
+      {
+        "id": "listen-a1-school:q3",
+        "kind": "blank",
+        "prompt": "Wir lernen heute ___ Wörter. Sayıyı Almanca yaz.",
+        "answer": "zehn",
+        "options": [],
+        "explanation": "zehn Wörter: on sözcük."
+      },
+      {
+        "id": "listen-a1-school:q4",
+        "kind": "sentence",
+        "prompt": "Metne uygun cümleyi seç.",
+        "answer": "Die Aufgabe ist einfach.",
+        "options": [
+          "Die Schule ist sehr groß.",
+          "Das Klassenzimmer ist dunkel.",
+          "Ich fahre nach Berlin."
+        ],
+        "explanation": "Alıştırma kolay."
+      }
+    ],
+    "vocabularyQuestion": "Buch"
+  },
+  {
+    "id": "listen-a1-conversation",
+    "level": "A1",
+    "title": "Birlikte öğrenelim",
+    "german": "Wir lernen zusammen",
+    "category": "conversation",
+    "icon": "🦋",
+    "summary": "Merhaba! Nasılsın?",
+    "lemmas": [
+      "Hallo",
+      "Wie geht es dir?",
+      "Danke",
+      "lernen",
+      "Ich verstehe nicht.",
+      "helfen"
+    ],
+    "sentences": [
+      {
+        "id": "listen-a1-conversation:s1",
+        "de": "Hallo! Wie geht es dir?",
+        "tr": "Merhaba! Nasılsın?",
+        "links": [
+          {
+            "text": "Hallo",
+            "lemma": "Hallo"
+          },
+          {
+            "text": "Wie geht es dir",
+            "lemma": "Wie geht es dir?"
+          }
+        ],
+        "speaker": "Ada"
+      },
+      {
+        "id": "listen-a1-conversation:s2",
+        "de": "Gut, danke. Und dir?",
+        "tr": "İyiyim, teşekkürler. Ya sen?",
+        "links": [
+          {
+            "text": "danke",
+            "lemma": "Danke"
+          }
+        ],
+        "speaker": "Deniz"
+      },
+      {
+        "id": "listen-a1-conversation:s3",
+        "de": "Auch gut. Lernst du Deutsch?",
+        "tr": "Ben de iyiyim. Almanca öğreniyor musun?",
+        "links": [
+          {
+            "text": "Lernst",
+            "lemma": "lernen"
+          }
+        ],
+        "speaker": "Ada"
+      },
+      {
+        "id": "listen-a1-conversation:s4",
+        "de": "Ja. Aber ich verstehe nicht alles.",
+        "tr": "Evet. Ama her şeyi anlamıyorum.",
+        "links": [],
+        "speaker": "Deniz"
+      },
+      {
+        "id": "listen-a1-conversation:s5",
+        "de": "Kein Problem. Wir lernen zusammen.",
+        "tr": "Sorun değil. Birlikte öğreniyoruz.",
+        "links": [
+          {
+            "text": "lernen",
+            "lemma": "lernen"
+          }
+        ],
+        "speaker": "Ada"
+      },
+      {
+        "id": "listen-a1-conversation:s6",
+        "de": "Danke für deine Hilfe!",
+        "tr": "Yardımın için teşekkürler!",
+        "links": [
+          {
+            "text": "Danke",
+            "lemma": "Danke"
+          }
+        ],
+        "speaker": "Deniz"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-a1-conversation:q1",
+        "kind": "choice",
+        "prompt": "Ada ve Deniz ne öğreniyor?",
+        "answer": "Almanca",
+        "options": [
+          "İngilizce",
+          "Müzik",
+          "Matematik"
+        ],
+        "explanation": "Lernst du Deutsch? sorusuna evet yanıtı geliyor."
+      },
+      {
+        "id": "listen-a1-conversation:q2",
+        "kind": "boolean",
+        "prompt": "Deniz her şeyi anlıyor.",
+        "answer": "Yanlış",
+        "options": [
+          "Doğru"
+        ],
+        "explanation": "ich verstehe nicht alles: her şeyi anlamıyorum."
+      },
+      {
+        "id": "listen-a1-conversation:q3",
+        "kind": "blank",
+        "prompt": "Wir lernen ___. Birlikte anlamındaki sözcüğü yaz.",
+        "answer": "zusammen",
+        "options": [],
+        "explanation": "zusammen birlikte demektir."
+      },
+      {
+        "id": "listen-a1-conversation:q4",
+        "kind": "sentence",
+        "prompt": "Deniz'in son cümlesi hangisi?",
+        "answer": "Danke für deine Hilfe!",
+        "options": [
+          "Ich lerne nie Deutsch.",
+          "Wie alt bist du?",
+          "Guten Morgen, Frau Weber!"
+        ],
+        "explanation": "Son cümlede yardım için teşekkür ediliyor."
+      }
+    ],
+    "vocabularyQuestion": "Danke"
+  }
+]

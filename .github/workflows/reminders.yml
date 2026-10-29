@@ -1,0 +1,18 @@
+name: Günlük öğrenme hatırlatması
+on:
+  schedule:
+    - cron: '5 15 * * *'
+  workflow_dispatch:
+permissions: {}
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - name: Yetkili hatırlatma isteği
+        env:
+          APP_URL: ${{ secrets.DEUTSCH_GARDEN_URL }}
+          TOKEN: ${{ secrets.REMINDER_CRON_SECRET }}
+        run: |
+          test -n "$APP_URL" && test -n "$TOKEN"
+          curl --fail --silent --show-error --max-time 180 --request POST --header "Authorization: Bearer $TOKEN" "$APP_URL/api/reminders/send"

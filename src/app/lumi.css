@@ -1,0 +1,1186 @@
+.lumi-chat-page {
+  --lumi-ink: #554665;
+  --lumi-muted: #87758f;
+  color: var(--lumi-ink);
+}
+.lumi-eyebrow {
+  display: block;
+  font-size: 9px;
+  font-weight: 900;
+  letter-spacing: 1.5px;
+  color: #a47caf;
+}
+.lumi-private-badge {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 10px;
+  font-weight: 850;
+  background: #edf6eb;
+  border: 1px solid #d9e8d8;
+  border-radius: 13px;
+  padding: 10px 13px;
+  white-space: nowrap;
+}
+.lumi-setup {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 25px;
+  padding: 27px 30px;
+  border-radius: 26px;
+  background: linear-gradient(110deg, #f3e8fc, #fff0d6);
+  border: 1px solid #e7d7e7;
+  margin-bottom: 23px;
+}
+.lumi-setup > div {
+  max-width: 680px;
+}
+.lumi-setup > div > svg {
+  color: #b498c8;
+  margin-bottom: 10px;
+}
+.lumi-setup h2 {
+  font-size: 23px;
+  letter-spacing: -0.6px;
+  margin: 8px 0 12px;
+}
+.lumi-setup p {
+  font-size: 12px;
+  line-height: 1.95;
+  color: #8f7898;
+}
+.lumi-setup .lumi-mascot {
+  width: 120px;
+  flex-shrink: 0;
+}
+.lumi-setup details {
+  margin: 15px 0;
+  font-size: 11px;
+  line-height: 1.9;
+}
+.lumi-setup summary {
+  cursor: pointer;
+  font-weight: 850;
+}
+.lumi-setup ol {
+  list-style: decimal;
+  padding-left: 19px;
+  margin: 10px 0;
+}
+.lumi-setup li {
+  padding: 5px 0;
+}
+.lumi-setup code {
+  font-size: 10px;
+  background: #fff9;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+.lumi-setup .button {
+  font-size: 11px;
+  margin-top: 7px;
+}
+.lumi-alert,
+.lumi-chat-error {
+  background: #fff0d9;
+  border: 1px solid #edd9b5;
+  border-radius: 15px;
+  padding: 16px;
+  font-size: 12px;
+  line-height: 1.9;
+  margin-bottom: 17px;
+}
+.lumi-alert .button,
+.lumi-chat-error .button {
+  font-size: 10px;
+  margin: 10px 0 0;
+  display: flex;
+}
+.lumi-status-loading {
+  font-size: 12px;
+  color: #9b85a4;
+  margin-bottom: 20px;
+}
+.lumi-workspace {
+  display: grid;
+  grid-template-columns: 245px minmax(0, 1fr);
+  gap: 18px;
+  align-items: start;
+}
+.lumi-chat-sidebar {
+  background: linear-gradient(170deg, #f3eafa, #fff8ee);
+  border: 1px solid #e5d9ec;
+  border-radius: 23px;
+  padding: 20px;
+}
+.lumi-sidebar-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.lumi-sidebar-heading h2 {
+  font-size: 17px;
+  letter-spacing: -0.3px;
+}
+.lumi-sidebar-heading > button {
+  border: 1px solid #dccce6;
+  background: #fffaf4;
+  border-radius: 10px;
+  width: 30px;
+  height: 30px;
+  display: grid;
+  place-items: center;
+  color: #9876ad;
+  cursor: pointer;
+}
+.lumi-sidebar-note {
+  font-size: 10px;
+  font-weight: 850;
+  color: #a083ae;
+  margin-bottom: 12px;
+}
+.lumi-chat-sidebar > label {
+  display: grid;
+  gap: 7px;
+  margin: 13px 0;
+  font-size: 10px;
+  font-weight: 850;
+}
+.lumi-chat-sidebar select {
+  min-width: 0;
+  max-width: 100%;
+  width: 100%;
+  height: 39px;
+  border: 1px solid #e3d6e9;
+  border-radius: 11px;
+  background: #fffdf8;
+  padding: 0 9px;
+  font-size: 11px;
+  color: #7b628a;
+}
+.lumi-chat-sidebar > .button {
+  width: 100%;
+  font-size: 11px;
+  margin-top: 8px;
+}
+.lumi-fine {
+  font-size: 10px !important;
+  color: #a18baa;
+  line-height: 1.85 !important;
+  margin-top: 12px;
+}
+.lumi-history {
+  margin: 20px -5px 0;
+  border-top: 1px solid #e7d9ec;
+  padding: 17px 0 0;
+  max-height: 340px;
+  overflow: auto;
+}
+.lumi-history > div {
+  display: flex;
+  gap: 3px;
+  border: 1px solid transparent;
+  margin-bottom: 8px;
+  border-radius: 13px;
+}
+.lumi-history > div.selected {
+  background: #e9def5;
+  border-color: #d7c1e8;
+}
+.lumi-history > div > button:first-child {
+  display: flex;
+  gap: 9px;
+  align-items: center;
+  min-width: 0;
+  flex: 1;
+  padding: 12px 8px;
+  text-align: left;
+  cursor: pointer;
+}
+.lumi-history strong {
+  font-size: 11px;
+  display: block;
+  line-height: 1.5;
+}
+.lumi-history small {
+  font-size: 9px;
+  display: block;
+  margin-top: 4px;
+  color: #a184ae;
+}
+.lumi-history > div > button:last-child {
+  padding: 7px;
+  color: #b394bc;
+  cursor: pointer;
+}
+.lumi-history > p {
+  font-size: 11px;
+  color: #a68fad;
+  line-height: 1.8;
+  padding: 7px;
+}
+.lumi-milestones {
+  border-top: 1px dashed #e0cfe8;
+  margin-top: 17px;
+  padding-top: 17px;
+}
+.lumi-milestones > strong {
+  font-size: 12px;
+}
+.lumi-milestones p {
+  font-size: 10px;
+  line-height: 1.8;
+  margin-top: 8px;
+  color: #997ea5;
+}
+.lumi-milestones > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 13px;
+}
+.lumi-milestones span {
+  border: 1px dashed #dac9e4;
+  color: #b49cc1;
+  border-radius: 9px;
+  padding: 5px 7px;
+  font-size: 9px;
+}
+.lumi-milestones span.earned {
+  border: 1px solid #d3e3cc;
+  background: #edf6e7;
+  color: #779466;
+}
+.lumi-conversation {
+  border: 1px solid #e6d9ed;
+  border-radius: 24px;
+  background: #fffdf8;
+  overflow: hidden;
+  min-width: 0;
+  box-shadow: 0 12px 30px #9f7ca30b;
+}
+.lumi-chat-top {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  background: linear-gradient(110deg, #f0e5fb, #fff0f4);
+  border-bottom: 1px solid #e8dced;
+  padding: 18px 20px;
+}
+.lumi-chat-top .lumi-mascot {
+  width: 44px;
+  flex-shrink: 0;
+}
+.lumi-chat-top > div {
+  flex: 1;
+  min-width: 0;
+}
+.lumi-chat-top h2 {
+  font-size: 18px;
+}
+.lumi-chat-top h2 > span {
+  font-size: 9px;
+  color: #ae8eb5;
+  font-weight: 750;
+  margin-left: 6px;
+}
+.lumi-chat-top p {
+  font-size: 10px;
+  color: #a086ac;
+  line-height: 1.8;
+  margin-top: 5px;
+}
+.lumi-connection {
+  font-size: 8px;
+  font-weight: 850;
+  border: 1px solid #e8d7b3;
+  background: #fff0d1;
+  padding: 6px 8px;
+  border-radius: 9px;
+  color: #a78c52;
+  white-space: nowrap;
+}
+.lumi-connection.ready {
+  background: #e7f5e6;
+  border-color: #d3e8cf;
+  color: #79a06c;
+}
+.lumi-messages {
+  padding: 23px 22px;
+  min-height: 330px;
+  max-height: 650px;
+  overflow: auto;
+  overscroll-behavior: contain;
+  background:
+    radial-gradient(ellipse at 90% 0, #ffedf440, transparent 55%), #fffdf8;
+}
+.lumi-empty-chat {
+  display: grid;
+  justify-items: center;
+  text-align: center;
+  padding: 15px 20px 20px;
+}
+.lumi-empty-orbit {
+  position: relative;
+  margin: 5px 0 15px;
+}
+.lumi-empty-orbit .lumi-mascot {
+  width: 120px;
+}
+.lumi-empty-orbit > span {
+  position: absolute;
+  font-size: 24px;
+  color: #e0c472;
+  right: -15px;
+  top: 12px;
+  animation: lumi-spark 5s ease-in-out infinite;
+}
+.lumi-empty-orbit > span:last-child {
+  left: -20px;
+  top: 55px;
+  color: #d7a9cb;
+  right: auto;
+  font-size: 28px;
+  animation-delay: -2s;
+}
+.lumi-empty-chat h3 {
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin: 10px 0 12px;
+}
+.lumi-empty-chat > p {
+  font-size: 12px;
+  line-height: 1.95;
+  max-width: 370px;
+  color: #a188aa;
+}
+.lumi-message {
+  width: fit-content;
+  max-width: 93%;
+  padding: 16px 18px;
+  border: 1px solid #e8dced;
+  border-radius: 18px 18px 18px 5px;
+  background: #f6eefc;
+  margin: 0 0 18px;
+  overflow-wrap: anywhere;
+}
+.lumi-message.user {
+  margin-left: auto;
+  background: #eef7ec;
+  border-color: #dae7d5;
+  border-radius: 18px 18px 5px 18px;
+  max-width: 85%;
+}
+.lumi-message.pending {
+  opacity: 0.65;
+  border-style: dashed;
+}
+.lumi-message-author {
+  display: block;
+  font-size: 9px;
+  font-weight: 900;
+  color: #a789b1;
+  margin-bottom: 8px;
+}
+.lumi-message.user .lumi-message-author {
+  color: #8aa17f;
+}
+.lumi-message > p[lang="de"] {
+  font-size: 15px;
+  line-height: 1.95;
+  white-space: pre-wrap;
+}
+.lumi-speak {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 9px;
+  color: #9e7fb2;
+  padding: 8px 0 0;
+  cursor: pointer;
+}
+.lumi-message > .lumi-encouragement {
+  font-size: 11px;
+  line-height: 1.85;
+  margin-top: 13px;
+  color: #b087aa;
+  border-top: 1px solid #e9daef;
+  padding-top: 11px;
+}
+.lumi-corrections {
+  margin-top: 13px;
+  background: #fff4da;
+  border: 1px solid #eddcaf;
+  border-radius: 12px;
+  padding: 12px;
+}
+.lumi-corrections summary {
+  font-size: 11px;
+  font-weight: 900;
+  cursor: pointer;
+}
+.lumi-corrections > div {
+  border-top: 1px dashed #e2cfa5;
+  margin-top: 12px;
+  padding-top: 10px;
+}
+.lumi-corrections span {
+  display: block;
+  font-size: 9px;
+  font-weight: 850;
+  color: #b29464;
+  margin-top: 10px;
+}
+.lumi-corrections p {
+  font-size: 11px;
+  line-height: 1.9;
+  margin: 6px 0;
+}
+.lumi-corrections p[lang="de"] {
+  font-size: 13px;
+  color: #887245;
+}
+.lumi-word-suggestions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 14px;
+}
+.lumi-word-suggestions details {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  border: 1px solid #ddcce8;
+  border-radius: 11px;
+  background: #fffbf4;
+  padding: 8px 10px;
+  max-width: 100%;
+}
+.lumi-word-suggestions summary {
+  font-size: 11px;
+  font-weight: 850;
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: #9c75ad;
+}
+.lumi-word-suggestions p {
+  font-size: 11px;
+  line-height: 1.9;
+  margin: 10px 0;
+}
+.lumi-word-suggestions p[lang="de"] {
+  font-size: 13px;
+  color: #8c6a9d;
+}
+.lumi-ai-word-label {
+  display: block;
+  font-size: 8px;
+  line-height: 1.8;
+  color: #b69abf;
+  margin-top: 12px;
+}
+.lumi-word-suggestions button {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 10px;
+  font-weight: 800;
+  color: #8a669c;
+  border: 1px solid #dfcce9;
+  border-radius: 9px;
+  padding: 7px 10px;
+  background: #f4e9fa;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.lumi-typing {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+  color: #b093be;
+  padding: 10px;
+}
+.lumi-typing > span {
+  font-size: 20px;
+  animation: lumi-spark 2s ease-in-out infinite;
+}
+.lumi-starters {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 9px;
+  padding: 0 20px 18px;
+}
+.lumi-starters button {
+  text-align: left;
+  border: 1px solid #e6d8ee;
+  border-radius: 14px;
+  padding: 12px;
+  background: #faf3fd;
+  cursor: pointer;
+}
+.lumi-starters strong {
+  display: block;
+  font-size: 11px;
+  line-height: 1.7;
+  color: #9875aa;
+}
+.lumi-starters span {
+  display: block;
+  font-size: 9px;
+  line-height: 1.7;
+  margin-top: 6px;
+  color: #b297bc;
+}
+.lumi-chat-error {
+  margin: 0 20px 14px;
+}
+.lumi-consent {
+  display: flex;
+  align-items: flex-start;
+  gap: 9px;
+  font-size: 10px;
+  line-height: 1.85;
+  color: #9a83a5;
+  margin: 0 20px 15px;
+  background: #f6f0fa;
+  padding: 12px;
+  border-radius: 12px;
+}
+.lumi-consent input {
+  margin-top: 3px;
+  flex-shrink: 0;
+  accent-color: #b49aca;
+  width: 15px;
+  height: 15px;
+}
+.lumi-composer {
+  margin: 0 20px 17px;
+  border: 1px solid #daccdf;
+  border-radius: 17px;
+  padding: 13px;
+  background: #fffdf8;
+  box-shadow: 0 3px 8px #8767940a;
+}
+.lumi-composer textarea {
+  resize: vertical;
+  width: 100%;
+  border: 0;
+  outline: none;
+  background: transparent;
+  font-size: 13px;
+  line-height: 1.8;
+  color: #796385;
+  min-height: 65px;
+  max-height: 180px;
+}
+.lumi-composer textarea::placeholder {
+  color: #b8a4be;
+}
+.lumi-composer > div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-between;
+  margin-top: 9px;
+}
+.lumi-composer .button {
+  font-size: 10px;
+  padding: 8px 12px;
+  flex-shrink: 0;
+}
+.lumi-draft-count {
+  font-size: 9px;
+  color: #b4a0bd;
+  white-space: nowrap;
+  margin-left: auto;
+}
+.lumi-voice-input {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 7px;
+  min-width: 0;
+}
+.lumi-voice-input button {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 9px;
+  font-weight: 850;
+  color: #9d7daf;
+  padding: 7px 8px;
+  border: 1px solid #e0d2e8;
+  border-radius: 9px;
+  background: #f9f1fd;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.lumi-voice-input button[aria-pressed="true"] {
+  background: #ffe5ec;
+  border-color: #efbfce;
+  color: #bf8198;
+}
+.lumi-voice-input > span {
+  font-size: 8px;
+  line-height: 1.75;
+  color: #b49ebf;
+  flex-basis: 100%;
+}
+.lumi-chat-footer {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid #efe3f2;
+  padding: 14px 20px;
+  font-size: 9px;
+  color: #b29abd;
+}
+.lumi-chat-footer button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 10px;
+  color: #a181b4;
+  font-weight: 850;
+  cursor: pointer;
+}
+.lumi-speech-status {
+  font-size: 10px;
+  line-height: 1.9;
+  padding: 11px 15px;
+  background: #f2e9f9;
+  margin: 0 20px 12px;
+  border-radius: 11px;
+  color: #a083ae;
+}
+.lumi-speech-status button {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin-left: 8px;
+  font-size: 9px;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.lumi-bottom-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 17px;
+  margin-top: 23px;
+}
+.lumi-word-help,
+.lumi-practice-rules {
+  border: 1px solid #e5d9eb;
+  border-radius: 22px;
+  padding: 24px;
+  background: linear-gradient(130deg, #f6edfd, #fffaf1);
+}
+.lumi-practice-rules {
+  background: linear-gradient(120deg, #eef7e9, #fff4d8);
+  border-color: #dee8ce;
+}
+.lumi-bottom-grid h2 {
+  font-size: 20px;
+  margin: 9px 0 12px;
+  letter-spacing: -0.4px;
+}
+.lumi-bottom-grid p {
+  font-size: 11px;
+  line-height: 1.95;
+  color: #9a83a2;
+  margin: 9px 0;
+}
+.lumi-practice-rules p {
+  color: #929674;
+}
+.lumi-practice-rules > small {
+  font-size: 9px;
+  line-height: 1.95;
+  color: #a4a17f;
+}
+.lumi-word-help > div:not(.lumi-word-suggestions) {
+  display: flex;
+  gap: 8px;
+  margin-top: 15px;
+}
+.lumi-word-help input {
+  background: #fffdf7;
+  border: 1px solid #e3d1ed;
+  border-radius: 11px;
+  min-width: 0;
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 12px;
+}
+.lumi-word-help .button,
+.lumi-practice-rules .button {
+  font-size: 10px;
+}
+.lumi-privacy-note {
+  font-size: 9px;
+  line-height: 2;
+  color: #b39dbd;
+  text-align: center;
+  margin: 21px auto 0;
+  max-width: 850px;
+}
+.lumi-access {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  background: #fff1d8;
+  border: 1px solid #eed9b1;
+  padding: 23px;
+  border-radius: 21px;
+  margin-bottom: 22px;
+  flex-wrap: wrap;
+}
+.lumi-access > div {
+  flex: 1;
+  min-width: 180px;
+}
+.lumi-access h2 {
+  font-size: 18px;
+}
+.lumi-access p {
+  font-size: 10px;
+  line-height: 1.8;
+  color: #aa9267;
+  margin-top: 7px;
+}
+.lumi-access input {
+  min-width: 0;
+  width: 100%;
+  background: #fffaf1;
+  border: 1px solid #e2cfa7;
+  border-radius: 11px;
+  padding: 11px;
+  font-size: 12px;
+}
+.lumi-access .button {
+  font-size: 11px;
+}
+.lumi-delete-dialog {
+  position: fixed;
+  inset: 0;
+  margin: auto;
+  width: min(430px, calc(100% - 30px));
+  background: #fffaf0;
+  border: 1px solid #e4d3e9;
+  border-radius: 24px;
+  padding: 29px;
+  color: #876992;
+  box-shadow: 0 30px 80px #67477933;
+}
+.lumi-delete-dialog::backdrop {
+  background: #5d3a7466;
+  backdrop-filter: blur(4px);
+}
+.lumi-delete-dialog h2 {
+  font-size: 23px;
+  margin: 16px 0;
+}
+.lumi-delete-dialog p {
+  font-size: 12px;
+  line-height: 1.9;
+}
+.lumi-delete-dialog > div {
+  display: flex;
+  gap: 12px;
+  justify-content: flex-end;
+  margin-top: 25px;
+}
+.lumi-saved-words {
+  background: #f6edfc;
+  border: 1px solid #e5d6ed;
+  border-radius: 24px;
+  padding: 25px;
+  margin: 24px 0;
+}
+.lumi-saved-words h2 {
+  font-size: 22px;
+  margin: 9px 0;
+}
+.lumi-saved-words > p {
+  font-size: 12px;
+  line-height: 1.9;
+  color: #a38aad;
+}
+.lumi-saved-words > div {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 18px;
+}
+.lumi-saved-words details {
+  overflow-wrap: anywhere;
+  border: 1px solid #e2d0eb;
+  border-radius: 14px;
+  background: #fffaf2;
+  padding: 15px;
+  min-width: 0;
+}
+.lumi-saved-words summary {
+  font-size: 16px;
+  font-weight: 850;
+  cursor: pointer;
+  color: #9870ad;
+}
+.lumi-saved-words details > p {
+  font-size: 12px;
+  line-height: 1.9;
+  margin: 11px 0;
+}
+.lumi-saved-words details > small,
+.lumi-saved-words details > a {
+  font-size: 9px;
+  line-height: 1.9;
+  color: #b495bf;
+  display: block;
+  margin: 10px 0;
+}
+.lumi-chat-page button:disabled,
+.lumi-saved-words button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.lumi-chat-page button:focus-visible,
+.lumi-chat-page textarea:focus-visible,
+.lumi-chat-page input:focus-visible,
+.lumi-chat-page select:focus-visible {
+  outline: 3px solid #b69cce;
+  outline-offset: 4px;
+}
+.lumi-chat-page summary:focus-visible {
+  outline: 3px solid #b69cce;
+  outline-offset: 4px;
+}
+@keyframes lumi-spark {
+  50% {
+    transform: translateY(-7px) rotate(12deg);
+  }
+}
+@media (max-width: 1100px) {
+  .lumi-workspace {
+    grid-template-columns: 210px minmax(0, 1fr);
+    gap: 13px;
+  }
+  .lumi-chat-sidebar {
+    padding: 17px;
+  }
+  .lumi-chat-top {
+    padding: 17px 15px;
+  }
+  .lumi-chat-top h2 > span {
+    display: block;
+    margin: 4px 0 0;
+  }
+  .lumi-connection {
+    font-size: 7px;
+  }
+  .lumi-messages {
+    padding: 20px 16px;
+  }
+  .lumi-composer > div {
+    flex-wrap: wrap;
+  }
+  .lumi-voice-input {
+    flex: 1;
+  }
+  .lumi-voice-input > span {
+    display: none;
+  }
+  .lumi-empty-chat {
+    padding: 10px 5px 20px;
+  }
+  .lumi-empty-chat h3 {
+    font-size: 20px;
+  }
+  .lumi-setup h2 {
+    font-size: 21px;
+  }
+  .lumi-setup .lumi-mascot {
+    width: 90px;
+  }
+  .lumi-message {
+    max-width: 98%;
+  }
+}
+@media (max-width: 850px) {
+  .lumi-workspace {
+    grid-template-columns: 1fr;
+  }
+  .lumi-chat-sidebar {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 8px 12px;
+    padding: 20px;
+  }
+  .lumi-sidebar-heading,
+  .lumi-sidebar-note,
+  .lumi-chat-sidebar > .lumi-fine,
+  .lumi-history,
+  .lumi-milestones {
+    grid-column: 1/-1;
+  }
+  .lumi-sidebar-heading {
+    margin-bottom: 0;
+  }
+  .lumi-sidebar-note {
+    margin: 0;
+  }
+  .lumi-chat-sidebar > label {
+    margin: 5px 0;
+    font-size: 9px;
+  }
+  .lumi-chat-sidebar > .button {
+    grid-column: 1/-1;
+    margin-top: 5px;
+  }
+  .lumi-chat-sidebar > .lumi-fine {
+    margin: 3px 0 0;
+  }
+  .lumi-history {
+    margin: 7px 0 0;
+    padding-top: 10px;
+    max-height: 160px;
+  }
+  .lumi-history > div {
+    margin-bottom: 4px;
+  }
+  .lumi-milestones {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 6px;
+    padding-top: 12px;
+  }
+  .lumi-milestones p,
+  .lumi-milestones > div {
+    margin: 0;
+  }
+  .lumi-milestones p {
+    margin-left: auto;
+  }
+  .lumi-milestones > div {
+    width: 100%;
+  }
+  .lumi-chat-top h2 > span {
+    display: inline-block;
+    margin: 0 0 0 7px;
+  }
+  .lumi-empty-chat {
+    padding: 20px;
+  }
+  .lumi-voice-input > span {
+    display: block;
+  }
+  .lumi-bottom-grid {
+    grid-template-columns: 1fr;
+  }
+  .lumi-messages {
+    max-height: 570px;
+  }
+  .lumi-setup {
+    padding: 24px;
+  }
+  .lumi-setup h2 {
+    font-size: 23px;
+  }
+  .lumi-setup > div {
+    max-width: 80%;
+  }
+  .lumi-saved-words > div {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 520px) {
+  .lumi-private-badge {
+    font-size: 9px;
+    padding: 8px 10px;
+  }
+  .lumi-chat-page .page-heading h1 {
+    font-size: 28px;
+  }
+  .lumi-setup {
+    padding: 23px 20px;
+    align-items: flex-start;
+    position: relative;
+    overflow: hidden;
+  }
+  .lumi-setup > div {
+    max-width: 100%;
+    position: relative;
+    z-index: 1;
+  }
+  .lumi-setup .lumi-mascot {
+    width: 67px;
+    position: absolute;
+    right: 12px;
+    top: 15px;
+    opacity: 0.45;
+  }
+  .lumi-setup h2 {
+    font-size: 23px;
+    max-width: 240px;
+    line-height: 1.3;
+  }
+  .lumi-setup p {
+    font-size: 11px;
+  }
+  .lumi-setup details {
+    font-size: 10px;
+  }
+  .lumi-chat-sidebar {
+    grid-template-columns: 1fr 1fr;
+    padding: 18px;
+    gap: 10px;
+  }
+  .lumi-chat-sidebar > label:nth-of-type(3) {
+    grid-column: 1/-1;
+  }
+  .lumi-chat-sidebar select {
+    font-size: 10px;
+    height: 38px;
+  }
+  .lumi-chat-sidebar > label {
+    font-size: 9px;
+  }
+  .lumi-chat-top {
+    padding: 16px 13px;
+    gap: 8px;
+  }
+  .lumi-chat-top h2 {
+    font-size: 17px;
+  }
+  .lumi-chat-top h2 > span {
+    display: none;
+  }
+  .lumi-chat-top .lumi-mascot {
+    width: 38px;
+  }
+  .lumi-chat-top p {
+    font-size: 9px;
+  }
+  .lumi-connection {
+    padding: 5px 6px;
+    font-size: 7px;
+  }
+  .lumi-empty-chat {
+    padding: 10px 5px 15px;
+  }
+  .lumi-empty-orbit .lumi-mascot {
+    width: 110px;
+  }
+  .lumi-empty-chat h3 {
+    font-size: 21px;
+  }
+  .lumi-empty-chat > p {
+    font-size: 11px;
+  }
+  .lumi-messages {
+    padding: 19px 14px;
+    min-height: 300px;
+    max-height: 480px;
+  }
+  .lumi-starters {
+    padding: 0 13px 15px;
+    gap: 7px;
+    grid-template-columns: 1fr;
+  }
+  .lumi-starters button {
+    padding: 11px;
+  }
+  .lumi-starters strong {
+    font-size: 11px;
+  }
+  .lumi-starters span {
+    font-size: 9px;
+  }
+  .lumi-consent {
+    margin: 0 13px 13px;
+    font-size: 9px;
+  }
+  .lumi-composer {
+    margin: 0 13px 14px;
+    padding: 12px;
+  }
+  .lumi-composer textarea {
+    font-size: 12px;
+  }
+  .lumi-composer > div {
+    gap: 6px;
+  }
+  .lumi-voice-input > span {
+    display: none;
+  }
+  .lumi-composer .button {
+    font-size: 10px;
+    padding: 8px 10px;
+  }
+  .lumi-draft-count {
+    font-size: 8px;
+  }
+  .lumi-message {
+    padding: 13px 14px;
+  }
+  .lumi-message > p[lang="de"] {
+    font-size: 14px;
+    line-height: 1.95;
+  }
+  .lumi-chat-footer {
+    font-size: 8px;
+    padding: 12px 14px;
+  }
+  .lumi-chat-footer button {
+    font-size: 9px;
+  }
+  .lumi-bottom-grid > div {
+    padding: 21px;
+  }
+  .lumi-bottom-grid h2 {
+    font-size: 20px;
+  }
+  .lumi-bottom-grid p {
+    font-size: 11px;
+  }
+  .lumi-privacy-note {
+    text-align: left;
+    font-size: 9px;
+    line-height: 1.95;
+  }
+  .lumi-access {
+    padding: 20px;
+  }
+  .lumi-access > label {
+    width: 100%;
+  }
+  .lumi-speech-status {
+    margin: 0 13px 12px;
+  }
+  .lumi-chat-error {
+    margin: 0 13px 13px;
+  }
+  .lumi-saved-words {
+    padding: 21px;
+  }
+  .lumi-history strong {
+    font-size: 11px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .lumi-chat-page * {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}

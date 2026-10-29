@@ -1,0 +1,1139 @@
+[
+  {
+    "id": "listen-a2-plan-1",
+    "level": "A2",
+    "title": "Hafta sonu planları",
+    "german": "Ein Wochenende mit Plan B",
+    "category": "conversation",
+    "icon": "🎧",
+    "summary": "Bir hafta sonu planını dinle; saatleri, gerekçeleri ve değişen planı ayırt et. Sekiz açıklamalı soruyla pekiştir.",
+    "lemmas": [
+      "Wochenende",
+      "Pause",
+      "Nachricht"
+    ],
+    "sentences": [
+      {
+        "id": "listen-a2-plan-1:s1",
+        "de": "Hallo Mila, hast du am Samstag Zeit? Ich möchte mit dir an den See fahren.",
+        "tr": "Merhaba Mila, cumartesi vaktin var mı? Seninle göle gitmek istiyorum.",
+        "links": []
+      },
+      {
+        "id": "listen-a2-plan-1:s2",
+        "de": "Gern! Aber am Vormittag muss ich meiner Nachbarin beim Einkaufen helfen.",
+        "tr": "Seve seve! Ama öğleden önce komşuma alışverişte yardım etmem gerekiyor.",
+        "links": []
+      },
+      {
+        "id": "listen-a2-plan-1:s3",
+        "de": "Dann nehmen wir den Bus um halb zwei. Die Fahrt dauert ungefähr vierzig Minuten.",
+        "tr": "O zaman bir buçuktaki otobüse binelim. Yolculuk yaklaşık kırk dakika sürüyor.",
+        "links": []
+      },
+      {
+        "id": "listen-a2-plan-1:s4",
+        "de": "Gut. Ich bringe Brot und Käse mit. Kannst du etwas zu trinken kaufen?",
+        "tr": "Güzel. Ekmek ve peynir getiririm. İçecek bir şeyler alabilir misin?",
+        "links": []
+      },
+      {
+        "id": "listen-a2-plan-1:s5",
+        "de": "Ja, das mache ich. Am See können wir spazieren gehen und eine Pause machen.",
+        "tr": "Evet, alırım. Gölde yürüyüş yapıp mola verebiliriz.",
+        "links": [
+          {
+            "text": "Pause",
+            "lemma": "Pause"
+          }
+        ]
+      },
+      {
+        "id": "listen-a2-plan-1:s6",
+        "de": "Am Freitagabend bekomme ich aber eine Nachricht: Am Samstag soll es stark regnen.",
+        "tr": "Ama cuma akşamı bir mesaj alıyorum: Cumartesi çok yağmur yağması bekleniyormuş.",
+        "links": [
+          {
+            "text": "Nachricht",
+            "lemma": "Nachricht"
+          }
+        ]
+      },
+      {
+        "id": "listen-a2-plan-1:s7",
+        "de": "Bei Regen möchte ich nicht am See sitzen. Wollen wir stattdessen ins Museum gehen?",
+        "tr": "Yağmurda göl kenarında oturmak istemiyorum. Onun yerine müzeye gidelim mi?",
+        "links": []
+      },
+      {
+        "id": "listen-a2-plan-1:s8",
+        "de": "Gute Idee! Das Museum öffnet um zehn, aber wir treffen uns erst um zwei am Eingang.",
+        "tr": "İyi fikir! Müze onda açılıyor ama biz ancak ikide girişte buluşuyoruz.",
+        "links": []
+      },
+      {
+        "id": "listen-a2-plan-1:s9",
+        "de": "Danach können wir im Café neben dem Museum einen Tee trinken. Dort gibt es auch Kuchen.",
+        "tr": "Sonra müzenin yanındaki kafede çay içebiliriz. Orada pasta da var.",
+        "links": []
+      },
+      {
+        "id": "listen-a2-plan-1:s10",
+        "de": "Abgemacht! Den Ausflug an den See verschieben wir auf das nächste Wochenende.",
+        "tr": "Anlaştık! Göl gezisini gelecek hafta sonuna erteliyoruz.",
+        "links": [
+          {
+            "text": "Wochenende",
+            "lemma": "Wochenende"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-a2-plan-1:q1",
+        "type": "choice",
+        "wordIds": [
+          "listen-a2-plan-1"
+        ],
+        "prompt": "İlk plan nedir?",
+        "accepted": [
+          "Göle gitmek"
+        ],
+        "options": [
+          "Komşuyu ziyaret etmek",
+          "Müzede çalışmak",
+          "Göle gitmek"
+        ],
+        "explanation": "İlk cümlede “an den See fahren” deniyor. Müze, hava nedeniyle sonradan seçilen alternatif."
+      },
+      {
+        "id": "listen-a2-plan-1:q2",
+        "type": "choice",
+        "wordIds": [
+          "listen-a2-plan-1"
+        ],
+        "prompt": "Mila neden sabah gelemiyor?",
+        "accepted": [
+          "Komşusuna alışverişte yardım edecek."
+        ],
+        "options": [
+          "Komşusuna alışverişte yardım edecek.",
+          "Müze kapalı olduğu için.",
+          "Otobüsü kaçırdığı için."
+        ],
+        "explanation": "“muss ... beim Einkaufen helfen” bir zorunluluk bildirir; “beim” burada etkinlik sırasında anlamı taşır."
+      },
+      {
+        "id": "listen-a2-plan-1:q3",
+        "type": "choice",
+        "wordIds": [
+          "listen-a2-plan-1"
+        ],
+        "prompt": "İlk plandaki otobüs saat kaçta?",
+        "accepted": [
+          "13.30"
+        ],
+        "options": [
+          "12.30",
+          "13.30",
+          "14.30"
+        ],
+        "explanation": "Almanca “halb zwei”, ikiye yarım saat var demektir: 13.30. Türkçe saat ifadesiyle karıştırma."
+      },
+      {
+        "id": "listen-a2-plan-1:q4",
+        "type": "choice",
+        "wordIds": [
+          "listen-a2-plan-1"
+        ],
+        "prompt": "Yiyecekleri kim getirecek?",
+        "accepted": [
+          "Mila"
+        ],
+        "options": [
+          "Mila",
+          "Otobüs şoförü",
+          "Komşusu"
+        ],
+        "explanation": "Mila “Ich bringe Brot und Käse mit” diyor. Ayrılabilen “mitbringen” fiilinin “mit” parçası sonda."
+      },
+      {
+        "id": "listen-a2-plan-1:q5",
+        "type": "choice",
+        "wordIds": [
+          "listen-a2-plan-1"
+        ],
+        "prompt": "Mesaj ne zaman geliyor?",
+        "accepted": [
+          "Cuma akşamı"
+        ],
+        "options": [
+          "Cuma akşamı",
+          "Cumartesi öğleden sonra",
+          "Pazar sabahı"
+        ],
+        "explanation": "“Am Freitagabend” zaman bilgisidir. Yağmurun beklendiği gün ise cumartesidir."
+      },
+      {
+        "id": "listen-a2-plan-1:q6",
+        "type": "choice",
+        "wordIds": [
+          "listen-a2-plan-1"
+        ],
+        "prompt": "Buluşma nerede ve kaçta?",
+        "accepted": [
+          "Müzenin girişinde saat 14.00’te."
+        ],
+        "options": [
+          "Gölde saat 10.00’da.",
+          "Müzenin girişinde saat 14.00’te.",
+          "Kafede saat 13.30’da."
+        ],
+        "explanation": "Müzenin açılış saati on; buluşma saati iki. Dinlerken bu iki saatin görevini ayır."
+      },
+      {
+        "id": "listen-a2-plan-1:q7",
+        "type": "choice",
+        "wordIds": [
+          "listen-a2-plan-1"
+        ],
+        "prompt": "“stattdessen” burada ne demek?",
+        "accepted": [
+          "Onun yerine"
+        ],
+        "options": [
+          "Buna rağmen",
+          "Önceki gün",
+          "Onun yerine"
+        ],
+        "explanation": "Göle gitme planının yerine müze öneriliyor; “stattdessen” bir alternatif getirir."
+      },
+      {
+        "id": "listen-a2-plan-1:q8",
+        "type": "choice",
+        "wordIds": [
+          "listen-a2-plan-1"
+        ],
+        "prompt": "Göl gezisi iptal mi ediliyor?",
+        "accepted": [
+          "Hayır, gelecek hafta sonuna erteleniyor."
+        ],
+        "options": [
+          "Evet, bir daha yapılmayacak.",
+          "Hayır, aynı sabah yapılıyor.",
+          "Hayır, gelecek hafta sonuna erteleniyor."
+        ],
+        "explanation": "“auf das nächste Wochenende verschieben” ertelemek demektir. “absagen” ile aynı anlamda değildir."
+      }
+    ]
+  },
+  {
+    "id": "listen-b1-plan-1",
+    "level": "B1",
+    "title": "İş yerinde konuşmalar",
+    "german": "Eine Übergabe ohne Missverständnisse",
+    "category": "education",
+    "icon": "🎧",
+    "summary": "Bir ekip konuşmasında sorumluluk, süre ve koşulları takip et. Sekiz soruyla ayrıntıları ve neden-sonuç bağlarını çalış.",
+    "lemmas": [
+      "Wochenende",
+      "Pause",
+      "Nachricht"
+    ],
+    "sentences": [
+      {
+        "id": "listen-b1-plan-1:s1",
+        "de": "Bevor wir anfangen, möchte ich die Aufgaben für diese Woche verteilen. Der Bericht soll am Donnerstag fertig sein.",
+        "tr": "Başlamadan önce bu haftanın görevlerini dağıtmak istiyorum. Rapor perşembe günü hazır olmalı.",
+        "links": []
+      },
+      {
+        "id": "listen-b1-plan-1:s2",
+        "de": "Ich kann die Zahlen prüfen, obwohl ich am Dienstag eine Fortbildung habe.",
+        "tr": "Salı günü bir eğitimim olmasına rağmen sayıları kontrol edebilirim.",
+        "links": []
+      },
+      {
+        "id": "listen-b1-plan-1:s3",
+        "de": "Danke, Nora. Bitte schicke mir deine Ergebnisse bis Mittwochmittag, damit ich genug Zeit für die Zusammenfassung habe.",
+        "tr": "Teşekkürler Nora. Özeti hazırlamak için yeterli zamanım olsun diye sonuçlarını çarşamba öğlene kadar bana gönder lütfen.",
+        "links": []
+      },
+      {
+        "id": "listen-b1-plan-1:s4",
+        "de": "Das schaffe ich, wenn ich die neue Tabelle heute bekomme. In der alten Datei fehlen die Daten vom Wochenende.",
+        "tr": "Yeni tabloyu bugün alırsam yetiştiririm. Eski dosyada hafta sonunun verileri eksik.",
+        "links": [
+          {
+            "text": "Wochenende",
+            "lemma": "Wochenende"
+          }
+        ]
+      },
+      {
+        "id": "listen-b1-plan-1:s5",
+        "de": "Ich habe die Tabelle schon aktualisiert. Du findest sie im gemeinsamen Ordner unter dem heutigen Datum.",
+        "tr": "Tabloyu zaten güncelledim. Ortak klasörde bugünün tarihi altında bulabilirsin.",
+        "links": []
+      },
+      {
+        "id": "listen-b1-plan-1:s6",
+        "de": "Eine Sache ist noch unklar: Wer informiert die Kundin, falls wir später liefern müssen?",
+        "tr": "Bir şey hâlâ belirsiz: Daha geç teslim etmemiz gerekirse müşteriyi kim bilgilendirecek?",
+        "links": []
+      },
+      {
+        "id": "listen-b1-plan-1:s7",
+        "de": "Das übernehme ich. Aber wir melden uns nur, wenn sich der Termin wirklich ändert.",
+        "tr": "Bunu ben üstlenirim. Ama yalnızca tarih gerçekten değişirse haber vereceğiz.",
+        "links": []
+      },
+      {
+        "id": "listen-b1-plan-1:s8",
+        "de": "Nach der Pause prüfen wir gemeinsam, ob alle Angaben verständlich sind. Fachbegriffe erklären wir in einfachen Worten.",
+        "tr": "Moladan sonra bütün bilgilerin anlaşılır olup olmadığını birlikte kontrol edeceğiz. Teknik terimleri basit sözcüklerle açıklayacağız.",
+        "links": [
+          {
+            "text": "Pause",
+            "lemma": "Pause"
+          }
+        ]
+      },
+      {
+        "id": "listen-b1-plan-1:s9",
+        "de": "Bitte dokumentiert auch offene Fragen. Sonst müssen wir beim nächsten Treffen wieder von vorn anfangen.",
+        "tr": "Lütfen açık kalan soruları da kaydedin. Yoksa sonraki toplantıda yeniden baştan başlamak zorunda kalırız.",
+        "links": []
+      },
+      {
+        "id": "listen-b1-plan-1:s10",
+        "de": "Einverstanden. Ich schicke nachher eine kurze Nachricht mit den Aufgaben und Fristen an das ganze Team.",
+        "tr": "Anlaştık. Birazdan bütün ekibe görevleri ve süreleri içeren kısa bir mesaj göndereceğim.",
+        "links": [
+          {
+            "text": "Nachricht",
+            "lemma": "Nachricht"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-b1-plan-1:q1",
+        "type": "choice",
+        "wordIds": [
+          "listen-b1-plan-1"
+        ],
+        "prompt": "Raporun tamamlanma günü hangisi?",
+        "accepted": [
+          "Perşembe"
+        ],
+        "options": [
+          "Salı",
+          "Perşembe",
+          "Çarşamba öğle"
+        ],
+        "explanation": "Perşembe nihai teslim günüdür. Çarşamba öğle ise Nora’nın ara sonuçları için belirlenen süredir."
+      },
+      {
+        "id": "listen-b1-plan-1:q2",
+        "type": "choice",
+        "wordIds": [
+          "listen-b1-plan-1"
+        ],
+        "prompt": "Nora hangi görevi üstleniyor?",
+        "accepted": [
+          "Sayıları kontrol etmek"
+        ],
+        "options": [
+          "Sayıları kontrol etmek",
+          "Müşteriye telefon etmek",
+          "Teknik terimleri çevirmek"
+        ],
+        "explanation": "“die Zahlen prüfen” sayıları kontrol etmek demektir. Müşteriyle iletişim görevini başka bir konuşmacı üstleniyor."
+      },
+      {
+        "id": "listen-b1-plan-1:q3",
+        "type": "choice",
+        "wordIds": [
+          "listen-b1-plan-1"
+        ],
+        "prompt": "“obwohl” hangi ilişkiyi kuruyor?",
+        "accepted": [
+          "Bir engele rağmen görevi yapabilme"
+        ],
+        "options": [
+          "Kesin bir zaman sırası",
+          "Bir engele rağmen görevi yapabilme",
+          "Görevi yapmanın amacı"
+        ],
+        "explanation": "“obwohl” karşıtlık bildirir: Eğitim var, buna rağmen kontrol yapılabilir. Yan cümlede çekimli fiil sona gider."
+      },
+      {
+        "id": "listen-b1-plan-1:q4",
+        "type": "choice",
+        "wordIds": [
+          "listen-b1-plan-1"
+        ],
+        "prompt": "Sonuçların çarşamba öğlene kadar istenmesinin amacı ne?",
+        "accepted": [
+          "Özet için yeterli zaman bırakmak"
+        ],
+        "options": [
+          "Salı eğitimini iptal etmek",
+          "Müşteriyi bekletmek",
+          "Özet için yeterli zaman bırakmak"
+        ],
+        "explanation": "“damit ich genug Zeit ... habe” amaç bildirir. Sonuçları gönderen kişi ile özeti hazırlayan kişi farklıdır."
+      },
+      {
+        "id": "listen-b1-plan-1:q5",
+        "type": "choice",
+        "wordIds": [
+          "listen-b1-plan-1"
+        ],
+        "prompt": "Nora’nın yetiştirme koşulu hangisi?",
+        "accepted": [
+          "Yeni tabloyu bugün alması"
+        ],
+        "options": [
+          "Yeni tabloyu bugün alması",
+          "Müşterinin araması",
+          "Perşembe tatil olması"
+        ],
+        "explanation": "“wenn ich die neue Tabelle heute bekomme” koşuldur. “wenn” burada “eğer” diye anlaşılır."
+      },
+      {
+        "id": "listen-b1-plan-1:q6",
+        "type": "choice",
+        "wordIds": [
+          "listen-b1-plan-1"
+        ],
+        "prompt": "Güncel tablo nerede?",
+        "accepted": [
+          "Ortak klasörde, bugünün tarihi altında."
+        ],
+        "options": [
+          "Eski e-postada.",
+          "Ortak klasörde, bugünün tarihi altında.",
+          "Nora’nın eğitim dosyasında."
+        ],
+        "explanation": "“gemeinsamen Ordner” ortak klasör; “unter dem heutigen Datum” dosyayı bulmayı sağlayan ayrıntıdır."
+      },
+      {
+        "id": "listen-b1-plan-1:q7",
+        "type": "choice",
+        "wordIds": [
+          "listen-b1-plan-1"
+        ],
+        "prompt": "Müşteriye ne zaman haber verilecek?",
+        "accepted": [
+          "Tarih gerçekten değişirse."
+        ],
+        "options": [
+          "Tarih gerçekten değişirse.",
+          "Her toplantıdan önce.",
+          "Koşulsuz olarak hemen."
+        ],
+        "explanation": "“nur, wenn” yalnızca belirli koşul gerçekleşirse demektir; kesin bir gecikme ilan edilmemiştir."
+      },
+      {
+        "id": "listen-b1-plan-1:q8",
+        "type": "choice",
+        "wordIds": [
+          "listen-b1-plan-1"
+        ],
+        "prompt": "Açık sorular neden kaydediliyor?",
+        "accepted": [
+          "Sonraki toplantıda başa dönmemek için."
+        ],
+        "options": [
+          "Görevleri tamamen bırakmak için.",
+          "Müşteriyi suçlamak için.",
+          "Sonraki toplantıda başa dönmemek için."
+        ],
+        "explanation": "“Sonst” olumsuz sonucu haber verir: Aksi takdirde aynı işi yeniden yapmak gerekir."
+      }
+    ]
+  },
+  {
+    "id": "listen-b2-plan-1",
+    "level": "B2",
+    "title": "Röportajlar",
+    "german": "Wem gehört der öffentliche Raum?",
+    "category": "culture",
+    "icon": "🎧",
+    "summary": "Bir röportajda görüş ile kanıtı ayır; karşı sav, koşullu destek ve sınırlamaları sekiz soruyla değerlendir.",
+    "lemmas": [
+      "Wochenende",
+      "Pause"
+    ],
+    "sentences": [
+      {
+        "id": "listen-b2-plan-1:s1",
+        "de": "In unserer Stadt wird darüber diskutiert, ob eine Straße am Wochenende für Autos gesperrt werden soll.",
+        "tr": "Şehrimizde bir caddenin hafta sonunda otomobillere kapatılıp kapatılmaması tartışılıyor.",
+        "links": [
+          {
+            "text": "Wochenende",
+            "lemma": "Wochenende"
+          }
+        ]
+      },
+      {
+        "id": "listen-b2-plan-1:s2",
+        "de": "Frau Berger, Sie führen dort ein Geschäft. Welche Folgen erwarten Sie von dem geplanten Versuch?",
+        "tr": "Bayan Berger, orada bir işletmeniz var. Planlanan denemeden nasıl sonuçlar bekliyorsunuz?",
+        "links": []
+      },
+      {
+        "id": "listen-b2-plan-1:s3",
+        "de": "Zunächst war ich skeptisch, weil manche Kundinnen und Kunden auf das Auto angewiesen sind.",
+        "tr": "Başlangıçta kuşkucuydum; çünkü bazı müşteriler otomobile bağımlı.",
+        "links": []
+      },
+      {
+        "id": "listen-b2-plan-1:s4",
+        "de": "Inzwischen halte ich den Versuch für sinnvoll, sofern die Lieferungen am Morgen weiterhin möglich bleiben.",
+        "tr": "Sabah teslimatları mümkün olmaya devam ettiği takdirde artık bu denemeyi anlamlı buluyorum.",
+        "links": []
+      },
+      {
+        "id": "listen-b2-plan-1:s5",
+        "de": "Die Stadt verweist auf eine Befragung. Die Mehrheit der Befragten wünscht sich mehr Platz zum Sitzen und Spielen.",
+        "tr": "Belediye bir ankete işaret ediyor. Ankete katılanların çoğunluğu oturmak ve oynamak için daha çok alan istiyor.",
+        "links": []
+      },
+      {
+        "id": "listen-b2-plan-1:s6",
+        "de": "Das ist ein wichtiges Signal, aber noch kein Beleg dafür, dass der Umsatz steigen wird.",
+        "tr": "Bu önemli bir işaret; ancak cironun artacağının henüz bir kanıtı değil.",
+        "links": []
+      },
+      {
+        "id": "listen-b2-plan-1:s7",
+        "de": "Deshalb sollten während des Versuchs sowohl die Besucherzahlen als auch die Erfahrungen der Anwohnenden erfasst werden.",
+        "tr": "Bu nedenle deneme sırasında hem ziyaretçi sayıları hem de çevrede yaşayanların deneyimleri kaydedilmeli.",
+        "links": []
+      },
+      {
+        "id": "listen-b2-plan-1:s8",
+        "de": "Ein Nachbar befürchtet, dass der Verkehr nur in die nächste Straße verlagert wird. Diese Sorge darf man nicht übergehen.",
+        "tr": "Bir komşu, trafiğin yalnızca yan caddeye kaydırılmasından kaygı duyuyor. Bu kaygı göz ardı edilmemeli.",
+        "links": []
+      },
+      {
+        "id": "listen-b2-plan-1:s9",
+        "de": "Nach einer kurzen Pause fügt Frau Berger hinzu: Eine Entscheidung wäre überzeugender, wenn die Kriterien vorher öffentlich wären.",
+        "tr": "Kısa bir moladan sonra Bayan Berger ekliyor: Ölçütler önceden kamuya açıklansaydı karar daha ikna edici olurdu.",
+        "links": [
+          {
+            "text": "Pause",
+            "lemma": "Pause"
+          }
+        ]
+      },
+      {
+        "id": "listen-b2-plan-1:s10",
+        "de": "Der Versuch ist auf drei Monate begrenzt. Erst danach soll über eine dauerhafte Regelung entschieden werden.",
+        "tr": "Deneme üç ayla sınırlı. Kalıcı bir düzenleme hakkında ancak bundan sonra karar verilmesi planlanıyor.",
+        "links": []
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-b2-plan-1:q1",
+        "type": "choice",
+        "wordIds": [
+          "listen-b2-plan-1"
+        ],
+        "prompt": "Röportajın konusu nedir?",
+        "accepted": [
+          "Hafta sonunda bir caddenin araçlara kapatılması denemesi"
+        ],
+        "options": [
+          "Mağazaların süresiz kapatılması",
+          "Hafta sonunda bir caddenin araçlara kapatılması denemesi",
+          "Bütün şehirde otomobillerin yasaklanması"
+        ],
+        "explanation": "Öneri bir caddeyi ve hafta sonunu kapsar. Yer ve zaman sınırlarını genişleterek yorumlamamak gerekir."
+      },
+      {
+        "id": "listen-b2-plan-1:q2",
+        "type": "choice",
+        "wordIds": [
+          "listen-b2-plan-1"
+        ],
+        "prompt": "Berger’in ilk tutumu neydi?",
+        "accepted": [
+          "Bazı müşterilerin otomobile ihtiyacı olduğu için kuşkuluydu."
+        ],
+        "options": [
+          "Konudan haberi yoktu.",
+          "Bazı müşterilerin otomobile ihtiyacı olduğu için kuşkuluydu.",
+          "Kanıt olmadan kesin destek veriyordu."
+        ],
+        "explanation": "“Zunächst war ich skeptisch” ilk tutumu, “inzwischen” ise sonradan değişen değerlendirmeyi gösterir."
+      },
+      {
+        "id": "listen-b2-plan-1:q3",
+        "type": "choice",
+        "wordIds": [
+          "listen-b2-plan-1"
+        ],
+        "prompt": "Berger hangi koşulla destek veriyor?",
+        "accepted": [
+          "Sabah teslimatlarının sürmesi koşuluyla."
+        ],
+        "options": [
+          "Anket iptal edilirse.",
+          "Bütün teslimatlar yasaklanırsa.",
+          "Sabah teslimatlarının sürmesi koşuluyla."
+        ],
+        "explanation": "“sofern” resmî dilde koşul bildirir. Burada desteğin sınırını açıklar."
+      },
+      {
+        "id": "listen-b2-plan-1:q4",
+        "type": "choice",
+        "wordIds": [
+          "listen-b2-plan-1"
+        ],
+        "prompt": "Anket neyi gösteriyor?",
+        "accepted": [
+          "Katılımcı çoğunluğun daha fazla ortak alan istediğini."
+        ],
+        "options": [
+          "Cironun kesin artacağını.",
+          "Katılımcı çoğunluğun daha fazla ortak alan istediğini.",
+          "Bütün kent halkının aynı fikirde olduğunu."
+        ],
+        "explanation": "Anket bir tercih bildiriyor. Bu sonuçtan ekonomik artış ya da herkesin görüşü otomatik olarak çıkarılamaz."
+      },
+      {
+        "id": "listen-b2-plan-1:q5",
+        "type": "choice",
+        "wordIds": [
+          "listen-b2-plan-1"
+        ],
+        "prompt": "Hangi iki veri birlikte toplanmalı?",
+        "accepted": [
+          "Ziyaretçi sayıları ve çevre sakinlerinin deneyimleri"
+        ],
+        "options": [
+          "Yalnızca sosyal medya beğenileri",
+          "Ziyaretçi sayıları ve çevre sakinlerinin deneyimleri",
+          "Hava sıcaklığı ve ürün renkleri"
+        ],
+        "explanation": "“sowohl ... als auch” iki unsuru aynı ağırlıkla bağlar: Hem nicel hem deneyime dayalı bilgi isteniyor."
+      },
+      {
+        "id": "listen-b2-plan-1:q6",
+        "type": "choice",
+        "wordIds": [
+          "listen-b2-plan-1"
+        ],
+        "prompt": "Komşunun kaygısı ne?",
+        "accepted": [
+          "Trafiğin yakındaki caddeye kayması"
+        ],
+        "options": [
+          "Trafiğin yakındaki caddeye kayması",
+          "Caddeye hiç yaya gelmemesi",
+          "Sabah teslimatlarının artması"
+        ],
+        "explanation": "“verlagern” bir sorunun başka yere taşınmasını anlatır; trafiğin ortadan kalktığı söylenmiyor."
+      },
+      {
+        "id": "listen-b2-plan-1:q7",
+        "type": "choice",
+        "wordIds": [
+          "listen-b2-plan-1"
+        ],
+        "prompt": "Kararı daha ikna edici kılacak unsur hangisi?",
+        "accepted": [
+          "Ölçütlerin önceden açıklanması"
+        ],
+        "options": [
+          "Ölçütlerin sonuçtan sonra seçilmesi",
+          "Denemenin hiç ölçülmemesi",
+          "Ölçütlerin önceden açıklanması"
+        ],
+        "explanation": "“wäre ... wenn ... wären” Konjunktiv II ile bir iyileştirme önerir; mevcut durum hakkında kesin bir suçlama yapmaz."
+      },
+      {
+        "id": "listen-b2-plan-1:q8",
+        "type": "choice",
+        "wordIds": [
+          "listen-b2-plan-1"
+        ],
+        "prompt": "Kalıcı karar ne zaman verilecek?",
+        "accepted": [
+          "Üç aylık denemeden sonra."
+        ],
+        "options": [
+          "Röportajdan önce.",
+          "Üç aylık denemeden sonra.",
+          "İlk sabah kesinleşmiş."
+        ],
+        "explanation": "“Erst danach” ancak ondan sonra demektir. Deneme ile kalıcı uygulama farklı aşamalardır."
+      }
+    ]
+  },
+  {
+    "id": "listen-c1-plan-1",
+    "level": "C1",
+    "title": "Akademik tartışmalar",
+    "german": "Was Zahlen tatsächlich erklären",
+    "category": "education",
+    "icon": "🎧",
+    "summary": "Bir araştırma sunumunda yöntem, sınırlılık, nedensellik ve ihtiyatlı sonuç çıkarımını incele. Sekiz gerekçeli soru içerir.",
+    "lemmas": [
+      "Pause",
+      "Nachricht"
+    ],
+    "sentences": [
+      {
+        "id": "listen-c1-plan-1:s1",
+        "de": "Unsere Untersuchung befasst sich mit der Frage, inwiefern regelmäßige Lesepausen das Textverständnis unterstützen können.",
+        "tr": "Araştırmamız, düzenli okuma molalarının metni anlamayı ne ölçüde destekleyebileceği sorusunu ele alıyor.",
+        "links": []
+      },
+      {
+        "id": "listen-c1-plan-1:s2",
+        "de": "An der Studie nahmen sechzig Freiwillige teil, die sich nach einer Nachricht im Hochschulverteiler gemeldet hatten.",
+        "tr": "Çalışmaya, üniversitenin duyuru listesindeki bir mesaj üzerine başvuran altmış gönüllü katıldı.",
+        "links": [
+          {
+            "text": "Nachricht",
+            "lemma": "Nachricht"
+          }
+        ]
+      },
+      {
+        "id": "listen-c1-plan-1:s3",
+        "de": "Die eine Gruppe legte nach jeweils zwanzig Minuten eine kurze Pause ein, während die andere ohne Unterbrechung las.",
+        "tr": "Bir grup her yirmi dakikadan sonra kısa bir mola verirken diğer grup kesintisiz okudu.",
+        "links": [
+          {
+            "text": "Pause",
+            "lemma": "Pause"
+          }
+        ]
+      },
+      {
+        "id": "listen-c1-plan-1:s4",
+        "de": "Im anschließenden Test schnitt die erste Gruppe im Durchschnitt besser ab; die Unterschiede waren jedoch nicht bei allen Textsorten gleich groß.",
+        "tr": "Sonraki testte ilk grup ortalamada daha iyi sonuç aldı; ancak fark bütün metin türlerinde aynı büyüklükte değildi.",
+        "links": []
+      },
+      {
+        "id": "listen-c1-plan-1:s5",
+        "de": "Daraus lässt sich zunächst ein Zusammenhang ableiten, nicht aber die Behauptung, jede beliebige Pause steigere zwangsläufig die Leistung.",
+        "tr": "Buradan başlangıç olarak bir ilişki çıkarılabilir; fakat her türlü molanın zorunlu olarak başarıyı artırdığı iddiası çıkarılamaz.",
+        "links": [
+          {
+            "text": "Pause",
+            "lemma": "Pause"
+          }
+        ]
+      },
+      {
+        "id": "listen-c1-plan-1:s6",
+        "de": "Da die Teilnehmenden freiwillig mitwirkten, ist nicht auszuschließen, dass besonders motivierte Personen überrepräsentiert waren.",
+        "tr": "Katılımcılar gönüllü yer aldığından özellikle motive kişilerin gereğinden fazla temsil edilmiş olması dışlanamaz.",
+        "links": []
+      },
+      {
+        "id": "listen-c1-plan-1:s7",
+        "de": "Hinzu kommt, dass wir lediglich die unmittelbare Leistung gemessen haben. Über langfristige Lernfortschritte sagen die Daten wenig aus.",
+        "tr": "Üstelik yalnızca anlık başarıyı ölçtük. Veriler uzun vadeli öğrenme ilerlemesi hakkında pek bir şey söylemiyor.",
+        "links": []
+      },
+      {
+        "id": "listen-c1-plan-1:s8",
+        "de": "Eine Kollegin fragt, ob der beobachtete Unterschied auch auf die Schwierigkeit der Texte zurückzuführen sein könnte.",
+        "tr": "Bir meslektaş, gözlenen farkın metinlerin zorluğundan da kaynaklanıp kaynaklanamayacağını soruyor.",
+        "links": []
+      },
+      {
+        "id": "listen-c1-plan-1:s9",
+        "de": "Dieser Einwand ist berechtigt. In einer Folgestudie wollen wir Textschwierigkeit und Vorwissen systematischer berücksichtigen.",
+        "tr": "Bu itiraz yerinde. Sonraki bir çalışmada metin zorluğunu ve ön bilgiyi daha sistematik biçimde dikkate almak istiyoruz.",
+        "links": []
+      },
+      {
+        "id": "listen-c1-plan-1:s10",
+        "de": "Unsere Empfehlung lautet daher, Pausen bewusst auszuprobieren und ihre Wirkung zu beobachten, statt eine allgemeingültige Regel zu verkünden.",
+        "tr": "Bu nedenle önerimiz, evrensel bir kural ilan etmek yerine molaları bilinçli biçimde deneyip etkilerini gözlemlemektir.",
+        "links": [
+          {
+            "text": "Pause",
+            "lemma": "Pause"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-c1-plan-1:q1",
+        "type": "choice",
+        "wordIds": [
+          "listen-c1-plan-1"
+        ],
+        "prompt": "Araştırmanın temel sorusu hangisi?",
+        "accepted": [
+          "Okuma molalarının anlamayı ne ölçüde destekleyebildiği"
+        ],
+        "options": [
+          "Gönüllülerin hangi şehirde yaşadığı",
+          "Okuma molalarının anlamayı ne ölçüde destekleyebildiği",
+          "Her metnin aynı zorlukta olup olmadığı"
+        ],
+        "explanation": "“inwiefern” ölçü ve kapsam sorgular. Sunum mutlak bir yarar iddiasıyla başlamıyor."
+      },
+      {
+        "id": "listen-c1-plan-1:q2",
+        "type": "choice",
+        "wordIds": [
+          "listen-c1-plan-1"
+        ],
+        "prompt": "Örneklemle ilgili sınırlılık nedir?",
+        "accepted": [
+          "Gönüllülük nedeniyle motivasyonu yüksek kişiler fazla temsil edilmiş olabilir."
+        ],
+        "options": [
+          "Gönüllülük nedeniyle motivasyonu yüksek kişiler fazla temsil edilmiş olabilir.",
+          "Hiç kimse çalışmaya katılmamıştır.",
+          "Bütün toplum rastgele seçilmiştir."
+        ],
+        "explanation": "“nicht auszuschließen” ihtimali dışlamamaktır. Seçim yanlılığı ihtimali belirtiliyor; kesinleşmiş bir kusur olarak sunulmuyor."
+      },
+      {
+        "id": "listen-c1-plan-1:q3",
+        "type": "choice",
+        "wordIds": [
+          "listen-c1-plan-1"
+        ],
+        "prompt": "İlk grup ne yapmıştır?",
+        "accepted": [
+          "Her yirmi dakikada kısa mola vermiştir."
+        ],
+        "options": [
+          "Hiç mola vermemiştir.",
+          "Yalnızca hafta sonunda okumuştur.",
+          "Her yirmi dakikada kısa mola vermiştir."
+        ],
+        "explanation": "“nach jeweils zwanzig Minuten” tekrarlanan bir zaman düzenidir. “jeweils” her defasında anlamını ekler."
+      },
+      {
+        "id": "listen-c1-plan-1:q4",
+        "type": "choice",
+        "wordIds": [
+          "listen-c1-plan-1"
+        ],
+        "prompt": "Sonuçların kapsamı hangisi?",
+        "accepted": [
+          "Ortalama fark var; metin türleri arasında farkın büyüklüğü değişiyor."
+        ],
+        "options": [
+          "Ortalama fark var; metin türleri arasında farkın büyüklüğü değişiyor.",
+          "Her metinde fark eşittir.",
+          "Her katılımcı aynı puanı almıştır."
+        ],
+        "explanation": "“im Durchschnitt” bireysel sonuçların hepsine ilişkin değildir; “jedoch” genellemeyi sınırlayan karşı noktayı getirir."
+      },
+      {
+        "id": "listen-c1-plan-1:q5",
+        "type": "choice",
+        "wordIds": [
+          "listen-c1-plan-1"
+        ],
+        "prompt": "Konuşmacı hangi çıkarımı reddediyor?",
+        "accepted": [
+          "Her türlü molanın zorunlu olarak başarıyı artıracağını."
+        ],
+        "options": [
+          "Gruplar arasında ortalama fark bulunduğunu.",
+          "Her türlü molanın zorunlu olarak başarıyı artıracağını.",
+          "Yeni araştırma yapılabileceğini."
+        ],
+        "explanation": "“nicht aber” çıkarımın sınırını çizer. “zwangsläufig” kaçınılmazlık anlamı taşıdığı için iddiayı gereğinden fazla güçlendirir."
+      },
+      {
+        "id": "listen-c1-plan-1:q6",
+        "type": "choice",
+        "wordIds": [
+          "listen-c1-plan-1"
+        ],
+        "prompt": "Veriler neyi yeterince açıklamıyor?",
+        "accepted": [
+          "Uzun vadeli öğrenme ilerlemesini"
+        ],
+        "options": [
+          "Anlık testteki ortalama sonucu",
+          "Katılımcı sayısını",
+          "Uzun vadeli öğrenme ilerlemesini"
+        ],
+        "explanation": "“lediglich” yalnızca demektir. Ölçüm anlık başarıyla sınırlı olduğundan uzun vadeli etkiyi kanıtlamaz."
+      },
+      {
+        "id": "listen-c1-plan-1:q7",
+        "type": "choice",
+        "wordIds": [
+          "listen-c1-plan-1"
+        ],
+        "prompt": "Meslektaşın itirazına verilen tepki hangisi?",
+        "accepted": [
+          "Yerinde bulunup yeni çalışmanın tasarımına katılıyor."
+        ],
+        "options": [
+          "Sonuçlar gizleniyor.",
+          "Kişisel saldırı sayılıp reddediliyor.",
+          "Yerinde bulunup yeni çalışmanın tasarımına katılıyor."
+        ],
+        "explanation": "“berechtigt” haklı/yerinde anlamındadır. Yanıt, yöntemin geliştirilmesine açık bir bilimsel tutum sergiler."
+      },
+      {
+        "id": "listen-c1-plan-1:q8",
+        "type": "choice",
+        "wordIds": [
+          "listen-c1-plan-1"
+        ],
+        "prompt": "Son önerinin tonu nasıl?",
+        "accepted": [
+          "Denemeye ve gözleme dayalı, ihtiyatlı."
+        ],
+        "options": [
+          "Denemeye ve gözleme dayalı, ihtiyatlı.",
+          "Her öğrenci için tartışmasız bir emir.",
+          "Molaların kesin olarak yasaklanması."
+        ],
+        "explanation": "“statt ... zu” iki yaklaşımı karşılaştırır: Gözlem önerilir, evrensel kural ilan etmekten kaçınılır."
+      }
+    ]
+  },
+  {
+    "id": "listen-c2-plan-1",
+    "level": "C2",
+    "title": "İnce ayrımlı tartışmalar",
+    "german": "Ein Kompromiss, der Fragen offenlässt",
+    "category": "conversation",
+    "icon": "🎧",
+    "summary": "İma, ironi, ödün ve söylem sınırlarını dinle. Kesin bilgi ile yorumun derecesini sekiz açıklamalı soruyla ayır.",
+    "lemmas": [
+      "Pause",
+      "Nachricht"
+    ],
+    "sentences": [
+      {
+        "id": "listen-c2-plan-1:s1",
+        "de": "Wenn ich die Stellungnahme richtig lese, ist man sich nun also einig, dass Einigkeit vorerst nicht zu erzielen ist.",
+        "tr": "Açıklamayı doğru okuyorsam artık şunda anlaşılmış: Şimdilik anlaşmaya varılamayacağında.",
+        "links": []
+      },
+      {
+        "id": "listen-c2-plan-1:s2",
+        "de": "Das klingt spöttischer, als ich es meine. Immerhin hat die Kommission offengelegt, woran die Verhandlungen bislang gescheitert sind.",
+        "tr": "Söylediğim, kastettiğimden daha alaycı duyuluyor. Ne de olsa komisyon, müzakerelerin bugüne kadar neden başarısız kaldığını açıkça ortaya koydu.",
+        "links": []
+      },
+      {
+        "id": "listen-c2-plan-1:s3",
+        "de": "Gewiss, Transparenz ist kein geringer Gewinn. Nur sollte man sie nicht schon mit einer Lösung verwechseln.",
+        "tr": "Elbette, şeffaflık küçümsenecek bir kazanım değil. Yalnız onu şimdiden çözümle karıştırmamak gerekir.",
+        "links": []
+      },
+      {
+        "id": "listen-c2-plan-1:s4",
+        "de": "Der Vorschlag, die strittige Regelung probeweise auszusetzen, ließe sich als pragmatischer Zwischenschritt verstehen.",
+        "tr": "Tartışmalı düzenlemeyi deneme amacıyla askıya alma önerisi, pragmatik bir ara adım olarak yorumlanabilir.",
+        "links": []
+      },
+      {
+        "id": "listen-c2-plan-1:s5",
+        "de": "Vorausgesetzt allerdings, dass aus dem Provisorium nicht durch bloßes Nichtstun ein Dauerzustand wird.",
+        "tr": "Ancak geçici düzenlemenin sırf hiçbir şey yapılmadığı için kalıcı duruma dönüşmemesi koşuluyla.",
+        "links": []
+      },
+      {
+        "id": "listen-c2-plan-1:s6",
+        "de": "Sie unterstellen damit keine böse Absicht, sondern verweisen auf die Eigendynamik institutioneller Entscheidungen, wenn ich Sie recht verstehe.",
+        "tr": "Sizi doğru anlıyorsam kötü niyet isnat etmiyor, kurumsal kararların kendi dinamiğine işaret ediyorsunuz.",
+        "links": []
+      },
+      {
+        "id": "listen-c2-plan-1:s7",
+        "de": "Genau. Die Nachricht, man habe eine Frist vereinbart, beruhigt mich nur dann, wenn auch feststeht, wer ihre Einhaltung überprüft.",
+        "tr": "Aynen öyle. Bir süre üzerinde anlaşılmış olduğu haberi, ancak buna uyulmasını kimin denetleyeceği de belliyse beni rahatlatır.",
+        "links": [
+          {
+            "text": "Nachricht",
+            "lemma": "Nachricht"
+          }
+        ]
+      },
+      {
+        "id": "listen-c2-plan-1:s8",
+        "de": "Nach einer Pause erwidert ihre Gesprächspartnerin: Man könnte einwenden, eine zusätzliche Kontrolle schaffe bloß neue Bürokratie.",
+        "tr": "Bir moladan sonra karşısındaki kişi yanıtlıyor: Ek denetimin yalnızca yeni bürokrasi yarattığı itirazı ileri sürülebilir.",
+        "links": [
+          {
+            "text": "Pause",
+            "lemma": "Pause"
+          }
+        ]
+      },
+      {
+        "id": "listen-c2-plan-1:s9",
+        "de": "Der Einwand ist nicht von der Hand zu weisen; gleichwohl wäre ein klar benannter Auftrag weniger aufwendig als ein dauerhaft ungeklärter Konflikt.",
+        "tr": "Bu itiraz kolayca bir kenara atılamaz; bununla birlikte açıkça tanımlanmış bir görev, sürekli çözümsüz kalan bir çatışmadan daha az zahmetli olurdu.",
+        "links": []
+      },
+      {
+        "id": "listen-c2-plan-1:s10",
+        "de": "Wir hätten also keinen Schlussstrich gezogen, wohl aber einen überprüfbaren nächsten Schritt vereinbart. Mehr behaupte ich nicht.",
+        "tr": "Yani konuyu tümüyle kapatmış olmazdık; fakat denetlenebilir bir sonraki adım üzerinde anlaşmış olurduk. Bundan fazlasını iddia etmiyorum.",
+        "links": []
+      }
+    ],
+    "quiz": [
+      {
+        "id": "listen-c2-plan-1:q1",
+        "type": "choice",
+        "wordIds": [
+          "listen-c2-plan-1"
+        ],
+        "prompt": "Açılıştaki ironi nereden doğuyor?",
+        "accepted": [
+          "Anlaşmazlık üzerinde anlaşmayı bir uzlaşma gibi sunmaktan."
+        ],
+        "options": [
+          "Komisyonun varlığını inkâr etmekten.",
+          "Herkesin aynı çözümü desteklemesinden.",
+          "Anlaşmazlık üzerinde anlaşmayı bir uzlaşma gibi sunmaktan."
+        ],
+        "explanation": "“einig ... dass Einigkeit ... nicht” sözcük karşıtlığı ironiyi kurar. Bu, somut çözüm sağlandığı anlamına gelmez."
+      },
+      {
+        "id": "listen-c2-plan-1:q2",
+        "type": "choice",
+        "wordIds": [
+          "listen-c2-plan-1"
+        ],
+        "prompt": "Konuşmacı alaycı tonunu neden açıklıyor?",
+        "accepted": [
+          "Eleştirisinin komisyonun şeffaflık katkısını yok saymadığını göstermek için."
+        ],
+        "options": [
+          "Eleştirisinin komisyonun şeffaflık katkısını yok saymadığını göstermek için.",
+          "Bütün önceki sözlerini geri almak için.",
+          "Komisyonu kötü niyetle suçlamak için."
+        ],
+        "explanation": "“Immerhin” sınırlı da olsa olumlu bir noktayı teslim eder. Sonraki eleştiri bu katkıyı tamamen geçersiz kılmaz."
+      },
+      {
+        "id": "listen-c2-plan-1:q3",
+        "type": "choice",
+        "wordIds": [
+          "listen-c2-plan-1"
+        ],
+        "prompt": "“kein geringer Gewinn” hangi etkiyi yaratıyor?",
+        "accepted": [
+          "Olumsuzlama yoluyla kayda değer bir kazanımı vurguluyor."
+        ],
+        "options": [
+          "Hiç kazanım olmadığını söylüyor.",
+          "Olumsuzlama yoluyla kayda değer bir kazanımı vurguluyor.",
+          "Kazanımın parasal tutarını veriyor."
+        ],
+        "explanation": "Bu bir litotes örneğidir: Küçük bir kazanım değil demek, önemini dolaylı biçimde vurgular."
+      },
+      {
+        "id": "listen-c2-plan-1:q4",
+        "type": "choice",
+        "wordIds": [
+          "listen-c2-plan-1"
+        ],
+        "prompt": "Geçici askıya alma hangi koşulla kabul edilebilir?",
+        "accepted": [
+          "Eylemsizlik yüzünden kalıcı hâle gelmezse."
+        ],
+        "options": [
+          "Hiç kimse tekrar değerlendirmezse.",
+          "Eylemsizlik yüzünden kalıcı hâle gelmezse.",
+          "Denetim görevi gizli tutulursa."
+        ],
+        "explanation": "“Vorausgesetzt ... dass” koşulu belirtir. Kaygı, geçici çözümün denetimsiz biçimde kalıcılaşmasıdır."
+      },
+      {
+        "id": "listen-c2-plan-1:q5",
+        "type": "choice",
+        "wordIds": [
+          "listen-c2-plan-1"
+        ],
+        "prompt": "“man habe eine Frist vereinbart” neyi işaretliyor?",
+        "accepted": [
+          "Başkasından aktarılan bir bilgiyi."
+        ],
+        "options": [
+          "Başkasından aktarılan bir bilgiyi.",
+          "Konuşmacının kendi kesin gözlemini.",
+          "Geçmişte hiç anlaşma yapılmadığını."
+        ],
+        "explanation": "“habe ... vereinbart” Konjunktiv I ile aktarım yapar. Tek başına yalanlama değildir; bilgi kaynağıyla mesafe kurar."
+      },
+      {
+        "id": "listen-c2-plan-1:q6",
+        "type": "choice",
+        "wordIds": [
+          "listen-c2-plan-1"
+        ],
+        "prompt": "“nicht von der Hand zu weisen” ne demek?",
+        "accepted": [
+          "Kolayca reddedilemeyecek"
+        ],
+        "options": [
+          "Kolayca reddedilemeyecek",
+          "Konuyla tamamen ilgisiz",
+          "Kesin olarak kanıtlanmış"
+        ],
+        "explanation": "Deyim itirazın dikkate değer olduğunu söyler; mutlaka üstün geldiğini ya da bütünüyle doğru olduğunu değil."
+      },
+      {
+        "id": "listen-c2-plan-1:q7",
+        "type": "choice",
+        "wordIds": [
+          "listen-c2-plan-1"
+        ],
+        "prompt": "“gleichwohl” hangi ilişkiyi kuruyor?",
+        "accepted": [
+          "İtirazı kabul ettikten sonra karşı gerekçe sunuyor."
+        ],
+        "options": [
+          "İtirazı kabul ettikten sonra karşı gerekçe sunuyor.",
+          "Zaman sırasını anlatıyor.",
+          "Önceki itirazı açıklamasız siliyor."
+        ],
+        "explanation": "“Bununla birlikte” anlamındaki bağlayıcı, ödünden sonra ana savı korur: Denetim görevi daha az yük getirebilir."
+      },
+      {
+        "id": "listen-c2-plan-1:q8",
+        "type": "choice",
+        "wordIds": [
+          "listen-c2-plan-1"
+        ],
+        "prompt": "Son cümle hangi iddiayla sınırlı?",
+        "accepted": [
+          "Denetlenebilir bir sonraki adım üzerinde anlaşmakla."
+        ],
+        "options": [
+          "Bürokrasiyi tamamen kaldırmakla.",
+          "Denetlenebilir bir sonraki adım üzerinde anlaşmakla.",
+          "Bütün çatışmayı kalıcı olarak çözmekle."
+        ],
+        "explanation": "“keinen Schlussstrich ... wohl aber” nihai kapanış ile somut ara adımı ayırır. “Mehr behaupte ich nicht” kapsamı özellikle sınırlar."
+      }
+    ]
+  }
+]

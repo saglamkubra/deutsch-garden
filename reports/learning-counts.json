@@ -1,0 +1,20 @@
+{
+  "vocabulary": {
+    "A1": 60,
+    "A2": 0,
+    "B1": 0,
+    "B2": 0,
+    "C1": 0,
+    "C2": 0
+  },
+  "units": 60,
+  "lessonMetadata": 120,
+  "readyVocabularyLessons": 10,
+  "plannedLessons": 110,
+  "almancaAbcImportedRecords": 0,
+  "externalLicensedImportedRecords": 0,
+  "supabaseConnected": false,
+  "databaseMigrationApplied": false,
+  "storage": "Bundled original JSON + browser localStorage",
+  "contentLicense": "LicenseRef-DeutschGarden-Original"
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "glossary:Tee",
+    "word": "Tee",
+    "article": "der",
+    "meaning": "çay",
+    "plural": "Tees",
+    "de": "Der Tee ist warm.",
+    "tr": "Çay sıcak.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Kaffee",
+    "word": "Kaffee",
+    "article": "der",
+    "meaning": "kahve",
+    "plural": "Kaffees",
+    "de": "Ich trinke Kaffee.",
+    "tr": "Kahve içiyorum.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Sonne",
+    "word": "Sonne",
+    "article": "die",
+    "meaning": "güneş",
+    "plural": "Sonnen",
+    "de": "Die Sonne scheint.",
+    "tr": "Güneş parlıyor.",
+    "repository": false
+  },
+  {
+    "id": "glossary:warm",
+    "word": "warm",
+    "article": "",
+    "meaning": "sıcak",
+    "plural": "",
+    "de": "Der Tee ist warm.",
+    "tr": "Çay sıcak.",
+    "repository": false
+  },
+  {
+    "id": "glossary:gut",
+    "word": "gut",
+    "article": "",
+    "meaning": "iyi; güzel",
+    "plural": "",
+    "de": "Der Tee ist gut.",
+    "tr": "Çay güzel.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Frau",
+    "word": "Frau",
+    "article": "die",
+    "meaning": "kadın; bayan",
+    "plural": "Frauen",
+    "de": "Eine Frau spielt Gitarre.",
+    "tr": "Bir kadın gitar çalıyor.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Geschenk",
+    "word": "Geschenk",
+    "article": "das",
+    "meaning": "hediye",
+    "plural": "Geschenke",
+    "de": "Das Geschenk ist für Lea.",
+    "tr": "Hediye Lea için.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Tür",
+    "word": "Tür",
+    "article": "die",
+    "meaning": "kapı",
+    "plural": "Türen",
+    "de": "Die Tür ist zu.",
+    "tr": "Kapı kapalı.",
+    "repository": false
+  },
+  {
+    "id": "glossary:rot",
+    "word": "rot",
+    "article": "",
+    "meaning": "kırmızı",
+    "plural": "",
+    "de": "Die Blume ist rot.",
+    "tr": "Çiçek kırmızı.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Junge",
+    "word": "Junge",
+    "article": "der",
+    "meaning": "erkek çocuk",
+    "plural": "Jungen",
+    "de": "Der Junge heißt Tom.",
+    "tr": "Çocuğun adı Tom.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Kuchen",
+    "word": "Kuchen",
+    "article": "der",
+    "meaning": "pasta; kek",
+    "plural": "Kuchen",
+    "de": "Anna bringt einen Kuchen.",
+    "tr": "Anna bir pasta getiriyor.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Heft",
+    "word": "Heft",
+    "article": "das",
+    "meaning": "defter",
+    "plural": "Hefte",
+    "de": "Das Heft liegt hier.",
+    "tr": "Defter burada duruyor.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Mädchen",
+    "word": "Mädchen",
+    "article": "das",
+    "meaning": "kız çocuk",
+    "plural": "Mädchen",
+    "de": "Das Mädchen heißt Ela.",
+    "tr": "Kızın adı Ela.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Baum",
+    "word": "Baum",
+    "article": "der",
+    "meaning": "ağaç",
+    "plural": "Bäume",
+    "de": "Der Baum ist grün.",
+    "tr": "Ağaç yeşil.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Hund",
+    "word": "Hund",
+    "article": "der",
+    "meaning": "köpek",
+    "plural": "Hunde",
+    "de": "Der Hund heißt Max.",
+    "tr": "Köpeğin adı Max.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Stift",
+    "word": "Stift",
+    "article": "der",
+    "meaning": "kalem",
+    "plural": "Stifte",
+    "de": "Ich habe einen Stift.",
+    "tr": "Bir kalemim var.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Abend",
+    "word": "Abend",
+    "article": "der",
+    "meaning": "akşam",
+    "plural": "Abende",
+    "de": "Am Abend spielen wir.",
+    "tr": "Akşam oynuyoruz.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Fisch",
+    "word": "Fisch",
+    "article": "der",
+    "meaning": "balık",
+    "plural": "Fische",
+    "de": "Ein Fisch ist im Wasser.",
+    "tr": "Suda bir balık var.",
+    "repository": false
+  },
+  {
+    "id": "glossary:gelb",
+    "word": "gelb",
+    "article": "",
+    "meaning": "sarı",
+    "plural": "",
+    "de": "Die Blume ist gelb.",
+    "tr": "Çiçek sarı.",
+    "repository": false
+  },
+  {
+    "id": "glossary:blau",
+    "word": "blau",
+    "article": "",
+    "meaning": "mavi",
+    "plural": "",
+    "de": "Das Haus ist blau.",
+    "tr": "Ev mavi.",
+    "repository": false
+  },
+  {
+    "id": "glossary:grün",
+    "word": "grün",
+    "article": "",
+    "meaning": "yeşil",
+    "plural": "",
+    "de": "Die Blätter sind grün.",
+    "tr": "Yapraklar yeşil.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Hand",
+    "word": "Hand",
+    "article": "die",
+    "meaning": "el",
+    "plural": "Hände",
+    "de": "Der Stern liegt auf meiner Hand.",
+    "tr": "Yıldız elimin üstünde.",
+    "repository": false
+  },
+  {
+    "id": "glossary:sehen",
+    "word": "sehen",
+    "article": "",
+    "meaning": "görmek",
+    "plural": "",
+    "de": "Ich sehe den Rhein.",
+    "tr": "Ren Nehri’ni görüyorum.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Freundin",
+    "word": "Freundin",
+    "article": "die",
+    "meaning": "kız arkadaş; kadın arkadaş",
+    "plural": "Freundinnen",
+    "de": "Meine Freundin wartet.",
+    "tr": "Arkadaşım bekliyor.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Zeit",
+    "word": "Zeit",
+    "article": "die",
+    "meaning": "zaman",
+    "plural": "",
+    "de": "Wir haben Zeit.",
+    "tr": "Zamanımız var.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Nachbar",
+    "word": "Nachbar",
+    "article": "der",
+    "meaning": "komşu (erkek)",
+    "plural": "Nachbarn",
+    "de": "Mein Nachbar heißt Paul.",
+    "tr": "Komşumun adı Paul.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Stadt",
+    "word": "Stadt",
+    "article": "die",
+    "meaning": "şehir",
+    "plural": "Städte",
+    "de": "Die Stadt ist schön.",
+    "tr": "Şehir güzel.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Gemüse",
+    "word": "Gemüse",
+    "article": "das",
+    "meaning": "sebze",
+    "plural": "",
+    "de": "Ich schneide Gemüse.",
+    "tr": "Sebze doğruyorum.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Suppe",
+    "word": "Suppe",
+    "article": "die",
+    "meaning": "çorba",
+    "plural": "Suppen",
+    "de": "Sara kocht eine Suppe.",
+    "tr": "Sara bir çorba pişiriyor.",
+    "repository": false
+  },
+  {
+    "id": "glossary:Essen",
+    "word": "Essen",
+    "article": "das",
+    "meaning": "yemek; yemek yeme",
+    "plural": "",
+    "de": "Beim Essen sprechen wir über unsere Hobbys.",
+    "tr": "Yemek yerken hobilerimiz hakkında konuşuyoruz.",
+    "repository": false
+  }
+]

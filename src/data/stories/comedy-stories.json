@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "story-comedy-hund",
+    "title": "Pastanın Başındaki Bekçi",
+    "germanTitle": "Der Hund und der Geburtstagskuchen",
+    "level": "A1",
+    "category": "comedy",
+    "description": "Bir doğum günü pastasını korumak kolay mı? Max’ın peşinden git; dört neşeli sonu ve 7 açıklamalı soruyu keşfet.",
+    "art": "gift",
+    "minutes": 7,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Pastanın yanında kim var?",
+        "art": "gift",
+        "lines": [
+          {
+            "de": "Heute hat Anna Geburtstag. Auf dem Tisch steht ein großer Kuchen.",
+            "tr": "Bugün Anna’nın doğum günü. Masanın üzerinde büyük bir pasta var."
+          },
+          {
+            "de": "Du bringst Blumen. Dein Hund Max kommt auch mit.",
+            "tr": "Çiçek getiriyorsun. Köpeğin Max da seninle geliyor."
+          },
+          {
+            "de": "Max sitzt vor dem Tisch. Er sieht den Kuchen und wartet.",
+            "tr": "Max masanın önünde oturuyor. Pastayı görüyor ve bekliyor."
+          },
+          {
+            "de": "Anna sagt: Bitte pass auf Max auf! Du kannst bei ihm bleiben oder seinen Ball holen.",
+            "tr": "Anna diyor ki: Lütfen Max’a göz kulak ol! Onun yanında kalabilir ya da topunu getirebilirsin."
+          }
+        ],
+        "words": [
+          "Hund"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich bleibe bei Max.",
+            "tr": "Max’ın yanında kalırım.",
+            "to": "watch"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich hole seinen Ball.",
+            "tr": "Topunu getiririm.",
+            "to": "ball"
+          }
+        ],
+        "question": {
+          "prompt": "Max başlangıçta ne yapıyor?",
+          "options": [
+            "Masanın önünde bekliyor.",
+            "Pastayı yiyor.",
+            "Bahçede uyuyor."
+          ],
+          "correct": "Masanın önünde bekliyor.",
+          "explanation": "“sitzt vor dem Tisch” yerini, “wartet” ise beklediğini söyler. Henüz pastayı yediği anlatılmıyor."
+        }
+      },
+      {
+        "id": "watch",
+        "title": "Küçük bekçinin görevi",
+        "art": "gift",
+        "lines": [
+          {
+            "de": "Du setzt dich neben den Hund. Max schaut immer auf deine Tasche.",
+            "tr": "Köpeğin yanına oturuyorsun. Max sürekli çantana bakıyor."
+          },
+          {
+            "de": "In deiner Tasche ist sein Spielzeug. Jetzt verstehst du Max.",
+            "tr": "Çantanda onun oyuncağı var. Şimdi Max’ı anlıyorsun."
+          },
+          {
+            "de": "Anna bringt Teller. Max steht auf, aber der Kuchen bleibt auf dem Tisch.",
+            "tr": "Anna tabak getiriyor. Max ayağa kalkıyor ama pasta masanın üzerinde kalıyor."
+          },
+          {
+            "de": "Du kannst Max sein Spielzeug geben oder mit ihm in den Garten gehen.",
+            "tr": "Max’a oyuncağını verebilir ya da onunla bahçeye gidebilirsin."
+          }
+        ],
+        "words": [
+          "Hund"
+        ],
+        "choices": [
+          {
+            "id": "watch-1",
+            "de": "Hier ist dein Spielzeug!",
+            "tr": "İşte oyuncağın!",
+            "to": "toy"
+          },
+          {
+            "id": "watch-2",
+            "de": "Wir gehen in den Garten.",
+            "tr": "Bahçeye gidelim.",
+            "to": "garden"
+          }
+        ],
+        "question": {
+          "prompt": "Max neden çantana bakıyor?",
+          "options": [
+            "Çantada pasta olduğu için.",
+            "Çanta kayıp olduğu için.",
+            "Oyuncağı çantada olduğu için."
+          ],
+          "correct": "Oyuncağı çantada olduğu için.",
+          "explanation": "“In deiner Tasche ist sein Spielzeug” cevabı açıklar. sein, burada Max’a ait olan oyuncağı belirtir."
+        }
+      },
+      {
+        "id": "ball",
+        "title": "Yuvarlanan sürpriz",
+        "art": "gift",
+        "lines": [
+          {
+            "de": "Du findest den Ball unter einem Stuhl. Der Hund läuft zu dir.",
+            "tr": "Topu bir sandalyenin altında buluyorsun. Köpek sana doğru koşuyor."
+          },
+          {
+            "de": "Max nimmt den Ball. Dann rollt der Ball zur Tür.",
+            "tr": "Max topu alıyor. Sonra top kapıya doğru yuvarlanıyor."
+          },
+          {
+            "de": "Vor der Tür steht Annas Opa. Er trägt einen sehr großen Hut.",
+            "tr": "Kapının önünde Anna’nın dedesi duruyor. Çok büyük bir şapka takıyor."
+          },
+          {
+            "de": "Du kannst zuerst die Tür öffnen oder Max mit dem Ball zurückrufen.",
+            "tr": "Önce kapıyı açabilir ya da topu olan Max’ı geri çağırabilirsin."
+          }
+        ],
+        "words": [
+          "Hund"
+        ],
+        "choices": [
+          {
+            "id": "ball-1",
+            "de": "Ich öffne die Tür.",
+            "tr": "Kapıyı açarım.",
+            "to": "hat"
+          },
+          {
+            "id": "ball-2",
+            "de": "Max, komm bitte zurück!",
+            "tr": "Max, lütfen geri gel!",
+            "to": "photo"
+          }
+        ],
+        "question": {
+          "prompt": "Kapının önünde kim var?",
+          "options": [
+            "Anna’nın komşusu.",
+            "Anna’nın dedesi.",
+            "Bir öğretmen."
+          ],
+          "correct": "Anna’nın dedesi.",
+          "explanation": "“Annas Opa” Anna’nın dedesi demektir. Özel isme eklenen -s aidiyet bildirir."
+        }
+      },
+      {
+        "id": "toy",
+        "title": "Pastanın güvenliği",
+        "art": "gift",
+        "lines": [
+          {
+            "de": "Der Hund spielt jetzt mit seinem Spielzeug. Der Kuchen ist noch ganz.",
+            "tr": "Köpek şimdi oyuncağıyla oynuyor. Pasta hâlâ bütün."
+          },
+          {
+            "de": "Anna lacht: Max ist unser bester Kuchenwächter!",
+            "tr": "Anna gülüyor: Max bizim en iyi pasta bekçimiz!"
+          },
+          {
+            "de": "Max hört seinen Namen. Er setzt sich sehr gerade hin.",
+            "tr": "Max adını duyuyor. Dimdik oturuyor."
+          },
+          {
+            "de": "Ihr esst Kuchen. Max bekommt sein normales Hundefutter und bleibt zufrieden.",
+            "tr": "Pasta yiyorsunuz. Max normal köpek mamasını alıyor ve memnun kalıyor."
+          }
+        ],
+        "words": [
+          "Hund"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Max’a ne veriliyor?",
+          "options": [
+            "Normal köpek maması.",
+            "Bütün pasta.",
+            "Bir fincan kahve."
+          ],
+          "correct": "Normal köpek maması.",
+          "explanation": "Son cümlede “sein normales Hundefutter” yazıyor. Pasta insanların, mama ise Max’ın yiyeceği."
+        },
+        "ending": "Ciddi pasta bekçisi"
+      },
+      {
+        "id": "garden",
+        "title": "Saksının arkasındaki parti",
+        "art": "gift",
+        "lines": [
+          {
+            "de": "Im Garten liegt der Hund neben einem Blumentopf. Du bleibst bei ihm.",
+            "tr": "Bahçede köpek bir saksının yanına uzanıyor. Yanında kalıyorsun."
+          },
+          {
+            "de": "Anna öffnet das Fenster und singt ein Lied. Max hört zu.",
+            "tr": "Anna pencereyi açıp bir şarkı söylüyor. Max dinliyor."
+          },
+          {
+            "de": "Dann bellt Max einmal. Anna lacht: Danke für das Lied, Max!",
+            "tr": "Sonra Max bir kez havlıyor. Anna gülüyor: Şarkı için teşekkürler Max!"
+          },
+          {
+            "de": "Du bringst ihm Wasser. Eure kleine Gartenparty ist sehr lustig.",
+            "tr": "Ona su getiriyorsun. Küçük bahçe partiniz çok eğlenceli."
+          }
+        ],
+        "words": [
+          "Hund"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Anna neden Max’a teşekkür ediyor?",
+          "options": [
+            "Max pasta getirdiği için.",
+            "Max pencereyi kapattığı için.",
+            "Havlamasını şarkı gibi yorumluyor."
+          ],
+          "correct": "Havlamasını şarkı gibi yorumluyor.",
+          "explanation": "Max bir kez havlar; Anna bunu komik biçimde bir şarkı sayar. Bu, gerçek bir şarkı söylediği anlamına gelmez."
+        },
+        "ending": "Bahçedeki küçük konser"
+      },
+      {
+        "id": "hat",
+        "title": "Şapkadaki top",
+        "art": "gift",
+        "lines": [
+          {
+            "de": "Du öffnest die Tür. Der Hund bringt Opa seinen Ball.",
+            "tr": "Kapıyı açıyorsun. Köpek dedeye topunu getiriyor."
+          },
+          {
+            "de": "Opa nimmt den Hut ab. Max legt den Ball hinein.",
+            "tr": "Dede şapkasını çıkarıyor. Max topu şapkanın içine koyuyor."
+          },
+          {
+            "de": "Opa sagt: Mein Hut ist heute eine Sporttasche! Alle lachen.",
+            "tr": "Dede diyor ki: Şapkam bugün bir spor çantası! Herkes gülüyor."
+          },
+          {
+            "de": "Der Kuchen wartet auf dem Tisch. Opa und Max kommen zusammen zur Feier.",
+            "tr": "Pasta masada bekliyor. Dede ile Max kutlamaya birlikte geliyor."
+          }
+        ],
+        "words": [
+          "Hund"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Top sonunda nerede?",
+          "options": [
+            "Bahçedeki suda.",
+            "Dedenin şapkasının içinde.",
+            "Pastanın altında."
+          ],
+          "correct": "Dedenin şapkasının içinde.",
+          "explanation": "“legt den Ball hinein” ifadesindeki hinein, önceki cümlede sözü edilen şapkanın içine demektir."
+        },
+        "ending": "Spor çantasına dönüşen şapka"
+      },
+      {
+        "id": "photo",
+        "title": "Doğum günü fotoğrafı",
+        "art": "gift",
+        "lines": [
+          {
+            "de": "Du rufst Max zurück. Der Hund setzt sich neben Anna.",
+            "tr": "Max’ı geri çağırıyorsun. Köpek Anna’nın yanına oturuyor."
+          },
+          {
+            "de": "Opa kommt herein. Er möchte ein Foto machen.",
+            "tr": "Dede içeri giriyor. Bir fotoğraf çekmek istiyor."
+          },
+          {
+            "de": "Alle lächeln, aber Max hält den Ball vor sein Gesicht.",
+            "tr": "Herkes gülümsüyor ama Max topu yüzünün önünde tutuyor."
+          },
+          {
+            "de": "Auf dem Foto sieht man Anna, ihre Freunde und einen Ball mit Ohren.",
+            "tr": "Fotoğrafta Anna, arkadaşları ve kulakları olan bir top görünüyor."
+          }
+        ],
+        "words": [
+          "Hund"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Fotoğraf neden komik görünüyor?",
+          "options": [
+            "Top Max’ın yüzünü kapatıyor.",
+            "Fotoğrafta kimse yok.",
+            "Dede fotoğraf çekmiyor."
+          ],
+          "correct": "Top Max’ın yüzünü kapatıyor.",
+          "explanation": "“vor sein Gesicht” yüzünün önüne demektir. “Kulakları olan top” fotoğraftaki görüntüye yönelik şakadır."
+        },
+        "ending": "Kulaklı topun portresi"
+      }
+    ]
+  },
+  {
+    "id": "story-comedy-koffer",
+    "title": "Yanlış Bavul, Doğru Kahkaha",
+    "germanTitle": "Der Koffer mit den roten Nasen",
+    "level": "A2",
+    "category": "comedy",
+    "description": "Trende karışan iki bavulu sahiplerine ulaştır. Perfekt, rica ifadeleri ve yanlış anlamalarla dört farklı çözüm bul.",
+    "art": "train",
+    "minutes": 8,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "İki mavi bavul",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Du bist mit dem Zug nach Köln gefahren. Am Ausgang hast du einen blauen Koffer genommen.",
+            "tr": "Trenle Köln’e gittin. Çıkışta mavi bir bavul aldın."
+          },
+          {
+            "de": "Im Koffer liegen keine Kleider, sondern zwölf rote Clownsnasen. Du musst lachen.",
+            "tr": "Bavulda kıyafet değil, on iki kırmızı palyaço burnu var. Gülüyorsun."
+          },
+          {
+            "de": "Auf dem Namensschild steht Frau Sommer. Dein eigener Koffer sieht fast genauso aus.",
+            "tr": "İsim etiketinde Bayan Sommer yazıyor. Senin bavulun da neredeyse aynı görünüyor."
+          },
+          {
+            "de": "Du möchtest nichts behalten. Du kannst zur Information gehen oder die Nummer auf dem Schild anrufen.",
+            "tr": "Hiçbir şeyi kendine almak istemiyorsun. Danışmaya gidebilir ya da etiketteki numarayı arayabilirsin."
+          }
+        ],
+        "words": [
+          "Koffer"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich frage bei der Information.",
+            "tr": "Danışmaya sorarım.",
+            "to": "desk"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich rufe Frau Sommer an.",
+            "tr": "Bayan Sommer’i ararım.",
+            "to": "call"
+          }
+        ],
+        "question": {
+          "prompt": "Bavul neden sana ait görünmüyor?",
+          "options": [
+            "Bavul kırmızı olduğu için.",
+            "Tren hiç durmadığı için.",
+            "Etikette başka bir isim ve içinde palyaço burunları var."
+          ],
+          "correct": "Etikette başka bir isim ve içinde palyaço burunları var.",
+          "explanation": "“keine Kleider, sondern …” beklenenle gerçekte olanı karşılaştırır. Bavullar aynı renktir; renk tek başına yeterli değildir."
+        }
+      },
+      {
+        "id": "desk",
+        "title": "Danışmadaki küçük gösteri",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Die Mitarbeiterin stellt den Koffer auf den Tisch. Bitte beschreiben Sie Ihren Koffer, sagt sie.",
+            "tr": "Görevli bavulu masaya koyuyor. Lütfen kendi bavulunuzu tarif edin, diyor."
+          },
+          {
+            "de": "Du erklärst: Mein Koffer ist blau und hat ein gelbes Band. Dieser hier hat kein Band.",
+            "tr": "Açıklıyorsun: Bavulum mavi ve sarı bir kurdelesi var. Bunun kurdelesi yok."
+          },
+          {
+            "de": "Neben euch wartet eine Frau mit einem blauen Koffer und einem gelben Band. Sie trägt eine rote Nase.",
+            "tr": "Yanınızda mavi ve sarı kurdeleli bir bavulla bir kadın bekliyor. Kırmızı bir palyaço burnu takmış."
+          },
+          {
+            "de": "Du kannst sie höflich fragen oder zuerst der Mitarbeiterin das Band zeigen.",
+            "tr": "Kadına nazikçe sorabilir ya da önce görevliye kurdeleyi gösterebilirsin."
+          }
+        ],
+        "words": [
+          "Koffer"
+        ],
+        "choices": [
+          {
+            "id": "desk-1",
+            "de": "Entschuldigung, ist das vielleicht mein Koffer?",
+            "tr": "Affedersiniz, o benim bavulum olabilir mi?",
+            "to": "exchange"
+          },
+          {
+            "id": "desk-2",
+            "de": "Das gelbe Band gehört zu meinem Koffer.",
+            "tr": "Sarı kurdele benim bavuluma ait.",
+            "to": "announcement"
+          }
+        ],
+        "question": {
+          "prompt": "Senin bavulunu ayırt eden özellik ne?",
+          "options": [
+            "On iki tekerlek.",
+            "Sarı kurdele.",
+            "Yeşil kapak."
+          ],
+          "correct": "Sarı kurdele.",
+          "explanation": "“hat ein gelbes Band” kendi bavulunun ayırt edici özelliğidir. Her iki bavulun mavi olması çözüm sağlamaz."
+        }
+      },
+      {
+        "id": "call",
+        "title": "Telefondaki ses",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Frau Sommer geht ans Telefon. Sie hat deinen Koffer geöffnet und ein Wörterbuch gefunden.",
+            "tr": "Bayan Sommer telefonu açıyor. Senin bavulunu açmış ve bir sözlük bulmuş."
+          },
+          {
+            "de": "Sie sagt: Für meine Clownsshow brauche ich Nasen, keine Grammatik! Ihr lacht beide.",
+            "tr": "Diyor ki: Palyaço gösterim için burunlara ihtiyacım var, gramere değil! İkiniz de gülüyorsunuz."
+          },
+          {
+            "de": "Sie wartet vor dem Bahnhof. Ihr vereinbart einen Treffpunkt neben der großen Uhr.",
+            "tr": "Garın önünde bekliyor. Büyük saatin yanında buluşmaya karar veriyorsunuz."
+          },
+          {
+            "de": "Du kannst allein zur Uhr gehen oder einen Mitarbeiter um Begleitung bitten.",
+            "tr": "Saate tek başına gidebilir ya da bir görevliden sana eşlik etmesini isteyebilirsin."
+          }
+        ],
+        "words": [
+          "Koffer"
+        ],
+        "choices": [
+          {
+            "id": "call-1",
+            "de": "Ich gehe zur großen Uhr.",
+            "tr": "Büyük saate giderim.",
+            "to": "clock"
+          },
+          {
+            "id": "call-2",
+            "de": "Könnten Sie bitte mitkommen?",
+            "tr": "Lütfen benimle gelebilir misiniz?",
+            "to": "escort"
+          }
+        ],
+        "question": {
+          "prompt": "Bayan Sommer senin bavulunda ne bulmuş?",
+          "options": [
+            "Bir sözlük.",
+            "Bir pasta.",
+            "On iki şemsiye."
+          ],
+          "correct": "Bir sözlük.",
+          "explanation": "“hat … geöffnet / gefunden” tamamlanmış eylemler için Perfekt örnekleridir. Sözü edilen nesne Wörterbuch’tur."
+        }
+      },
+      {
+        "id": "exchange",
+        "title": "Kimlik kontrolü ve kahkaha",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Die Frau ist tatsächlich Frau Sommer. Ihr vergleicht die Namensschilder, bevor ihr die Koffer tauscht.",
+            "tr": "Kadın gerçekten Bayan Sommer. Bavulları değiştirmeden önce isim etiketlerini karşılaştırıyorsunuz."
+          },
+          {
+            "de": "In deinem Koffer liegen deine Kleider und dein Wörterbuch. Jetzt ist alles wieder richtig.",
+            "tr": "Bavulunda kıyafetlerin ve sözlüğün var. Şimdi her şey yine doğru yerde."
+          },
+          {
+            "de": "Frau Sommer setzt kurz eine rote Nase auf. Heute habe ich eine kostenlose Deutschstunde bekommen, sagt sie.",
+            "tr": "Bayan Sommer kısa bir süre kırmızı burun takıyor. Bugün ücretsiz bir Almanca dersi aldım, diyor."
+          },
+          {
+            "de": "Du bindest ein zweites gelbes Band an deinen Koffer. Eine Clownsnase reicht als Erinnerung.",
+            "tr": "Bavuluna ikinci bir sarı kurdele bağlıyorsun. Anı olarak bir palyaço burnu yeter."
+          }
+        ],
+        "words": [
+          "Koffer"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bavullar değiştirilmeden önce ne yapılıyor?",
+          "options": [
+            "Eşyalar satılıyor.",
+            "Bavullar trende bırakılıyor.",
+            "İsim etiketleri karşılaştırılıyor."
+          ],
+          "correct": "İsim etiketleri karşılaştırılıyor.",
+          "explanation": "“bevor” bir olayın diğerinden önce olduğunu gösterir. Değişimden önce sahibin doğrulanması, aceleyle tekrar karıştırmayı önler."
+        },
+        "ending": "İki kurdeleli çözüm"
+      },
+      {
+        "id": "announcement",
+        "title": "Sıradışı anons",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Die Mitarbeiterin prüft das gelbe Band und die Namen. Dann gibt sie die richtigen Koffer zurück.",
+            "tr": "Görevli sarı kurdeleyi ve isimleri kontrol ediyor. Sonra doğru bavulları geri veriyor."
+          },
+          {
+            "de": "Frau Sommer bittet um eine kurze Durchsage für ihre Kollegin. Die Kollegin wartet noch am Gleis.",
+            "tr": "Bayan Sommer iş arkadaşı için kısa bir anons rica ediyor. Arkadaşı hâlâ peronda bekliyor."
+          },
+          {
+            "de": "Die Durchsage lautet: Die roten Nasen sind wieder da. Bitte kommen Sie zur Information.",
+            "tr": "Anons şöyle: Kırmızı burunlar geri geldi. Lütfen danışmaya gelin."
+          },
+          {
+            "de": "Ein Kind fragt nach dem Nasenzug. Du erklärst lachend: Es geht nur um einen Koffer.",
+            "tr": "Bir çocuk burun trenini soruyor. Gülerek açıklıyorsun: Konu yalnızca bir bavul."
+          }
+        ],
+        "words": [
+          "Koffer"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Anonsun asıl amacı ne?",
+          "options": [
+            "Herkese burun satmak.",
+            "Bayan Sommer’in iş arkadaşını danışmaya çağırmak.",
+            "Yeni bir tren seferi duyurmak."
+          ],
+          "correct": "Bayan Sommer’in iş arkadaşını danışmaya çağırmak.",
+          "explanation": "Anons bir kişiye bilgi vermek için yapılır. Çocuk “kırmızı burunları” yeni bir tren gibi yorumlayınca mizah oluşur."
+        },
+        "ending": "Burun treni anonsu"
+      },
+      {
+        "id": "clock",
+        "title": "Saatin altında kısa prova",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Unter der Uhr vergleicht ihr die Namen auf den Koffern. Frau Sommer gibt dir deinen Koffer zurück.",
+            "tr": "Saatin altında bavullardaki isimleri karşılaştırıyorsunuz. Bayan Sommer bavulunu sana geri veriyor."
+          },
+          {
+            "de": "Sie hat vor der Show noch fünf Minuten Zeit. Zum Dank zeigt sie dir einen kleinen Trick.",
+            "tr": "Gösteriden önce hâlâ beş dakikası var. Teşekkür etmek için sana küçük bir numara gösteriyor."
+          },
+          {
+            "de": "Aus ihrer leeren Hand fällt eine rote Nase. Du hast genau hingesehen und trotzdem nichts bemerkt.",
+            "tr": "Boş elinden kırmızı bir burun düşüyor. Dikkatle bakmana rağmen hiçbir şey fark etmedin."
+          },
+          {
+            "de": "Dein Koffer ist wieder bei dir. Der langweilige Bahnhof ist plötzlich eine kleine Bühne geworden.",
+            "tr": "Bavulun yine yanında. Sıkıcı gar birden küçük bir sahneye dönüştü."
+          }
+        ],
+        "words": [
+          "Koffer"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bayan Sommer numarayı neden gösteriyor?",
+          "options": [
+            "Teşekkür etmek için.",
+            "Bavulu saklamak için.",
+            "Treni durdurmak için."
+          ],
+          "correct": "Teşekkür etmek için.",
+          "explanation": "“Zum Dank” teşekkür amacı bildirir. Beş dakikalık zaman, gösterinin yapılmasını mümkün kılar."
+        },
+        "ending": "Saatin altındaki sahne"
+      },
+      {
+        "id": "escort",
+        "title": "Ciddi görev, kırmızı burun",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Ein Mitarbeiter begleitet dich zum Treffpunkt. Gemeinsam prüft ihr die Namen und tauscht die Koffer.",
+            "tr": "Bir görevli buluşma noktasına sana eşlik ediyor. Birlikte isimleri kontrol edip bavulları değiştiriyorsunuz."
+          },
+          {
+            "de": "Frau Sommer fragt den Mitarbeiter, ob er einmal eine rote Nase tragen möchte. Er sagt zuerst nein.",
+            "tr": "Bayan Sommer görevliye bir kez kırmızı burun takmak isteyip istemediğini soruyor. Önce hayır diyor."
+          },
+          {
+            "de": "Dann setzt er sie doch auf und sagt ganz ernst: Ihre Koffer sind jetzt ordnungsgemäß lustig.",
+            "tr": "Sonra yine de takıyor ve çok ciddi biçimde şöyle diyor: Bavullarınız artık usulüne uygun biçimde komik."
+          },
+          {
+            "de": "Alle lachen. Du bedankst dich für die Hilfe und nimmst den richtigen Koffer mit.",
+            "tr": "Herkes gülüyor. Yardımı için teşekkür edip doğru bavulu alıyorsun."
+          }
+        ],
+        "words": [
+          "Koffer"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Son sahnede hangi zıtlık komik?",
+          "options": [
+            "Kimsenin yardım etmemesi.",
+            "Bavulların bulunamaması.",
+            "Görevlinin ciddi üslubuyla kırmızı burun takması."
+          ],
+          "correct": "Görevlinin ciddi üslubuyla kırmızı burun takması.",
+          "explanation": "“ganz ernst” ile palyaço burnu arasındaki karşıtlık mizah yaratır. Yardım istemek burada çözümü kolaylaştırır."
+        },
+        "ending": "Usulüne uygun kahkaha"
+      }
+    ]
+  },
+  {
+    "id": "story-comedy-probe",
+    "title": "Provadaki Şemsiye",
+    "germanTitle": "Eine Probe mit unerwartetem Regen",
+    "level": "B1",
+    "category": "comedy",
+    "description": "Tiyatro provasında bir yanlış anlamayı çöz. Nedeni, niyeti ve sonucu ayırt ederek dört sahne sonuna ulaş.",
+    "art": "town",
+    "minutes": 10,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Mecaz mı, hava durumu mu?",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Bei einer Theaterprobe hört Deniz den Satz: Heute lassen wir es auf der Bühne regnen. Er bringt sofort drei Schirme.",
+            "tr": "Bir tiyatro provasında Deniz şu cümleyi duyuyor: Bugün sahnede yağmur yağdıracağız. Hemen üç şemsiye getiriyor."
+          },
+          {
+            "de": "Die Regisseurin meint damit eigentlich einen Regen aus Papierblumen. Niemand hat echtes Wasser bestellt.",
+            "tr": "Yönetmen aslında kâğıt çiçeklerden oluşan bir yağmuru kastediyor. Kimse gerçek su istemedi."
+          },
+          {
+            "de": "Als Deniz die Schirme öffnet, bleibt einer an einem künstlichen Baum hängen. Die Probe muss kurz warten.",
+            "tr": "Deniz şemsiyeleri açınca biri yapay bir ağaca takılıyor. Prova kısa bir süre beklemek zorunda."
+          },
+          {
+            "de": "Du hilfst bei der Probe. Du kannst zuerst nach der geplanten Szene fragen oder Deniz beim Schirm helfen.",
+            "tr": "Provaya yardım ediyorsun. Önce planlanan sahneyi sorabilir ya da şemsiye konusunda Deniz’e yardım edebilirsin."
+          }
+        ],
+        "words": [
+          "Probe"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich frage nach dem Ablauf der Szene.",
+            "tr": "Sahnenin akışını sorarım.",
+            "to": "plan"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich helfe Deniz mit dem Schirm.",
+            "tr": "Deniz’e şemsiyede yardım ederim.",
+            "to": "help"
+          }
+        ],
+        "question": {
+          "prompt": "Yanlış anlamanın kaynağı ne?",
+          "options": [
+            "Ağacın gerçek olması.",
+            "Çiçek yağmurunun gerçek yağmur sanılması.",
+            "Provaya kimsenin gelmemesi."
+          ],
+          "correct": "Çiçek yağmurunun gerçek yağmur sanılması.",
+          "explanation": "“eigentlich” gerçek niyeti açıklar. Sahneye yağmur yağdırmak burada kâğıt çiçeklerin düşmesi anlamındadır."
+        }
+      },
+      {
+        "id": "plan",
+        "title": "Provanın küçük çizimi",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Die Regisseurin zeichnet den Ablauf der Probe: Erst sagt die Figur einen Satz, dann fallen die Papierblumen.",
+            "tr": "Yönetmen provanın akışını çiziyor: Önce karakter bir cümle söylüyor, sonra kâğıt çiçekler düşüyor."
+          },
+          {
+            "de": "Deniz sieht die Zeichnung und lacht über seinen Irrtum. Gut, dass ich keine Gummistiefel gekauft habe, sagt er.",
+            "tr": "Deniz çizimi görüyor ve yanılgısına gülüyor. İyi ki lastik çizme almamışım, diyor."
+          },
+          {
+            "de": "Ein Schirm könnte die Blumen auffangen. Das wäre eine neue komische Szene, ist aber noch nicht vereinbart.",
+            "tr": "Bir şemsiye çiçekleri yakalayabilir. Bu yeni, komik bir sahne olurdu ama henüz üzerinde anlaşılmadı."
+          },
+          {
+            "de": "Du kannst einen kurzen Versuch vorschlagen oder beim ursprünglichen Plan bleiben.",
+            "tr": "Kısa bir deneme önerebilir ya da ilk plana bağlı kalabilirsin."
+          }
+        ],
+        "words": [
+          "Probe"
+        ],
+        "choices": [
+          {
+            "id": "plan-1",
+            "de": "Wollen wir es einmal ausprobieren?",
+            "tr": "Bir kez denemek ister miyiz?",
+            "to": "experiment"
+          },
+          {
+            "id": "plan-2",
+            "de": "Wir bleiben beim vereinbarten Plan.",
+            "tr": "Kararlaştırılan plana bağlı kalalım.",
+            "to": "original"
+          }
+        ],
+        "question": {
+          "prompt": "Şemsiyeli sahnenin durumu ne?",
+          "options": [
+            "Henüz kabul edilmemiş bir öneri.",
+            "Çoktan oynanmış son gösteri.",
+            "Yasaklanmış gerçek yağmur."
+          ],
+          "correct": "Henüz kabul edilmemiş bir öneri.",
+          "explanation": "“könnte” ve “wäre” olasılık/öneri bildirir; “noch nicht vereinbart” henüz karar verilmediğini açıkça belirtir."
+        }
+      },
+      {
+        "id": "help",
+        "title": "Takılan şemsiye",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Du hältst den künstlichen Baum fest, während Deniz den Schirm vorsichtig löst. Die Probe kann weitergehen.",
+            "tr": "Deniz şemsiyeyi dikkatlice kurtarırken yapay ağacı sabit tutuyorsun. Prova devam edebilir."
+          },
+          {
+            "de": "Im Schirm stecken zwei Papierblumen. Deniz fragt, ob er die Blumen als Hut tragen darf.",
+            "tr": "Şemsiyenin içinde iki kâğıt çiçek var. Deniz çiçekleri şapka olarak takıp takamayacağını soruyor."
+          },
+          {
+            "de": "Die Regisseurin findet die Idee lustig, möchte aber niemanden zu einem Witz zwingen. Deniz möchte selbst mitmachen.",
+            "tr": "Yönetmen fikri komik buluyor ama kimseyi bir şakaya zorlamak istemiyor. Deniz kendisi katılmak istiyor."
+          },
+          {
+            "de": "Ihr könnt den Blumenhut in die Szene aufnehmen oder ihn nur für das Gruppenfoto benutzen.",
+            "tr": "Çiçek şapkasını sahneye ekleyebilir ya da yalnızca grup fotoğrafında kullanabilirsiniz."
+          }
+        ],
+        "words": [
+          "Probe"
+        ],
+        "choices": [
+          {
+            "id": "help-1",
+            "de": "Der Hut darf in die Szene.",
+            "tr": "Şapka sahnede yer alsın.",
+            "to": "hat"
+          },
+          {
+            "id": "help-2",
+            "de": "Wir machen nur ein Erinnerungsfoto.",
+            "tr": "Yalnızca bir hatıra fotoğrafı çekelim.",
+            "to": "picture"
+          }
+        ],
+        "question": {
+          "prompt": "Deniz’in şakaya katılması nasıl kararlaşıyor?",
+          "options": [
+            "Diğerleri onu zorunlu tutuyor.",
+            "Yönetmen onunla konuşmadan karar veriyor.",
+            "Kendi isteğiyle katılmak istiyor."
+          ],
+          "correct": "Kendi isteğiyle katılmak istiyor.",
+          "explanation": "“möchte selbst mitmachen” gönüllü katılımı bildirir. Mizahın kişiyi küçük düşürmesi veya zorlaması gerekmiyor."
+        }
+      },
+      {
+        "id": "experiment",
+        "title": "Şemsiyedeki bahar",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Bei der nächsten Probe hält Deniz den Schirm verkehrt herum. Die Papierblumen landen tatsächlich darin.",
+            "tr": "Sonraki provada Deniz şemsiyeyi ters tutuyor. Kâğıt çiçekler gerçekten içine düşüyor."
+          },
+          {
+            "de": "Als er den Schirm schließt, fallen die Blumen vor seine Füße. Ich habe den Frühling zusammengeklappt, sagt er.",
+            "tr": "Şemsiyeyi kapatınca çiçekler ayaklarının önüne düşüyor. İlkbaharı katladım, diyor."
+          },
+          {
+            "de": "Die Gruppe lacht über die unerwartete Bewegung und beschließt gemeinsam, sie zu behalten.",
+            "tr": "Grup beklenmedik harekete gülüyor ve birlikte onu korumaya karar veriyor."
+          },
+          {
+            "de": "Der Irrtum wird zur Idee. Trotzdem schreibt ihr den neuen Ablauf auf, damit die nächste Probe nicht wieder überrascht.",
+            "tr": "Yanlış anlama bir fikre dönüşüyor. Yine de sonraki prova yeniden sürpriz yaratmasın diye yeni akışı yazıyorsunuz."
+          }
+        ],
+        "words": [
+          "Probe"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Yeni hareket neden sahnede kalıyor?",
+          "options": [
+            "Gerçek yağmur yağdığı için.",
+            "Grup deneyip birlikte karar verdiği için.",
+            "İlk plana hiç bakılmadığı için."
+          ],
+          "correct": "Grup deneyip birlikte karar verdiği için.",
+          "explanation": "Önce deneme, sonra ortak karar var. Son cümledeki “damit” yazılı akışın amacını, sürprizi önlemeyi açıklar."
+        },
+        "ending": "Katlanabilen ilkbahar"
+      },
+      {
+        "id": "original",
+        "title": "Duygulu bir bekleyiş",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Ihr bleibt beim alten Ablauf. Bei der Probe steht Deniz ohne Schirm auf der Bühne und wartet auf die Blumen.",
+            "tr": "Eski akışa bağlı kalıyorsunuz. Provada Deniz şemsiyesiz sahnede durup çiçekleri bekliyor."
+          },
+          {
+            "de": "Der Helfer vergisst kurz sein Zeichen. Deniz schaut nach oben und sagt: Der Frühling hat wohl Verspätung.",
+            "tr": "Yardımcı kısa bir an işaretini unutuyor. Deniz yukarı bakıp şöyle diyor: İlkbahar galiba gecikti."
+          },
+          {
+            "de": "Dann fallen die Papierblumen genau im richtigen Moment. Die Regisseurin bedankt sich für seine Ruhe.",
+            "tr": "Sonra kâğıt çiçekler tam doğru anda düşüyor. Yönetmen sakinliği için ona teşekkür ediyor."
+          },
+          {
+            "de": "Nach der Probe ergänzt ihr ein deutliches Zeichen im Ablauf. Nicht jeder Fehler braucht eine völlig neue Szene.",
+            "tr": "Provadan sonra akışa belirgin bir işaret ekliyorsunuz. Her hata tamamen yeni bir sahne gerektirmez."
+          }
+        ],
+        "words": [
+          "Probe"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Sonuçta hangi iyileştirme yapılıyor?",
+          "options": [
+            "Akışa daha belirgin bir işaret ekleniyor.",
+            "Tiyatro kapanıyor.",
+            "Deniz bir daha provaya alınmıyor."
+          ],
+          "correct": "Akışa daha belirgin bir işaret ekleniyor.",
+          "explanation": "“ergänzt … ein deutliches Zeichen” somut çözümü gösterir. İlk plana bağlı kalmak, hiçbir iyileştirme yapmamak demek değildir."
+        },
+        "ending": "Geciken ilkbahar"
+      },
+      {
+        "id": "hat",
+        "title": "Çiçeklerin başrolü",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Deniz setzt den Blumenhut bei der Probe auf. Die Figur begrüßt ihn feierlich als Leiter der Wetterabteilung.",
+            "tr": "Deniz provada çiçek şapkasını takıyor. Karakter onu törenle hava durumu bölümünün müdürü olarak selamlıyor."
+          },
+          {
+            "de": "Deniz antwortet: Heute gibt es Blumen, morgen vielleicht Petersilie. Die Gruppe muss eine Pause zum Lachen machen.",
+            "tr": "Deniz cevap veriyor: Bugün çiçek var, yarın belki maydanoz. Grup gülmek için ara vermek zorunda kalıyor."
+          },
+          {
+            "de": "Ihr kürzt den Witz für die Aufführung. Er soll zur Geschichte passen und nicht die ganze Szene verdecken.",
+            "tr": "Gösteri için şakayı kısaltıyorsunuz. Hikâyeye uymalı ve bütün sahnenin önüne geçmemeli."
+          },
+          {
+            "de": "Am Ende der Probe legt Deniz den Hut neben die Requisiten. Jetzt gehört er zum gemeinsam vereinbarten Plan.",
+            "tr": "Provanın sonunda Deniz şapkayı dekor eşyalarının yanına koyuyor. Artık ortak kararlaştırılan planın bir parçası."
+          }
+        ],
+        "words": [
+          "Probe"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Şaka neden kısaltılıyor?",
+          "options": [
+            "Deniz şapkayı sevmediği için.",
+            "Çiçekler gerçek olduğu için.",
+            "Hikâyeye hizmet edip sahneyi bastırmaması için."
+          ],
+          "correct": "Hikâyeye hizmet edip sahneyi bastırmaması için.",
+          "explanation": "“soll … passen” amaç ve beklenti bildirir. Mizahın anlatının geri kalanıyla dengelenmesi isteniyor."
+        },
+        "ending": "Maydanozlu hava durumu"
+      },
+      {
+        "id": "picture",
+        "title": "Sahne dışında kalan şaka",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Für die eigentliche Probe legt Deniz den Hut weg. Die Szene bleibt wie geplant.",
+            "tr": "Asıl prova için Deniz şapkayı kaldırıyor. Sahne planlandığı gibi kalıyor."
+          },
+          {
+            "de": "Danach macht die Gruppe ein Foto. Deniz trägt den Hut, und alle anderen halten unsichtbare Schirme.",
+            "tr": "Sonra grup bir fotoğraf çekiliyor. Deniz şapkayı takıyor, diğer herkes görünmez şemsiyeler tutuyor."
+          },
+          {
+            "de": "Auf dem Bild sieht es aus, als würde es nur über Deniz blühen. Er wählt selbst die Bildunterschrift.",
+            "tr": "Fotoğrafta yalnızca Deniz’in üzerine çiçek yağıyormuş gibi görünüyor. Fotoğraf altı yazısını kendisi seçiyor."
+          },
+          {
+            "de": "Probe erfolgreich, Wetter unklar, schreibt er. Ein guter gemeinsamer Witz muss nicht auf die große Bühne.",
+            "tr": "Prova başarılı, hava durumu belirsiz, yazıyor. İyi bir ortak şakanın büyük sahneye çıkması şart değil."
+          }
+        ],
+        "words": [
+          "Probe"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bu sonda şaka nerede kullanılıyor?",
+          "options": [
+            "Bir tren anonsunda.",
+            "Prova sonrasındaki grup fotoğrafında.",
+            "Asıl sahnenin tamamında."
+          ],
+          "correct": "Prova sonrasındaki grup fotoğrafında.",
+          "explanation": "“Danach” prova sonrasını ayırır. Sahne değişmez; şaka fotoğrafa ve alt yazısına taşınır."
+        },
+        "ending": "Hava durumu belirsiz fotoğraf"
+      }
+    ]
+  },
+  {
+    "id": "story-comedy-rolle",
+    "title": "Ciddiyetle Karışan Roller",
+    "germanTitle": "Die Rolle des Jahrhunderts",
+    "level": "B2",
+    "category": "comedy",
+    "description": "Bir iletişim atölyesinde “rol” sözcüğünün iki anlamı karışıyor. Beklenti, bağlam ve dolaylı anlatımı yorumlayarak dört çözümü keşfet.",
+    "art": "town",
+    "minutes": 10,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Yanlış malzeme",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Für einen Workshop soll Mara ihre Rolle vorbereiten. Sie erscheint mit einer riesigen Rolle Geschenkpapier unter dem Arm.",
+            "tr": "Mara’dan bir atölye için rolünü hazırlaması istenir. Koltuğunun altında dev bir hediye kâğıdı rulosuyla gelir."
+          },
+          {
+            "de": "Die Leiterin hatte eine Gesprächsrolle gemeint: Mara sollte eine unzufriedene Kundin spielen. Die E-Mail enthielt allerdings kein Beispiel.",
+            "tr": "Yürütücü bir konuşma rolünü kastetmiştir: Mara memnun olmayan bir müşteriyi canlandıracaktır. Fakat e-postada örnek yoktur."
+          },
+          {
+            "de": "Mara behauptet scherzhaft, sie habe die einzige wirklich tragbare Rolle mitgebracht. Einige lachen, andere wirken verunsichert.",
+            "tr": "Mara şakayla gerçekten taşınabilir olan tek rolü getirdiğini ileri sürer. Bazıları güler, diğerleri kararsız görünür."
+          },
+          {
+            "de": "Du moderierst die Gruppe. Du kannst die missverständliche Einladung klären oder Mara fragen, ob sie ihre Idee in eine Übung verwandeln möchte.",
+            "tr": "Grubu sen yönetiyorsun. Belirsiz daveti açıklığa kavuşturabilir ya da Mara’ya fikrini bir alıştırmaya çevirmek isteyip istemediğini sorabilirsin."
+          }
+        ],
+        "words": [
+          "Rolle"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich kläre zunächst den Auftrag.",
+            "tr": "Önce görevi açıklığa kavuştururum.",
+            "to": "clarify"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich frage Mara nach ihrer Idee.",
+            "tr": "Mara’ya fikrini sorarım.",
+            "to": "invite"
+          }
+        ],
+        "question": {
+          "prompt": "Yanlış anlamayı kolaylaştıran unsur hangisi?",
+          "options": [
+            "Rolle sözcüğünün iki anlamı ve örneksiz davet.",
+            "Mara’nın e-postayı hiç almamış olması.",
+            "Atölyenin iptal edilmesi."
+          ],
+          "correct": "Rolle sözcüğünün iki anlamı ve örneksiz davet.",
+          "explanation": "Rolle hem canlandırılan rol hem rulo demektir. “allerdings” davetin eksik bağlamına dikkat çeker; metin Mara’nın okumadığını söylemez."
+        }
+      },
+      {
+        "id": "clarify",
+        "title": "Suçlu aramadan açıklamak",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Du erklärst, mit Rolle sei eine Figur in einem Kundengespräch gemeint gewesen. Mara nickt und legt das Papier beiseite.",
+            "tr": "Rolle ile bir müşteri konuşmasındaki karakterin kastedildiğini açıklıyorsun. Mara başını sallayıp kâğıdı kenara koyuyor."
+          },
+          {
+            "de": "Die Leiterin räumt ein, dass ihre Einladung mehrere Lesarten zugelassen habe. Sie möchte die Verantwortung nicht allein Mara zuschieben.",
+            "tr": "Yürütücü davetinin birden fazla okumaya açık olduğunu kabul ediyor. Sorumluluğu yalnızca Mara’ya yüklemek istemiyor."
+          },
+          {
+            "de": "Um die Stimmung zu lösen, könntest du selbst eine absichtlich missverstandene Anweisung vorspielen.",
+            "tr": "Havayı yumuşatmak için bilerek yanlış anladığın bir yönergeyi kendin canlandırabilirsin."
+          },
+          {
+            "de": "Alternativ könntet ihr die Einladung gemeinsam präzisieren und anschließend direkt mit den Gesprächsrollen beginnen.",
+            "tr": "Alternatif olarak daveti birlikte netleştirip ardından doğrudan konuşma rollerine başlayabilirsiniz."
+          }
+        ],
+        "words": [
+          "Rolle"
+        ],
+        "choices": [
+          {
+            "id": "clarify-1",
+            "de": "Ich spiele selbst das Missverständnis vor.",
+            "tr": "Yanlış anlamayı kendim canlandırırım.",
+            "to": "self"
+          },
+          {
+            "id": "clarify-2",
+            "de": "Wir schreiben eine klarere Einladung.",
+            "tr": "Daha açık bir davet yazarız.",
+            "to": "rewrite"
+          }
+        ],
+        "question": {
+          "prompt": "“mit Rolle sei … gemeint gewesen” hangi işlevi taşıyor?",
+          "options": [
+            "Gelecekteki kesin bir yasağı bildiriyor.",
+            "Kâğıdın fiziksel uzunluğunu ölçüyor.",
+            "Önceki niyeti dolaylı biçimde aktarıyor."
+          ],
+          "correct": "Önceki niyeti dolaylı biçimde aktarıyor.",
+          "explanation": "“sei … gemeint gewesen” geçmişe yönelik dolaylı aktarımdır. Burada kullanım önceki görevin anlamını açıklığa kavuşturur; zorunlu olarak kuşku bildirmez."
+        }
+      },
+      {
+        "id": "invite",
+        "title": "Bir fikre gerçekten izin vermek",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Du fragst Mara, ob sie die Rolle aus Papier freiwillig in die Übung einbauen möchte. Sie stimmt zu, bittet aber um eine klare Aufgabe.",
+            "tr": "Mara’ya kâğıt rulosunu gönüllü olarak alıştırmaya katmak isteyip istemediğini soruyorsun. Kabul ediyor ama açık bir görev istiyor."
+          },
+          {
+            "de": "Ihr könntet ein übertriebenes Verkaufsgespräch spielen, in dem jede Antwort sorgfältig eingewickelt wird.",
+            "tr": "Her cevabın özenle paketlendiği abartılı bir satış konuşması oynayabilirsiniz."
+          },
+          {
+            "de": "Oder ihr könntet aus dem Papier eine sichtbare Grenze zwischen sachlicher Kritik und persönlichem Angriff legen.",
+            "tr": "Ya da kâğıtla nesnel eleştiri ile kişisel saldırı arasında görünür bir sınır oluşturabilirsiniz."
+          },
+          {
+            "de": "Beide Übungen brauchen anschließend eine Auswertung. Eine lustige Rolle allein erklärt noch keine gelungene Kommunikation.",
+            "tr": "Her iki alıştırmanın ardından değerlendirme gerekir. Komik bir rol tek başına başarılı iletişimi açıklamaz."
+          }
+        ],
+        "words": [
+          "Rolle"
+        ],
+        "choices": [
+          {
+            "id": "invite-1",
+            "de": "Wir spielen das eingewickelte Verkaufsgespräch.",
+            "tr": "Paketlenmiş satış konuşmasını oynayalım.",
+            "to": "sales"
+          },
+          {
+            "id": "invite-2",
+            "de": "Wir legen eine Grenze aus Papier.",
+            "tr": "Kâğıttan bir sınır koyalım.",
+            "to": "boundary"
+          }
+        ],
+        "question": {
+          "prompt": "İki önerinin ortak gereği ne?",
+          "options": [
+            "Tüm eleştirinin yasaklanması.",
+            "Sonrasında değerlendirme yapılması.",
+            "Mara’nın habersizce taklit edilmesi."
+          ],
+          "correct": "Sonrasında değerlendirme yapılması.",
+          "explanation": "“brauchen anschließend eine Auswertung” açık koşuldur. Mizah deneyimi başlatabilir; öğrenme çıkarımı ayrıca tartışılır."
+        }
+      },
+      {
+        "id": "self",
+        "title": "Kendi payına gülmek",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Du nimmst die Rolle und sagst, du solltest den Workshop schließlich aufrollen. Dann rollst du langsam das Papier aus.",
+            "tr": "Ruloyu alıp sonuçta atölyeyi açıp ele alman gerektiğini söylüyorsun. Sonra kâğıdı yavaşça açıyorsun."
+          },
+          {
+            "de": "Der absichtlich wörtliche Umgang mit aufrollen macht den Unterschied zwischen Wortlaut und Absicht sichtbar. Mara lacht mit.",
+            "tr": "Aufrollen sözcüğünün bilerek gerçek anlamıyla ele alınması söylenenle niyet arasındaki farkı görünür kılıyor. Mara da gülüyor."
+          },
+          {
+            "de": "Du ergänzt, du hättest ebenfalls nachfragen können, statt stillschweigend eindeutige Begriffe vorauszusetzen.",
+            "tr": "Sessizce kavramların açık olduğunu varsaymak yerine senin de soru sorabileceğini ekliyorsun."
+          },
+          {
+            "de": "Die Gruppe beginnt mit den Gesprächsrollen. Das Papier bleibt als freundliche Erinnerung an eine gemeinsame Lernpause liegen.",
+            "tr": "Grup konuşma rollerine başlıyor. Kâğıt, ortak bir öğrenme molasının sıcak bir hatırası olarak kalıyor."
+          }
+        ],
+        "words": [
+          "Rolle"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bu çözüm neden Mara’yı hedef almıyor?",
+          "options": [
+            "Yönetici kendi payını da görünür kılıyor.",
+            "Mara’nın hatası herkesin önünde cezalandırılıyor.",
+            "Mara odadan çıkarılıyor."
+          ],
+          "correct": "Yönetici kendi payını da görünür kılıyor.",
+          "explanation": "Anlatıcı kendini şakaya dahil eder ve kendi varsayımını sorgular. “hätte … können” geçmişte kullanılmamış bir imkâna işaret eder."
+        },
+        "ending": "Birlikte açılan rulo"
+      },
+      {
+        "id": "rewrite",
+        "title": "Tek sayfalık kesinlik",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Die Gruppe ergänzt in der Einladung: Bitte bereiten Sie die Rolle einer Kundin vor; Material müssen Sie nicht mitbringen.",
+            "tr": "Grup davete şunu ekliyor: Lütfen bir müşteri rolü hazırlayın; malzeme getirmeniz gerekmiyor."
+          },
+          {
+            "de": "Mara zeichnet am Rand eine kleine Papierrolle durch. Die Leiterin lässt die Zeichnung mit ihrer Zustimmung stehen.",
+            "tr": "Mara kenara küçük bir kâğıt rulosu çizip üstünü çiziyor. Yürütücü onun onayıyla çizimi bırakıyor."
+          },
+          {
+            "de": "In der Probe sagt niemand mehr, die Aufgabe sei doch offensichtlich gewesen. Stattdessen prüft ihr, was tatsächlich im Text steht.",
+            "tr": "Provada artık kimse görevin zaten apaçık olduğunu söylemiyor. Bunun yerine metinde gerçekten ne olduğunu kontrol ediyorsunuz."
+          },
+          {
+            "de": "Die Rolle aus Papier wird nicht gebraucht. Ihr habt trotzdem etwas Nützliches ausgepackt: eine verständlichere Arbeitsanweisung.",
+            "tr": "Kâğıt rulosuna ihtiyaç kalmıyor. Yine de yararlı bir şeyi paketinden çıkarmış oldunuz: daha anlaşılır bir çalışma yönergesi."
+          }
+        ],
+        "words": [
+          "Rolle"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Yeni davetin önemli farkı ne?",
+          "options": [
+            "Daha fazla belirsiz mecaz kullanması.",
+            "Katılımcıları suçlaması.",
+            "İstenen rolü ve malzeme gerekmemesini açıkça belirtmesi."
+          ],
+          "correct": "İstenen rolü ve malzeme gerekmemesini açıkça belirtmesi.",
+          "explanation": "Somut örnek ile malzeme açıklaması iki anlam arasındaki belirsizliği giderir. Sadece metni uzatmak değil, gerekli bilgiyi eklemek çözüm olur."
+        },
+        "ending": "Paketten çıkan açıklık"
+      },
+      {
+        "id": "sales",
+        "title": "Paketlenmiş cevaplar",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Mara spielt ihre Rolle als Kundin und fragt nach dem Preis. Du wickelst die Antwort symbolisch in eine Lage Papier.",
+            "tr": "Mara müşteri rolünü oynayıp fiyatı soruyor. Sen cevabı simgesel olarak bir kat kâğıda sarıyorsun."
+          },
+          {
+            "de": "Nach drei besonders höflichen Ausweichsätzen ruft jemand: Können wir die Antwort bitte endlich auspacken?",
+            "tr": "Özellikle nazik üç kaçamak cümleden sonra biri sesleniyor: Cevabı artık paketinden çıkarabilir miyiz?"
+          },
+          {
+            "de": "Ihr haltet an und vergleicht Höflichkeit mit Unklarheit. Eine freundliche Antwort kann kurz sein und trotzdem den tatsächlichen Preis nennen.",
+            "tr": "Durup nezaket ile belirsizliği karşılaştırıyorsunuz. Dostça bir cevap kısa olabilir ve yine de gerçek fiyatı söyleyebilir."
+          },
+          {
+            "de": "Mara beendet ihre Rolle mit einer klaren Rückfrage. Die Papierverpackung landet im Altpapier, die Erkenntnis bleibt.",
+            "tr": "Mara rolünü açık bir ek soruyla bitiriyor. Kâğıt ambalaj geri dönüşüme gidiyor, çıkarım kalıyor."
+          }
+        ],
+        "words": [
+          "Rolle"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Alıştırmanın çıkarımı ne?",
+          "options": [
+            "Fiyat sorulmamalıdır.",
+            "Nazik olmak, bilgiyi belirsiz bırakmayı gerektirmez.",
+            "Her kısa cevap kabadır."
+          ],
+          "correct": "Nazik olmak, bilgiyi belirsiz bırakmayı gerektirmez.",
+          "explanation": "Hikâye nezaketi reddetmez; kaçamaklıkla karıştırılmasını sorgular. “trotzdem” iki özelliğin birlikte bulunabileceğini vurgular."
+        },
+        "ending": "Açılan fiyat etiketi"
+      },
+      {
+        "id": "boundary",
+        "title": "Kâğıttan ciddi sınır",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Ihr legt die Rolle Papier zwischen zwei Stühle. Auf einer Seite steht der Satz: Diese Erklärung ist unklar.",
+            "tr": "Kâğıt rulosunu iki sandalye arasına seriyorsunuz. Bir tarafta şu cümle var: Bu açıklama belirsiz."
+          },
+          {
+            "de": "Auf der anderen Seite steht: Du erklärst immer alles schlecht. Schon die übertriebene Endlosigkeit von immer bringt einige zum Schmunzeln.",
+            "tr": "Diğer tarafta şu yazıyor: Sen her şeyi her zaman kötü açıklıyorsun. Her zaman sözünün abartılı sınırsızlığı bile bazılarını gülümsetiyor."
+          },
+          {
+            "de": "Mara tritt in ihrer Rolle neben den ersten Satz: Darüber kann ich sprechen, ohne mich als Person verteidigen zu müssen.",
+            "tr": "Mara rolü içinde ilk cümlenin yanına geçiyor: Kendimi kişi olarak savunmak zorunda kalmadan bunu konuşabilirim."
+          },
+          {
+            "de": "Ihr sammelt präzisere Formulierungen. Der Witz über die Rolle endet, die Unterscheidung zwischen Beobachtung und Pauschalurteil bleibt.",
+            "tr": "Daha net ifadeler topluyorsunuz. Rol ile rulo arasındaki şaka sona eriyor, gözlem ile genelleme arasındaki ayrım kalıyor."
+          }
+        ],
+        "words": [
+          "Rolle"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "İlk cümle ikinciye göre nasıl farklı?",
+          "options": [
+            "Belirli bir açıklamayı eleştiriyor, kişiyi genellemiyor.",
+            "Hiçbir sorun belirtmiyor.",
+            "Daha sert bir kişisel saldırı içeriyor."
+          ],
+          "correct": "Belirli bir açıklamayı eleştiriyor, kişiyi genellemiyor.",
+          "explanation": "“Diese Erklärung” belirli bir ürüne odaklanır. “du … immer alles” kişiye dönük geniş bir genellemedir."
+        },
+        "ending": "İki sandalye arasındaki fark"
+      }
+    ]
+  },
+  {
+    "id": "story-comedy-schild",
+    "title": "Sessizlik İlanının Gürültüsü",
+    "germanTitle": "Bitte dieses Schild nicht laut vorlesen",
+    "level": "C1",
+    "category": "comedy",
+    "description": "Bir müzedeki sessizlik levhası beklenmedik tartışma yaratıyor. Üslup, iletişim niyeti ve uygulama arasındaki çelişkiyi incele.",
+    "art": "town",
+    "minutes": 10,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Sesli okunan sessizlik",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Im Stadtmuseum hängt ein neues Schild: Bitte bewahren Sie absolute Stille. Ein Besucher liest es seiner Begleiterin mit kräftiger Stimme vor.",
+            "tr": "Kent müzesinde yeni bir levha asılıdır: Lütfen mutlak sessizliği koruyun. Bir ziyaretçi bunu yanındaki kişiye güçlü bir sesle okur."
+          },
+          {
+            "de": "Der Aufseher mahnt ihn daraufhin so laut zur Ruhe, dass sich drei weitere Gruppen umdrehen. Die gut gemeinte Regel vervielfacht ihren eigenen Anlass.",
+            "tr": "Gözetmen bunun üzerine onu o kadar yüksek sesle sessizliğe çağırır ki üç grup daha dönüp bakar. İyi niyetli kural, kendi gerekçesini çoğaltır."
+          },
+          {
+            "de": "Du unterstützt das Museum bei der Besucherkommunikation. Der Leiter bittet dich um eine Lösung, die weder Menschen beschämt noch die Sammlung zur Geräuschkulisse macht.",
+            "tr": "Müzenin ziyaretçi iletişimine destek veriyorsun. Müdür, insanları utandırmadan ve koleksiyonu bir gürültü fonuna dönüştürmeden bir çözüm bulmanı ister."
+          },
+          {
+            "de": "Du kannst zunächst die Formulierung des Schildes überprüfen oder die tatsächlichen Bedürfnisse der anwesenden Besucher erfragen.",
+            "tr": "Önce levhanın ifadesini inceleyebilir ya da oradaki ziyaretçilerin gerçek ihtiyaçlarını sorabilirsin."
+          }
+        ],
+        "words": [
+          "Schild"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich überprüfe den Wortlaut.",
+            "tr": "İfadeyi incelerim.",
+            "to": "wording"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich frage nach den Bedürfnissen.",
+            "tr": "İhtiyaçları sorarım.",
+            "to": "needs"
+          }
+        ],
+        "question": {
+          "prompt": "Başlangıçtaki temel çelişki hangisi?",
+          "options": [
+            "Müzede hiçbir kural olmaması.",
+            "Ziyaretçinin levhayı görmemesi.",
+            "Sessizliği sağlama çabasının yeni gürültü üretmesi."
+          ],
+          "correct": "Sessizliği sağlama çabasının yeni gürültü üretmesi.",
+          "explanation": "Kuralın okunması ve yüksek sesle uygulanması aynı sonucu yeniden üretir. “daraufhin” olayların bağını, “so … dass” sonucu kurar."
+        }
+      },
+      {
+        "id": "wording",
+        "title": "Mutlaklığın küçük açığı",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Du fragst, was absolute Stille praktisch bedeuten soll. Auch Schritte, ein Husten oder eine nötige Erklärung ließen sich schließlich nicht vollständig vermeiden.",
+            "tr": "Mutlak sessizliğin uygulamada ne anlama geldiğini soruyorsun. Sonuçta adımlar, öksürük ya da gerekli bir açıklama da tamamen önlenemez."
+          },
+          {
+            "de": "Der Leiter gibt zu, das Schild solle vor allem lange, laute Gespräche verhindern. Seine Formulierung behauptet also mehr, als die Regel leisten muss.",
+            "tr": "Müdür, levhanın asıl olarak uzun ve yüksek sesli konuşmaları önlemek istediğini kabul ediyor. Yani ifade, kuralın sağlaması gerekenden fazlasını iddia ediyor."
+          },
+          {
+            "de": "Eine Mitarbeiterin schlägt ironisch vor, man müsse vor dem nächsten Schild erst eine Schweigeprüfung bestehen. Die Gruppe lacht über die Übertreibung.",
+            "tr": "Bir çalışan, bir sonraki levhadan önce sessizlik sınavından geçmek gerektiğini ironik biçimde öneriyor. Grup abartıya gülüyor."
+          },
+          {
+            "de": "Ihr könnt entweder eine konkrete Bitte formulieren oder die bestehende Regel in einer kurzen, freiwilligen Besucherbefragung prüfen.",
+            "tr": "Somut bir rica yazabilir ya da mevcut kuralı kısa, gönüllü bir ziyaretçi anketinde değerlendirebilirsiniz."
+          }
+        ],
+        "words": [
+          "Schild"
+        ],
+        "choices": [
+          {
+            "id": "wording-1",
+            "de": "Wir formulieren eine konkrete Bitte.",
+            "tr": "Somut bir rica yazalım.",
+            "to": "concrete"
+          },
+          {
+            "id": "wording-2",
+            "de": "Wir fragen nach der Wirkung des Schildes.",
+            "tr": "Levhanın etkisini soralım.",
+            "to": "survey"
+          }
+        ],
+        "question": {
+          "prompt": "Sessizlik sınavı önerisi nasıl okunmalı?",
+          "options": [
+            "Yasal bir sınav duyurusu olarak.",
+            "Mutlak kuralı görünür kılan ironik bir abartı olarak.",
+            "Kesinleşmiş bir giriş zorunluluğu olarak."
+          ],
+          "correct": "Mutlak kuralı görünür kılan ironik bir abartı olarak.",
+          "explanation": "“ironisch” ve grubun tepkisi şakanın işaretleridir. Dolaylı anlatımdaki “man müsse” önerinin aktarıldığını gösterir; gerçek karar verildiğini göstermez."
+        }
+      },
+      {
+        "id": "needs",
+        "title": "Fısıltının da bağlamı var",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Eine Besucherin erklärt, sie lese das Schild ihrer sehbehinderten Begleitung vor. Ein anderes Paar wolle nur kurz den Weg zum Ausgang klären.",
+            "tr": "Bir ziyaretçi, levhayı görme engelli refakatçisine okuduğunu açıklıyor. Başka bir çift yalnızca çıkışın yolunu kısaca öğrenmek istiyor."
+          },
+          {
+            "de": "Nicht jedes hörbare Wort ist also ein rücksichtsloses Gespräch. Gleichzeitig braucht eine Zeichengruppe im Nebenraum verlässliche Ruhe.",
+            "tr": "Demek ki duyulan her sözcük düşüncesizce bir konuşma değildir. Aynı zamanda yan odadaki çizim grubunun öngörülebilir bir sessizliğe ihtiyacı vardır."
+          },
+          {
+            "de": "Du schlägst vor, die Bitte auf dem Schild mit zugänglicher Information und klar erkennbaren Gesprächsbereichen zu verbinden.",
+            "tr": "Levhadaki ricayı erişilebilir bilgi ve açıkça belirlenmiş konuşma alanlarıyla birleştirmeyi öneriyorsun."
+          },
+          {
+            "de": "Der Leiter ist offen für eine räumliche Lösung oder zunächst für eine leise Schulung des Teams. Welche Priorität setzt du?",
+            "tr": "Müdür mekânsal bir çözüme de önce ekibin sakin bir yönlendirme eğitimine de açık. Sen hangisine öncelik verirsin?"
+          }
+        ],
+        "words": [
+          "Schild"
+        ],
+        "choices": [
+          {
+            "id": "needs-1",
+            "de": "Wir kennzeichnen Gesprächsbereiche.",
+            "tr": "Konuşma alanlarını belirleyelim.",
+            "to": "zones"
+          },
+          {
+            "id": "needs-2",
+            "de": "Wir üben ruhige Hinweise im Team.",
+            "tr": "Ekipte sakin uyarı pratiği yapalım.",
+            "to": "team"
+          }
+        ],
+        "question": {
+          "prompt": "İhtiyaçları sormak ilk yorumu nasıl değiştiriyor?",
+          "options": [
+            "Bazı konuşmaların erişim veya yön bulma ihtiyacından doğduğunu gösteriyor.",
+            "Tüm konuşmaların kasıtlı rahatsızlık olduğunu kanıtlıyor.",
+            "Çizim grubunun sessizlik istemediğini gösteriyor."
+          ],
+          "correct": "Bazı konuşmaların erişim veya yön bulma ihtiyacından doğduğunu gösteriyor.",
+          "explanation": "Metin iki ihtiyacı birlikte tutar. “Gleichzeitig” ikinci gereksinimi geçersiz kılmadan yanına ekler."
+        }
+      },
+      {
+        "id": "concrete",
+        "title": "Sessizliği bağırmadan istemek",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Das neue Schild lautet: Bitte sprechen Sie hier leise und halten Sie längere Gespräche im Foyer. Der erwartete Umgang ist nun überprüfbar.",
+            "tr": "Yeni levhada şöyle yazıyor: Lütfen burada alçak sesle konuşun ve uzun konuşmaları fuayede yapın. Beklenen davranış artık anlaşılır biçimde denetlenebilir."
+          },
+          {
+            "de": "Der Aufseher liest den Text probeweise im Flüsterton. Seine Kollegin bedankt sich feierlich dafür, dass die Generalprobe diesmal ohne Megafon auskommt.",
+            "tr": "Gözetmen metni denemek için fısıltıyla okuyor. İş arkadaşı, genel provanın bu kez megafon olmadan yapılmasına törenle teşekkür ediyor."
+          },
+          {
+            "de": "Der Witz gilt der früheren Methode, nicht einer bestimmten Besucherin. Ihr besprecht ausdrücklich, wie Hinweise freundlich und unaufdringlich bleiben.",
+            "tr": "Şaka belirli bir ziyaretçiye değil, önceki yönteme yöneliktir. Uyarıların nasıl dostça ve rahatsız etmeden kalacağını açıkça konuşuyorsunuz."
+          },
+          {
+            "de": "Die Sammlung wird nicht vollkommen lautlos. Das Schild verspricht es auch nicht mehr; es erleichtert vielmehr eine gemeinsame Rücksichtnahme.",
+            "tr": "Koleksiyonun çevresi tamamen sessizleşmez. Levha da artık bunu vaat etmez; daha çok ortak bir özeni kolaylaştırır."
+          }
+        ],
+        "words": [
+          "Schild"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Yeni levhanın kazanımı ne?",
+          "options": [
+            "Hiç ses olmayacağını garanti etmesi.",
+            "Bütün ziyaretçileri aynı anda dışarı çıkarması.",
+            "Gerçekçi ve somut davranış belirtmesi."
+          ],
+          "correct": "Gerçekçi ve somut davranış belirtmesi.",
+          "explanation": "“vielmehr” önceki iddiayı düzeltip asıl işlevi belirginleştirir. Amaç kusursuz sessizlik değil, uygulanabilir karşılıklı özen olur."
+        },
+        "ending": "Megafonsuz genel prova"
+      },
+      {
+        "id": "survey",
+        "title": "Levhanın anlaşılma testi",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Ihr bittet Besucher freiwillig, das Schild in eigenen Worten wiederzugeben. Einige verstehen es als Gesprächsverbot, andere nur als Bitte um leise Stimmen.",
+            "tr": "Ziyaretçilerden gönüllü olarak levhayı kendi sözleriyle anlatmalarını istiyorsunuz. Bazıları konuşma yasağı, bazıları yalnızca alçak ses ricası olarak anlıyor."
+          },
+          {
+            "de": "Der Leiter notiert: Eindeutig uneindeutig. Das Wortspiel erleichtert das Eingeständnis, ersetzt aber die Auswertung nicht.",
+            "tr": "Müdür not alıyor: Açıkça belirsiz. Sözcük oyunu kabul etmeyi kolaylaştırıyor ama değerlendirmenin yerini almıyor."
+          },
+          {
+            "de": "Ihr veröffentlicht keine Namen und zieht aus der kleinen Gruppe keine Aussage über sämtliche Museumsbesucher.",
+            "tr": "İsimleri yayımlamıyor ve küçük gruptan tüm müze ziyaretçileri hakkında sonuç çıkarmıyorsunuz."
+          },
+          {
+            "de": "Auf dieser begrenzten Grundlage überarbeitet ihr das Schild. Ein bescheidener Befund ist hilfreicher als eine sehr laute Behauptung.",
+            "tr": "Bu sınırlı temelde levhayı değiştiriyorsunuz. Mütevazı bir bulgu, çok gürültülü bir iddiadan daha yararlı."
+          }
+        ],
+        "words": [
+          "Schild"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Anketten hangi sonuç çıkarılabilir?",
+          "options": [
+            "Levhanın tüm müzelerde kesinlikle yasaklanması gerektiği.",
+            "Bu küçük grupta levhanın farklı anlaşıldığı.",
+            "Bütün ziyaretçilerin aynı düşündüğü."
+          ],
+          "correct": "Bu küçük grupta levhanın farklı anlaşıldığı.",
+          "explanation": "Örneklemin kapsamı açıkça sınırlanır. Az sayıdaki yanıt evrensel bir yargıya dönüştürülmez."
+        },
+        "ending": "Açıkça belirsiz bulgu"
+      },
+      {
+        "id": "zones",
+        "title": "Konuşmanın yeri",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Neben dem Schild markiert ihr einen kurzen Weg zum Foyer und bietet Informationen in gut lesbarer Schrift an.",
+            "tr": "Levhanın yanında fuayeye giden kısa yolu işaretliyor, bilgileri kolay okunur yazıyla sunuyorsunuz."
+          },
+          {
+            "de": "Eine Familie führt ihr angeregtes Gespräch dort weiter. Die Zeichengruppe kann im Sammlungsraum konzentriert arbeiten.",
+            "tr": "Bir aile canlı konuşmasını orada sürdürüyor. Çizim grubu koleksiyon odasında yoğunlaşarak çalışabiliyor."
+          },
+          {
+            "de": "Der Aufseher zeigt nur noch freundlich auf den Wegweiser. Er nennt ihn seinen leisesten und zugleich deutlichsten Kollegen.",
+            "tr": "Gözetmen artık yalnızca dostça yön tabelasını gösteriyor. Onu hem en sessiz hem de en açık konuşan iş arkadaşı diye adlandırıyor."
+          },
+          {
+            "de": "Das Schild bleibt eine Bitte, keine magische Lösung. Ihr prüft später, ob die neue Aufteilung auch zu Stoßzeiten funktioniert.",
+            "tr": "Levha sihirli bir çözüm değil, bir rica olarak kalıyor. Yeni düzenin yoğun saatlerde de işleyip işlemediğini daha sonra kontrol ediyorsunuz."
+          }
+        ],
+        "words": [
+          "Schild"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Son cümle çözümün hangi yönünü vurguluyor?",
+          "options": [
+            "Farklı koşullarda hâlâ sınanması gerektiğini.",
+            "Kesin olarak her zaman işe yaradığını.",
+            "Yön tabelasının canlı olduğunu."
+          ],
+          "correct": "Farklı koşullarda hâlâ sınanması gerektiğini.",
+          "explanation": "“ob” açık bir değerlendirme sorusu getirir. Başlangıçtaki olumlu gözlem, yoğun saatler için otomatik kanıt sayılmaz."
+        },
+        "ending": "En sessiz iş arkadaşı"
+      },
+      {
+        "id": "team",
+        "title": "Fısıltı eğitiminin küçük başarısı",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Im Team übt ihr kurze, freundliche Hinweise. Das Schild dient dabei als Hilfe, nicht als Ersatz für eine situative Entscheidung.",
+            "tr": "Ekipte kısa ve dostça uyarılar çalışıyorsunuz. Levha, duruma göre karar vermenin yerine değil, ona yardımcı olarak kullanılıyor."
+          },
+          {
+            "de": "Ein Kollege spielt einen viel zu enthusiastischen Flüsterer, dessen Flüstern fast den ganzen Raum erreicht. Alle erkennen das Problem sofort.",
+            "tr": "Bir iş arkadaşı, fısıltısı neredeyse bütün odaya ulaşan aşırı hevesli bir fısıltıcıyı canlandırıyor. Herkes sorunu hemen fark ediyor."
+          },
+          {
+            "de": "Ihr lacht über die Überzeichnung und übt anschließend eine ruhigere Variante, ohne echte Besucher nachzuahmen.",
+            "tr": "Abartılı canlandırmaya gülüyor, ardından gerçek ziyaretçileri taklit etmeden daha sakin bir seçenek deniyorsunuz."
+          },
+          {
+            "de": "Bei der nächsten Öffnung zeigt sich eine vorsichtige Verbesserung. Das Schild ist unverändert, aber seine Anwendung klingt anders.",
+            "tr": "Sonraki açılışta sınırlı bir iyileşme gözleniyor. Levha aynı ama uygulanışının sesi farklı."
+          }
+        ],
+        "words": [
+          "Schild"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bu sonun temel çıkarımı ne?",
+          "options": [
+            "Levha tek başına her davranışı belirler.",
+            "Ziyaretçileri taklit etmek şarttır.",
+            "Yazılı kural kadar uygulama biçimi de önemli."
+          ],
+          "correct": "Yazılı kural kadar uygulama biçimi de önemli.",
+          "explanation": "Metin değişmezken davranış değişir. “vorsichtige Verbesserung” de sonucun sınırlı ve temkinli değerlendirildiğini belirtir."
+        },
+        "ending": "Daha sessiz uygulama"
+      }
+    ]
+  },
+  {
+    "id": "story-comedy-teekanne",
+    "title": "Çaydanlığın Kesin Tanıklığı",
+    "germanTitle": "Die Teekanne, die alles besser wusste",
+    "level": "C2",
+    "category": "comedy",
+    "description": "Güvenilmez anlatıcının iddialarını tart. İroni, örtük anlam ve kanıt sınırlarıyla dört farklı edebî sonu keşfet.",
+    "art": "cafe",
+    "minutes": 10,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Kendinden emin bir tanık",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Ich will mich nicht rühmen, begann die Teekanne, doch ohne mich wäre diese Sitzung kaum zu retten gewesen. Dass sie währenddessen stumm auf dem Tisch gestanden hatte, verschwieg sie vorläufig.",
+            "tr": "Övünmek istemem, diye başladı çaydanlık, ama ben olmasaydım bu toplantıyı kurtarmak pek mümkün olmazdı. O sırada masada sessizce durmuş olduğunu şimdilik söylemedi."
+          },
+          {
+            "de": "Die Gäste stritten darüber, wer den entscheidenden Einfall gehabt habe. Die Teekanne deutete ihr bloßes Dabeisein bereits als Beweis für geistige Urheberschaft.",
+            "tr": "Konuklar belirleyici fikrin kime ait olduğunu tartışıyordu. Çaydanlık yalnızca orada bulunmasını bile düşünsel sahipliğin kanıtı olarak yorumluyordu."
+          },
+          {
+            "de": "Als Protokollantin sollst du den Abend festhalten. Deine Aufgabe besteht weder darin, jedes Selbstlob zu bestätigen, noch darin, den Erzähler vorschnell zum Lügner zu erklären.",
+            "tr": "Tutanak yazarı olarak akşamı kayda geçireceksin. Görevin ne her övgüyü onaylamak ne de anlatıcıyı aceleyle yalancı ilan etmek."
+          },
+          {
+            "de": "Du kannst die Teekanne um überprüfbare Einzelheiten bitten oder zunächst die anderen Stimmen zu Wort kommen lassen.",
+            "tr": "Çaydanlıktan doğrulanabilir ayrıntılar isteyebilir ya da önce diğer seslerin söz almasını sağlayabilirsin."
+          }
+        ],
+        "words": [
+          "Teekanne"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich bitte um überprüfbare Einzelheiten.",
+            "tr": "Doğrulanabilir ayrıntılar isterim.",
+            "to": "details"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich höre zunächst die anderen an.",
+            "tr": "Önce diğerlerini dinlerim.",
+            "to": "voices"
+          }
+        ],
+        "question": {
+          "prompt": "Anlatıcının güvenilirliğini ilk anda ne zedeliyor?",
+          "options": [
+            "Konukların tamamının onu yalanlaması.",
+            "Orada bulunmayı fikrin sahibi olmanın kanıtı sayması.",
+            "Toplantıya ait hiçbir ayrıntı bilmemesi."
+          ],
+          "correct": "Orada bulunmayı fikrin sahibi olmanın kanıtı sayması.",
+          "explanation": "“bloßes Dabeisein” ile “geistige Urheberschaft” arasındaki sıçrama gerekçesizdir. Anlatı henüz tüm sözlerin yalan olduğunu kanıtlamaz."
+        }
+      },
+      {
+        "id": "details",
+        "title": "Sessizliğin yorumu",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Die Teekanne erklärte, ihr bedeutungsvolles Schweigen habe die Runde zum Nachdenken gezwungen. Auf die Frage, woran sich dessen Wirkung erkennen lasse, verwies sie auf die zufällig folgende Pause.",
+            "tr": "Çaydanlık, anlamlı sessizliğinin grubu düşünmeye zorladığını açıkladı. Etkisinin nereden anlaşıldığı sorulunca tesadüfen ardından gelen araya işaret etti."
+          },
+          {
+            "de": "Du notierst die zeitliche Abfolge, trennst sie aber von der behaupteten Ursache. Ein Ereignis, das nach einem anderen eintritt, ist nicht schon dessen nachgewiesene Folge.",
+            "tr": "Zamansal sıralamayı not ediyor ama iddia edilen nedenden ayırıyorsun. Bir olayın diğerinden sonra olması, onun kanıtlanmış sonucu olduğu anlamına gelmez."
+          },
+          {
+            "de": "Die Teekanne nennt diese Unterscheidung kleinlich. Ihre plötzliche Gereiztheit macht die Behauptung weder falsch noch überzeugender.",
+            "tr": "Çaydanlık bu ayrımı kılı kırk yarmak diye niteliyor. Birden sinirlenmesi iddiayı ne yanlış ne de daha ikna edici yapıyor."
+          },
+          {
+            "de": "Du kannst um eine unabhängige Beobachtung bitten oder den Widerspruch als literarisches Stilmittel sichtbar im Protokoll stehen lassen.",
+            "tr": "Bağımsız bir gözlem isteyebilir ya da çelişkiyi edebî bir anlatım aracı olarak tutanakta görünür bırakabilirsin."
+          }
+        ],
+        "words": [
+          "Teekanne"
+        ],
+        "choices": [
+          {
+            "id": "details-1",
+            "de": "Ich suche eine unabhängige Beobachtung.",
+            "tr": "Bağımsız bir gözlem ararım.",
+            "to": "evidence"
+          },
+          {
+            "id": "details-2",
+            "de": "Ich lasse den Widerspruch sichtbar.",
+            "tr": "Çelişkiyi görünür bırakırım.",
+            "to": "irony"
+          }
+        ],
+        "question": {
+          "prompt": "Tutanak yazarı hangi ayrımı koruyor?",
+          "options": [
+            "Zamansal ardışıklık ile kanıtlanmış nedensellik arasındaki ayrımı.",
+            "Sessizlik ile hiç toplantı yapılmaması arasındaki ayrımı.",
+            "Her sinirli kişinin kesinlikle yalan söylediği yargısını."
+          ],
+          "correct": "Zamansal ardışıklık ile kanıtlanmış nedensellik arasındaki ayrımı.",
+          "explanation": "“nicht schon” otomatik çıkarıma itiraz eder. Duygusal tepki de bağımsız kanıtın yerine geçmez."
+        }
+      },
+      {
+        "id": "voices",
+        "title": "Birden fazla küçük hakikat",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Die Tasse erinnerte sich an einen Satz der Gastgeberin, der Löffel an eine Skizze auf der Serviette. Die Teekanne hielt beides für bloße Begleiterscheinungen ihrer Anwesenheit.",
+            "tr": "Fincan ev sahibinin bir cümlesini, kaşık peçetedeki bir çizimi hatırlıyordu. Çaydanlık ikisini de kendi varlığının yalnızca yan etkileri sayıyordu."
+          },
+          {
+            "de": "Die Gastgeberin erklärte dagegen, die Idee sei allmählich im Gespräch entstanden. Sie widersprach damit dem Alleinanspruch, nicht notwendig jeder einzelnen Erinnerung.",
+            "tr": "Ev sahibi ise fikrin konuşma sırasında yavaş yavaş oluştuğunu açıkladı. Böylece tek başına sahiplik iddiasına karşı çıktı; her bir anıyı zorunlu olarak reddetmedi."
+          },
+          {
+            "de": "Du erkennst, dass die Stimmen keine fertige Rangliste ergeben. Ein seriöser Bericht darf Uneinigkeit enthalten, ohne sie mit einer beliebigen Lösung zuzudecken.",
+            "tr": "Seslerin hazır bir sıralama oluşturmadığını fark ediyorsun. Ciddi bir anlatım, görüş ayrılığını rastgele bir çözümle örtmeden içinde barındırabilir."
+          },
+          {
+            "de": "Du kannst ein mehrstimmiges Protokoll verfassen oder eine kurze, ausdrücklich fiktive Zugabe für die Gruppe schreiben.",
+            "tr": "Çoksesli bir tutanak yazabilir ya da grup için açıkça kurmaca olarak belirtilen kısa bir ek metin hazırlayabilirsin."
+          }
+        ],
+        "words": [
+          "Teekanne"
+        ],
+        "choices": [
+          {
+            "id": "voices-1",
+            "de": "Ich schreibe ein mehrstimmiges Protokoll.",
+            "tr": "Çoksesli bir tutanak yazarım.",
+            "to": "polyphony"
+          },
+          {
+            "id": "voices-2",
+            "de": "Ich kennzeichne eine fiktive Zugabe.",
+            "tr": "Kurmaca bir ek metni açıkça işaretlerim.",
+            "to": "fiction"
+          }
+        ],
+        "question": {
+          "prompt": "Ev sahibinin itirazının kapsamı ne?",
+          "options": [
+            "Diğer tüm anıların kesinlikle uydurma olduğu iddiası.",
+            "Konuşmanın hiç yaşanmamış olması.",
+            "Fikrin yalnızca bir nesneye ait olduğu iddiası."
+          ],
+          "correct": "Fikrin yalnızca bir nesneye ait olduğu iddiası.",
+          "explanation": "“nicht notwendig” önemli bir sınırlamadır. Bir iddianın kapsamını eleştirmek, ona bağlı her ayrıntıyı reddetmek değildir."
+        }
+      },
+      {
+        "id": "evidence",
+        "title": "Mütevazı bir çay lekesi",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Auf der Serviette findet ihr tatsächlich eine Skizze mit einer Uhrzeit. Sie stützt die Erinnerung an einen gemeinsamen Entwurf, beweist aber nicht sämtliche behaupteten Gedankenwege.",
+            "tr": "Peçetede gerçekten saat yazılı bir çizim buluyorsunuz. Ortak taslak anısını destekliyor ama ileri sürülen düşünce yollarının tümünü kanıtlamıyor."
+          },
+          {
+            "de": "Die Teekanne besteht darauf, wenigstens den runden Fleck verursacht zu haben. Diesmal ist ihr Anspruch erfreulich bescheiden und mit dem feuchten Boden vereinbar.",
+            "tr": "Çaydanlık en azından yuvarlak lekeye kendisinin sebep olduğunda ısrar ediyor. Bu kez iddiası sevindirici ölçüde mütevazı ve ıslak tabanla uyumlu."
+          },
+          {
+            "de": "Du hältst fest, was beobachtet wurde, was erinnert und was bloß vermutet wird. Die Kategorien bleiben auch dort getrennt, wo ein besonders hübscher Satz sie gern vermischen würde.",
+            "tr": "Neyin gözlendiğini, neyin hatırlandığını ve neyin yalnızca tahmin edildiğini kaydediyorsun. Özellikle hoş bir cümlenin bunları karıştırmak istediği yerde bile kategoriler ayrı kalıyor."
+          },
+          {
+            "de": "Am Ende darf die Teekanne den Fleck signieren. Ihr größter belegbarer Beitrag misst neun Zentimeter im Durchmesser.",
+            "tr": "Sonunda çaydanlığın lekeyi imzalamasına izin veriliyor. Kanıtlanabilir en büyük katkısının çapı dokuz santimetre."
+          }
+        ],
+        "words": [
+          "Teekanne"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Son cümledeki mizah nasıl kuruluyor?",
+          "options": [
+            "Tüm gözlemlerin geçersiz sayılmasıyla.",
+            "Büyük düşünsel iddianın ölçülebilir küçük bir lekeye daralmasıyla.",
+            "Fikrin kesin olarak leke tarafından üretildiğinin kanıtlanmasıyla."
+          ],
+          "correct": "Büyük düşünsel iddianın ölçülebilir küçük bir lekeye daralmasıyla.",
+          "explanation": "Soyut büyüklük iddiası somut çap ölçüsüne indirilir. “belegbar” önemli sınırdır; bilinmeyen bütün katkıların yokluğu iddia edilmez."
+        },
+        "ending": "Dokuz santimetrelik katkı"
+      },
+      {
+        "id": "irony",
+        "title": "Alçakgönüllülükle taçlanan rapor",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Du übernimmst den ersten Satz der Teekanne wörtlich: Ich will mich nicht rühmen. Direkt darunter zitierst du ihre fünf nachfolgenden Selbstlobreden.",
+            "tr": "Çaydanlığın ilk cümlesini aynen alıyorsun: Övünmek istemem. Hemen altında ardından gelen beş kendini övme konuşmasını alıntılıyorsun."
+          },
+          {
+            "de": "Der Text behauptet nicht ausdrücklich, die Teekanne sei eitel. Die sorgfältige Gegenüberstellung lässt die Lesenden den Widerspruch selbst entdecken.",
+            "tr": "Metin çaydanlığın kendini beğenmiş olduğunu açıkça ileri sürmüyor. Dikkatli yan yana koyma, okurların çelişkiyi kendilerinin keşfetmesini sağlıyor."
+          },
+          {
+            "de": "Als die Teekanne den Bericht liest, lobt sie dessen vornehme Zurückhaltung. Dass auch dieses Lob sie selbst ins rechte Licht rücken soll, bleibt der Runde nicht verborgen.",
+            "tr": "Çaydanlık raporu okuyunca onun zarif ölçülülüğünü övüyor. Bu övgünün de kendisini iyi göstermeye çalıştığı grubun gözünden kaçmıyor."
+          },
+          {
+            "de": "Du kennzeichnest den Abschnitt als satirische Darstellung. Die tatsächlichen Sitzungsnotizen bleiben daneben unverändert zugänglich.",
+            "tr": "Bölümü hicivsel anlatım olarak işaretliyorsun. Gerçek toplantı notları yanında değiştirilmeden erişilebilir kalıyor."
+          }
+        ],
+        "words": [
+          "Teekanne"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "İroni okura nasıl aktarılıyor?",
+          "options": [
+            "İddia ile davranış yan yana getirilerek.",
+            "Yalnızca açık bir hakaret kullanılarak.",
+            "Gerçek notlar gizlice değiştirilerek."
+          ],
+          "correct": "İddia ile davranış yan yana getirilerek.",
+          "explanation": "Söylenen “övünmemek” ile ardından gelen öz övgüler uyuşmaz. Okur çıkarımı bu düzenlemeden üretir; ayrı tutulan gerçek notlar çarpıtılmaz."
+        },
+        "ending": "Ölçülü öz övgü"
+      },
+      {
+        "id": "polyphony",
+        "title": "Kesin hüküm yerine açık kayıt",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Im Protokoll stehen die Erinnerungen nebeneinander, jeweils mit ihrer Quelle. Wo sie auseinandergehen, vermerkst du die Abweichung, ohne vorschnell einen Sieger zu bestimmen.",
+            "tr": "Tutanakta anılar, her birinin kaynağıyla yan yana duruyor. Ayrıldıkları yerde aceleyle bir kazanan belirlemeden farkı not ediyorsun."
+          },
+          {
+            "de": "Die Teekanne beantragt, ihre Stimme fett zu drucken, weil sie schließlich das größte Gefäß sei. Die Tasse fragt, ob man Wahrheit jetzt in Litern messe.",
+            "tr": "Çaydanlık, sonuçta en büyük kap kendisi olduğu için sözlerinin kalın yazılmasını istiyor. Fincan, artık hakikatin litreyle ölçülüp ölçülmediğini soruyor."
+          },
+          {
+            "de": "Ihr lacht über die unpassende Maßeinheit und behaltet dieselbe Schriftgröße für alle. Gleiche Darstellung bedeutet dabei nicht, dass jede Behauptung gleich gut belegt wäre.",
+            "tr": "Uygunsuz ölçü birimine gülüyor ve herkes için aynı yazı boyutunu koruyorsunuz. Eşit sunum, her iddianın eşit derecede kanıtlandığı anlamına gelmiyor."
+          },
+          {
+            "de": "Am Rand bleibt Platz für spätere Ergänzungen. Die Teekanne nennt ihn großzügig ihren noch ungeschriebenen zweiten Band.",
+            "tr": "Kenarda sonraki eklemeler için yer kalıyor. Çaydanlık bunu cömertçe henüz yazılmamış ikinci cildi diye adlandırıyor."
+          }
+        ],
+        "words": [
+          "Teekanne"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "“Aynı yazı boyutu” hangi anlama gelmez?",
+          "options": [
+            "Kaynakların görünür tutulduğu anlamına.",
+            "Sunumda ayrıcalık verilmediği anlamına.",
+            "İddiaların kanıt gücünün eşit olduğu anlamına."
+          ],
+          "correct": "İddiaların kanıt gücünün eşit olduğu anlamına.",
+          "explanation": "Metin temsil eşitliği ile bilgiye dayalı güvenilirliği ayırır. İkisini bir tutmak, çaydanlığın boyut ile hakikat arasında kurduğu hatalı bağa benzer."
+        },
+        "ending": "Litreyle ölçülmeyen hakikat"
+      },
+      {
+        "id": "fiction",
+        "title": "Çay komitesinin kurmaca kararı",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Du schreibst eine ausdrücklich erfundene Zugabe: Der Ausschuss zur Förderung bescheidener Teekannen verleiht der Teekanne einen Preis für unauffällige Selbstdarstellung.",
+            "tr": "Açıkça uydurulmuş bir ek yazıyorsun: Mütevazı Çaydanlıkları Destekleme Kurulu, çaydanlığa göze batmayan öz sunum ödülü veriyor."
+          },
+          {
+            "de": "In ihrer Dankesrede betont sie, die Auszeichnung sei ihr eigentlich zu klein; aus Rücksicht auf die anderen werde sie dennoch dreißig Minuten darüber sprechen.",
+            "tr": "Teşekkür konuşmasında ödülün aslında kendisine küçük geldiğini vurguluyor; yine de diğerlerini düşündüğü için bu konuda otuz dakika konuşacakmış."
+          },
+          {
+            "de": "Die Runde erkennt die satirische Übertreibung. Niemand verwechselt den erfundenen Ausschuss mit einem tatsächlichen Beschluss des Abends.",
+            "tr": "Grup hicivsel abartıyı fark ediyor. Kimse uydurulmuş kurulu akşamın gerçek bir kararıyla karıştırmıyor."
+          },
+          {
+            "de": "Die Teekanne verlangt eine Fortsetzung. Du versprichst lediglich eine zweite Tasse Tee: Auch erzählerische Großzügigkeit braucht gelegentlich eine Pause.",
+            "tr": "Çaydanlık devamını istiyor. Sen yalnızca ikinci bir fincan çay vaat ediyorsun: Anlatısal cömertliğin de bazen molaya ihtiyacı vardır."
+          }
+        ],
+        "words": [
+          "Teekanne"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bu son neden gerçek tutanakla karışmıyor?",
+          "options": [
+            "Okurların tüm kaynakları kaldırıldığı için.",
+            "Ek açıkça kurmaca olarak işaretlendiği için.",
+            "Toplantıda gerçekten aynı kurul karar aldığı için."
+          ],
+          "correct": "Ek açıkça kurmaca olarak işaretlendiği için.",
+          "explanation": "İcat edilmiş kurul ve konuşma, ayrı ve açık bir kurmaca çerçevesindedir. İroni, “başkalarını düşünme” iddiasıyla uzun öz övgü arasındaki uyumsuzluktan doğar."
+        },
+        "ending": "Mütevazılık ödülü"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1684 @@
+{
+  "version": 1,
+  "engine": "piper-tts 1.8.0",
+  "voice": "de_DE-thorsten-medium",
+  "encoder": "lameenc 1.8.1 / LAME",
+  "modelSha256": "7e64762d8e5118bb578f2eea6207e1a35a8e0c30595010b666f983fc87bb7819",
+  "scenes": {
+    "story-comedy-hund:start": {
+      "full": {
+        "url": "/audio/stories-comedy/1909993478d5ba0ffd2efa20.mp3",
+        "duration": 16.58775510204096,
+        "sha256": "1909993478d5ba0ffd2efa20966e1ef4e243f0c31c91fbe164d5d5a9827f75b1",
+        "textSha256": "0a543f11c0d5be425eb374bbfa3fa7218d978743702c3f772871f7510e16b957",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/2a626a3175097afd250b072d.mp3",
+          "duration": 3.6832653061224434,
+          "sha256": "2a626a3175097afd250b072dab8487f959cb4f5ddcc753ad61c77e0066cc9d4b",
+          "textSha256": "0a002ea7ae80322df3034edf6494e2155dd869c8544eebcf0ca0071c755327b6",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/5976439f52850b8358ceb1f3.mp3",
+          "duration": 3.552653061224485,
+          "sha256": "5976439f52850b8358ceb1f3c91afb6a260c4de3329ba24bd17f5cfe8495b725",
+          "textSha256": "683273113793ce690200c57f57e1c9194364c0d0de8f821513189431415a8cdf",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/af991fc994776ce33e284597.mp3",
+          "duration": 3.369795918367343,
+          "sha256": "af991fc994776ce33e284597dbe913a38c768a4eb6cb6f1ba289d0519a1bc385",
+          "textSha256": "f6582a1cea20079ffc220895a146df091eedbb4f1b1e15fcfa2f3f06192f3de5",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/158cb9aa02df946c3d9605ca.mp3",
+          "duration": 4.963265306122453,
+          "sha256": "158cb9aa02df946c3d9605ca4a837cec13e3d657b77869cbc3ed3b6f74e7cde9",
+          "textSha256": "c46de78181ea73e5151d2ecd9192162e200cd9143207d421229279a8f8c4e3a4",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-hund:watch": {
+      "full": {
+        "url": "/audio/stories-comedy/d4a693d51cce2eedc4f5b246.mp3",
+        "duration": 15.464489795918498,
+        "sha256": "d4a693d51cce2eedc4f5b246b63cbe398588673b8a4ffa657d368b7f78e1e98e",
+        "textSha256": "b57fd78fd034e4db9ba282868cddf011f4b8ea6600ba3be2e4c41ff054e4622b",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/50413934501246e29b3968ca.mp3",
+          "duration": 3.186938775510201,
+          "sha256": "50413934501246e29b3968cacdac240b3f1ab32e5b4e06b1b6b71df7659e2687",
+          "textSha256": "234613b041fe3fa2fc015a81277d3a274624c9d2f8aac8ca1d1461e1f060f192",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/120aa349f895fd40fb765a89.mp3",
+          "duration": 3.108571428571426,
+          "sha256": "120aa349f895fd40fb765a890f353a23a882bde13d4a1c567725d1eaef49d431",
+          "textSha256": "437e17230555cad58fcf6d44da8ae29121904119d0b4bb47733dcfc4593adf22",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/89d6d5351d0a5a294616501b.mp3",
+          "duration": 4.179591836734689,
+          "sha256": "89d6d5351d0a5a294616501b557b5775c7571899b00e72e178e9bce3b9290783",
+          "textSha256": "f06d724a836741ad6e01a5e58198b45cae9dd5f74922fb6aaa36f4b64f19cf4e",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/c8cbd39b4edc9bf4c2230b69.mp3",
+          "duration": 4.022857142857136,
+          "sha256": "c8cbd39b4edc9bf4c2230b69d5ecea25aa07436e921a0ddad9cdcb599883b4d9",
+          "textSha256": "f8a2785e117103012548102acf35a2bfb0b46406ba2dd8ead81775497da61867",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-hund:ball": {
+      "full": {
+        "url": "/audio/stories-comedy/5c8e8629a417504df054eed0.mp3",
+        "duration": 14.288979591836851,
+        "sha256": "5c8e8629a417504df054eed02f79c54727b84c687149b8467493b558d8f35e02",
+        "textSha256": "a456f380e8547c3563556551fe1ac3da3afeaa5024fb0237b2c91d5362eb12c6",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/1f3f92991595b5133133e2be.mp3",
+          "duration": 3.448163265306118,
+          "sha256": "1f3f92991595b5133133e2be45f9438997d83401954868cbfee740e87fc3eac6",
+          "textSha256": "0178af429fc16e019899578353cd6d8e221c1c881beab40f19c9b2eea190e337",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/b34a40831cfd273676496c7e.mp3",
+          "duration": 2.742857142857142,
+          "sha256": "b34a40831cfd273676496c7ee839416a8a66324741ee306d090c3c49bd1b031f",
+          "textSha256": "24921b994e678f694d810126734c0bfd545a3a0182e93dd84d0c46e036d9a469",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/77cf31552e82017f554bf533.mp3",
+          "duration": 3.369795918367343,
+          "sha256": "77cf31552e82017f554bf533db4f65d97a9b67792eaf0fe9b26ec915f44eaafe",
+          "textSha256": "d833009b3a03d6bf4ce78a63ade7b6e79eade2b5f580498a3714cdc60f8d082c",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/33a7265bab1b0dd101e2aca3.mp3",
+          "duration": 3.735510204081627,
+          "sha256": "33a7265bab1b0dd101e2aca3db3a3d25d6be591f1e90ffc4afce2529de7d8c5a",
+          "textSha256": "26a3c39779b08e7c532bb6d3d1c4164349e888e8e0efd24dc67ffba44be22425",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-hund:toy": {
+      "full": {
+        "url": "/audio/stories-comedy/7350101942a51aa58b91b091.mp3",
+        "duration": 15.647346938775643,
+        "sha256": "7350101942a51aa58b91b091b45fdb9b90478a7972c1cd69ccc3359c76e2421c",
+        "textSha256": "947ff772d45f763fcd7eda2a66b8796a5152887ade7fba4547caefee839b5086",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/86ff78c12846bbcd9a555337.mp3",
+          "duration": 4.127346938775505,
+          "sha256": "86ff78c12846bbcd9a555337870800a688e7f5aab3ea5559037251712fe0bcfc",
+          "textSha256": "8a956591d304ee5a1c9aee56914af3d7a9c332454b4c8afe839c988767a1e921",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/5808a9360072b315af95e542.mp3",
+          "duration": 3.265306122448976,
+          "sha256": "5808a9360072b315af95e54200ef19ac675cad4228b1990d8d1f05eb4b942fd7",
+          "textSha256": "aace4da163edcb7fad3e5e3e36389ecfb86a14a11f91dc2033cafa3f971336a4",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/de5bd96b829a6d1be09699cd.mp3",
+          "duration": 2.7689795918367337,
+          "sha256": "de5bd96b829a6d1be09699cdedd0f8647d2bc5e0b1507fc93bd3ac835287b1ce",
+          "textSha256": "0374388b27367098074cf3611dc9d22f900d24ab0839ac5e4652df22f44cf371",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/bdc72bb6d02bd4ff375912f6.mp3",
+          "duration": 4.466938775510203,
+          "sha256": "bdc72bb6d02bd4ff375912f670c8e24f59c2265001969bc5e05de28919da7de7",
+          "textSha256": "792da906498455d8b67746756836f5ad8b2dc48fad738a8e0d57edb89b39d27b",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-hund:garden": {
+      "full": {
+        "url": "/audio/stories-comedy/a59e2eb38c93e104c4cea6b3.mp3",
+        "duration": 16.326530612245037,
+        "sha256": "a59e2eb38c93e104c4cea6b37f297e4febc876bbbcb2e38f6967da8facbd7661",
+        "textSha256": "93e4072d67d15c4c1df8a5d626d5c322f67c133b46d69bbb94db4e99c998e51d",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/08c6771538b1e7239f647758.mp3",
+          "duration": 3.8399999999999936,
+          "sha256": "08c6771538b1e7239f647758177838915d227fc3db7178ad4c02a3c1938d21ae",
+          "textSha256": "28cbd623fa1984493d64b3d8753389d8d9e91ba7e3fde1d9dce354195f4481d4",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/08b7a99f19cd132a9c21b605.mp3",
+          "duration": 3.2391836734693844,
+          "sha256": "08b7a99f19cd132a9c21b605f25e1f6e3a167c86b4a9324125fade7f55457f51",
+          "textSha256": "8e6272d503bb7a738441128ea90163371d34dcee575d9ff3ccfe20d75ec78bd2",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/e65a133b72202022ea06303b.mp3",
+          "duration": 3.970612244897952,
+          "sha256": "e65a133b72202022ea06303b19c360762b804cece1461fb95bbbfe84464f46cb",
+          "textSha256": "65b2a2bb88abb06149f386e156119f784b9926630d466d4e71f14c741289ce4c",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/cd3b3764551177abfb24c75f.mp3",
+          "duration": 4.257959183673465,
+          "sha256": "cd3b3764551177abfb24c75fd7addcdf6a4f79f39ebd570e7ea8588e002da2b2",
+          "textSha256": "7fbe8f8316a5bf405ceb05e6275e9a1b4d31a3cb3161f7350c3118e920219e33",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-hund:hat": {
+      "full": {
+        "url": "/audio/stories-comedy/d23119a62ae191ee07cd72ef.mp3",
+        "duration": 14.445714285714404,
+        "sha256": "d23119a62ae191ee07cd72efc0f123fd8e6f67c1d2c242c163a6fcee0c31899d",
+        "textSha256": "c184098615306468bcd4d5aea83fe0dcec3aa4a8512d5a647dde2b0e38ce40e2",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/f27b75fcaf08b3131443c864.mp3",
+          "duration": 2.925714285714284,
+          "sha256": "f27b75fcaf08b3131443c864a0118ec3bf688ff4f52e4777372c0c05b923f76c",
+          "textSha256": "69c777441ae19960f6be653b00365689337d194883545c1c5e80578610a2936c",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/268ca49fea121cb6b90dc6a0.mp3",
+          "duration": 2.925714285714284,
+          "sha256": "268ca49fea121cb6b90dc6a0740b1ac12d764ebb18b789310b9ec1faba2b64ab",
+          "textSha256": "39f809353e1b74894be68d8b565650da5c4613ebc4db62da1d9cb0ac0065d22d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/9317d4792dbb8b15e85e7175.mp3",
+          "duration": 3.3175510204081595,
+          "sha256": "9317d4792dbb8b15e85e71755313a599e5d11c776345845456a49ba460bdc423",
+          "textSha256": "33d46647fcfcbe1c5b1522cdce69a45f4ff9d4275daf90172a8ba75299601cc4",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/2be8b49eab6a4c2354360616.mp3",
+          "duration": 4.2840816326530575,
+          "sha256": "2be8b49eab6a4c2354360616f6253061b7b578bf8f4a5cc3fddebe95dcf5b4d1",
+          "textSha256": "db9efe589ad15e084a38355ec8d1f97c8ba8f074a6d35a811813f923f8614bbf",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-hund:photo": {
+      "full": {
+        "url": "/audio/stories-comedy/3ede8300bc5ad2fe0523830a.mp3",
+        "duration": 13.897142857142969,
+        "sha256": "3ede8300bc5ad2fe0523830a0e92ff3641230f66ec426144206488de02b130f6",
+        "textSha256": "a7e3c9ee7cc4338e3596f6a57b36ba21d59cb3aad6255aa236b9ae89d4397b29",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/6ef191bc030669313b6722ea.mp3",
+          "duration": 3.2391836734693844,
+          "sha256": "6ef191bc030669313b6722ead5d43079fc2bc6bb47e6f5481330054adc1da7ab",
+          "textSha256": "b2570c8552950d1f0bcaa0beaf436130a6f8090673231c23339d488eec4f9811",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/c76492f99dd6d2a9ba0f4ad1.mp3",
+          "duration": 2.56,
+          "sha256": "c76492f99dd6d2a9ba0f4ad185517fb23faf7a1e1e7e4af0a2f55667666148b6",
+          "textSha256": "947ced76cbf3cd32675802a2c3e6a9b2e0e7af087c9fff520bb8d1021eed2703",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/6aec6b47a82177d3fc590a63.mp3",
+          "duration": 2.9779591836734673,
+          "sha256": "6aec6b47a82177d3fc590a6319229501bfa45d5dab55ec35c0212108ef513d1b",
+          "textSha256": "479a9cf675fce1650b0a17f36d569394339b4e0b29a615c2c27ce468d52e1cad",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/d84ec909c29c57bcd35c57e3.mp3",
+          "duration": 4.1012244897959125,
+          "sha256": "d84ec909c29c57bcd35c57e3c352a47113048ca40552f2bc3d3b8f6731035632",
+          "textSha256": "66316b7b4b2dad91e381c64e93805da0ad59eb07a9e5fcda1d79f20c862fe8d9",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-koffer:start": {
+      "full": {
+        "url": "/audio/stories-comedy/806b3cb7fb06c842d74a0aff.mp3",
+        "duration": 20.088163265306306,
+        "sha256": "806b3cb7fb06c842d74a0aff978e7ad358ab336ae8b79be99098cd152cc5f22f",
+        "textSha256": "25a289135176ac0ebb27838e456ff53f339e7423b9bf1eb48ee9e46cf1e7d0b5",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/bc4ff7fc6f3f6740eddcbdb7.mp3",
+          "duration": 4.414693877551018,
+          "sha256": "bc4ff7fc6f3f6740eddcbdb7955b37da1bd9ff2a3b9544d2b6230b117c3a759d",
+          "textSha256": "537a1372db4f62c0d78dfc645b3a5fea22aee0409ff51518c840a6a3f11a7e41",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/40336d91004206da4b8c99e9.mp3",
+          "duration": 4.911020408163269,
+          "sha256": "40336d91004206da4b8c99e947c8941f7f9d4bed557fc99b2a70987fd096f63b",
+          "textSha256": "6959b9d8ce65869775d839a660355bc67b2b8520c070986ad2caa2d987584861",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/aaa03b46a8ffc86c8c0a6a84.mp3",
+          "duration": 4.493061224489795,
+          "sha256": "aaa03b46a8ffc86c8c0a6a843c08c8b60d2015ea7ff88cd2ed6e960bbe5572b7",
+          "textSha256": "4b47070a59d67151a1091451a987259a083e94e251f697d0a4d5fdd271333050",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/fc01cd5b542f27d59e58e2a3.mp3",
+          "duration": 5.276734693877559,
+          "sha256": "fc01cd5b542f27d59e58e2a344522ffd53b177ffff0af7df86e3768a4aa8d167",
+          "textSha256": "6564cfd9a5c0346ef5fdc68d923f92c7f07f485d3b700ac7b4d9594cbcf30c6c",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-koffer:desk": {
+      "full": {
+        "url": "/audio/stories-comedy/e25e8b6042dd7e225eb657d0.mp3",
+        "duration": 20.924081632653255,
+        "sha256": "e25e8b6042dd7e225eb657d0e8b183928bd9f1783775559e129fed2ea765d1d5",
+        "textSha256": "91ffd6de030398a22d7ac720c6189f319d4ead60e9496bc28fb9e7f541b28970",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/fad8bb0c22d4a72e670fbd47.mp3",
+          "duration": 4.884897959183677,
+          "sha256": "fad8bb0c22d4a72e670fbd47735d669c754738bf248e42ff9a4350a23bebbef3",
+          "textSha256": "2dad25237cff17facd1da8fecad065ba7010065db5249cad4547769117adc25a",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/43e9febfac7965e1fc628fb3.mp3",
+          "duration": 4.989387755102046,
+          "sha256": "43e9febfac7965e1fc628fb3e31a4eccc7b24c840ed4e2600f3f1f3babaa57bb",
+          "textSha256": "8ab22ec84202486a6e707b0100d3ec26630468b8669ad35d1260c08d0b2f1d1f",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/472b01c5c126d995f551a641.mp3",
+          "duration": 5.694693877551034,
+          "sha256": "472b01c5c126d995f551a64109643c4f1c3041c61cfe9acd59a64437009188f0",
+          "textSha256": "64eee7164d8e870c11beb1567cabda02d312b00c193f687055ec59f89e8ba1a3",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/02b98d047fd05bd762993c0c.mp3",
+          "duration": 4.336326530612242,
+          "sha256": "02b98d047fd05bd762993c0c9db20a52b0f0064a278adff5bcf503b2d88044b9",
+          "textSha256": "4f73ad0daa33ad9fc0834326a445a1c2a5126899357a54c8bc09bb94e2e507f4",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-koffer:call": {
+      "full": {
+        "url": "/audio/stories-comedy/ab7da12d69d666a4f2b489c5.mp3",
+        "duration": 20.192653061224675,
+        "sha256": "ab7da12d69d666a4f2b489c5090e8d5e5a4b877537b8a76bb3be8fb38790170d",
+        "textSha256": "d422edd5f9efcf4f6b02fc253e75ed51dacb4c4718a5575fbbc9396f0c080d27",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/21696afba5f5c4d3ce4a5c6f.mp3",
+          "duration": 5.355102040816336,
+          "sha256": "21696afba5f5c4d3ce4a5c6fa6ce6291d5dfc67496dab267df139df385219ced",
+          "textSha256": "6657ac760cf3a236105c0193eb699ee7431ba460b8949e282db90794b2b7b5d2",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/eef556338847e4c966aa2ba3.mp3",
+          "duration": 4.832653061224493,
+          "sha256": "eef556338847e4c966aa2ba3f502d3ab5b40531aafa4b8abde9466e9ee945100",
+          "textSha256": "622f9a1a5910e9a1cefcde282c2af61c55b378146ea11575e4041686b6d06a5f",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/c7c5804414dccca1d989af57.mp3",
+          "duration": 4.780408163265308,
+          "sha256": "c7c5804414dccca1d989af576ff8c5b487a91bf404d68deacd3979ca09429a53",
+          "textSha256": "391e302a49a1adefe1da7a35b77a8c2b7c0895c04ecb6a327e098797704451ef",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/23f8d64fe2995cf506243ff3.mp3",
+          "duration": 4.205714285714281,
+          "sha256": "23f8d64fe2995cf506243ff3e8efaf68c64ce812fcb56d56f214c62c376bea9d",
+          "textSha256": "1c144df1137b771916bce2a32f4e165a88748dee6f4b845dd3f97fb07a60e3e3",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-koffer:exchange": {
+      "full": {
+        "url": "/audio/stories-comedy/0b5a1f379993f6f7029c2066.mp3",
+        "duration": 22.230204081632863,
+        "sha256": "0b5a1f379993f6f7029c2066c2bd8f8e09b8ed5e94e66219700844df5f5bd216",
+        "textSha256": "0edc8e4759bd64bb12fd0f5d77de0c3f9925ea4600b77de58eedfccc4c014427",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/b18f981fa9e88a11753009bb.mp3",
+          "duration": 5.3289795918367435,
+          "sha256": "b18f981fa9e88a11753009bb27dcb8820788f74845ee6d1584b0bc4003eecd71",
+          "textSha256": "9a72beaaa72dbc0cb160d936bbe1544dffc4de6a506a3eba1bc205cf2745d43d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/9b4a0c6264455800f719d78a.mp3",
+          "duration": 4.257959183673465,
+          "sha256": "9b4a0c6264455800f719d78aed1ee0cfa265443e0a2c2dd1f9ac9d2c4626c982",
+          "textSha256": "d4ecb0768c7a731692006bcb6a69f6e92f3ddb4189b1632f630cf1855cf11e58",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/95022ddc106015f999881a83.mp3",
+          "duration": 6.452244897959206,
+          "sha256": "95022ddc106015f999881a83ffa886fe07d7c26c5145d95f048c7a55e43d5791",
+          "textSha256": "b86a57d9f667d47f2b264a46977562ee06c4bf5e429faf2f1fb9ebe59fae99dd",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/aa1e74824da4e64927cf7866.mp3",
+          "duration": 5.172244897959191,
+          "sha256": "aa1e74824da4e64927cf7866bd1253005d9c74bcd9fdc6b6d16d94e5356d40c3",
+          "textSha256": "afba5567ca20ea380b6955f3ee823c9f7bebeac9ea10d9c7b570b40c16f3b403",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-koffer:announcement": {
+      "full": {
+        "url": "/audio/stories-comedy/0423a5f262fd0dca68f3bbec.mp3",
+        "duration": 21.83836734693898,
+        "sha256": "0423a5f262fd0dca68f3bbec9bdf2949c31ae65f0981571fe3327c5bc89ec519",
+        "textSha256": "db43b5de4088b9aaffe8f87ed752edefef785600369240f8147eae4c138d2e6d",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/4cd7cca2f316fd898e492e71.mp3",
+          "duration": 5.3289795918367435,
+          "sha256": "4cd7cca2f316fd898e492e71c9b31b0b551a57e166c5b5e67f034f534c94d2ce",
+          "textSha256": "a56451b52fb3d196310447e3f5e92bf5f04f3892d1e6204d7dc7bf24f5514033",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/e0f099f6dd7a76bae9c96b46.mp3",
+          "duration": 5.40734693877552,
+          "sha256": "e0f099f6dd7a76bae9c96b46d35fb11dc7b67277ac86f7e44e886994c1ea0734",
+          "textSha256": "30401812dd4a60f6af66d35ad7780848046bdcbdde8f13387eb913ba0a588580",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/f8283f3c9958b65499024cff.mp3",
+          "duration": 5.250612244897967,
+          "sha256": "f8283f3c9958b65499024cffac575fac73b0d3b581afce50aa2b710021ec93f3",
+          "textSha256": "89c803bed1ca7b7fe62df0ac0470984da1aefa6b87560f18cbcfa19f426f76f8",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/b5f9460e7ed071742f77b7d1.mp3",
+          "duration": 4.858775510204085,
+          "sha256": "b5f9460e7ed071742f77b7d15ead6cfbec56528c95b4ee4809705f92d097a1fa",
+          "textSha256": "048a2b14eacc2c2959029d7c95b545cdd83ae90ea8a06817efc5862008283c24",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-koffer:clock": {
+      "full": {
+        "url": "/audio/stories-comedy/98c3f7ccf266fefbe0a0a769.mp3",
+        "duration": 20.63673469387774,
+        "sha256": "98c3f7ccf266fefbe0a0a7696694205f536118726cacf0c9c18ddb8f7fac86ef",
+        "textSha256": "9f1de4f659dbebe8aba32840e8b76ac9c4846198cc22d998c5dfc7365aee9798",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/49b3cd83dea021d3ab16a7c1.mp3",
+          "duration": 5.04163265306123,
+          "sha256": "49b3cd83dea021d3ab16a7c1d7fa31f23dabbae5ea94cec339482c581703f711",
+          "textSha256": "cc59fd20ab1ef5c1a32853f297bff1bc4aca9290e8af8e65f9d720bfc15a64c0",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/b12610ebe70bb96ca0475157.mp3",
+          "duration": 4.493061224489795,
+          "sha256": "b12610ebe70bb96ca04751576b7d8170cca7c7abc7c2b92bc1c8e3e6c31c16bb",
+          "textSha256": "65f7b02b626ef6b949f7ce1faeb6ec68062a80fc3d828a8133066204fc1a0031",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/e98bd87d515ef9869371835a.mp3",
+          "duration": 5.485714285714296,
+          "sha256": "e98bd87d515ef9869371835a956d7d7f121648255052d3d544083ad2bfbd3d6c",
+          "textSha256": "a78166cac38a1b0e5c769e361d5ff11514fe1536924bd54fd01c1dc8d091347a",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/8eb09cf22fc68195d28671a1.mp3",
+          "duration": 4.597551020408163,
+          "sha256": "8eb09cf22fc68195d28671a1acd4d401a2390fb85a8da75ae340b652dd1039ca",
+          "textSha256": "56772613d2b8758c8fa9a13520a3d8fb9875cfea9def71b2ebaac6d9867c885d",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-koffer:escort": {
+      "full": {
+        "url": "/audio/stories-comedy/6fdae10839158dd201a83545.mp3",
+        "duration": 21.681632653061428,
+        "sha256": "6fdae10839158dd201a83545a894d2cbb21c601df0034081db26e7a7cea0d29e",
+        "textSha256": "3f48fab0d099d9c14e837556c08522c30123472e5b7267e6cf9fb8fd42bf3aca",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/8c5408e23db90d46bc7c5001.mp3",
+          "duration": 5.564081632653073,
+          "sha256": "8c5408e23db90d46bc7c5001bd835eacbd681fd85bdb0167680d57c394e7c481",
+          "textSha256": "1c91097ea6038a56da7f60e081a9b4638b0eaf18c2e1dadaaeb4b333f16ab53f",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/040705c4f0ebef9a84f33924.mp3",
+          "duration": 5.877551020408179,
+          "sha256": "040705c4f0ebef9a84f33924ff4008c2859ed5365724615cf7681e19015f74d4",
+          "textSha256": "269daf69f0033ac11e6247a4b1477fec3b89c49868aca0321c5d9d4a872b3118",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/cad6e7722022b99fb14111dd.mp3",
+          "duration": 5.067755102040822,
+          "sha256": "cad6e7722022b99fb14111ddf9d62938470042813ab2ac9078a477587aceb415",
+          "textSha256": "35000d90068f7eb02d425b1d85ce3961fdf2dc101b7283342d4003395a63b11a",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/62eb9c25ff2a94ff187d08f6.mp3",
+          "duration": 4.179591836734689,
+          "sha256": "62eb9c25ff2a94ff187d08f65b1caee8c91093ecb1911b1054b60479b9de949d",
+          "textSha256": "b358e424dead6505b27ec1aff9a6212c553dbcabef2e2d2e2dc33410a353830b",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-probe:start": {
+      "full": {
+        "url": "/audio/stories-comedy/7ce28889785e6883c174a713.mp3",
+        "duration": 25.23428571428596,
+        "sha256": "7ce28889785e6883c174a7137a77d407d416dd9cd02f9dff5d59a4d52312ae95",
+        "textSha256": "a4e7687c350a66ec19567418e96b4940b190a23d50afed9ab81cad06b36a356f",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/d2a34bbee77cdf46b25ae134.mp3",
+          "duration": 6.87020408163268,
+          "sha256": "d2a34bbee77cdf46b25ae1340bb49dcb25009199fe13408b253ad1b401937038",
+          "textSha256": "961d41b943206744aace2472411b1bbc2951337f0c658f7afc79301d11c73a77",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/bcc1601ed14243dbf73e77f9.mp3",
+          "duration": 5.564081632653073,
+          "sha256": "bcc1601ed14243dbf73e77f963e3b164f22425b78cbedd97f336eb6a0706996c",
+          "textSha256": "e746d735194cbe8acdb45c31defc52b4908faed74314fa0ac7169af34b2ac6ec",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/ac0449ac5b99d82b91be57bc.mp3",
+          "duration": 5.746938775510218,
+          "sha256": "ac0449ac5b99d82b91be57bcd41142ab3f212c2507867585d8c320f9229f87a3",
+          "textSha256": "2aef26c9d66f11f2c55feac94c2a95f8ed66ca979ebc03f82d036bfea1f38700",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/2851e11400ae20b0b95f7a82.mp3",
+          "duration": 6.034285714285732,
+          "sha256": "2851e11400ae20b0b95f7a820063a88102388f74c14298760169c5ce22250fc3",
+          "textSha256": "87f46183b9929f2927236f376558f5072b30770fb82a521385db174958ea2436",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-probe:plan": {
+      "full": {
+        "url": "/audio/stories-comedy/b08a8c8a8869b1a3e012512f.mp3",
+        "duration": 24.24163265306146,
+        "sha256": "b08a8c8a8869b1a3e012512ff848d62578a3082e82927b25cecc12ccd7da8ca0",
+        "textSha256": "ad75921829ce7db30e844acdcb56169c045fc1847379ab10b90d809f0e4b3feb",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/9e2761413ff812b08915fc45.mp3",
+          "duration": 6.060408163265324,
+          "sha256": "9e2761413ff812b08915fc4559af3fdec5e1d7bec24b9ebcd09c4a9a02546831",
+          "textSha256": "a1a244c9bc8c2ebccb32e1957311dcc1ec2060a0650d6199799657064955a4db",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/6c340e2b725a0f4470a17acb.mp3",
+          "duration": 6.426122448979614,
+          "sha256": "6c340e2b725a0f4470a17acb1da8bd6c35b127fb2922cd7653e1780ed896c42a",
+          "textSha256": "8d28d00d4f45fd4305b3852c97c76547ce12d30c55426358fd3e81c1b987a13f",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/5d562812978cf99c6305b72a.mp3",
+          "duration": 6.321632653061245,
+          "sha256": "5d562812978cf99c6305b72a6646ebb9e8a495ea399b55b801f8fd30b8031340",
+          "textSha256": "8b7e49ae92efe7a819371e371e9dc926d0f9d02d7960194dd2bf2be91f0b2843",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/eccf2d22302adec92a00ab95.mp3",
+          "duration": 4.466938775510203,
+          "sha256": "eccf2d22302adec92a00ab956474f4413bd5caf6afc1b81509bb540cb73080ac",
+          "textSha256": "8997c3762b8cc5dad51220b1700216f8594238163b077e3aacb12800c53e20a7",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-probe:help": {
+      "full": {
+        "url": "/audio/stories-comedy/c9e1b6f4aa0c33c93dc0353d.mp3",
+        "duration": 23.823673469387984,
+        "sha256": "c9e1b6f4aa0c33c93dc0353da008db526db088e1d35d4f4f6a90e107949a22a6",
+        "textSha256": "24501989115e93601f7a1b27cd84b2c12bfadf4d64d389af0120b65faec5f263",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/1fd97fc71299e6f38ff40179.mp3",
+          "duration": 5.799183673469402,
+          "sha256": "1fd97fc71299e6f38ff401792194723f64cf6ca3b5092b4ef287ae0b3e2e3947",
+          "textSha256": "1beaa6212f5ca81b486be620143d692015eaa392ec6b2994627f11b8a6393e34",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/144e62d13f04456d0acfd70c.mp3",
+          "duration": 5.355102040816336,
+          "sha256": "144e62d13f04456d0acfd70ce0dc8aae74ee1fc28a39dc09b652df39284122e8",
+          "textSha256": "b4066a6c1d439da728032ae6c6eec741c03ff27f598f61b16834cfbe11010eb9",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/2dc8624bfabfa1c155146305.mp3",
+          "duration": 6.530612244897982,
+          "sha256": "2dc8624bfabfa1c155146305df7e207f9925206aaa66a293e46788b32f60e1a6",
+          "textSha256": "8722a2a5c4901ba26cfd48983433d9a01c3be9f95d14c575e1cfb94a92cef40a",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/8dba37a659ca5aac20e8308d.mp3",
+          "duration": 5.1461224489795985,
+          "sha256": "8dba37a659ca5aac20e8308d36be9d3a47160fd19cae5cf2959a564458781402",
+          "textSha256": "4f71c7d24b15e282370493fc5196bec4a131fd726f9809828b34dc39c736c35f",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-probe:experiment": {
+      "full": {
+        "url": "/audio/stories-comedy/79d35689d6173121e8751fca.mp3",
+        "duration": 24.320000000000235,
+        "sha256": "79d35689d6173121e8751fca510a397019bca42ffa99c8169bab4a3b16cac062",
+        "textSha256": "1cee01c75684ffde9bdf4712cd8d2de88e3c54e8bfd331a967a74bc1720eeac7",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/a8e8143e641293781f0f30d5.mp3",
+          "duration": 5.903673469387771,
+          "sha256": "a8e8143e641293781f0f30d53c1da13e479c56941424682e021901670d4dbb02",
+          "textSha256": "d3283d3c1282b94e63bc32b4f36ed957d0645b95b622631e1a85a35ebfc0c1db",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/df8b3478624e9c863e4a1274.mp3",
+          "duration": 6.217142857142877,
+          "sha256": "df8b3478624e9c863e4a12747b45f67fc63ef7ba89fd128eb181e3b4f4cdbb67",
+          "textSha256": "c10a1e325b9ca22f5c81bc659a0df9f5a50869abf6cf8c4cd4682fc5e86c18bc",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/d6531b319b86197ba02e38a7.mp3",
+          "duration": 4.937142857142861,
+          "sha256": "d6531b319b86197ba02e38a7344e611ff919d8420fe3ff5d8a2b1dc0ec4b8b73",
+          "textSha256": "307d04eca132fc05bfeb4073ca37dd50a54702f0917065fd89c23e5c18be5181",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/de98c6ab64f50f1f39b40d15.mp3",
+          "duration": 6.243265306122469,
+          "sha256": "de98c6ab64f50f1f39b40d15bc60304de92eec22cf3405e87f1abc57cbfe216f",
+          "textSha256": "4fca0d0163112792e512fa6131bd2884333c5f8aba602fc9c4a7ef5aaaa01401",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-probe:original": {
+      "full": {
+        "url": "/audio/stories-comedy/af7645e9f6e9e047b3366a64.mp3",
+        "duration": 24.63346938775534,
+        "sha256": "af7645e9f6e9e047b3366a64c31710cfc101fee4c4b271c1279fbb8913d2ead4",
+        "textSha256": "9bc75d402890ff27ba0537a388ef3516d6ef1f7fa4a0d22b68626995cdb3bc11",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/c86312df80a5e01110728505.mp3",
+          "duration": 6.008163265306139,
+          "sha256": "c86312df80a5e01110728505d8093b4ceeb2d7da5994b6a6134d955f45f1e1fb",
+          "textSha256": "8148028a1a552598a583bce00d50460c370601d7c77f87049ba68ab2861a3277",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/0c1f62074d1ffda5cb19993c.mp3",
+          "duration": 6.164897959183692,
+          "sha256": "0c1f62074d1ffda5cb19993c8ce0ea5e3d196827fe3a35f1d4cb737c2d018867",
+          "textSha256": "80b9edfd3ed0c690069b952799c49f0c008900f2ad7134bfd7e7c4cc74153c03",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/83e804afb9e0568d1634dc71.mp3",
+          "duration": 5.198367346938783,
+          "sha256": "83e804afb9e0568d1634dc712fa178cbaaeaef4174d62c9a7958149796596f83",
+          "textSha256": "fc67f78cc934e963645552676272a9260301cfc96429e6128d68f3b8b490ee1e",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/e7abfadf11fbe5b063c95541.mp3",
+          "duration": 6.243265306122469,
+          "sha256": "e7abfadf11fbe5b063c95541baec10d04055d9ee14a981edbbc00a1d2ccd0705",
+          "textSha256": "5f1798f3dce295f9f71cca328bdb80c7ac3ff7d0a3f088eb53f3b4707f525b1f",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-probe:hat": {
+      "full": {
+        "url": "/audio/stories-comedy/7c3a61338d80f47f8e3ee818.mp3",
+        "duration": 25.521632653061474,
+        "sha256": "7c3a61338d80f47f8e3ee818c1d1fb7c38c6b520cabc9279df8acdb5cc6bb8db",
+        "textSha256": "6ddd67d2151688c39ba0e4ce09fe250c655731f6420dec8a681bda844d8f6db8",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/8b16149f624d491d747b410a.mp3",
+          "duration": 6.1910204081632845,
+          "sha256": "8b16149f624d491d747b410a970b188424a8c32b6937114177cb8d6b01928712",
+          "textSha256": "ef0147d10f0563997efb3cb8b28a2951a65a8e5e0c28b575c5b6637771d76082",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/1e1327e79e2679758311d0ab.mp3",
+          "duration": 6.50448979591839,
+          "sha256": "1e1327e79e2679758311d0abb65a7bbfadb0f5e4f459113553b5b3e0b881e70c",
+          "textSha256": "0c363e1d9244ef36fb98ce9d9a63574c1c18c7480a59636bb4da04e5bc113d71",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/efacf239469f8db9c1493db8.mp3",
+          "duration": 5.381224489795928,
+          "sha256": "efacf239469f8db9c1493db87cd6a905f05c7c379e9ef78a59920952191d91f4",
+          "textSha256": "1f9c15a111d8b5a0882a82eea75f22f3e5785e26529769b4b2a558435bb4a7b4",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/da591af31a1711b4226d923e.mp3",
+          "duration": 6.452244897959206,
+          "sha256": "da591af31a1711b4226d923edc7cefff7caa0787e4734a43fc6ac71b5afc40a3",
+          "textSha256": "4203ee23ecaa261fabf7cf511a0fb0ed6be3e2c71238560c70a377ed584914eb",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-probe:picture": {
+      "full": {
+        "url": "/audio/stories-comedy/a2cb1e708bd841628a396d83.mp3",
+        "duration": 22.70040816326552,
+        "sha256": "a2cb1e708bd841628a396d83e184722f0c6c5a7fce7818f85c2636c83c58338c",
+        "textSha256": "6365a43cbd465a04eb9e3aa9341237e2f5c34925fcd0b488aa362598fb5d0264",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/152866836316895bba0bd079.mp3",
+          "duration": 4.362448979591834,
+          "sha256": "152866836316895bba0bd079789dbbb47154247e3e561d071b378f6793a88639",
+          "textSha256": "f46cc47131ab3863024fbd5bdd11d3f7e1ac3f59c136cb18e963819b776f7dbb",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/f249e787fd5f6d8d05a40df1.mp3",
+          "duration": 5.955918367346955,
+          "sha256": "f249e787fd5f6d8d05a40df17084e6b3be1bab6109416021a8fb9d67a5162d94",
+          "textSha256": "ac089f02b618d597392e1a9c8e04db83f39b9902b6265fb68568e7cf79642b9a",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/5156931f7427bbea87ead678.mp3",
+          "duration": 5.381224489795928,
+          "sha256": "5156931f7427bbea87ead6788bd84e9bfc3c83dc5a041fc227da2b28887a09c2",
+          "textSha256": "e871cf9ac7b88b7619c75ea130182ea464a1510a9926c40bfffd8c7694eaa9d6",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/5c76138d5b6581eb025a4500.mp3",
+          "duration": 5.982040816326547,
+          "sha256": "5c76138d5b6581eb025a4500a445a2b003f9c5b42bfa94c79447af551959a2ff",
+          "textSha256": "b207e750bfbdecc6148b9ea99c5f51574cb2ce518f882b15b6e15fe838fc31f9",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-rolle:start": {
+      "full": {
+        "url": "/audio/stories-comedy/ccc54a24a1a0c2ee5f3fce38.mp3",
+        "duration": 31.111836734694194,
+        "sha256": "ccc54a24a1a0c2ee5f3fce38263cb29f53e15b2ace1bcf4666c3f82502be8db4",
+        "textSha256": "4e863f826ae00808b99cb00e6507753f3deaedeafae23f51bb1964748cecd2d0",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/0465383fcebd1e2984c4a3a1.mp3",
+          "duration": 6.73959183673472,
+          "sha256": "0465383fcebd1e2984c4a3a143e78064b6a467541a025450e5afde5e0bb1d5ff",
+          "textSha256": "710e6a35518078b58980cb8d559c7002af1943bcad7f5e5447692c38aade7807",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/751248219d6ef57e135c1aa6.mp3",
+          "duration": 7.627755102040853,
+          "sha256": "751248219d6ef57e135c1aa624030113660d488a73f80c2ff7cc1d0c0d723f62",
+          "textSha256": "20c3bbe95aec88129e21db845b869de44bdc86109dfd7ea2588f5c5f1a4e6c65",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/883ae0c4f6a9b4e512a9ad46.mp3",
+          "duration": 7.784489795918406,
+          "sha256": "883ae0c4f6a9b4e512a9ad46a6f32a151fb05ccc51d3924fe494441e78e7c02b",
+          "textSha256": "4cc81c29f77de50fda4e5b79ab95555cc4c31009dc3e0375ca8b71c98ae6aefc",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/3b3c595b8f9a16893a34f644.mp3",
+          "duration": 7.967346938775551,
+          "sha256": "3b3c595b8f9a16893a34f644deb7cf5f70b953c6b31576fc834a0a96c4124463",
+          "textSha256": "4a9d089bfaedd7312d91d86000b26106d89b7449a7d253c784a99ed7bc796669",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-rolle:clarify": {
+      "full": {
+        "url": "/audio/stories-comedy/98e407b3663134cd55f5d0b0.mp3",
+        "duration": 27.689795918367622,
+        "sha256": "98e407b3663134cd55f5d0b097d5660d37af5d4991e877f739ec6b0ad03b79f2",
+        "textSha256": "6f125611f9997ba295fb4891a0f62f7876b069fac1019c99a7c23e1f62a1cc67",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/d5bd4a1e1bb5e6616b5ebe73.mp3",
+          "duration": 7.157551020408194,
+          "sha256": "d5bd4a1e1bb5e6616b5ebe73b1c3db1870274e6cb0ccff41a61698d85f64c266",
+          "textSha256": "2c64d6d6ec7489eee4b236c576f93480d8f06690aa3d7d1c68478a821617b0d9",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/548c8062ae64f5e25b31255b.mp3",
+          "duration": 7.653877551020445,
+          "sha256": "548c8062ae64f5e25b31255b2ec15d6229082f89f3fa8912ffae33e473e709f2",
+          "textSha256": "b1842aef5853774fc7deb35524a77be19cea4117aaece0f70429929640630745",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/027bbc986f6f6eaaa9c1e27f.mp3",
+          "duration": 5.302857142857151,
+          "sha256": "027bbc986f6f6eaaa9c1e27fc3d31a50bdb4bd88f864b8ea2860b10ca5985593",
+          "textSha256": "9bbbad64a4daa475f65af77c8f1240b30d0ce13a40188b17d5bff61c3736eb62",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/96aaffd55136fa99d23d1976.mp3",
+          "duration": 6.556734693877575,
+          "sha256": "96aaffd55136fa99d23d19767c84491c3053a81af50e3b0c839b24dd99bf9b30",
+          "textSha256": "ddbb0938bd20b21fce379b1a7c2428b890ed2a939186d83874857c4d436adc3d",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-rolle:invite": {
+      "full": {
+        "url": "/audio/stories-comedy/5f9a721ec886005269b446ff.mp3",
+        "duration": 27.55918367346966,
+        "sha256": "5f9a721ec886005269b446ff11a8735f2da11a9a77a54b6b533e813b7a4562d2",
+        "textSha256": "59220d8f291d529108588ede6128cceaa59a3cbd7acd117c57ae502a0324ef52",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/6e4332ed95157341c1685d77.mp3",
+          "duration": 8.019591836734735,
+          "sha256": "6e4332ed95157341c1685d77b3ac24029dbf9d4e40c27286bf1bbaa680b4a936",
+          "textSha256": "ead68a50897a08d0f4ca5d0544528822215d43a3c6e566a309fbe92340c3b1e1",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/09655287a134a6e3086f4c0c.mp3",
+          "duration": 5.694693877551034,
+          "sha256": "09655287a134a6e3086f4c0ccd93cf1d97e0664e24d8298086efc657905ce110",
+          "textSha256": "32d1050e80e4d4f76b3c04b5da266742efd7a0a5d1cc00d7f14818c60b5806c3",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/baa5bf0af5caa4e29a9b296d.mp3",
+          "duration": 6.426122448979614,
+          "sha256": "baa5bf0af5caa4e29a9b296d5022f1119a2383301cef65621a7b7fc4487d3cbb",
+          "textSha256": "11eecb09c2a6eaf5c873cf4697397b31687ecdf6ce03156ce22dfb921093742c",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/486aae6a1008f02d4483a5b3.mp3",
+          "duration": 6.400000000000022,
+          "sha256": "486aae6a1008f02d4483a5b358dc45b6fc8e042fac6acac21e86027cb4b2601a",
+          "textSha256": "4a63290a902520213a9f46cc6880ba08bef6ae51b7b52312ecc4ae8fa49e7aa9",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-rolle:self": {
+      "full": {
+        "url": "/audio/stories-comedy/d2fa8dbf2c8f1c0003e45889.mp3",
+        "duration": 26.958367346939042,
+        "sha256": "d2fa8dbf2c8f1c0003e458897560d6bf1a42533a31086a89aa541262b2527362",
+        "textSha256": "a89d6a7f4197d8309097a1f44caeff5b37e23bc630c63ba2bd8d56e28caa5a22",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/f47c008bfa5a6ca80154f24f.mp3",
+          "duration": 6.321632653061245,
+          "sha256": "f47c008bfa5a6ca80154f24f3853bee933679efbb0df2f2a695448ef2eafb9d0",
+          "textSha256": "e6c17d9d39ab775ff7a0ed08d2519cf6931825d7e2fbd537257e9714b5ad32ac",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/1d3489f89dd11df09b472316.mp3",
+          "duration": 6.347755102040837,
+          "sha256": "1d3489f89dd11df09b472316ca09085c8db470127991ef6dd167e812643099c7",
+          "textSha256": "c8ba02e66f3c8de58ae1e06978f27f9fa327f8a334cefe7cbd027be14db976f6",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/812ad04bbb1dd0b1e72d8b42.mp3",
+          "duration": 6.060408163265324,
+          "sha256": "812ad04bbb1dd0b1e72d8b424d1e0fb57df1ed24e08a4fe494f19e9b2a34616a",
+          "textSha256": "38056da97e1808b344d9c0e66ba6c422b15e182bde23e19691e4d0a0b0404281",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/3dc4773f0df202a1278bb85c.mp3",
+          "duration": 7.2359183673469705,
+          "sha256": "3dc4773f0df202a1278bb85c47ce2aa1d9ea7f2224020616e784e93e17e86c3e",
+          "textSha256": "e8c186ca67e456104b89d52294c661af2720d67c5f8364c24534df0ee1b0869d",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-rolle:rewrite": {
+      "full": {
+        "url": "/audio/stories-comedy/e5b1afb8363962c95f0473b7.mp3",
+        "duration": 28.081632653061504,
+        "sha256": "e5b1afb8363962c95f0473b774fa026b3a30a5655fcc47362492da8e5cfbdfb4",
+        "textSha256": "c27376b845e46e37293b41d89f84958f4a2c4986617b7ec5bb0395b7d996179e",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/30082872ef3f77ae93cb8222.mp3",
+          "duration": 6.217142857142877,
+          "sha256": "30082872ef3f77ae93cb82222f627ff2a3eabea2720ca9d453c06796f9b2893d",
+          "textSha256": "c07c0b17e77aa8b836068bf1b81d1872737ac3ca695f6e89ddd2f8111411620a",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/82006dad1c29e476ce576784.mp3",
+          "duration": 6.426122448979614,
+          "sha256": "82006dad1c29e476ce5767847da5369427f413232f5b78b940b812ace6eed840",
+          "textSha256": "435f3b3a8bbd9f731999c024f48bc02dbf8e4233169529f0cef051d66f683c44",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/5abcc2740e1c5ccb3a5cd138.mp3",
+          "duration": 7.209795918367378,
+          "sha256": "5abcc2740e1c5ccb3a5cd1382d9ab47d447e3dc34edcf3fea2352f22a8f7f085",
+          "textSha256": "b6b48265ccb044d9225fa6a6a31453aa7c006ee6c6ab1a428f4a12a13184723e",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/efaf57ed568c51b8b7249ab9.mp3",
+          "duration": 7.209795918367378,
+          "sha256": "efaf57ed568c51b8b7249ab97d0fc60406f7173c6b9b75c9dc03e5c7ad7f5998",
+          "textSha256": "569b8f098c056de77f8831716cfc0c98ee5bb419137ade7fa929f199d586df32",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-rolle:sales": {
+      "full": {
+        "url": "/audio/stories-comedy/c2d5443ac41d94755cf34347.mp3",
+        "duration": 29.440000000000296,
+        "sha256": "c2d5443ac41d94755cf34347da3835cbf9de92eda4f7a20fc8b30668556181d1",
+        "textSha256": "7b0cced977fc61e37a6c9b8133308b1403ea422cc2a7373cb4df376372ef822f",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/ef3bb48a7d177434d4d01405.mp3",
+          "duration": 7.079183673469418,
+          "sha256": "ef3bb48a7d177434d4d014054fb58ae46ea5061f45b9e73b5a81177d05134520",
+          "textSha256": "9fea7decd6e499b004afea60aaa0bd8ecc5ba101c1267a435c9bfedca3b17070",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/d54853c51135563537d86a39.mp3",
+          "duration": 5.929795918367363,
+          "sha256": "d54853c51135563537d86a39a6e74e489893c35c29520fae94daf09304eb5b7c",
+          "textSha256": "b451be4bcdfb46743c61ecf345c0e01909ef56f9fe01395279162055ad273cf4",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/64518cc7d25a52d74e4d651f.mp3",
+          "duration": 8.489795918367394,
+          "sha256": "64518cc7d25a52d74e4d651f89bbefb44f7a5684273f87f41295ce9f73a414b8",
+          "textSha256": "97d6d5713ff43629e58b5be6a00a4e2bbc69124fa77e68d50497ff04f50ad913",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/d0b4e8abaebc890a5b47b2dd.mp3",
+          "duration": 6.948571428571457,
+          "sha256": "d0b4e8abaebc890a5b47b2dd452dc05eaf809011984d39129da48a43add8a0e0",
+          "textSha256": "16fdcb8f3f13182c6bc33f9b51225e1ce895e5b8399afe7fcff3197fd6c49ede",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-rolle:boundary": {
+      "full": {
+        "url": "/audio/stories-comedy/9a5c4ec771ff54a7c5c2e0ac.mp3",
+        "duration": 27.7681632653064,
+        "sha256": "9a5c4ec771ff54a7c5c2e0ac01b6b4b8e76f3d5d9096297551e435f5f4c8272d",
+        "textSha256": "b67efd8dbb34bdb094cb70662c1db3f6fa6798a9fb4369329ac05646664d7c61",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/00b03f693c83717a7f1e7c24.mp3",
+          "duration": 5.694693877551034,
+          "sha256": "00b03f693c83717a7f1e7c2431001585ff25cf029099aad7661f12c1a93deb53",
+          "textSha256": "7931ce1ba05bc4d457118f0a6e500dbf4c23414d8235f9937738346f8daa7589",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/6425940820003e428064061a.mp3",
+          "duration": 7.444897959183708,
+          "sha256": "6425940820003e428064061a5b05f55ad4d7dffcc35a0affb90a98b84620ec0c",
+          "textSha256": "5d41317609d86bd58af5596d0a6934371e05e5eef363db9da7402b4481be07b6",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/333b7e417f08cdaf02c41883.mp3",
+          "duration": 6.269387755102061,
+          "sha256": "333b7e417f08cdaf02c41883a54bb2530d6a0ad02cb8e4c292f38d53332db1fb",
+          "textSha256": "7c1a884003ca6a9148d8ee7f263567a8d405344164b61ead0d6a2d493d5de05a",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/b7f0595550989c5e77c1c78f.mp3",
+          "duration": 7.366530612244931,
+          "sha256": "b7f0595550989c5e77c1c78fe640a29903be79e069ee69d9d67a3e2e0aabd9c0",
+          "textSha256": "763621bc316b313e7a79a7185f83e3d0a556fac8f1ebb3cc4baa87b82c5be8cc",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-schild:start": {
+      "full": {
+        "url": "/audio/stories-comedy/cbce0388a4cf875aac83d1b4.mp3",
+        "duration": 32.05224489795951,
+        "sha256": "cbce0388a4cf875aac83d1b4df5996d223eae747e8e4c961dd8c7e11fed402b7",
+        "textSha256": "26b1069763282da11959c8fab8ade179312ede8a7fa6f9a83545e13372329b19",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/4abab1e30d201b60fee09aae.mp3",
+          "duration": 7.549387755102076,
+          "sha256": "4abab1e30d201b60fee09aae4aa527719c6bccdfcd76eed0b9569722baa6f99d",
+          "textSha256": "8934149ac83a4720c81f2573a589be257039dba244173911429147394530548b",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/3dfd294d453df708fa2d0457.mp3",
+          "duration": 8.228571428571472,
+          "sha256": "3dfd294d453df708fa2d0457512b2aa4f651a50cd563d7e58c72a2b67c2922b7",
+          "textSha256": "5f8dd9e82f054c7cd4169232b3953f2a56f736bf48a068b3435df28ddd742312",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/0463e020a2d872c8f1e6370f.mp3",
+          "duration": 8.20244897959188,
+          "sha256": "0463e020a2d872c8f1e6370f77ac9c461c0cc49549e8765f9550117e596d44a3",
+          "textSha256": "7d49c3c496b19662c92ed50ab469b70a15d0daf178fdc3a37658ac2f5d9bf0d6",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/a981d5669ae6489e33486196.mp3",
+          "duration": 7.026938775510233,
+          "sha256": "a981d5669ae6489e334861967fb2ab5479d4136b6802b9ca15d61a3007c4bcb3",
+          "textSha256": "f5116846dfc25b33902643737da5a929f322c80ccee7564bd5beedaa281c65bd",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-schild:wording": {
+      "full": {
+        "url": "/audio/stories-comedy/0176876911fbc5e20e4e795c.mp3",
+        "duration": 33.01877551020442,
+        "sha256": "0176876911fbc5e20e4e795c8effd4860d7247f86eb34603fe26be57e95f3178",
+        "textSha256": "2b25f6dec5a7366f108a6c256bbdd14fbc49a106617ab055e8cc1ee9cf734680",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/a05140bdca1f9fd437e5dee3.mp3",
+          "duration": 8.620408163265354,
+          "sha256": "a05140bdca1f9fd437e5dee358ad236f794f9f42dd29c315ee9ccb37d41880d2",
+          "textSha256": "fab29525a81ad1054a40288158640bf2714a366a5c0fc6996a2cc5fe58907868",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/c7bdaaf807871b863f84d37e.mp3",
+          "duration": 8.56816326530617,
+          "sha256": "c7bdaaf807871b863f84d37eb9aa37dc103665ba60f1420246de0d3c3fe54097",
+          "textSha256": "1d0498bc401abd9ba5fe7ea88a56cec9c3d3d9ac8aa089bc3060a05a40094d6f",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/3cb264be86faaee13d517299.mp3",
+          "duration": 7.575510204081668,
+          "sha256": "3cb264be86faaee13d5172994d943d3efb88f091c864110565f51c4545306f0c",
+          "textSha256": "f0b484639fbb85ab443e5768fa176a04cbff92c0638cb177206cb083126fd822",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/b7772471b67b30ae0bbfefee.mp3",
+          "duration": 7.262040816326563,
+          "sha256": "b7772471b67b30ae0bbfefee3b13c847c63df3b53624c59e260bf0fb6f5cb435",
+          "textSha256": "b88fc086c124856f2a1638b5af852e72c54219e84e7aa7e79bc3ef968e892296",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-schild:needs": {
+      "full": {
+        "url": "/audio/stories-comedy/f0c13593480c27a480acebe3.mp3",
+        "duration": 31.29469387755134,
+        "sha256": "f0c13593480c27a480acebe301f847740113e70f152dfa4f1e7766c5f4604574",
+        "textSha256": "a0a06f99c9c285180d288083983ca07a7d3d3b856c1529c8d825dd8dcc20c55f",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/34278b0843bb7b7c46fb4d2c.mp3",
+          "duration": 8.280816326530656,
+          "sha256": "34278b0843bb7b7c46fb4d2cd057486c3800dc7a392cd088f58a68b4c1e567e5",
+          "textSha256": "965ca9d6b4457df94751872a1cf47482c2f27f262fc172fb35f08fee0260cbdf",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/c6560a1ab819b21ea3810a3e.mp3",
+          "duration": 8.019591836734735,
+          "sha256": "c6560a1ab819b21ea3810a3ea780b3c46dc5f070b4fb2a9fdf69db3e72a3948c",
+          "textSha256": "5841ddb96c4967b03634d11bd70e51c55ced22516c9b83cc41377963f9c9e7e6",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/114511964113a7493606ae2f.mp3",
+          "duration": 6.8963265306122725,
+          "sha256": "114511964113a7493606ae2fbc53f9e960658d1485450ef9855f0c9f7afabbd6",
+          "textSha256": "bfbe3333420723f8810cefbf5c7339925375abb9ffe361a12bbcd72091289d5f",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/f317f7a56d18261ab27a226b.mp3",
+          "duration": 7.10530612244901,
+          "sha256": "f317f7a56d18261ab27a226b5dedb33deed0a094e3f9e98163a4618382ebc7cd",
+          "textSha256": "8e58b7ebd0b4a5417f1b51b9aefa3b3eda9099d6c0df1469c83b801f5b9d57dc",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-schild:concrete": {
+      "full": {
+        "url": "/audio/stories-comedy/4918aa571894c064fc86091c.mp3",
+        "duration": 34.61224489795954,
+        "sha256": "4918aa571894c064fc86091c413a242028480c5ade1d4d1495e3d91c96fe2ab8",
+        "textSha256": "c0f56f75fc323422d351963dddb013913cf429f33dbb35c09d5c7454acb19be5",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/e3b839bf9462ee295a44b2b8.mp3",
+          "duration": 8.751020408163315,
+          "sha256": "e3b839bf9462ee295a44b2b8513a91af4622c4a12f8f4a5edb12387fa062cfcc",
+          "textSha256": "62914f8833ec79ca40750cba8613f2b1adfe4df2693d226a2a872c4f7e06135d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/5e67ec5dd21980a0505fe955.mp3",
+          "duration": 9.16897959183679,
+          "sha256": "5e67ec5dd21980a0505fe95531feaf85ab75d8065901da4a0f3a20ad8aaa358e",
+          "textSha256": "22b211c10cb320382138c09d675e12632343f299366f113d401c80a2afc15ed7",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/b9000a1a18f95458f5127c29.mp3",
+          "duration": 8.463673469387802,
+          "sha256": "b9000a1a18f95458f5127c296bf658819488189f52e1ca25545d37ffe87b0e76",
+          "textSha256": "44aa91e8effb50db155f111a4d8c19cae72c506de292166ab8142700afea1319",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/f44d839090881b2b4c868bc3.mp3",
+          "duration": 7.2359183673469705,
+          "sha256": "f44d839090881b2b4c868bc386048cf278310d0d9f2fa7f3358566c362da1d37",
+          "textSha256": "97ee30809bac47e4315faa0f7b17c7d7241ecee1990497f3e599a0fc887ab437",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-schild:survey": {
+      "full": {
+        "url": "/audio/stories-comedy/bb0cb4c41e7a29364ff9f184.mp3",
+        "duration": 31.05959183673501,
+        "sha256": "bb0cb4c41e7a29364ff9f18420a66c443071ff714208420ae6fa73dfec026e81",
+        "textSha256": "c76c86a08cb04452abea908f96f797cff9db4a45f869b5b752a127034c8adbab",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/d64987070130bdf3f51bfb90.mp3",
+          "duration": 8.594285714285762,
+          "sha256": "d64987070130bdf3f51bfb90824f06f408aae1de9234b77f1a3d06e03997145e",
+          "textSha256": "31fc143672f735163bcbe6e06946faf92216bda1a916edc540c7831fdfebd0ff",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/ef44fc29719900bd57ffb1b1.mp3",
+          "duration": 7.601632653061261,
+          "sha256": "ef44fc29719900bd57ffb1b1eed1037dfdb66534206ff83e67e0d8ee40b995b2",
+          "textSha256": "7edca2a5fff78e2489de034603e9169d951c12540e8efa285d92bde19b80987d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/8916e6cdfa65fd83638e76fb.mp3",
+          "duration": 6.269387755102061,
+          "sha256": "8916e6cdfa65fd83638e76fb4ba32f87ea36ffc535609285c454ab1d9c659160",
+          "textSha256": "4e5556de02312bb9d5f68714364eff5c0ca91c1863a4b5b6cfd8c102e571c48a",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/f2b59c201845725e9fe7a9ae.mp3",
+          "duration": 7.601632653061261,
+          "sha256": "f2b59c201845725e9fe7a9ae24a32b25d1fa59d4ed48a35a60fef2a326cbbab0",
+          "textSha256": "9ffd91a2f23d22ab62db022f4db61ae694abecc15077d97f2b0382c956ee38cf",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-schild:zones": {
+      "full": {
+        "url": "/audio/stories-comedy/28f5833697154e59b4abca33.mp3",
+        "duration": 28.943673469388045,
+        "sha256": "28f5833697154e59b4abca33a199da26886f7ae4782bf175348181932953f272",
+        "textSha256": "c4c86cddceda933d7775e2a042f2c28fa06a7db451cfed6a8f49902b979442f0",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/d1c6b36a6dabadd04ffffac5.mp3",
+          "duration": 6.844081632653088,
+          "sha256": "d1c6b36a6dabadd04ffffac50ecf3c09deb2cef11f7fb50da6ac2dec36e4203e",
+          "textSha256": "58e83892593ebebee1dc0d67d4e4182073ddc14cc6525ec5820ea7b4533c59a5",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/ccaa88a16ad3f4cecb0fe94f.mp3",
+          "duration": 6.844081632653088,
+          "sha256": "ccaa88a16ad3f4cecb0fe94fe461abedd0f673e04011213a3b399337768438b7",
+          "textSha256": "f5df4d27d824011ffe58ff2ad57ea023fdb5e9cad3fcc07e9a201c4aa8bccd3f",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/ba91ca468cf82d3ffcd76168.mp3",
+          "duration": 6.765714285714312,
+          "sha256": "ba91ca468cf82d3ffcd761684ba81798ad8f894b7c18e3bebb09919d5d9192a8",
+          "textSha256": "28b8dd4f59cf723df480845fa91ba7784f5919690febba8fd5d9fd3d83e4dfda",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/3bfc0b0eb992a829bc2b690b.mp3",
+          "duration": 7.4710204081633,
+          "sha256": "3bfc0b0eb992a829bc2b690b13af90dac7d33c6e99a6e90ee3837151168452dd",
+          "textSha256": "954ffc2db827dcf6391aec4ef20442f4e18a1a9e3b1760ee810e67e22049b7fc",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-schild:team": {
+      "full": {
+        "url": "/audio/stories-comedy/f666280c12a6ba68073d9e39.mp3",
+        "duration": 29.570612244898257,
+        "sha256": "f666280c12a6ba68073d9e394118589f878ca1dd8a89bfe975c48a28c1170b2b",
+        "textSha256": "f5a142d4f5604315481ff2540985133a8a5ea750f1316348344e0bf7e1322ecc",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/c7e4faeae3d5a67c250ee86a.mp3",
+          "duration": 7.9412244897959585,
+          "sha256": "c7e4faeae3d5a67c250ee86a4d158872d5523033529fccf6224c4d27a3f7d08b",
+          "textSha256": "55cc256be17930f1d0cc025646261ec2394de4a0979219fe354f61f1d63acf28",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/e8c893669cf73b17d958c5ad.mp3",
+          "duration": 8.124081632653104,
+          "sha256": "e8c893669cf73b17d958c5ad44078d733a3ed5007ded429bffe86d0f9efe2e64",
+          "textSha256": "12126d9a5a06d4a46b79d7ae54c6150e712b7f9083bc2c8e9785fb42588cc5a8",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/8cf7ce1e4a4de166e4fbff7b.mp3",
+          "duration": 5.694693877551034,
+          "sha256": "8cf7ce1e4a4de166e4fbff7b7313accd6b51c44c152f115013a0e0f69acf339b",
+          "textSha256": "d8232e4b8fe0ec8e0e04fda57522866d0f0bda0debd7480a4aa303360b27ed9d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/2b61677919f939de89fb50fe.mp3",
+          "duration": 6.791836734693904,
+          "sha256": "2b61677919f939de89fb50fe663207a6ed02caf6f87bef975f184b7043f988b1",
+          "textSha256": "d0c4285a4f4fdb3b4ee1376918c41bf0ec574830bdfac255eb01cd3ad72c1a46",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-teekanne:start": {
+      "full": {
+        "url": "/audio/stories-comedy/dceab8933b0a2dd3826ce74d.mp3",
+        "duration": 35.70938775510241,
+        "sha256": "dceab8933b0a2dd3826ce74d3e462e6e28fb7246c64511027009d6ec3c6bd138",
+        "textSha256": "3235581006108b22caee26497ab2b0ab4cb5ae36083394c31f533c5a1ad8c2f4",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/8d5dd6090c0d08cfb363a6b1.mp3",
+          "duration": 9.351836734693935,
+          "sha256": "8d5dd6090c0d08cfb363a6b1d44257525c47ec0ae1befcf3b63e6abe7ced54fe",
+          "textSha256": "a6e5f768d8f7bec5e1e15fb725d6561bc685ea982c484c3ca0e6430740e20c0d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/047b6cc198bdb9b460b94ea6.mp3",
+          "duration": 8.8032653061225,
+          "sha256": "047b6cc198bdb9b460b94ea648aa1b55e2dffcba9f687729ef323be6969ceee4",
+          "textSha256": "63b732d67d91f7f50d42d1defe124a4d16db9a4ec9f08fa36c5d14d0ef2e9f23",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/961f5da4da9c0b2099dccd11.mp3",
+          "duration": 10.187755102040883,
+          "sha256": "961f5da4da9c0b2099dccd111a07cf24206d707e960f4b1b9d6bf9ce962cd5d4",
+          "textSha256": "241bad41f3c5f9c7633ec224f7365bbe1cfdc94b653059e011cacfde19b004a6",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/fbe9a54b8bcefca92a6d55a8.mp3",
+          "duration": 6.347755102040837,
+          "sha256": "fbe9a54b8bcefca92a6d55a8cd73cd76a366daab501a24e0b56f322f0c5546be",
+          "textSha256": "9cc91ab479501145564b3385f3c85b3f5c151501255c004c865867ff54dd3d10",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-teekanne:details": {
+      "full": {
+        "url": "/audio/stories-comedy/0c3400d08d0b48e9105ccb3a.mp3",
+        "duration": 35.52653061224527,
+        "sha256": "0c3400d08d0b48e9105ccb3ad811aeaf7d78ee4afc277db7e7e30c30c5dcb2d5",
+        "textSha256": "3d4a5df3c8b284c5c9208503336bc65df3c40a4f4b486b31470c8564e6cd10c6",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/a567f6871cac7007ff1d5b31.mp3",
+          "duration": 10.553469387755174,
+          "sha256": "a567f6871cac7007ff1d5b310c4fd697b3791e4c3ff15d3f90461d0b5b1cc3d0",
+          "textSha256": "57e497cd42c10fd2ea0291ffd49a3cfb1bfd96f4272e95fc263e6c50bd6842ef",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/07658f3ea66cdf5ebcf7cbb7.mp3",
+          "duration": 9.560816326530672,
+          "sha256": "07658f3ea66cdf5ebcf7cbb7d44f8fa994ed9ea16b7831e666b137b118f96558",
+          "textSha256": "48c69a41cc35abc4e390b79971460049c7d8d62a00fdedf92e08981fafc183c0",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/2b2a690623f5bb6d68825619.mp3",
+          "duration": 6.844081632653088,
+          "sha256": "2b2a690623f5bb6d6882561958c2943de05c76357a3c878f5947825dbd11180c",
+          "textSha256": "1bad073708e8b7555899de2265660d1e98853072c588d41bb78fd51277852080",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/9282a12bc03ea6a25a2878f6.mp3",
+          "duration": 7.523265306122484,
+          "sha256": "9282a12bc03ea6a25a2878f63cbd42b4431c66c2896a82d8cb837c8ba38b5278",
+          "textSha256": "a8e204809de1f32012c55613c62c494b05985beff939328a125b8f0f3d063986",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-teekanne:voices": {
+      "full": {
+        "url": "/audio/stories-comedy/b9a81264ac0cfdfb98ac8dfb.mp3",
+        "duration": 35.030204081633016,
+        "sha256": "b9a81264ac0cfdfb98ac8dfb1218a58ae463e21890f8ff92c65f0689b30bde3b",
+        "textSha256": "835466821d2fecc4e6027666cc79f4ca2fe706b97a1c8c85b26e35d52e4fc469",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/44e13342e487f98a29b0fb25.mp3",
+          "duration": 9.195102040816382,
+          "sha256": "44e13342e487f98a29b0fb25130ae47bd3632e75f56af3f74b63df183e7f3e51",
+          "textSha256": "c9efc31e6420ef08a8c89bfe43a7ef3cff9dec22dd251c59595ecaa7b4bb3271",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/f9c96c9aa0f2bce48b7f9116.mp3",
+          "duration": 9.508571428571488,
+          "sha256": "f9c96c9aa0f2bce48b7f9116c9b9a975aa79d224a19c340d02c2a7f092bc144e",
+          "textSha256": "dffe5ce53ac67d9407be8628830136bd451a8ac35c38e4e192985a5d0425f64c",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/75d6767bf1bfc59055ae3709.mp3",
+          "duration": 8.69877551020413,
+          "sha256": "75d6767bf1bfc59055ae37094835c439e9b9743548aaf96a72b7ceec0d7f7caf",
+          "textSha256": "8c0828a70f8347741795db61e072fbd95da8627913d2befabf93ac023c5752d9",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/a59d39071051e40e09598574.mp3",
+          "duration": 6.635102040816351,
+          "sha256": "a59d39071051e40e09598574652d53210e2fd55aa2097e00660266a1bd754674",
+          "textSha256": "7267005cd6767f273ba9d1012588b2dd474f2e89b97dfd05dc2930be13c95427",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-teekanne:evidence": {
+      "full": {
+        "url": "/audio/stories-comedy/220a94583dc4d196de7b4e26.mp3",
+        "duration": 35.631020408163636,
+        "sha256": "220a94583dc4d196de7b4e26b6f351d0fef18b9a22a4705b5c2e64f4ccb6601b",
+        "textSha256": "c24234a87ab95c57941bfaa194fe7eb6027af53f23856cae38e398b9574f3203",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/3f4d1839436c96e5bd007f91.mp3",
+          "duration": 9.430204081632711,
+          "sha256": "3f4d1839436c96e5bd007f911a286764162a483bfb80d3d849bbaa3615f2fef3",
+          "textSha256": "9f1e04de24b930302b555795b9e9d6c8fcebf41e1cc4588d9e784e3557721ef7",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/ef51cd4a572208d5321fb6b5.mp3",
+          "duration": 9.116734693877605,
+          "sha256": "ef51cd4a572208d5321fb6b54418cc8b47c5ce53dea38c0db05347e883434389",
+          "textSha256": "db4e516f2ec396f85d03a93bdec2a260a0ee2a2b7530cd7301604cde71d1f8d2",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/a71a4c3c24e8d5158935bf17.mp3",
+          "duration": 9.482448979591895,
+          "sha256": "a71a4c3c24e8d5158935bf175fb30f86aeb071372b3141e6f9a46d4b440717fe",
+          "textSha256": "2d75eba41028362dff209011ea2e70ffebde3f7cbe3133e31ccfa2f1e08205fd",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/346601fe9a0e721bf5bef0b4.mp3",
+          "duration": 6.582857142857167,
+          "sha256": "346601fe9a0e721bf5bef0b4648980a738ec0d7455811c40c514e6a1fd21acb1",
+          "textSha256": "8f28b2b67c5856b77c81f51a95dbe08914a89081015d1fb4c21c197fb3ced1d7",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-teekanne:irony": {
+      "full": {
+        "url": "/audio/stories-comedy/0366a1f8bd091f48f39f4480.mp3",
+        "duration": 34.0897959183677,
+        "sha256": "0366a1f8bd091f48f39f4480f540cdfd34acf64a592d3df2e679fff31f740fa8",
+        "textSha256": "5259a4ef89261f717ce4f103ff47d544851df8b98ddd615c8630cb312d9ba8fa",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/d57afb2e971b343f494a401b.mp3",
+          "duration": 7.810612244897998,
+          "sha256": "d57afb2e971b343f494a401bef1a2093a2dddd5ec851de36ef372ac73459bfba",
+          "textSha256": "6876322ce7f8950ed7639459fcc436839c038c7bcc6cf0798f5c68f635d973ab",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/4c4a279edd23959c4e5c7453.mp3",
+          "duration": 8.463673469387802,
+          "sha256": "4c4a279edd23959c4e5c74536702ad5519b8e269358b89fa2b6cd438c5006cc6",
+          "textSha256": "f963874835953e0e4926f6497966e7afe36216167020d96162397ffe4da80579",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/9218130c8b90879c196d3d50.mp3",
+          "duration": 8.881632653061276,
+          "sha256": "9218130c8b90879c196d3d50d372bd7b96d0b83d021542c6d984bf2f9ecde3e1",
+          "textSha256": "d5f33ddbad669b342b1e433d44452518e7f663a03a8e611b0d68bd6f63f3399d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/35c3ffadaf17b70d36963f5b.mp3",
+          "duration": 7.915102040816366,
+          "sha256": "35c3ffadaf17b70d36963f5bd0b4cb016710c64561d5990a854169ec4e0c9099",
+          "textSha256": "0aadecfec2309084c46366e9da027f41a30872bb310b153f1358e8c724bad520",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-teekanne:polyphony": {
+      "full": {
+        "url": "/audio/stories-comedy/cbb57bd31e693c7d8eb25bea.mp3",
+        "duration": 35.500408163265675,
+        "sha256": "cbb57bd31e693c7d8eb25beabf29ffb0f7ae959e0d05be5c5a1705b2f78a0add",
+        "textSha256": "255eb45df737f8c76d1f4931b87842530a6633f07905ad0c46eeb85c3cae2c9a",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/5b04dfe0387aa64bda79fa91.mp3",
+          "duration": 9.508571428571488,
+          "sha256": "5b04dfe0387aa64bda79fa917f14f091f4086c42e4d10d076a74bf48f68cd7b5",
+          "textSha256": "14a5b2f0cc573bebed472431b2f2065fb5a73caa0552aeb0418fe5a1e2e027fb",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/cb471ee318f70f9a088c94c2.mp3",
+          "duration": 8.56816326530617,
+          "sha256": "cb471ee318f70f9a088c94c26c26be3ee4a8527d7ffc831cb9b5e28a438a3f61",
+          "textSha256": "19aff73b15a3fd7e4ed44501c819409610f4a7c8cfa300a5084cbdd449fa58fc",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/1656e248cce473a8faccb656.mp3",
+          "duration": 9.848163265306185,
+          "sha256": "1656e248cce473a8faccb656c04a9117832450c3cac8a4207b2899b4fce92e09",
+          "textSha256": "2fde106bf9110f9c98f9ec63bd9ef49c37dedd20fb6448253fc01f9448e11686",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/3c02ef2e6bd6aca76e41e5be.mp3",
+          "duration": 6.556734693877575,
+          "sha256": "3c02ef2e6bd6aca76e41e5bea93f4c3985b829eca45888cff53d20dd4e69e74d",
+          "textSha256": "f9f96f897e9a44cedca86475d475450e9d28ca81e9d9af66f0688484d3212492",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-comedy-teekanne:fiction": {
+      "full": {
+        "url": "/audio/stories-comedy/bf912a65074fba3fbd902755.mp3",
+        "duration": 34.45551020408199,
+        "sha256": "bf912a65074fba3fbd90275540cf296884f94b0cc064cc17f3e26aae702e6dde",
+        "textSha256": "a7a22b7361eef27cf0406dd6589ed8d8f2145399c47105030c4b91c9d5b69e3f",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-comedy/35fbadba595b70adb038418a.mp3",
+          "duration": 8.986122448979645,
+          "sha256": "35fbadba595b70adb038418a4814ea3b1c797aa196cbcfe841a89bae07917c85",
+          "textSha256": "30b5a0146bbff4d6abb1b3c2f25abbd0131171b5ea2b47c7c4afca973ec0b32e",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/5a93acf8285601a075a8e6aa.mp3",
+          "duration": 8.594285714285762,
+          "sha256": "5a93acf8285601a075a8e6aa3ce18478498eff888369d0a66b8f46a5f24be7c6",
+          "textSha256": "7d0bab104bcf78b2ec3d0503688d589402246e4ff8f64bd7ea97c655f8634eaf",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/3ec5376f80a2f1e4021490af.mp3",
+          "duration": 7.444897959183708,
+          "sha256": "3ec5376f80a2f1e4021490af2f9a41e3acb0a5c982a6ef5c06c5286a7cf78658",
+          "textSha256": "d3a83705452c6e663515e6b3acf0726c942b17beabfa3fe1e9e2fefc61515ef3",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-comedy/42b10c2ddac0e38fbaca043e.mp3",
+          "duration": 8.411428571428617,
+          "sha256": "42b10c2ddac0e38fbaca043e6218b7af7034d4aa99bca0d68dcbf7cdcba27b52",
+          "textSha256": "6716c040277b4caa5f6bf980e23098b1888df5f775f72a580794edcf9c632b4f",
+          "sampleRate": 22050
+        }
+      ]
+    }
+  },
+  "glossary": {
+    "story-comedy-word-1": {
+      "url": "/audio/stories-comedy/a1870449b2f72baf1b4a8d90.mp3",
+      "duration": 0.7575510204081629,
+      "sha256": "a1870449b2f72baf1b4a8d904cdc9b54cff9312bf6224d93daf307b85f7a96b0",
+      "textSha256": "fb77f1584204f8a60629b35c2291a1ff3ec7ed2e372504aa1badcb44d5477ce0",
+      "sampleRate": 22050
+    },
+    "story-comedy-word-2": {
+      "url": "/audio/stories-comedy/f5dd7b5d56df613f40425701.mp3",
+      "duration": 0.8620408163265302,
+      "sha256": "f5dd7b5d56df613f404257017af6f5ef1161f6e7f602ddfb79c4854d9b0501ac",
+      "textSha256": "bea997900f6099a015dea63a74393f11fb4b43dcbea1d593d1dcd2d952635fc4",
+      "sampleRate": 22050
+    },
+    "story-comedy-word-3": {
+      "url": "/audio/stories-comedy/f72eaedef893fa0812467807.mp3",
+      "duration": 0.9665306122448974,
+      "sha256": "f72eaedef893fa08124678078a71997253073acc7146f11a74c1c4348e583648",
+      "textSha256": "efd868997c02bffd87cd93ef0fa32c779725f92ceb944f0ad4f28d406a8e7059",
+      "sampleRate": 22050
+    },
+    "story-comedy-word-4": {
+      "url": "/audio/stories-comedy/047f4ce9be2d4cb6669bb8a8.mp3",
+      "duration": 0.9404081632653056,
+      "sha256": "047f4ce9be2d4cb6669bb8a80f935f9f36d588c4d4264461206c3ed46ffdcb5d",
+      "textSha256": "4e3880505c8d5d3d479f760d0889b20faca5f256c1578dce1124a60e5a228a34",
+      "sampleRate": 22050
+    },
+    "story-comedy-word-5": {
+      "url": "/audio/stories-comedy/38b00af8e74dd26412d75e23.mp3",
+      "duration": 0.7836734693877547,
+      "sha256": "38b00af8e74dd26412d75e2375bcc5dad7c5349c330dc6628f79bfe4d00a57ba",
+      "textSha256": "a1e5eae2c5a82ca29ae9c25a1c809fb17434d8fc140828eb6492f45a2377941c",
+      "sampleRate": 22050
+    }
+  }
+}

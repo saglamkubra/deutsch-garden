@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "story-cafe",
+    "title": "Kafede Bir Gün",
+    "germanTitle": "Ein Tag im Café",
+    "level": "A1",
+    "category": "daily",
+    "description": "Küçük bir kafede bir fincan çay, yeni bir arkadaş ya da sessiz bir kitap seni bekliyor.",
+    "art": "cafe",
+    "minutes": 3,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Pencere kenarındaki masa",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Du bist in einem kleinen Café. Die Sonne scheint.",
+            "tr": "Küçük bir kafedesin. Güneş parlıyor."
+          },
+          {
+            "de": "Was möchtest du trinken?",
+            "tr": "Ne içmek istersin?",
+            "speaker": "Mia"
+          }
+        ],
+        "words": [
+          "Tee",
+          "Kaffee",
+          "Sonne"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich möchte einen Tee, bitte.",
+            "tr": "Bir çay istiyorum, lütfen.",
+            "to": "tea"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich möchte einen Kaffee, bitte.",
+            "tr": "Bir kahve istiyorum, lütfen.",
+            "to": "coffee"
+          }
+        ],
+        "question": {
+          "prompt": "Macera nerede başlıyor?",
+          "options": [
+            "Küçük bir kafede",
+            "Bir okulda",
+            "Bir trende"
+          ],
+          "correct": "Küçük bir kafede",
+          "explanation": "İlk cümlede küçük bir kafede olduğun anlatılıyor."
+        }
+      },
+      {
+        "id": "tea",
+        "title": "Çayın yanındaki davet",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Mia bringt einen Tee. Am Tisch sitzt auch Ben.",
+            "tr": "Mia bir çay getiriyor. Masada Ben de oturuyor."
+          },
+          {
+            "de": "Ich lerne Deutsch. Lernst du auch Deutsch?",
+            "tr": "Almanca öğreniyorum. Sen de Almanca öğreniyor musun?",
+            "speaker": "Ben"
+          }
+        ],
+        "words": [
+          "Tee",
+          "lernen"
+        ],
+        "choices": [
+          {
+            "id": "tea-1",
+            "de": "Ja! Wir lernen zusammen.",
+            "tr": "Evet! Birlikte öğrenelim.",
+            "to": "friends"
+          },
+          {
+            "id": "tea-2",
+            "de": "Ja, aber ich lese jetzt mein Buch.",
+            "tr": "Evet ama şimdi kitabımı okuyorum.",
+            "to": "book"
+          }
+        ],
+        "question": {
+          "prompt": "Ben ne öğreniyor?",
+          "options": [
+            "Almanca",
+            "Piyano",
+            "Fransızca"
+          ],
+          "correct": "Almanca",
+          "explanation": "Ben, “Ich lerne Deutsch” diyor."
+        }
+      },
+      {
+        "id": "coffee",
+        "title": "Kahve ve müzik",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Der Kaffee ist warm. Mia zeigt dir einen kleinen Garten.",
+            "tr": "Kahve sıcak. Mia sana küçük bir bahçe gösteriyor."
+          },
+          {
+            "de": "Im Garten gibt es Musik. Hier ist es ruhig.",
+            "tr": "Bahçede müzik var. Burası sessiz.",
+            "speaker": "Mia"
+          }
+        ],
+        "words": [
+          "Kaffee",
+          "Garten",
+          "warm"
+        ],
+        "choices": [
+          {
+            "id": "coffee-1",
+            "de": "Ich gehe in den Garten.",
+            "tr": "Bahçeye gidiyorum.",
+            "to": "music"
+          },
+          {
+            "id": "coffee-2",
+            "de": "Ich bleibe hier und male.",
+            "tr": "Burada kalıp resim yapıyorum.",
+            "to": "drawing"
+          }
+        ],
+        "question": {
+          "prompt": "Müzik nerede?",
+          "options": [
+            "Bahçede",
+            "Mutfakta",
+            "Sokakta"
+          ],
+          "correct": "Bahçede",
+          "explanation": "Mia, bahçede müzik olduğunu söylüyor."
+        }
+      },
+      {
+        "id": "friends",
+        "title": "İki kişi, bir dil",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Du und Ben lernt fünf neue Wörter. Der Tee ist gut.",
+            "tr": "Ben ile beş yeni kelime öğreniyorsunuz. Çay güzel."
+          },
+          {
+            "de": "Morgen komme ich wieder!",
+            "tr": "Yarın yine geleceğim!",
+            "speaker": "Ben"
+          }
+        ],
+        "words": [
+          "Tee",
+          "gut"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Birlikte kaç yeni kelime öğreniyorsunuz?",
+          "options": [
+            "Beş",
+            "On",
+            "İki"
+          ],
+          "correct": "Beş",
+          "explanation": "Anlatıda “fünf neue Wörter” deniyor."
+        },
+        "ending": "Yeni öğrenme arkadaşın"
+      },
+      {
+        "id": "book",
+        "title": "Sessiz bir sayfa",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Du liest dein Buch am Fenster. Ben lächelt und liest auch.",
+            "tr": "Pencerede kitabını okuyorsun. Ben gülümsüyor ve o da okuyor."
+          },
+          {
+            "de": "Dein Tee ist noch warm. Du bist sehr zufrieden.",
+            "tr": "Çayın hâlâ sıcak. Çok memnunsun."
+          }
+        ],
+        "words": [
+          "Buch",
+          "warm"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bu sonda ne yapıyorsun?",
+          "options": [
+            "Kitap okuyorsun",
+            "Şarkı söylüyorsun",
+            "Alışveriş yapıyorsun"
+          ],
+          "correct": "Kitap okuyorsun",
+          "explanation": "Kitabını pencere kenarında okuyorsun."
+        },
+        "ending": "Kitapla küçük bir mola"
+      },
+      {
+        "id": "music",
+        "title": "Bahçenin melodisi",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Im Garten spielt eine Frau Gitarre. Du hörst zu.",
+            "tr": "Bahçede bir kadın gitar çalıyor. Dinliyorsun."
+          },
+          {
+            "de": "Mia bringt deinen Kaffee. Ihr hört zusammen Musik.",
+            "tr": "Mia kahveni getiriyor. Birlikte müzik dinliyorsunuz."
+          }
+        ],
+        "words": [
+          "Garten",
+          "Frau",
+          "Musik"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bahçede hangi çalgı çalınıyor?",
+          "options": [
+            "Gitar",
+            "Keman",
+            "Davul"
+          ],
+          "correct": "Gitar",
+          "explanation": "Kadın gitar çalıyor: “spielt Gitarre”."
+        },
+        "ending": "Kahveli bahçe konseri"
+      },
+      {
+        "id": "drawing",
+        "title": "Peçetedeki çiçek",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Du malst eine Blume auf eine Serviette. Mia findet die Blume schön.",
+            "tr": "Bir peçeteye çiçek çiziyorsun. Mia çiçeği güzel buluyor."
+          },
+          {
+            "de": "Das Bild bleibt im Café. Jetzt ist es auch dein Café.",
+            "tr": "Resim kafede kalıyor. Artık burası senin de kafen."
+          }
+        ],
+        "words": [
+          "Blume",
+          "schön"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Çizdiğin resim nerede kalıyor?",
+          "options": [
+            "Kafede",
+            "Okulda",
+            "Otobüste"
+          ],
+          "correct": "Kafede",
+          "explanation": "Çiçek resmi kafede kalıyor."
+        },
+        "ending": "Kafede bıraktığın renk"
+      }
+    ]
+  },
+  {
+    "id": "story-geschenk",
+    "title": "Kayıp Hediye",
+    "germanTitle": "Das verlorene Geschenk",
+    "level": "A1",
+    "category": "mystery",
+    "description": "Lea’nın doğum günü hediyesi kayıp! Çantana mı bakacaksın, fırına mı döneceksin?",
+    "art": "gift",
+    "minutes": 3,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Bir paket eksik",
+        "art": "gift",
+        "lines": [
+          {
+            "de": "Heute hat Lea Geburtstag. Du hast ein Geschenk für sie.",
+            "tr": "Bugün Lea’nın doğum günü. Onun için bir hediyen var."
+          },
+          {
+            "de": "Aber wo ist das Geschenk? Deine Tasche ist offen.",
+            "tr": "Ama hediye nerede? Çantan açık."
+          }
+        ],
+        "words": [
+          "Geschenk",
+          "Tasche"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich suche in meiner Tasche.",
+            "tr": "Çantamda arıyorum.",
+            "to": "bag"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich gehe zurück zur Bäckerei.",
+            "tr": "Fırına geri dönüyorum.",
+            "to": "bakery"
+          }
+        ],
+        "question": {
+          "prompt": "Hediye kimin için?",
+          "options": [
+            "Lea için",
+            "Ben için",
+            "Mia için"
+          ],
+          "correct": "Lea için",
+          "explanation": "Bugün Lea’nın doğum günü."
+        }
+      },
+      {
+        "id": "bag",
+        "title": "Çantadaki küçük not",
+        "art": "gift",
+        "lines": [
+          {
+            "de": "In der Tasche liegt ein Zettel. Darauf steht: Anna hat dein Geschenk.",
+            "tr": "Çantada bir not var. Üstünde şöyle yazıyor: Hediyen Anna’da."
+          },
+          {
+            "de": "Anna wohnt neben dir. Aber ihre Tür ist zu.",
+            "tr": "Anna senin yanında oturuyor. Ama kapısı kapalı."
+          }
+        ],
+        "words": [
+          "Tasche",
+          "Tür"
+        ],
+        "choices": [
+          {
+            "id": "bag-1",
+            "de": "Ich rufe Anna an.",
+            "tr": "Anna’yı arıyorum.",
+            "to": "call"
+          },
+          {
+            "id": "bag-2",
+            "de": "Ich warte vor der Tür.",
+            "tr": "Kapının önünde bekliyorum.",
+            "to": "wait"
+          }
+        ],
+        "question": {
+          "prompt": "Notta hediye kimde görünüyor?",
+          "options": [
+            "Anna’da",
+            "Lea’da",
+            "Fırıncıda"
+          ],
+          "correct": "Anna’da",
+          "explanation": "Notta “Anna hat dein Geschenk” yazıyor."
+        }
+      },
+      {
+        "id": "bakery",
+        "title": "Fırıncının ipucu",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Der Bäcker zeigt auf eine Bank. Dort liegt ein rotes Paket.",
+            "tr": "Fırıncı bir bankı gösteriyor. Orada kırmızı bir paket duruyor."
+          },
+          {
+            "de": "Neben der Bank sitzt ein Junge. Er hält auch ein Paket.",
+            "tr": "Bankın yanında bir çocuk oturuyor. O da bir paket tutuyor."
+          }
+        ],
+        "words": [
+          "rot",
+          "Junge"
+        ],
+        "choices": [
+          {
+            "id": "bakery-1",
+            "de": "Ich schaue auf den Namen am Paket.",
+            "tr": "Paketteki isme bakıyorum.",
+            "to": "name"
+          },
+          {
+            "id": "bakery-2",
+            "de": "Ich frage den Jungen.",
+            "tr": "Çocuğa soruyorum.",
+            "to": "boy"
+          }
+        ],
+        "question": {
+          "prompt": "Bankta ne var?",
+          "options": [
+            "Kırmızı bir paket",
+            "Mavi bir kitap",
+            "Yeşil bir çanta"
+          ],
+          "correct": "Kırmızı bir paket",
+          "explanation": "Bankta kırmızı bir paket duruyor."
+        }
+      },
+      {
+        "id": "call",
+        "title": "Bir telefonla gelen gülümseme",
+        "art": "gift",
+        "lines": [
+          {
+            "de": "Anna antwortet: Dein Geschenk ist bei Lea!",
+            "tr": "Anna cevap veriyor: Hediyen Lea’da!"
+          },
+          {
+            "de": "Du gehst zu Lea. Sie öffnet das Geschenk und lacht.",
+            "tr": "Lea’ya gidiyorsun. Hediyeyi açıyor ve gülüyor."
+          }
+        ],
+        "words": [
+          "Geschenk"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Hediye aslında nerede?",
+          "options": [
+            "Lea’da",
+            "Çantanda",
+            "Bankta"
+          ],
+          "correct": "Lea’da",
+          "explanation": "Anna hediyeyi zaten Lea’ya götürmüş."
+        },
+        "ending": "Sürpriz senden önce geldi"
+      },
+      {
+        "id": "wait",
+        "title": "Komşunun sürprizi",
+        "art": "gift",
+        "lines": [
+          {
+            "de": "Anna kommt nach Hause. Sie hat dein Geschenk und einen Kuchen.",
+            "tr": "Anna eve geliyor. Yanında hediyen ve bir pasta var."
+          },
+          {
+            "de": "Ihr geht zusammen zu Lea. Jetzt beginnt die Feier.",
+            "tr": "Birlikte Lea’ya gidiyorsunuz. Şimdi kutlama başlıyor."
+          }
+        ],
+        "words": [
+          "Kuchen",
+          "Haus"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Anna hediyenin yanında ne getiriyor?",
+          "options": [
+            "Pasta",
+            "Çay",
+            "Kitap"
+          ],
+          "correct": "Pasta",
+          "explanation": "Anna bir pasta da getiriyor."
+        },
+        "ending": "Birlikte kutlamaya"
+      },
+      {
+        "id": "name",
+        "title": "Etiketteki isim",
+        "art": "gift",
+        "lines": [
+          {
+            "de": "Auf dem roten Paket steht Lea. Es ist dein Geschenk!",
+            "tr": "Kırmızı paketin üstünde Lea yazıyor. Bu senin hediyen!"
+          },
+          {
+            "de": "Du nimmst es mit. Lea freut sich über das Buch.",
+            "tr": "Yanına alıyorsun. Lea kitaba seviniyor."
+          }
+        ],
+        "words": [
+          "rot",
+          "Buch"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Hediyenin içinde ne var?",
+          "options": [
+            "Kitap",
+            "Gitar",
+            "Çiçek"
+          ],
+          "correct": "Kitap",
+          "explanation": "Lea kitaba seviniyor."
+        },
+        "ending": "İsim doğru, hediye tamam"
+      },
+      {
+        "id": "boy",
+        "title": "İki paket, iki yol",
+        "art": "gift",
+        "lines": [
+          {
+            "de": "Der Junge sagt: Das rote Paket ist für Lea. Mein Paket ist für meinen Bruder.",
+            "tr": "Çocuk diyor ki: Kırmızı paket Lea için. Benim paketim erkek kardeşim için."
+          },
+          {
+            "de": "Du bedankst dich und bringst Lea ihr Geschenk.",
+            "tr": "Teşekkür edip Lea’ya hediyesini götürüyorsun."
+          }
+        ],
+        "words": [
+          "Bruder",
+          "Geschenk"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Çocuğun kendi paketi kimin için?",
+          "options": [
+            "Erkek kardeşi için",
+            "Lea için",
+            "Anna için"
+          ],
+          "correct": "Erkek kardeşi için",
+          "explanation": "Çocuk “für meinen Bruder” diyor."
+        },
+        "ending": "Bir yabancının yardımı"
+      }
+    ]
+  },
+  {
+    "id": "story-freund",
+    "title": "Yeni Bir Arkadaş",
+    "germanTitle": "Ein neuer Freund",
+    "level": "A1",
+    "category": "friendship",
+    "description": "Parkta yalnız oturan biri var. Bir top ve bir çizim defteri iki ayrı arkadaşlığın kapısını açıyor.",
+    "art": "park",
+    "minutes": 3,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Parkta karşılaşma",
+        "art": "park",
+        "lines": [
+          {
+            "de": "Du bist im Park. Ein Junge sitzt allein auf einer Bank.",
+            "tr": "Parktasın. Bir çocuk bankta yalnız oturuyor."
+          },
+          {
+            "de": "Neben ihm liegen ein Ball und ein Heft.",
+            "tr": "Yanında bir top ve bir defter duruyor."
+          }
+        ],
+        "words": [
+          "Junge",
+          "Heft"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Hallo! Spielen wir zusammen?",
+            "tr": "Merhaba! Birlikte oynayalım mı?",
+            "to": "play"
+          },
+          {
+            "id": "start-2",
+            "de": "Hallo! Was malst du?",
+            "tr": "Merhaba! Ne çiziyorsun?",
+            "to": "art"
+          }
+        ],
+        "question": {
+          "prompt": "Çocuğun yanında neler var?",
+          "options": [
+            "Top ve defter",
+            "Kedi ve çanta",
+            "Kahve ve pasta"
+          ],
+          "correct": "Top ve defter",
+          "explanation": "Yanında bir top ve bir defter var."
+        }
+      },
+      {
+        "id": "play",
+        "title": "Topun peşinde",
+        "art": "park",
+        "lines": [
+          {
+            "de": "Der Junge heißt Tom. Ihr spielt mit dem Ball.",
+            "tr": "Çocuğun adı Tom. Topla oynuyorsunuz."
+          },
+          {
+            "de": "Der Ball rollt hinter einen Baum. Dort steht ein Mädchen.",
+            "tr": "Top bir ağacın arkasına yuvarlanıyor. Orada bir kız duruyor."
+          }
+        ],
+        "words": [
+          "Mädchen",
+          "Baum"
+        ],
+        "choices": [
+          {
+            "id": "play-1",
+            "de": "Spielst du auch mit?",
+            "tr": "Sen de oynar mısın?",
+            "to": "team"
+          },
+          {
+            "id": "play-2",
+            "de": "Danke für den Ball! Tom und ich gehen weiter.",
+            "tr": "Top için teşekkürler! Tom ile yolumuza devam ediyoruz.",
+            "to": "walk"
+          }
+        ],
+        "question": {
+          "prompt": "Top nereye gidiyor?",
+          "options": [
+            "Ağacın arkasına",
+            "Eve",
+            "Kafeye"
+          ],
+          "correct": "Ağacın arkasına",
+          "explanation": "Top ağacın arkasına yuvarlanıyor."
+        }
+      },
+      {
+        "id": "art",
+        "title": "Defterdeki dünya",
+        "art": "park",
+        "lines": [
+          {
+            "de": "Tom malt einen Hund. Er hat viele bunte Stifte.",
+            "tr": "Tom bir köpek çiziyor. Bir sürü renkli kalemi var."
+          },
+          {
+            "de": "Du kannst auch malen. Was möchtest du malen?",
+            "tr": "Sen de çizebilirsin. Ne çizmek istersin?",
+            "speaker": "Tom"
+          }
+        ],
+        "words": [
+          "Hund",
+          "Stift"
+        ],
+        "choices": [
+          {
+            "id": "art-1",
+            "de": "Ich male eine Blume.",
+            "tr": "Bir çiçek çiziyorum.",
+            "to": "flower"
+          },
+          {
+            "id": "art-2",
+            "de": "Ich male deinen Hund.",
+            "tr": "Senin köpeğini çiziyorum.",
+            "to": "dog"
+          }
+        ],
+        "question": {
+          "prompt": "Tom ne çiziyor?",
+          "options": [
+            "Köpek",
+            "Balık",
+            "Ev"
+          ],
+          "correct": "Köpek",
+          "explanation": "Tom bir köpek çiziyor."
+        }
+      },
+      {
+        "id": "team",
+        "title": "Üç kişilik takım",
+        "art": "park",
+        "lines": [
+          {
+            "de": "Das Mädchen heißt Ela. Jetzt spielt ihr zu dritt.",
+            "tr": "Kızın adı Ela. Şimdi üç kişi oynuyorsunuz."
+          },
+          {
+            "de": "Am Abend sagt Tom: Morgen spielen wir wieder!",
+            "tr": "Akşam Tom diyor ki: Yarın yine oynayalım!"
+          }
+        ],
+        "words": [
+          "Abend"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Artık kaç kişi oynuyorsunuz?",
+          "options": [
+            "Üç",
+            "İki",
+            "Dört"
+          ],
+          "correct": "Üç",
+          "explanation": "“zu dritt” üç kişi demektir."
+        },
+        "ending": "Yeni takımın hazır"
+      },
+      {
+        "id": "walk",
+        "title": "Parkın ötesinde",
+        "art": "park",
+        "lines": [
+          {
+            "de": "Du und Tom geht zum See. Ihr seht einen Fisch im Wasser.",
+            "tr": "Tom ile göle gidiyorsunuz. Suda bir balık görüyorsunuz."
+          },
+          {
+            "de": "Ihr erzählt von eurer Schule. Ihr seid in derselben Klasse!",
+            "tr": "Okulunuzdan konuşuyorsunuz. Aynı sınıftasınız!"
+          }
+        ],
+        "words": [
+          "Fisch",
+          "Wasser",
+          "Schule"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Tom ile hangi ortak özelliği buluyorsunuz?",
+          "options": [
+            "Aynı sınıftasınız",
+            "Aynı evdesiniz",
+            "Kardeşsiniz"
+          ],
+          "correct": "Aynı sınıftasınız",
+          "explanation": "Son cümlede aynı sınıfta olduğunuz ortaya çıkıyor."
+        },
+        "ending": "Sınıftan bir dost"
+      },
+      {
+        "id": "flower",
+        "title": "İki sayfalık bahçe",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Deine Blume ist gelb. Tom malt eine rote Blume daneben.",
+            "tr": "Çiçeğin sarı. Tom yanına kırmızı bir çiçek çiziyor."
+          },
+          {
+            "de": "Ihr malt einen ganzen Garten. Das Bild ist für eure Schule.",
+            "tr": "Kocaman bir bahçe çiziyorsunuz. Resim okulunuz için."
+          }
+        ],
+        "words": [
+          "Blume",
+          "gelb",
+          "rot"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Ortak resminiz kimin için?",
+          "options": [
+            "Okulunuz için",
+            "Bir kafe için",
+            "Bir otel için"
+          ],
+          "correct": "Okulunuz için",
+          "explanation": "Bahçe resmi okulunuz için hazırlanıyor."
+        },
+        "ending": "Kâğıttan ortak bahçeniz"
+      },
+      {
+        "id": "dog",
+        "title": "Gerçek model",
+        "art": "park",
+        "lines": [
+          {
+            "de": "Tom zeigt dir ein Foto. Sein Hund heißt Max.",
+            "tr": "Tom sana bir fotoğraf gösteriyor. Köpeğinin adı Max."
+          },
+          {
+            "de": "Du malst Max. Tom hängt das Bild später zu Hause auf.",
+            "tr": "Max’ı çiziyorsun. Tom daha sonra resmi evine asıyor."
+          }
+        ],
+        "words": [
+          "Hund",
+          "Haus"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Tom’un köpeğinin adı ne?",
+          "options": [
+            "Max",
+            "Ben",
+            "Leo"
+          ],
+          "correct": "Max",
+          "explanation": "Tom’un köpeğinin adı Max."
+        },
+        "ending": "Max’ın küçük portresi"
+      }
+    ]
+  },
+  {
+    "id": "story-garten",
+    "title": "Bahçedeki Sır",
+    "germanTitle": "Das Geheimnis im Garten",
+    "level": "A1",
+    "category": "fantasy",
+    "description": "Çiçeklerin arasında parlayan bir anahtar ve küçük bir ses… Bahçenin sırrını hangi yoldan çözeceksin?",
+    "art": "garden",
+    "minutes": 3,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Yaprakların arasındaki ışık",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Du gehst in den Garten. Unter einer Blume liegt ein kleiner Schlüssel.",
+            "tr": "Bahçeye gidiyorsun. Bir çiçeğin altında küçük bir anahtar var."
+          },
+          {
+            "de": "Aus dem Baum kommt eine leise Stimme: Hallo!",
+            "tr": "Ağaçtan hafif bir ses geliyor: Merhaba!"
+          }
+        ],
+        "words": [
+          "Garten",
+          "Blume",
+          "Baum"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich nehme den Schlüssel.",
+            "tr": "Anahtarı alıyorum.",
+            "to": "key"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich höre der Stimme zu.",
+            "tr": "Sesi dinliyorum.",
+            "to": "voice"
+          }
+        ],
+        "question": {
+          "prompt": "Anahtar nerede?",
+          "options": [
+            "Çiçeğin altında",
+            "Evin içinde",
+            "Bankta"
+          ],
+          "correct": "Çiçeğin altında",
+          "explanation": "Anahtar bir çiçeğin altında."
+        }
+      },
+      {
+        "id": "key",
+        "title": "İki küçük kapı",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Hinter dem Baum stehen zwei kleine Häuser. Ein Haus ist blau, das andere grün.",
+            "tr": "Ağacın arkasında iki küçük ev var. Biri mavi, diğeri yeşil."
+          },
+          {
+            "de": "Der Schlüssel passt in beide Türen. Du wählst eine Tür.",
+            "tr": "Anahtar iki kapıya da uyuyor. Bir kapı seçiyorsun."
+          }
+        ],
+        "words": [
+          "Haus",
+          "blau",
+          "grün",
+          "Tür"
+        ],
+        "choices": [
+          {
+            "id": "key-1",
+            "de": "Ich öffne die blaue Tür.",
+            "tr": "Mavi kapıyı açıyorum.",
+            "to": "blue"
+          },
+          {
+            "id": "key-2",
+            "de": "Ich öffne die grüne Tür.",
+            "tr": "Yeşil kapıyı açıyorum.",
+            "to": "green"
+          }
+        ],
+        "question": {
+          "prompt": "Kaç küçük ev var?",
+          "options": [
+            "İki",
+            "Bir",
+            "Üç"
+          ],
+          "correct": "İki",
+          "explanation": "Ağacın arkasında iki ev duruyor."
+        }
+      },
+      {
+        "id": "voice",
+        "title": "Lumi’nin isteği",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Eine kleine Blume spricht mit dir. Sie heißt Lumi.",
+            "tr": "Küçük bir çiçek seninle konuşuyor. Adı Lumi."
+          },
+          {
+            "de": "Ich habe Durst. Oder singst du ein Lied für mich?",
+            "tr": "Susadım. Ya da benim için bir şarkı söyler misin?",
+            "speaker": "Lumi"
+          }
+        ],
+        "words": [
+          "Blume",
+          "Wasser"
+        ],
+        "choices": [
+          {
+            "id": "voice-1",
+            "de": "Ich bringe dir Wasser.",
+            "tr": "Sana su getiriyorum.",
+            "to": "water"
+          },
+          {
+            "id": "voice-2",
+            "de": "Ich singe ein Lied für dich.",
+            "tr": "Senin için bir şarkı söylüyorum.",
+            "to": "song"
+          }
+        ],
+        "question": {
+          "prompt": "Seninle kim konuşuyor?",
+          "options": [
+            "Lumi adlı bir çiçek",
+            "Bir kedi",
+            "Bir öğretmen"
+          ],
+          "correct": "Lumi adlı bir çiçek",
+          "explanation": "Konuşan çiçeğin adı Lumi."
+        }
+      },
+      {
+        "id": "blue",
+        "title": "Yıldız odası",
+        "art": "night",
+        "lines": [
+          {
+            "de": "Im blauen Haus leuchten kleine Sterne. Du setzt dich auf einen weichen Stuhl.",
+            "tr": "Mavi evde küçük yıldızlar parlıyor. Yumuşak bir sandalyeye oturuyorsun."
+          },
+          {
+            "de": "Ein Stern fliegt auf deine Hand. Er zeigt dir den Weg nach Hause.",
+            "tr": "Bir yıldız eline uçuyor. Sana eve giden yolu gösteriyor."
+          }
+        ],
+        "words": [
+          "blau",
+          "Stuhl",
+          "Hand"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Yıldız sana ne gösteriyor?",
+          "options": [
+            "Eve giden yolu",
+            "Bir kitabı",
+            "Bir oyunu"
+          ],
+          "correct": "Eve giden yolu",
+          "explanation": "Yıldız eve giden yolu gösteriyor."
+        },
+        "ending": "Avucundaki yıldız"
+      },
+      {
+        "id": "green",
+        "title": "Tohum odası",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Im grünen Haus liegen viele Samen. Du pflanzt einen Samen in die Erde.",
+            "tr": "Yeşil evde çok sayıda tohum var. Toprağa bir tohum ekiyorsun."
+          },
+          {
+            "de": "Sofort wächst eine gelbe Blume. Sie sagt: Willkommen!",
+            "tr": "Hemen sarı bir çiçek büyüyor. Şöyle diyor: Hoş geldin!"
+          }
+        ],
+        "words": [
+          "grün",
+          "gelb",
+          "Blume"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Ektiğin tohumdan ne çıkıyor?",
+          "options": [
+            "Sarı bir çiçek",
+            "Mavi bir ağaç",
+            "Bir elma"
+          ],
+          "correct": "Sarı bir çiçek",
+          "explanation": "Tohumdan sarı bir çiçek büyüyor."
+        },
+        "ending": "Konuşan filiz"
+      },
+      {
+        "id": "water",
+        "title": "Bir yudumla gelen renk",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Du gibst Lumi Wasser. Ihre Blätter werden wieder grün.",
+            "tr": "Lumi’ye su veriyorsun. Yaprakları yeniden yeşil oluyor."
+          },
+          {
+            "de": "Alle Blumen im Garten öffnen sich. Lumi dankt dir.",
+            "tr": "Bahçedeki bütün çiçekler açılıyor. Lumi sana teşekkür ediyor."
+          }
+        ],
+        "words": [
+          "Wasser",
+          "grün",
+          "Blume"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Lumi’ye ne veriyorsun?",
+          "options": [
+            "Su",
+            "Çay",
+            "Kahve"
+          ],
+          "correct": "Su",
+          "explanation": "Susayan Lumi’ye su veriyorsun."
+        },
+        "ending": "Canlanan bahçe"
+      },
+      {
+        "id": "song",
+        "title": "Çiçeklerin korosu",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Du singst ein Lied. Lumi und die anderen Blumen singen mit.",
+            "tr": "Bir şarkı söylüyorsun. Lumi ve diğer çiçekler eşlik ediyor."
+          },
+          {
+            "de": "Ein Schmetterling tanzt über dem Garten. Du lachst.",
+            "tr": "Bahçenin üstünde bir kelebek dans ediyor. Gülüyorsun."
+          }
+        ],
+        "words": [
+          "Garten",
+          "Musik"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Şarkına kim eşlik ediyor?",
+          "options": [
+            "Lumi ve çiçekler",
+            "Öğretmenin",
+            "Bir fırıncı"
+          ],
+          "correct": "Lumi ve çiçekler",
+          "explanation": "Lumi ve diğer çiçekler seninle şarkı söylüyor."
+        },
+        "ending": "Bahçenin ortak şarkısı"
+      }
+    ]
+  },
+  {
+    "id": "story-zug",
+    "title": "Tren Yolculuğundaki Sürpriz",
+    "germanTitle": "Eine Überraschung im Zug",
+    "level": "A2",
+    "category": "travel",
+    "description": "Geciken tren planını değiştiriyor. Bir yolcuya yardım etmek mi, yeni bir rota denemek mi?",
+    "art": "train",
+    "minutes": 4,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Peronda değişen plan",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Du möchtest nach Köln fahren, aber dein Zug hat dreißig Minuten Verspätung.",
+            "tr": "Köln’e gitmek istiyorsun ama trenin otuz dakika gecikiyor."
+          },
+          {
+            "de": "Neben dir sucht eine ältere Frau ihren Fahrplan. Am anderen Gleis wartet ein Regionalzug.",
+            "tr": "Yanında yaşlı bir kadın sefer çizelgesini arıyor. Diğer peronda bir bölgesel tren bekliyor."
+          }
+        ],
+        "words": [
+          "Zug",
+          "Frau"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Kann ich Ihnen helfen?",
+            "tr": "Size yardım edebilir miyim?",
+            "to": "help"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich frage nach dem Regionalzug.",
+            "tr": "Bölgesel treni soruyorum.",
+            "to": "route"
+          }
+        ],
+        "question": {
+          "prompt": "Tren ne kadar gecikiyor?",
+          "options": [
+            "Otuz dakika",
+            "On dakika",
+            "Bir saat"
+          ],
+          "correct": "Otuz dakika",
+          "explanation": "Anons, otuz dakikalık gecikme olduğunu bildiriyor."
+        }
+      },
+      {
+        "id": "help",
+        "title": "Kaybolan bağlantı",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Die Frau heißt Frau Berger. Sie hat ihre Brille zu Hause vergessen.",
+            "tr": "Kadının adı Bayan Berger. Gözlüğünü evde unutmuş."
+          },
+          {
+            "de": "Du liest den Fahrplan vor. Ihr Anschluss fährt von Gleis vier.",
+            "tr": "Sefer çizelgesini sesli okuyorsun. Aktarma treni dördüncü perondan kalkıyor."
+          }
+        ],
+        "words": [
+          "Haus",
+          "lesen"
+        ],
+        "choices": [
+          {
+            "id": "help-1",
+            "de": "Ich begleite Sie zum Gleis.",
+            "tr": "Size perona kadar eşlik edeyim.",
+            "to": "platform"
+          },
+          {
+            "id": "help-2",
+            "de": "Ich schreibe die Verbindung auf.",
+            "tr": "Aktarma bilgilerini yazıyorum.",
+            "to": "note"
+          }
+        ],
+        "question": {
+          "prompt": "Bayan Berger evde ne unutmuş?",
+          "options": [
+            "Gözlüğünü",
+            "Biletini",
+            "Çantasını"
+          ],
+          "correct": "Gözlüğünü",
+          "explanation": "Bu yüzden sefer çizelgesini okuyamıyor."
+        }
+      },
+      {
+        "id": "route",
+        "title": "Daha uzun, daha güzel",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Der Mitarbeiter erklärt: Mit dem Regionalzug dauert die Fahrt länger, aber Sie sehen den Rhein.",
+            "tr": "Görevli açıklıyor: Bölgesel trenle yolculuk daha uzun sürer ama Ren Nehri’ni görürsünüz."
+          },
+          {
+            "de": "Du kannst sofort einsteigen oder auf den schnellen Zug warten.",
+            "tr": "Hemen binebilir ya da hızlı treni bekleyebilirsin."
+          }
+        ],
+        "words": [
+          "Zug",
+          "sehen"
+        ],
+        "choices": [
+          {
+            "id": "route-1",
+            "de": "Ich nehme den Regionalzug.",
+            "tr": "Bölgesel trene biniyorum.",
+            "to": "river"
+          },
+          {
+            "id": "route-2",
+            "de": "Ich warte auf meinen Zug.",
+            "tr": "Kendi trenimi bekliyorum.",
+            "to": "fast"
+          }
+        ],
+        "question": {
+          "prompt": "Bölgesel trenin avantajı ne?",
+          "options": [
+            "Ren Nehri’ni görmek",
+            "Daha hızlı olmak",
+            "Ücretsiz yemek"
+          ],
+          "correct": "Ren Nehri’ni görmek",
+          "explanation": "Bölgesel rota daha uzun ama nehir manzarası sunuyor."
+        }
+      },
+      {
+        "id": "platform",
+        "title": "Bir teşekkür kartı",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Ihr erreicht Gleis vier rechtzeitig. Frau Berger schenkt dir eine Postkarte von Köln.",
+            "tr": "Dördüncü perona zamanında ulaşıyorsunuz. Bayan Berger sana Köln’den bir kartpostal veriyor."
+          },
+          {
+            "de": "Später fährst du mit deinem Zug weiter. Auf der Karte steht: Vielen Dank!",
+            "tr": "Sonra kendi treninle devam ediyorsun. Kartta şöyle yazıyor: Çok teşekkürler!"
+          }
+        ],
+        "words": [
+          "Zug"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bayan Berger sana ne veriyor?",
+          "options": [
+            "Kartpostal",
+            "Kitap",
+            "Bilet"
+          ],
+          "correct": "Kartpostal",
+          "explanation": "Yardımın için bir Köln kartpostalı veriyor."
+        },
+        "ending": "Yolculuktan kalan teşekkür"
+      },
+      {
+        "id": "note",
+        "title": "Küçük bir notun gücü",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Mit deinem Zettel findet Frau Berger den richtigen Zug allein. Du bleibst am Bahnsteig.",
+            "tr": "Notun sayesinde Bayan Berger doğru treni tek başına buluyor. Sen peronda kalıyorsun."
+          },
+          {
+            "de": "Du kaufst einen Tee und wartest entspannt auf deine Weiterfahrt.",
+            "tr": "Bir çay alıp yolculuğunun devamını rahatça bekliyorsun."
+          }
+        ],
+        "words": [
+          "Tee",
+          "Zug"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bayan Berger doğru treni nasıl buluyor?",
+          "options": [
+            "Yazdığın notla",
+            "Telefon uygulamasıyla",
+            "Şoförle konuşarak"
+          ],
+          "correct": "Yazdığın notla",
+          "explanation": "Yazdığın aktarma bilgileri ona yol gösteriyor."
+        },
+        "ending": "Bir not, iki rahat yolcu"
+      },
+      {
+        "id": "river",
+        "title": "Penceredeki nehir",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Der Regionalzug fährt langsam am Rhein entlang. Du fotografierst kleine Häuser am Wasser.",
+            "tr": "Bölgesel tren Ren boyunca yavaşça gidiyor. Suyun kenarındaki küçük evleri fotoğraflıyorsun."
+          },
+          {
+            "de": "Du kommst später an, aber die Aussicht war die längere Fahrt wert.",
+            "tr": "Daha geç varıyorsun ama manzara uzun yolculuğa değdi."
+          }
+        ],
+        "words": [
+          "Wasser",
+          "Haus"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bu yolculukta neyi fotoğraflıyorsun?",
+          "options": [
+            "Su kenarındaki evleri",
+            "Bir müzeyi",
+            "Bir kafeyi"
+          ],
+          "correct": "Su kenarındaki evleri",
+          "explanation": "Trenden su kenarındaki evleri fotoğraflıyorsun."
+        },
+        "ending": "Yavaş yolun güzel manzarası"
+      },
+      {
+        "id": "fast",
+        "title": "Tam zamanında",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Nach einer halben Stunde kommt dein Zug. Du findest einen ruhigen Platz.",
+            "tr": "Yarım saat sonra trenin geliyor. Sessiz bir yer buluyorsun."
+          },
+          {
+            "de": "In Köln wartet deine Freundin am Bahnhof. Ihr habt noch Zeit für einen Spaziergang.",
+            "tr": "Köln’de arkadaşın istasyonda bekliyor. Yürüyüş için hâlâ zamanınız var."
+          }
+        ],
+        "words": [
+          "Freundin",
+          "Zeit"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Köln’de seni kim karşılıyor?",
+          "options": [
+            "Arkadaşın",
+            "Bayan Berger",
+            "Tren görevlisi"
+          ],
+          "correct": "Arkadaşın",
+          "explanation": "İstasyonda kız arkadaşın bekliyor."
+        },
+        "ending": "Beklemeye değen buluşma"
+      }
+    ]
+  },
+  {
+    "id": "story-nachbarn",
+    "title": "Yeni Mahallede İlk Gün",
+    "germanTitle": "Der erste Tag im neuen Viertel",
+    "level": "A2",
+    "category": "germany",
+    "description": "Yeni bir mahallede bir not, bir davet ve küçük bir yardım seni komşularınla tanıştırıyor.",
+    "art": "town",
+    "minutes": 4,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Apartman girişindeki not",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Du bist gestern umgezogen. Im Treppenhaus hängt eine Einladung zum Nachbarschaftsfest.",
+            "tr": "Dün taşındın. Apartman merdivenlerinde mahalle şenliğine bir davet asılı."
+          },
+          {
+            "de": "Gleichzeitig hörst du, dass dein Nachbar Hilfe beim Tragen braucht.",
+            "tr": "Aynı anda komşunun bir şeyler taşımak için yardıma ihtiyacı olduğunu duyuyorsun."
+          }
+        ],
+        "words": [
+          "Haus",
+          "Nachbar"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich helfe zuerst meinem Nachbarn.",
+            "tr": "Önce komşuma yardım ediyorum.",
+            "to": "help"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich gehe zum Fest im Hof.",
+            "tr": "Avludaki şenliğe gidiyorum.",
+            "to": "party"
+          }
+        ],
+        "question": {
+          "prompt": "Ne zaman taşındın?",
+          "options": [
+            "Dün",
+            "Geçen yıl",
+            "Bu sabah"
+          ],
+          "correct": "Dün",
+          "explanation": "“gestern” dün demektir."
+        }
+      },
+      {
+        "id": "help",
+        "title": "Ağır kutunun içindekiler",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Dein Nachbar Paul trägt eine Kiste mit Büchern. Ihr stellt sie gemeinsam in seine Wohnung.",
+            "tr": "Komşun Paul kitap dolu bir kutu taşıyor. Birlikte evine koyuyorsunuz."
+          },
+          {
+            "de": "Paul fragt: Möchtest du ein Buch ausleihen oder mit mir zum Fest gehen?",
+            "tr": "Paul soruyor: Bir kitap ödünç almak mı, benimle şenliğe gitmek mi istersin?"
+          }
+        ],
+        "words": [
+          "Buch",
+          "Nachbar"
+        ],
+        "choices": [
+          {
+            "id": "help-1",
+            "de": "Ich leihe gern ein Buch aus.",
+            "tr": "Seve seve bir kitap ödünç alırım.",
+            "to": "book"
+          },
+          {
+            "id": "help-2",
+            "de": "Gehen wir zusammen zum Fest!",
+            "tr": "Şenliğe birlikte gidelim!",
+            "to": "together"
+          }
+        ],
+        "question": {
+          "prompt": "Kutunun içinde ne var?",
+          "options": [
+            "Kitaplar",
+            "Tabaklar",
+            "Çiçekler"
+          ],
+          "correct": "Kitaplar",
+          "explanation": "Paul kitap dolu bir kutu taşıyor."
+        }
+      },
+      {
+        "id": "party",
+        "title": "Avluda iki masa",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Im Hof stehen zwei große Tische. An einem Tisch wird gekocht, am anderen werden Spiele erklärt.",
+            "tr": "Avluda iki büyük masa var. Birinde yemek yapılıyor, diğerinde oyunlar anlatılıyor."
+          },
+          {
+            "de": "Die Nachbarin Sara begrüßt dich und fragt nach deinem Namen.",
+            "tr": "Komşun Sara seni selamlıyor ve adını soruyor."
+          }
+        ],
+        "words": [
+          "Tisch",
+          "Name"
+        ],
+        "choices": [
+          {
+            "id": "party-1",
+            "de": "Ich helfe beim Kochen.",
+            "tr": "Yemek yapmaya yardım ediyorum.",
+            "to": "cook"
+          },
+          {
+            "id": "party-2",
+            "de": "Ich probiere ein Spiel aus.",
+            "tr": "Bir oyun deniyorum.",
+            "to": "game"
+          }
+        ],
+        "question": {
+          "prompt": "Avluda hangi iki etkinlik var?",
+          "options": [
+            "Yemek ve oyun",
+            "Müzik ve yüzme",
+            "Ders ve sınav"
+          ],
+          "correct": "Yemek ve oyun",
+          "explanation": "Masalarda yemek hazırlanıyor ve oyunlar anlatılıyor."
+        }
+      },
+      {
+        "id": "book",
+        "title": "Ödünç bir başlangıç",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Paul gibt dir ein Buch über die Stadt. Auf der ersten Seite findest du eine Karte.",
+            "tr": "Paul sana şehir hakkında bir kitap veriyor. İlk sayfada bir harita buluyorsun."
+          },
+          {
+            "de": "Ihr verabredet euch für Samstag, um die Stadt gemeinsam zu entdecken.",
+            "tr": "Şehri birlikte keşfetmek için cumartesiye sözleşiyorsunuz."
+          }
+        ],
+        "words": [
+          "Buch",
+          "Stadt"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Cumartesi ne yapacaksınız?",
+          "options": [
+            "Şehri keşfedeceksiniz",
+            "Taşınacaksınız",
+            "Trene bineceksiniz"
+          ],
+          "correct": "Şehri keşfedeceksiniz",
+          "explanation": "Kitap, birlikte bir şehir gezisinin başlangıcı oluyor."
+        },
+        "ending": "Kitaptan doğan şehir turu"
+      },
+      {
+        "id": "together",
+        "title": "Bir tabak daha",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Paul stellt dich seinen Freunden vor. Jemand holt sofort einen weiteren Teller.",
+            "tr": "Paul seni arkadaşlarıyla tanıştırıyor. Biri hemen bir tabak daha getiriyor."
+          },
+          {
+            "de": "Beim Essen erzählt ihr von euren Hobbys. Du fühlst dich schon ein bisschen zu Hause.",
+            "tr": "Yemekte hobilerinizden konuşuyorsunuz. Kendini şimdiden biraz evinde hissediyorsun."
+          }
+        ],
+        "words": [
+          "Freund",
+          "Essen"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Seni arkadaşlarıyla kim tanıştırıyor?",
+          "options": [
+            "Paul",
+            "Sara",
+            "Ev sahibi"
+          ],
+          "correct": "Paul",
+          "explanation": "Paul seni arkadaş grubuna dahil ediyor."
+        },
+        "ending": "Sofrada sana da yer var"
+      },
+      {
+        "id": "cook",
+        "title": "Paylaşılan tarif",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Du schneidest Gemüse, während Sara die Suppe kocht. Sie erklärt dir ihr Familienrezept.",
+            "tr": "Sara çorbayı pişirirken sen sebzeleri doğruyorsun. Aile tarifini sana anlatıyor."
+          },
+          {
+            "de": "Am Abend nimmst du das Rezept mit. Nächste Woche möchtest du für alle kochen.",
+            "tr": "Akşam tarifi yanına alıyorsun. Gelecek hafta herkes için yemek yapmak istiyorsun."
+          }
+        ],
+        "words": [
+          "Gemüse",
+          "Suppe"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Gelecek hafta ne yapmak istiyorsun?",
+          "options": [
+            "Herkes için yemek yapmak",
+            "Taşınmak",
+            "Kitap almak"
+          ],
+          "correct": "Herkes için yemek yapmak",
+          "explanation": "Tarifi öğrenince komşularına yemek yapmak istiyorsun."
+        },
+        "ending": "Tariften gelen dostluk"
+      },
+      {
+        "id": "game",
+        "title": "Bir sonraki oyun gecesi",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Sara erklärt dir ein Kartenspiel. Am Anfang fragst du viel, dann gewinnst du eine Runde.",
+            "tr": "Sara sana bir kart oyunu anlatıyor. Başta çok soru soruyorsun, sonra bir tur kazanıyorsun."
+          },
+          {
+            "de": "Die Nachbarn laden dich zum nächsten Spieleabend ein. Jetzt kennst du schon mehrere Namen.",
+            "tr": "Komşular seni sonraki oyun gecesine davet ediyor. Artık birkaç ismi biliyorsun."
+          }
+        ],
+        "words": [
+          "Name",
+          "Nachbar"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Komşular seni neye davet ediyor?",
+          "options": [
+            "Sonraki oyun gecesine",
+            "Bir düğüne",
+            "Bir derse"
+          ],
+          "correct": "Sonraki oyun gecesine",
+          "explanation": "Bir sonraki oyun gecesine davet ediliyorsun."
+        },
+        "ending": "Masadaki yeni oyuncu"
+      }
+    ]
+  }
+]

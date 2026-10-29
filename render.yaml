@@ -1,0 +1,33 @@
+# Hazırlık dosyası: dağıtım veya veritabanı geçişi otomatik yapılmaz.
+services:
+  - type: web
+    name: deutsch-garden
+    runtime: docker
+    plan: free
+    numInstances: 1
+    healthCheckPath: /api/health
+    envVars:
+      - key: SERVER_STORAGE
+        value: supabase
+      - key: SUPABASE_SERVER_SECRET_KEY
+        sync: false
+      - key: LUMI_PROVIDER
+        value: gemini
+      - key: GEMINI_MODEL
+        value: gemini-3.5-flash-lite
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_PUBLISHABLE_KEY
+        sync: false
+      - key: LUMI_ACCESS_PASSWORD
+        sync: false
+      - key: LUMI_SESSION_SECRET
+        sync: false
+      - key: LUMI_APP_ORIGIN
+        sync: false
+      - key: ACCOUNT_APP_ORIGIN
+        sync: false
+      - key: BIRTHDAY_CREATOR_PASSWORD
+        sync: false

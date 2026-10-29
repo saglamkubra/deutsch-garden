@@ -1,0 +1,656 @@
+{
+  "version": 1,
+  "voice": "Piper · Thorsten (Almanca)",
+  "engine": "piper-tts 1.8.0",
+  "modelSha256": "7e64762d8e5118bb578f2eea6207e1a35a8e0c30595010b666f983fc87bb7819",
+  "modelSource": "https://huggingface.co/rhasspy/piper-voices/blob/main/de/de_DE/thorsten/medium/MODEL_CARD",
+  "episodes": {
+    "listen-a1-greetings": {
+      "url": "/audio/deutsch-garden/listen-a1-greetings.wav",
+      "duration": 11.169252,
+      "sampleRate": 22050,
+      "sha256": "4f49fd151869455a5308d8b8d09085c6f594538860c0cd9f2d6624897c91ad9e",
+      "segments": [
+        {
+          "id": "listen-a1-greetings:s1",
+          "start": 0.0,
+          "end": 1.950476
+        },
+        {
+          "id": "listen-a1-greetings:s2",
+          "start": 2.250476,
+          "end": 3.713333
+        },
+        {
+          "id": "listen-a1-greetings:s3",
+          "start": 4.013333,
+          "end": 5.348481
+        },
+        {
+          "id": "listen-a1-greetings:s4",
+          "start": 5.648481,
+          "end": 7.273878
+        },
+        {
+          "id": "listen-a1-greetings:s5",
+          "start": 7.573878,
+          "end": 9.001905
+        },
+        {
+          "id": "listen-a1-greetings:s6",
+          "start": 9.301905,
+          "end": 10.869252
+        }
+      ]
+    },
+    "listen-a1-family": {
+      "url": "/audio/deutsch-garden/listen-a1-family.wav",
+      "duration": 14.244036,
+      "sampleRate": 22050,
+      "sha256": "96c42b1e0944419bce2cba80132582b561bbccf8ed3d404fb3abf1229efd18cd",
+      "segments": [
+        {
+          "id": "listen-a1-family:s1",
+          "start": 0.0,
+          "end": 1.764717
+        },
+        {
+          "id": "listen-a1-family:s2",
+          "start": 2.064717,
+          "end": 4.026803
+        },
+        {
+          "id": "listen-a1-family:s3",
+          "start": 4.326803,
+          "end": 5.53424
+        },
+        {
+          "id": "listen-a1-family:s4",
+          "start": 5.83424,
+          "end": 7.575737
+        },
+        {
+          "id": "listen-a1-family:s5",
+          "start": 7.875737,
+          "end": 9.640454
+        },
+        {
+          "id": "listen-a1-family:s6",
+          "start": 9.940454,
+          "end": 11.72839
+        },
+        {
+          "id": "listen-a1-family:s7",
+          "start": 12.02839,
+          "end": 13.944036
+        }
+      ]
+    },
+    "listen-a1-morning": {
+      "url": "/audio/deutsch-garden/listen-a1-morning.wav",
+      "duration": 13.373288,
+      "sampleRate": 22050,
+      "sha256": "e7fd5a83d2dec7a92ccf6affc8b69f5693911b5f30e50cde0937a83a9ec77ce3",
+      "segments": [
+        {
+          "id": "listen-a1-morning:s1",
+          "start": 0.0,
+          "end": 1.509297
+        },
+        {
+          "id": "listen-a1-morning:s2",
+          "start": 1.809297,
+          "end": 3.585624
+        },
+        {
+          "id": "listen-a1-morning:s3",
+          "start": 3.885624,
+          "end": 5.325261
+        },
+        {
+          "id": "listen-a1-morning:s4",
+          "start": 5.625261,
+          "end": 7.227438
+        },
+        {
+          "id": "listen-a1-morning:s5",
+          "start": 7.527438,
+          "end": 9.268934
+        },
+        {
+          "id": "listen-a1-morning:s6",
+          "start": 9.568934,
+          "end": 10.973741
+        },
+        {
+          "id": "listen-a1-morning:s7",
+          "start": 11.273741,
+          "end": 13.073288
+        }
+      ]
+    },
+    "listen-a1-cafe": {
+      "url": "/audio/deutsch-garden/listen-a1-cafe.wav",
+      "duration": 17.81805,
+      "sampleRate": 22050,
+      "sha256": "16a8688a8579fb1bf36ed7f8f6bad383ae71a80e0faf01abf36a236a67dbdba4",
+      "segments": [
+        {
+          "id": "listen-a1-cafe:s1",
+          "start": 0.0,
+          "end": 1.648617
+        },
+        {
+          "id": "listen-a1-cafe:s2",
+          "start": 1.948617,
+          "end": 4.026803
+        },
+        {
+          "id": "listen-a1-cafe:s3",
+          "start": 4.326803,
+          "end": 5.90576
+        },
+        {
+          "id": "listen-a1-cafe:s4",
+          "start": 6.20576,
+          "end": 8.295556
+        },
+        {
+          "id": "listen-a1-cafe:s5",
+          "start": 8.595556,
+          "end": 10.313832
+        },
+        {
+          "id": "listen-a1-cafe:s6",
+          "start": 10.613832,
+          "end": 12.761678
+        },
+        {
+          "id": "listen-a1-cafe:s7",
+          "start": 13.061678,
+          "end": 14.779955
+        },
+        {
+          "id": "listen-a1-cafe:s8",
+          "start": 15.079955,
+          "end": 17.51805
+        }
+      ]
+    },
+    "listen-a1-shopping": {
+      "url": "/audio/deutsch-garden/listen-a1-shopping.wav",
+      "duration": 12.26059,
+      "sampleRate": 22050,
+      "sha256": "909a7172790908b24bb17bb1d7802d4b82e366a20d95e3d03579c351b5a33bf4",
+      "segments": [
+        {
+          "id": "listen-a1-shopping:s1",
+          "start": 0.0,
+          "end": 1.613787
+        },
+        {
+          "id": "listen-a1-shopping:s2",
+          "start": 1.913787,
+          "end": 4.050023
+        },
+        {
+          "id": "listen-a1-shopping:s3",
+          "start": 4.350023,
+          "end": 5.87093
+        },
+        {
+          "id": "listen-a1-shopping:s4",
+          "start": 6.17093,
+          "end": 8.307166
+        },
+        {
+          "id": "listen-a1-shopping:s5",
+          "start": 8.607166,
+          "end": 10.209342
+        },
+        {
+          "id": "listen-a1-shopping:s6",
+          "start": 10.509342,
+          "end": 11.96059
+        }
+      ]
+    },
+    "listen-a1-time": {
+      "url": "/audio/deutsch-garden/listen-a1-time.wav",
+      "duration": 10.751293,
+      "sampleRate": 22050,
+      "sha256": "6655dca352d22d358d3a1fc3216b2221d98669747d6095b1749be186e7ba8f48",
+      "segments": [
+        {
+          "id": "listen-a1-time:s1",
+          "start": 0.0,
+          "end": 1.184218
+        },
+        {
+          "id": "listen-a1-time:s2",
+          "start": 1.484218,
+          "end": 2.633605
+        },
+        {
+          "id": "listen-a1-time:s3",
+          "start": 2.933605,
+          "end": 4.454512
+        },
+        {
+          "id": "listen-a1-time:s4",
+          "start": 4.754512,
+          "end": 6.670159
+        },
+        {
+          "id": "listen-a1-time:s5",
+          "start": 6.970159,
+          "end": 8.398186
+        },
+        {
+          "id": "listen-a1-time:s6",
+          "start": 8.698186,
+          "end": 10.451293
+        }
+      ]
+    },
+    "listen-a1-hobbies": {
+      "url": "/audio/deutsch-garden/listen-a1-hobbies.wav",
+      "duration": 11.308571,
+      "sampleRate": 22050,
+      "sha256": "32e92688a25f62bc242d83fe43f39255b031df3c47f452ebb79066cdbd25ddaa",
+      "segments": [
+        {
+          "id": "listen-a1-hobbies:s1",
+          "start": 0.0,
+          "end": 1.857596
+        },
+        {
+          "id": "listen-a1-hobbies:s2",
+          "start": 2.157596,
+          "end": 3.771383
+        },
+        {
+          "id": "listen-a1-hobbies:s3",
+          "start": 4.071383,
+          "end": 5.8361
+        },
+        {
+          "id": "listen-a1-hobbies:s4",
+          "start": 6.1361,
+          "end": 7.401587
+        },
+        {
+          "id": "listen-a1-hobbies:s5",
+          "start": 7.701587,
+          "end": 9.303764
+        },
+        {
+          "id": "listen-a1-hobbies:s6",
+          "start": 9.603764,
+          "end": 11.008571
+        }
+      ]
+    },
+    "listen-a1-weather": {
+      "url": "/audio/deutsch-garden/listen-a1-weather.wav",
+      "duration": 9.044626,
+      "sampleRate": 22050,
+      "sha256": "b4bde9a52ffae67e07379b3c03368f2c1f945f0c69cbbc790bfddf9d6f553dcb",
+      "segments": [
+        {
+          "id": "listen-a1-weather:s1",
+          "start": 0.0,
+          "end": 1.520907
+        },
+        {
+          "id": "listen-a1-weather:s2",
+          "start": 1.820907,
+          "end": 2.970295
+        },
+        {
+          "id": "listen-a1-weather:s3",
+          "start": 3.270295,
+          "end": 4.106213
+        },
+        {
+          "id": "listen-a1-weather:s4",
+          "start": 4.406213,
+          "end": 5.636871
+        },
+        {
+          "id": "listen-a1-weather:s5",
+          "start": 5.936871,
+          "end": 7.190748
+        },
+        {
+          "id": "listen-a1-weather:s6",
+          "start": 7.490748,
+          "end": 8.744626
+        }
+      ]
+    },
+    "listen-a1-school": {
+      "url": "/audio/deutsch-garden/listen-a1-school.wav",
+      "duration": 13.315238,
+      "sampleRate": 22050,
+      "sha256": "8e26cc4d357c46039e75a6e8e30dfb97a795988e3a937d4035d8ab306ead31e2",
+      "segments": [
+        {
+          "id": "listen-a1-school:s1",
+          "start": 0.0,
+          "end": 1.300317
+        },
+        {
+          "id": "listen-a1-school:s2",
+          "start": 1.600317,
+          "end": 3.202494
+        },
+        {
+          "id": "listen-a1-school:s3",
+          "start": 3.502494,
+          "end": 4.942132
+        },
+        {
+          "id": "listen-a1-school:s4",
+          "start": 5.242132,
+          "end": 7.064898
+        },
+        {
+          "id": "listen-a1-school:s5",
+          "start": 7.364898,
+          "end": 9.094785
+        },
+        {
+          "id": "listen-a1-school:s6",
+          "start": 9.394785,
+          "end": 10.950522
+        },
+        {
+          "id": "listen-a1-school:s7",
+          "start": 11.250522,
+          "end": 13.015238
+        }
+      ]
+    },
+    "listen-a1-conversation": {
+      "url": "/audio/deutsch-garden/listen-a1-conversation.wav",
+      "duration": 12.585669,
+      "sampleRate": 22050,
+      "sha256": "4af73df3a7330efa2c708025ed9b879f44bd76ba756842c3e0a09e83eaf41985",
+      "segments": [
+        {
+          "id": "listen-a1-conversation:s1",
+          "start": 0.0,
+          "end": 1.648617
+        },
+        {
+          "id": "listen-a1-conversation:s2",
+          "start": 1.948617,
+          "end": 4.026803
+        },
+        {
+          "id": "listen-a1-conversation:s3",
+          "start": 4.326803,
+          "end": 6.103129
+        },
+        {
+          "id": "listen-a1-conversation:s4",
+          "start": 6.403129,
+          "end": 8.469705
+        },
+        {
+          "id": "listen-a1-conversation:s5",
+          "start": 8.769705,
+          "end": 10.731791
+        },
+        {
+          "id": "listen-a1-conversation:s6",
+          "start": 11.031791,
+          "end": 12.285669
+        }
+      ]
+    }
+  },
+  "words": {
+    "dg-a1-01-1": {
+      "url": "/audio/deutsch-garden/dg-a1-01-1.wav",
+      "duration": 0.545669
+    },
+    "dg-a1-01-2": {
+      "url": "/audio/deutsch-garden/dg-a1-01-2.wav",
+      "duration": 0.824308
+    },
+    "dg-a1-01-3": {
+      "url": "/audio/deutsch-garden/dg-a1-01-3.wav",
+      "duration": 0.743039
+    },
+    "dg-a1-01-4": {
+      "url": "/audio/deutsch-garden/dg-a1-01-4.wav",
+      "duration": 0.673379
+    },
+    "dg-a1-01-5": {
+      "url": "/audio/deutsch-garden/dg-a1-01-5.wav",
+      "duration": 1.114558
+    },
+    "dg-a1-01-6": {
+      "url": "/audio/deutsch-garden/dg-a1-01-6.wav",
+      "duration": 0.893968
+    },
+    "dg-a1-02-1": {
+      "url": "/audio/deutsch-garden/dg-a1-02-1.wav",
+      "duration": 0.824308
+    },
+    "dg-a1-02-2": {
+      "url": "/audio/deutsch-garden/dg-a1-02-2.wav",
+      "duration": 0.650159
+    },
+    "dg-a1-02-3": {
+      "url": "/audio/deutsch-garden/dg-a1-02-3.wav",
+      "duration": 1.010068
+    },
+    "dg-a1-02-4": {
+      "url": "/audio/deutsch-garden/dg-a1-02-4.wav",
+      "duration": 0.766259
+    },
+    "dg-a1-02-5": {
+      "url": "/audio/deutsch-garden/dg-a1-02-5.wav",
+      "duration": 0.684989
+    },
+    "dg-a1-02-6": {
+      "url": "/audio/deutsch-garden/dg-a1-02-6.wav",
+      "duration": 0.882358
+    },
+    "dg-a1-03-1": {
+      "url": "/audio/deutsch-garden/dg-a1-03-1.wav",
+      "duration": 0.824308
+    },
+    "dg-a1-03-2": {
+      "url": "/audio/deutsch-garden/dg-a1-03-2.wav",
+      "duration": 0.510839
+    },
+    "dg-a1-03-3": {
+      "url": "/audio/deutsch-garden/dg-a1-03-3.wav",
+      "duration": 0.743039
+    },
+    "dg-a1-03-4": {
+      "url": "/audio/deutsch-garden/dg-a1-03-4.wav",
+      "duration": 0.835918
+    },
+    "dg-a1-03-5": {
+      "url": "/audio/deutsch-garden/dg-a1-03-5.wav",
+      "duration": 0.568889
+    },
+    "dg-a1-03-6": {
+      "url": "/audio/deutsch-garden/dg-a1-03-6.wav",
+      "duration": 0.534059
+    },
+    "dg-a1-04-1": {
+      "url": "/audio/deutsch-garden/dg-a1-04-1.wav",
+      "duration": 0.835918
+    },
+    "dg-a1-04-2": {
+      "url": "/audio/deutsch-garden/dg-a1-04-2.wav",
+      "duration": 0.963628
+    },
+    "dg-a1-04-3": {
+      "url": "/audio/deutsch-garden/dg-a1-04-3.wav",
+      "duration": 1.149388
+    },
+    "dg-a1-04-4": {
+      "url": "/audio/deutsch-garden/dg-a1-04-4.wav",
+      "duration": 0.696599
+    },
+    "dg-a1-04-5": {
+      "url": "/audio/deutsch-garden/dg-a1-04-5.wav",
+      "duration": 0.580499
+    },
+    "dg-a1-04-6": {
+      "url": "/audio/deutsch-garden/dg-a1-04-6.wav",
+      "duration": 0.603719
+    },
+    "dg-a1-05-1": {
+      "url": "/audio/deutsch-garden/dg-a1-05-1.wav",
+      "duration": 0.986848
+    },
+    "dg-a1-05-2": {
+      "url": "/audio/deutsch-garden/dg-a1-05-2.wav",
+      "duration": 0.928798
+    },
+    "dg-a1-05-3": {
+      "url": "/audio/deutsch-garden/dg-a1-05-3.wav",
+      "duration": 0.917188
+    },
+    "dg-a1-05-4": {
+      "url": "/audio/deutsch-garden/dg-a1-05-4.wav",
+      "duration": 0.801088
+    },
+    "dg-a1-05-5": {
+      "url": "/audio/deutsch-garden/dg-a1-05-5.wav",
+      "duration": 0.592109
+    },
+    "dg-a1-05-6": {
+      "url": "/audio/deutsch-garden/dg-a1-05-6.wav",
+      "duration": 0.766259
+    },
+    "dg-a1-06-1": {
+      "url": "/audio/deutsch-garden/dg-a1-06-1.wav",
+      "duration": 0.952018
+    },
+    "dg-a1-06-2": {
+      "url": "/audio/deutsch-garden/dg-a1-06-2.wav",
+      "duration": 1.021678
+    },
+    "dg-a1-06-3": {
+      "url": "/audio/deutsch-garden/dg-a1-06-3.wav",
+      "duration": 0.534059
+    },
+    "dg-a1-06-4": {
+      "url": "/audio/deutsch-garden/dg-a1-06-4.wav",
+      "duration": 0.743039
+    },
+    "dg-a1-06-5": {
+      "url": "/audio/deutsch-garden/dg-a1-06-5.wav",
+      "duration": 0.661769
+    },
+    "dg-a1-06-6": {
+      "url": "/audio/deutsch-garden/dg-a1-06-6.wav",
+      "duration": 0.882358
+    },
+    "dg-a1-07-1": {
+      "url": "/audio/deutsch-garden/dg-a1-07-1.wav",
+      "duration": 0.789478
+    },
+    "dg-a1-07-2": {
+      "url": "/audio/deutsch-garden/dg-a1-07-2.wav",
+      "duration": 0.789478
+    },
+    "dg-a1-07-3": {
+      "url": "/audio/deutsch-garden/dg-a1-07-3.wav",
+      "duration": 0.661769
+    },
+    "dg-a1-07-4": {
+      "url": "/audio/deutsch-garden/dg-a1-07-4.wav",
+      "duration": 0.963628
+    },
+    "dg-a1-07-5": {
+      "url": "/audio/deutsch-garden/dg-a1-07-5.wav",
+      "duration": 0.905578
+    },
+    "dg-a1-07-6": {
+      "url": "/audio/deutsch-garden/dg-a1-07-6.wav",
+      "duration": 0.731429
+    },
+    "dg-a1-08-1": {
+      "url": "/audio/deutsch-garden/dg-a1-08-1.wav",
+      "duration": 0.882358
+    },
+    "dg-a1-08-2": {
+      "url": "/audio/deutsch-garden/dg-a1-08-2.wav",
+      "duration": 0.557279
+    },
+    "dg-a1-08-3": {
+      "url": "/audio/deutsch-garden/dg-a1-08-3.wav",
+      "duration": 1.102948
+    },
+    "dg-a1-08-4": {
+      "url": "/audio/deutsch-garden/dg-a1-08-4.wav",
+      "duration": 0.650159
+    },
+    "dg-a1-08-5": {
+      "url": "/audio/deutsch-garden/dg-a1-08-5.wav",
+      "duration": 0.394739
+    },
+    "dg-a1-08-6": {
+      "url": "/audio/deutsch-garden/dg-a1-08-6.wav",
+      "duration": 0.731429
+    },
+    "dg-a1-09-1": {
+      "url": "/audio/deutsch-garden/dg-a1-09-1.wav",
+      "duration": 0.754649
+    },
+    "dg-a1-09-2": {
+      "url": "/audio/deutsch-garden/dg-a1-09-2.wav",
+      "duration": 0.801088
+    },
+    "dg-a1-09-3": {
+      "url": "/audio/deutsch-garden/dg-a1-09-3.wav",
+      "duration": 0.777868
+    },
+    "dg-a1-09-4": {
+      "url": "/audio/deutsch-garden/dg-a1-09-4.wav",
+      "duration": 0.696599
+    },
+    "dg-a1-09-5": {
+      "url": "/audio/deutsch-garden/dg-a1-09-5.wav",
+      "duration": 0.719819
+    },
+    "dg-a1-09-6": {
+      "url": "/audio/deutsch-garden/dg-a1-09-6.wav",
+      "duration": 0.673379
+    },
+    "dg-a1-10-1": {
+      "url": "/audio/deutsch-garden/dg-a1-10-1.wav",
+      "duration": 0.464399
+    },
+    "dg-a1-10-2": {
+      "url": "/audio/deutsch-garden/dg-a1-10-2.wav",
+      "duration": 0.476009
+    },
+    "dg-a1-10-3": {
+      "url": "/audio/deutsch-garden/dg-a1-10-3.wav",
+      "duration": 0.824308
+    },
+    "dg-a1-10-4": {
+      "url": "/audio/deutsch-garden/dg-a1-10-4.wav",
+      "duration": 1.091338
+    },
+    "dg-a1-10-5": {
+      "url": "/audio/deutsch-garden/dg-a1-10-5.wav",
+      "duration": 1.079728
+    },
+    "dg-a1-10-6": {
+      "url": "/audio/deutsch-garden/dg-a1-10-6.wav",
+      "duration": 0.696599
+    }
+  }
+}

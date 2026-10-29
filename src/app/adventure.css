@@ -1,0 +1,1498 @@
+/* Step 2: scoped homepage styles; the Step 1 application shell stays shared. */
+.adventure-page {
+  padding-bottom: 10px;
+  --home-ink: #574264;
+  --home-muted: #7e6b87;
+}
+.adventure-page .eyebrow {
+  font-size: 10px;
+  letter-spacing: 1.2px;
+}
+.adventure-page .demo-label {
+  font-size: 10px;
+}
+.adventure-page .page-description {
+  font-size: 13px;
+  color: var(--home-muted);
+}
+.adventure-day-label {
+  font-size: 12px;
+  color: #947aa4;
+  background: #f6edf8;
+  padding: 9px 13px;
+  border-radius: 30px;
+  white-space: nowrap;
+}
+.adventure-welcome {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  gap: 10px;
+  background: linear-gradient(115deg, #fce6ed, #f2e4fa 64%, #e9e8fb);
+  border: 1px solid #eed4ed;
+  border-radius: 28px;
+  padding: 30px 34px;
+  min-height: 390px;
+}
+.adventure-welcome-copy {
+  position: relative;
+  z-index: 2;
+  align-self: center;
+}
+.adventure-welcome .welcome-tag {
+  font-size: 9px;
+  letter-spacing: 1px;
+  color: #89649a;
+  background: #ffffff8c;
+}
+.personal-greeting {
+  font-size: 15px;
+  font-weight: 700;
+  color: #896193;
+  margin: 21px 0 9px;
+}
+.personal-greeting small {
+  display: block;
+  font-size: 9px;
+  font-weight: 500;
+  color: #967d9f;
+  margin-top: 3px;
+}
+.adventure-welcome h2 {
+  font-size: 33px;
+  line-height: 1.2;
+  letter-spacing: -1px;
+  color: var(--home-ink);
+  margin-bottom: 15px;
+}
+.adventure-welcome h2 em {
+  font-style: normal;
+  color: #986cb5;
+}
+.adventure-welcome-copy > p:not(.personal-greeting) {
+  max-width: 400px;
+  font-size: 13px;
+  line-height: 1.85;
+  color: #7e6388;
+}
+.adventure-welcome-copy > .garden-button {
+  margin-top: 23px;
+  min-height: 47px;
+  font-size: 14px;
+  padding-inline: 23px;
+}
+.adventure-fineprint {
+  display: block;
+  font-size: 10px;
+  color: #92749f;
+  margin-top: 16px;
+}
+.lumi-corner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  z-index: 2;
+  padding-top: 0;
+  justify-content: center;
+}
+.lumi-bubble {
+  position: relative;
+  max-width: 305px;
+  width: 100%;
+  padding: 15px 18px 11px;
+  border: 1px solid white;
+  border-radius: 19px;
+  background: #fffdf5e8;
+  box-shadow: 0 7px 24px #93729b0a;
+  transform: rotate(2deg);
+}
+.lumi-bubble:after {
+  content: "";
+  position: absolute;
+  bottom: -9px;
+  left: 48%;
+  width: 17px;
+  height: 17px;
+  background: #fffdf5;
+  transform: rotate(45deg);
+  border-radius: 0 0 4px;
+}
+.lumi-bubble-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  color: #a183af;
+}
+.lumi-bubble p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #785782;
+  font-weight: 700;
+  margin-top: 7px;
+  min-height: 46px;
+}
+.lumi-bubble-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5px;
+  gap: 12px;
+  font-size: 9px;
+  color: #9c83a5;
+}
+.lumi-bubble-footer button {
+  background: #f0e5f4;
+  color: #8e6aa0;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: grid;
+  place-items: center;
+  z-index: 1;
+}
+.lumi-bubble-footer button:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+.lumi-trigger {
+  border: 0;
+  background: none;
+  padding: 0;
+  width: 235px;
+  position: relative;
+  min-height: 240px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #8e6ca6;
+  transition: transform 0.2s;
+}
+.lumi-trigger:hover {
+  transform: scale(1.035);
+}
+.lumi-trigger:active {
+  transform: scale(0.97);
+}
+.lumi-trigger > span {
+  font-size: 10px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: #ffffff70;
+  border-radius: 20px;
+  padding: 4px 10px;
+  margin-top: -14px;
+}
+.lumi-mascot {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+.lumi-float {
+  animation: lumi-float 5s ease-in-out infinite;
+  transform-origin: 150px 170px;
+}
+.lumi-excited .lumi-float {
+  animation: lumi-bounce 2.2s ease-in-out infinite;
+}
+.lumi-eyes {
+  animation: lumi-blink 6s ease-in-out infinite;
+}
+.lumi-wave {
+  transform-origin: 147px 248px;
+  animation: lumi-wave 4s ease-in-out infinite;
+}
+.lumi-sparkles {
+  animation: sparkle-glow 5s ease-in-out infinite;
+}
+.lumi-celebrating .lumi-sparkles {
+  animation: sparkle-glow 1.5s ease-in-out infinite;
+}
+.welcome-petals {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+}
+.welcome-petals span {
+  position: absolute;
+  color: #c7a4db;
+  opacity: 0.55;
+  animation: lumi-float 7s ease-in-out infinite;
+  font-size: 32px;
+}
+.welcome-petals span:nth-child(1) {
+  top: 21px;
+  left: 51%;
+  font-size: 35px;
+}
+.welcome-petals span:nth-child(2) {
+  bottom: 30px;
+  left: 48%;
+  color: #d7aa69;
+}
+.welcome-petals span:nth-child(3) {
+  bottom: -15px;
+  left: -9px;
+  font-size: 90px;
+  color: #edbdd8;
+}
+.welcome-petals span:nth-child(4) {
+  top: 38%;
+  right: 20px;
+  color: #d4a65e;
+  animation-delay: -3s;
+}
+.welcome-petals span:nth-child(5) {
+  top: 10px;
+  right: 25px;
+  font-size: 24px;
+  animation-delay: -2s;
+}
+.adventure-demo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 11px;
+  color: #8b7894;
+  margin: 17px 0 29px;
+  line-height: 1.6;
+}
+.adventure-section-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 0 0 18px;
+}
+.adventure-section-heading h2 {
+  font-size: 24px;
+  color: var(--home-ink);
+  line-height: 1.3;
+}
+.adventure-section-heading .eyebrow {
+  font-size: 9px;
+  margin-bottom: 6px;
+}
+.mission-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+.mission-grid > div {
+  display: flex;
+  min-width: 0;
+}
+.mission-card {
+  padding: 20px 17px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border-radius: 20px;
+  box-shadow: none;
+}
+.mission-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+.mission-icon {
+  width: 45px;
+  height: 45px;
+  border-radius: 14px;
+  background: #ffffffa3;
+  display: grid;
+  place-items: center;
+  color: #9875ae;
+}
+.tone-pink .mission-icon {
+  color: #b87396;
+}
+.tone-sky .mission-icon {
+  color: #6798b0;
+}
+.tone-yellow .mission-icon {
+  color: #ab8a3f;
+}
+.reward-preview {
+  display: flex;
+  gap: 3px;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  font-size: 11px;
+  font-weight: 800;
+  color: #946caa;
+}
+.reward-preview small {
+  display: block;
+  font-size: 8px;
+  font-weight: 500;
+  flex-basis: 100%;
+  text-align: right;
+  color: #927a9f;
+}
+.mission-card h3 {
+  font-size: 17px;
+  line-height: 1.3;
+  margin-bottom: 9px;
+  color: #604b6a;
+}
+.mission-card > p {
+  font-size: 12px;
+  line-height: 1.75;
+  color: #806e89;
+  flex: 1;
+  margin-bottom: 21px;
+}
+.mission-progress-caption {
+  display: flex;
+  justify-content: space-between;
+  gap: 5px;
+  font-size: 10px;
+  color: #80698d;
+}
+.mission-progress-caption > span:last-child {
+  font-size: 8px;
+  align-self: center;
+}
+.mission-card .progress-track {
+  background: #ffffffa3;
+  margin: 8px 0 10px;
+  height: 7px;
+}
+.mission-status {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  font-size: 9px;
+  line-height: 1.5;
+  color: #8a7394;
+  margin-bottom: 17px;
+  min-height: 27px;
+}
+.mission-card .garden-button {
+  width: 100%;
+  font-size: 10px;
+  min-height: 44px;
+  padding-inline: 9px;
+  color: #7b5b8d;
+  border-color: #ffffff90;
+}
+.adventure-page .garden-button:hover {
+  transform: translateY(-2px) scale(1.02);
+}
+.adventure-middle {
+  display: grid;
+  grid-template-columns: 1fr 1.25fr;
+  gap: 20px;
+  margin: 24px 0 31px;
+}
+.adventure-middle > div {
+  display: flex;
+  min-width: 0;
+}
+.adventure-middle .color-card {
+  width: 100%;
+  padding: 24px;
+}
+.adventure-page .card-heading h2 {
+  font-size: 17px;
+  line-height: 1.35;
+  color: #604e6a;
+}
+.daily-progress-main {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  margin: 25px 0;
+}
+.xp-ring {
+  width: 124px;
+  height: 124px;
+  flex-shrink: 0;
+  position: relative;
+}
+.xp-ring > svg {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg);
+  fill: none;
+  stroke-width: 8;
+}
+.ring-track {
+  stroke: #eee5f6;
+}
+.ring-value {
+  stroke: #b8a4f4;
+  stroke-linecap: round;
+  animation: ring-grow 1.2s ease-out both;
+}
+.xp-ring > span {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1px;
+  color: #9575b5;
+}
+.xp-ring strong {
+  font-size: 29px;
+  color: #71558a;
+  line-height: 1.2;
+}
+.xp-ring small {
+  font-size: 10px;
+  color: #9b83aa;
+}
+.daily-level .eyebrow {
+  font-size: 8px;
+  letter-spacing: 0.7px;
+}
+.daily-level h3 {
+  font-size: 26px;
+  color: #71558a;
+}
+.daily-level h3 span {
+  font-size: 14px;
+  color: #90769f;
+}
+.daily-level > p {
+  font-size: 12px;
+  line-height: 1.6;
+  color: #8d779a;
+  margin: 8px 0 12px;
+}
+.daily-streak {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  color: #b3814f;
+  font-size: 11px;
+}
+.daily-streak small {
+  font-size: 8px;
+  color: #9c8b9f;
+}
+.daily-metric {
+  margin-top: 16px;
+}
+.daily-metric > div:first-child {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  align-items: center;
+  font-size: 11px;
+  color: #8c759a;
+}
+.daily-metric > div:first-child span {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+.daily-metric strong {
+  font-size: 10px;
+  white-space: nowrap;
+}
+.daily-metric .progress-track {
+  height: 7px;
+  background: #f0e9f6;
+}
+.daily-metric:nth-last-of-type(1) .progress-fill {
+  background: linear-gradient(90deg, #a8d5bd, #8cb99e);
+}
+.demo-caption {
+  font-size: 9px;
+  color: #94839d;
+  line-height: 1.7;
+  margin-top: 18px;
+  border-top: 1px dashed #e9dfed;
+  padding-top: 12px;
+}
+.magic-garden {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.magic-garden .card-heading h2 {
+  color: #59795d;
+}
+.magic-garden .card-heading > svg {
+  color: #9bb992;
+}
+.magic-garden > p {
+  font-size: 12px;
+  color: #789471;
+  margin-top: 8px;
+}
+.magic-garden-scene {
+  position: relative;
+  flex: 1;
+  min-height: 210px;
+}
+.magic-garden-scene > .garden-art {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  inset: 0;
+}
+.garden-scene-tag {
+  position: absolute;
+  left: 0;
+  bottom: 13px;
+  font-size: 9px;
+  background: #fffef0c9;
+  border-radius: 10px;
+  padding: 7px 11px;
+  transform: rotate(-4deg);
+  color: #87996f;
+}
+.magic-garden-bottom {
+  position: relative;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid #dce7d6;
+  padding-top: 17px;
+}
+.magic-garden-bottom strong {
+  display: block;
+  font-size: 12px;
+  color: #658261;
+}
+.magic-garden-bottom span {
+  display: block;
+  font-size: 9px;
+  color: #839579;
+  line-height: 1.6;
+  margin-top: 5px;
+}
+.magic-garden-bottom .garden-button {
+  font-size: 10px;
+  padding-inline: 13px;
+  min-height: 44px;
+}
+.path-flower {
+  font-size: 37px;
+  color: #c4a7dd;
+}
+.adventure-shortcuts {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 13px;
+}
+.adventure-shortcuts > div {
+  min-width: 0;
+}
+.adventure-shortcut {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  padding: 19px 16px;
+  border: 1px solid #00000004;
+  border-radius: 17px;
+  transition:
+    transform 0.2s,
+    box-shadow 0.2s;
+}
+.adventure-shortcut:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 9px 16px #88619610;
+}
+.shortcut-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 14px;
+  background: #ffffff9a;
+  display: grid;
+  place-items: center;
+  color: #9876b5;
+  flex-shrink: 0;
+}
+.tone-mint .shortcut-icon {
+  color: #6a9d89;
+}
+.tone-peach .shortcut-icon {
+  color: #b7896c;
+}
+.tone-yellow .shortcut-icon {
+  color: #b39342;
+}
+.tone-pink .shortcut-icon {
+  color: #b67e9a;
+}
+.tone-sky .shortcut-icon {
+  color: #749eb7;
+}
+.adventure-shortcut > div:nth-child(2) {
+  flex: 1;
+}
+.adventure-shortcut > svg {
+  color: #a993b5;
+  width: 15px;
+}
+.adventure-shortcut h3 {
+  font-size: 15px;
+  color: #65516f;
+  line-height: 1.3;
+  letter-spacing: -0.3px;
+}
+.adventure-shortcut p {
+  font-size: 10px;
+  color: #887491;
+  line-height: 1.6;
+  margin-top: 5px;
+}
+.adventure-shortcut > div > span {
+  font-size: 8px;
+  font-weight: 700;
+  color: #a082af;
+  display: block;
+  margin-top: 7px;
+}
+.adventure-bottom {
+  display: grid;
+  grid-template-columns: 1.1fr 1fr;
+  gap: 20px;
+  margin-top: 29px;
+}
+.adventure-bottom > div {
+  display: flex;
+  min-width: 0;
+}
+.daily-word {
+  width: 100%;
+  padding: 25px;
+}
+.word-type {
+  font-size: 9px;
+  color: #b18a73;
+  letter-spacing: 1px;
+}
+.word-display {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 23px 0 18px;
+}
+.word-display > div {
+  position: relative;
+}
+.word-article {
+  font-size: 16px;
+  color: #b18c7a;
+  font-weight: 700;
+}
+.word-display h3 {
+  display: inline;
+  margin-left: 9px;
+  font-size: 37px;
+  color: #986e74;
+}
+.word-display p {
+  font-size: 15px;
+  color: #a87f82;
+  margin-top: 3px;
+}
+.word-flower {
+  font-size: 78px;
+  line-height: 1;
+  color: #eab2c5;
+  transform: rotate(15deg);
+  animation: sway 7s ease-in-out infinite;
+}
+.word-example {
+  padding: 13px 16px;
+  border: 1px solid #f4e1d3;
+  border-radius: 13px;
+  background: #fffaf3b3;
+  margin-bottom: 17px;
+}
+.word-example p:first-child {
+  color: #8b686d;
+  font-size: 15px;
+  font-weight: 700;
+}
+.word-example p:last-child {
+  color: #9d8387;
+  font-size: 12px;
+  margin-top: 5px;
+}
+.daily-word .garden-button {
+  font-size: 12px;
+  color: #9a6d7f;
+  border-color: #e9cdd0;
+  min-height: 44px;
+}
+.speech-notice {
+  font-size: 10px;
+  color: #927a80;
+  line-height: 1.65;
+  min-height: 33px;
+  margin-top: 11px;
+}
+.word-motivation {
+  font-size: 11px;
+  color: #ac7e89;
+  border-top: 1px dashed #e8ced2;
+  line-height: 1.7;
+  padding-top: 13px;
+  margin-top: 11px;
+}
+.lumi-daily-note {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(140deg, #f1e9fa, #fbeaf3);
+  border: 1px solid #ecdef1;
+  border-radius: 22px;
+  padding: 35px 29px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.lumi-daily-note h2 {
+  position: relative;
+  font-size: 28px;
+  color: #886699;
+  line-height: 1.35;
+  margin: 12px 0 18px;
+}
+.lumi-daily-note > p:not(.eyebrow) {
+  font-size: 13px;
+  line-height: 1.9;
+  color: #94799e;
+  position: relative;
+}
+.note-signature {
+  color: #a582b5;
+  font-size: 15px;
+  font-weight: 800;
+  margin-top: 26px;
+  position: relative;
+}
+.note-signature span {
+  font-size: 24px;
+}
+.note-big-flower {
+  position: absolute;
+  right: -40px;
+  bottom: -65px;
+  color: #e5d2ed;
+  font-size: 250px;
+  line-height: 1;
+  opacity: 0.5;
+}
+.adventure-endnote {
+  text-align: center;
+  margin: 28px 0 4px;
+  font-size: 11px;
+  color: #a18aaa;
+  line-height: 1.7;
+}
+.adventure-page .progress-fill {
+  animation: progress-reveal 0.9s ease-out both;
+}
+@keyframes lumi-float {
+  0%,
+  100% {
+    transform: translateY(0) rotate(-2deg);
+  }
+  50% {
+    transform: translateY(-6px) rotate(2deg);
+  }
+}
+@keyframes lumi-bounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  45% {
+    transform: translateY(-9px);
+  }
+  65% {
+    transform: translateY(-2px);
+  }
+}
+@keyframes lumi-wave {
+  0%,
+  65%,
+  100% {
+    transform: rotate(0);
+  }
+  74%,
+  90% {
+    transform: rotate(12deg);
+  }
+  82% {
+    transform: rotate(-4deg);
+  }
+}
+@keyframes lumi-blink {
+  0%,
+  44%,
+  48%,
+  100% {
+    transform: scaleY(1);
+  }
+  46% {
+    transform: scaleY(0.1);
+  }
+}
+@keyframes sparkle-glow {
+  0%,
+  100% {
+    opacity: 0.35;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+@keyframes progress-reveal {
+  from {
+    clip-path: inset(0 100% 0 0);
+  }
+  to {
+    clip-path: inset(0);
+  }
+}
+@keyframes ring-grow {
+  from {
+    stroke-dasharray: 0 100;
+  }
+  to {
+    stroke-dasharray: 60 100;
+  }
+}
+@media (min-width: 1600px) {
+  .adventure-welcome {
+    min-height: 410px;
+  }
+  .adventure-welcome h2 {
+    font-size: 40px;
+  }
+  .lumi-corner {
+    flex-direction: row-reverse;
+    gap: 0;
+  }
+  .lumi-bubble {
+    max-width: 225px;
+  }
+  .lumi-bubble:after {
+    left: -8px;
+    bottom: 40%;
+  }
+  .lumi-trigger {
+    width: 245px;
+    flex-shrink: 0;
+  }
+  .mission-card {
+    padding: 24px;
+  }
+  .adventure-shortcut {
+    padding: 23px;
+  }
+  .adventure-shortcut h3 {
+    font-size: 17px;
+  }
+}
+@media (max-width: 1200px) {
+  .adventure-welcome {
+    padding: 26px 24px;
+    grid-template-columns: 1.2fr 1fr;
+  }
+  .adventure-welcome h2 {
+    font-size: 29px;
+  }
+  .lumi-bubble {
+    max-width: 240px;
+  }
+  .lumi-bubble p {
+    font-size: 13px;
+  }
+  .lumi-trigger {
+    width: 210px;
+  }
+  .mission-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+  .mission-card {
+    padding: 21px;
+  }
+  .mission-card h3 {
+    font-size: 18px;
+  }
+  .mission-status {
+    min-height: 0;
+  }
+  .mission-card > p {
+    margin-bottom: 18px;
+  }
+  .mission-card .garden-button {
+    font-size: 12px;
+  }
+  .adventure-middle {
+    grid-template-columns: 1fr;
+  }
+  .daily-progress-main {
+    gap: 25px;
+  }
+  .daily-progress {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 24px;
+  }
+  .daily-progress > .card-heading {
+    grid-column: 1/-1;
+  }
+  .daily-progress-main {
+    grid-row: 2/4;
+  }
+  .daily-progress > .demo-caption {
+    grid-column: 1/-1;
+    margin-top: 0;
+  }
+  .daily-metric {
+    align-self: center;
+  }
+  .magic-garden-scene {
+    min-height: 245px;
+  }
+  .magic-garden-bottom .garden-button {
+    font-size: 12px;
+  }
+  .adventure-shortcuts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .adventure-bottom {
+    grid-template-columns: 1fr 1fr;
+  }
+  .daily-word {
+    padding: 21px;
+  }
+  .adventure-page .card-heading h2 {
+    font-size: 16px;
+  }
+  .lumi-daily-note {
+    padding: 25px 22px;
+  }
+  .lumi-daily-note h2 {
+    font-size: 25px;
+  }
+  .word-flower {
+    font-size: 59px;
+  }
+  .adventure-day-label {
+    display: none;
+  }
+}
+@media (max-width: 1000px) {
+  .adventure-welcome {
+    grid-template-columns: 1.15fr 1fr;
+    gap: 10px;
+    padding: 25px 21px;
+  }
+  .adventure-welcome h2 {
+    font-size: 26px;
+  }
+  .personal-greeting {
+    font-size: 13px;
+  }
+  .adventure-welcome-copy > p:not(.personal-greeting) {
+    font-size: 12px;
+  }
+  .lumi-bubble p {
+    font-size: 12px;
+    min-height: 58px;
+  }
+  .lumi-trigger {
+    width: 180px;
+    min-height: 200px;
+  }
+  .lumi-bubble {
+    padding: 13px;
+  }
+  .adventure-welcome .welcome-tag {
+    font-size: 7px;
+    letter-spacing: 0.5px;
+  }
+  .adventure-fineprint {
+    font-size: 9px;
+    line-height: 1.6;
+  }
+  .adventure-demo {
+    align-items: flex-start;
+    font-size: 10px;
+  }
+  .adventure-section-heading h2 {
+    font-size: 22px;
+  }
+  .adventure-bottom {
+    grid-template-columns: 1fr;
+  }
+  .daily-word {
+    padding: 25px;
+  }
+  .lumi-daily-note {
+    min-height: 290px;
+  }
+  .daily-progress {
+    display: block;
+  }
+  .daily-progress-main {
+    margin: 23px 0;
+  }
+  .daily-progress > .demo-caption {
+    margin-top: 17px;
+  }
+  .adventure-shortcut {
+    padding: 17px 12px;
+    gap: 9px;
+  }
+  .adventure-shortcut h3 {
+    font-size: 14px;
+  }
+  .adventure-shortcut p {
+    font-size: 10px;
+  }
+  .shortcut-icon {
+    width: 38px;
+    height: 38px;
+  }
+}
+@media (max-width: 760px) {
+  .adventure-page .page-description {
+    font-size: 12px;
+  }
+  .adventure-welcome {
+    grid-template-columns: 1.2fr 1fr;
+  }
+  .adventure-welcome h2 {
+    font-size: 30px;
+  }
+  .lumi-trigger {
+    width: 205px;
+  }
+  .lumi-bubble {
+    max-width: 270px;
+  }
+  .lumi-bubble p {
+    font-size: 13px;
+    min-height: 44px;
+  }
+  .adventure-welcome .welcome-tag {
+    font-size: 8px;
+  }
+  .adventure-welcome-copy > p:not(.personal-greeting) {
+    font-size: 13px;
+  }
+  .adventure-middle {
+    margin-top: 20px;
+  }
+  .adventure-middle .color-card {
+    padding: 24px;
+  }
+  .daily-progress {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .daily-progress > .demo-caption {
+    margin-top: 10px;
+  }
+  .adventure-shortcut {
+    padding: 18px 13px;
+  }
+  .adventure-demo {
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 25px;
+  }
+  .adventure-demo p {
+    font-size: 11px;
+  }
+  .adventure-endnote {
+    font-size: 10px;
+  }
+  .adventure-page .card-heading h2 {
+    font-size: 17px;
+  }
+  .adventure-page .mission-card .garden-button {
+    font-size: 11px;
+  }
+}
+@media (max-width: 600px) {
+  .adventure-welcome {
+    grid-template-columns: 1fr;
+    gap: 22px;
+    padding: 25px 23px 20px;
+    min-height: 0;
+    border-radius: 24px;
+  }
+  .adventure-welcome h2 {
+    font-size: 31px;
+  }
+  .personal-greeting {
+    font-size: 15px;
+    margin-top: 20px;
+  }
+  .adventure-welcome-copy > .garden-button {
+    width: 100%;
+    font-size: 14px;
+    min-height: 48px;
+    margin-top: 20px;
+  }
+  .adventure-fineprint {
+    text-align: center;
+    font-size: 10px;
+  }
+  .lumi-corner {
+    padding-top: 0;
+  }
+  .lumi-bubble {
+    max-width: 300px;
+    padding: 15px 17px 10px;
+  }
+  .lumi-bubble p {
+    font-size: 14px;
+    min-height: 44px;
+  }
+  .lumi-trigger {
+    width: 215px;
+    min-height: 225px;
+    margin-top: 4px;
+  }
+  .lumi-trigger > span {
+    font-size: 11px;
+  }
+  .lumi-bubble-label {
+    font-size: 9px;
+  }
+  .lumi-bubble-footer {
+    font-size: 10px;
+  }
+  .lumi-bubble-footer button {
+    width: 38px;
+    height: 38px;
+  }
+  .welcome-petals span:nth-child(1) {
+    top: 48%;
+    left: 10px;
+  }
+  .welcome-petals span:nth-child(5) {
+    top: auto;
+    bottom: 65px;
+  }
+  .welcome-petals span:nth-child(4) {
+    top: 55%;
+    right: 17px;
+  }
+  .adventure-welcome .welcome-tag {
+    font-size: 8px;
+  }
+  .adventure-welcome-copy > p:not(.personal-greeting) {
+    font-size: 13px;
+  }
+  .adventure-section-heading {
+    align-items: center;
+  }
+  .adventure-section-heading h2 {
+    font-size: 22px;
+  }
+  .adventure-section-heading .eyebrow {
+    font-size: 8px;
+  }
+  .adventure-section-heading .demo-label {
+    font-size: 8px;
+  }
+  .mission-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+  .mission-card {
+    padding: 22px;
+  }
+  .mission-top {
+    margin-bottom: 15px;
+  }
+  .mission-icon {
+    width: 47px;
+    height: 47px;
+  }
+  .mission-card h3 {
+    font-size: 20px;
+  }
+  .mission-card > p {
+    font-size: 13px;
+    margin-bottom: 19px;
+  }
+  .mission-progress-caption {
+    font-size: 12px;
+  }
+  .mission-progress-caption > span:last-child {
+    font-size: 10px;
+  }
+  .mission-status {
+    font-size: 11px;
+    margin-top: 2px;
+  }
+  .reward-preview {
+    font-size: 12px;
+  }
+  .reward-preview small {
+    font-size: 10px;
+  }
+  .adventure-page .mission-card .garden-button {
+    font-size: 13px;
+    min-height: 46px;
+  }
+  .adventure-middle .color-card {
+    padding: 22px;
+  }
+  .daily-progress {
+    display: block;
+  }
+  .daily-progress-main {
+    gap: 22px;
+    margin: 24px 0;
+  }
+  .daily-level .eyebrow {
+    font-size: 8px;
+  }
+  .daily-level > p {
+    font-size: 12px;
+  }
+  .xp-ring {
+    width: 114px;
+    height: 114px;
+  }
+  .daily-level h3 {
+    font-size: 25px;
+  }
+  .daily-level h3 span {
+    font-size: 13px;
+  }
+  .daily-metric > div:first-child {
+    font-size: 11px;
+  }
+  .daily-metric strong {
+    font-size: 10px;
+  }
+  .daily-progress > .demo-caption {
+    font-size: 10px;
+    margin-top: 20px;
+  }
+  .magic-garden .card-heading h2 {
+    font-size: 18px;
+    max-width: 220px;
+  }
+  .magic-garden > p {
+    font-size: 12px;
+    line-height: 1.7;
+  }
+  .magic-garden-scene {
+    min-height: 210px;
+    margin-inline: -15px;
+  }
+  .garden-scene-tag {
+    font-size: 8px;
+    bottom: 5px;
+    left: 10px;
+  }
+  .magic-garden-bottom {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 14px;
+  }
+  .magic-garden-bottom .garden-button {
+    font-size: 13px;
+    width: 100%;
+    min-height: 46px;
+  }
+  .magic-garden-bottom span {
+    font-size: 10px;
+  }
+  .adventure-shortcuts {
+    grid-template-columns: 1fr;
+    gap: 11px;
+  }
+  .adventure-shortcut {
+    padding: 18px;
+    gap: 15px;
+    min-height: 102px;
+  }
+  .shortcut-icon {
+    width: 49px;
+    height: 49px;
+  }
+  .adventure-shortcut h3 {
+    font-size: 17px;
+  }
+  .adventure-shortcut p {
+    font-size: 12px;
+  }
+  .adventure-shortcut > div > span {
+    font-size: 10px;
+  }
+  .adventure-shortcut > svg {
+    width: 18px;
+  }
+  .daily-word {
+    padding: 23px;
+  }
+  .daily-word .card-heading h2 {
+    font-size: 16px;
+    gap: 7px;
+  }
+  .word-display h3 {
+    font-size: 38px;
+  }
+  .word-flower {
+    font-size: 70px;
+  }
+  .word-example p:first-child {
+    font-size: 16px;
+  }
+  .word-example p:last-child {
+    font-size: 13px;
+  }
+  .daily-word .garden-button {
+    font-size: 13px;
+    min-height: 46px;
+  }
+  .speech-notice {
+    font-size: 11px;
+    min-height: 0;
+  }
+  .word-motivation {
+    font-size: 12px;
+  }
+  .lumi-daily-note {
+    padding: 30px 25px;
+    min-height: 300px;
+  }
+  .lumi-daily-note h2 {
+    font-size: 28px;
+  }
+  .lumi-daily-note > p:not(.eyebrow) {
+    font-size: 13px;
+  }
+  .adventure-bottom {
+    gap: 17px;
+  }
+  .adventure-endnote {
+    font-size: 11px;
+  }
+}
+@media (max-width: 360px) {
+  .adventure-welcome {
+    padding: 22px 18px;
+  }
+  .adventure-welcome h2 {
+    font-size: 28px;
+  }
+  .adventure-section-heading h2 {
+    font-size: 20px;
+  }
+  .daily-progress-main {
+    gap: 15px;
+  }
+  .daily-streak {
+    font-size: 10px;
+  }
+  .xp-ring {
+    width: 98px;
+    height: 98px;
+  }
+  .adventure-page .card-heading h2 {
+    font-size: 15px;
+  }
+  .daily-word .card-heading h2 {
+    font-size: 14px;
+  }
+  .adventure-shortcut {
+    padding: 16px 13px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .adventure-page *,
+  .adventure-page *::before,
+  .adventure-page *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+  .adventure-page .garden-button:hover,
+  .adventure-shortcut:hover,
+  .lumi-trigger:hover,
+  .lumi-trigger:active {
+    transform: none;
+  }
+}
+
+/* Keep Lumi beside her bubble on small screens instead of far below the greeting. */
+@media (max-width: 600px) {
+  .adventure-welcome h2 {
+    font-size: 27px;
+  }
+  .lumi-corner {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 8px;
+    align-items: center;
+  }
+  .lumi-bubble {
+    max-width: none;
+    padding: 12px;
+    transform: rotate(-2deg);
+  }
+  .lumi-bubble:after {
+    left: auto;
+    right: -7px;
+    bottom: 45%;
+  }
+  .lumi-bubble-label {
+    font-size: 7px;
+    letter-spacing: 0.4px;
+    gap: 3px;
+  }
+  .lumi-bubble-label svg {
+    width: 11px;
+  }
+  .lumi-bubble p {
+    font-size: 12px;
+    min-height: 0;
+  }
+  .lumi-bubble-footer {
+    font-size: 8px;
+    gap: 3px;
+  }
+  .lumi-bubble-footer button {
+    width: 34px;
+    height: 34px;
+    flex-shrink: 0;
+  }
+  .lumi-trigger {
+    width: 100%;
+    min-height: 0;
+    margin: 0;
+  }
+  .lumi-trigger > span {
+    font-size: 8px;
+    margin-top: -8px;
+    padding-inline: 6px;
+    white-space: nowrap;
+  }
+}

@@ -1,0 +1,3146 @@
+{
+  "id": "a2-03-words",
+  "unitId": "a2-03",
+  "level": "A2",
+  "title": "Ev ve Komşuluk · Nerede, Nereye?",
+  "goal": "Bir odayı ayrıntılı tarif et, eşyaların yeni yerlerini söyle ve komşuna gerekçeli, kibar bir ricada bulun.",
+  "steps": [
+    {
+      "title": "1 · Evi saymak yerine evi anlatmak",
+      "introduction": "A1’de evdeki nesneleri adlandırdın. Şimdi bir arkadaşına odanın düzenini anlatmak, taşınırken bir eşyanın yerini söylemek ve komşundan bir ricada bulunmak istiyorsun. Bunun için yalnızca kelime listesi yetmez: nesne, yer ve eylem arasında ilişki kurmalısın. Bu ünitede önce mevcut konumu, sonra bir yere yerleştirme hareketini karşılaştıracağız.",
+      "rule": "Bir konum cümlesinde nesne veya kişi özne olur: Der Schrank steht im Flur. Bir yerleştirme cümlesinde işi yapan kişi özne, eşya nesnedir: Ich stelle den Schrank in den Flur.",
+      "usage": "Odayı tarif etme ve bir eşyanın nereye konacağını söyleme sırasında kullan. İki cümlede benzer kelimeler bulunsa da anlatılan olay farklıdır.",
+      "structure": "EŞYA + KONUM FİİLİ + YER ↔ KİŞİ + YERLEŞTİRME FİİLİ + EŞYA + HEDEF.",
+      "mistake": "Her iki cümleyi de Türkçe ‘koymak’ fiiliyle okumaya çalışma. Önce hazır bir durumu mu, yeni bir yerleştirmeyi mi anlattığını belirle.",
+      "memory": "Önce durumu sor: zaten orada mı, oraya mı konuyor?",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "durum",
+            "Der Schrank steht im Flur.",
+            "Dolap koridorda duruyor."
+          ],
+          [
+            "yerleştirme",
+            "Ich stelle den Schrank in den Flur.",
+            "Dolabı koridora koyuyorum."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Cümleyi kurmadan önce küçük bir resim düşün. İlk resimde dolap yerinde duruyor; ikinci resimde biri dolabı taşıyarak yeni yerine koyuyor. Almanca yer grubunun biçimini bu anlam farkı belirler. Bu yüzden bir artikel tablosunu ezberlemekle yetinmeyip her örnekte ne olduğunu kendine anlatacağız."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Kendi evinin gerçek adresini veya özel ayrıntılarını kullanman gerekmez. Hayalî bir oda çiz, üç eşya seç ve her birinin yerini kısa cümleyle söyle. Sonra bir eşyanın yerini değiştirip yeni bir cümle yaz. İlk denemede aynı kelimeleri kullanmak, biçim değişikliğini daha kolay görmeni sağlar."
+        }
+      ],
+      "id": "a2-03-teach-1"
+    },
+    {
+      "title": "2 · Wo: nerede bulunduğunu söylemek",
+      "introduction": "Wo? sorusu bir yerin içinde veya yanında bulunmayı sorar. Das Sofa steht im Wohnzimmer cümlesinde oturma odası bir hedef değil, mevcut konumdur. Hareket gerçekleşse bile hareketin nerede yapıldığı sorulabilir: çocuklar bahçenin içinde oynuyorsa oyun hareketlidir ama yer hâlâ bulunulan yerdir.",
+      "rule": "Bu ünitedeki iki hâlli yer edatları konum bildirirken Dativ alır: in dem Zimmer, auf dem Tisch, neben der Tür. Im, in dem kısaltmasıdır.",
+      "usage": "Nesnelerin veya insanların nerede olduğunu tarif ederken kullan. Wo sorusuna cevap veren yer grubunu cümlede bul.",
+      "structure": "Wo steht das Sofa? — Im Wohnzimmer.",
+      "mistake": "Hareket eden her fiilde Akkusativ seçme. Wir spielen im Garten örneğinde bulunulan yer anlatılır.",
+      "memory": "WO: mevcut konum; bu edatlarla Dativ.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "erkek",
+            "auf dem Tisch",
+            "masanın üstünde"
+          ],
+          [
+            "dişil",
+            "neben der Tür",
+            "kapının yanında"
+          ],
+          [
+            "nötr",
+            "im Zimmer",
+            "odada"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Wo sorusunu Türkçedeki ‘nerede?’ sorusuyla eşleştir ama edatın kendi kuralını da unutma. Burada in, auf ve neben gibi iki hâlli edatlar üzerinde çalışıyoruz. Dativ’in yalnızca yer bildirmek için kullanılmadığını önceki ünitedeki zu ve bei örneklerinden hatırlayabilirsin."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Bir cümlede özne ile yer grubunun artikelini ayrı incele. Der Tisch steht neben der Tür derken özne der Tisch değişmez; neben der Tür Dativ yer grubudur. Her der biçimini erkek özne artikeli sanma. Dişil Tür, Dativ’te der Tür biçimini alır."
+        }
+      ],
+      "id": "a2-03-teach-2"
+    },
+    {
+      "title": "3 · Wohin: yeni hedefi anlatmak",
+      "introduction": "Wohin? bir hedefe yönelmeyi sorar. Ich lege das Buch auf den Tisch cümlesinde kitap masanın üstüne yerleştiriliyor. Başlangıçta başka yerde olabilir; cümle onu yeni bir yere götüren işi anlatır. Bu hedef anlamını, kitabın zaten masada durduğu örnekten ayırmak ünitenin temel becerisidir.",
+      "rule": "İki hâlli edatlar hedefe yerleştirme bildirirken Akkusativ alır: auf den Tisch, in das Zimmer, neben die Tür. Ins, in das kısaltmasıdır.",
+      "usage": "Bir eşyanın nereye konacağını, bir kişinin hangi odaya girdiğini veya resmin nereye asıldığını söylerken kullan.",
+      "structure": "Wohin legst du das Buch? — Auf den Tisch.",
+      "mistake": "Auf dem Tisch ile auf den Tisch aynı değildir. İlkinde mevcut konum, ikincisinde bu örnekteki yerleştirme hedefi anlatılır.",
+      "memory": "WOHIN: hedef; iki hâlli edatla Akkusativ.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "erkek",
+            "auf den Tisch",
+            "masanın üstüne"
+          ],
+          [
+            "dişil",
+            "neben die Tür",
+            "kapının yanına"
+          ],
+          [
+            "nötr",
+            "ins Zimmer",
+            "odanın içine"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Akkusativ’de erkek artikel der → den değişir. Dişil die ve nötr das aynı görünebilir; değişiklik görünmüyor diye hâl farkı yok sanma. In die Küche ile in der Küche karşılaştırması dişil isimde farkı görünür kılar. Kelimeyi artikeliyle öğrenmen bu noktada işe yarar."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Yeni bir cümlede önce edatı bul, sonra hedef mi konum mu olduğuna karar ver. Ancak bundan sonra artikel biçimini seç. Tek bir sözcüğe bakarak ‘gehen var, o hâlde her şey Akkusativ’ deme: Ich gehe zum Nachbarn yönelim olsa da zu kendi kuralıyla Dativ ister."
+        }
+      ],
+      "id": "a2-03-teach-3"
+    },
+    {
+      "title": "4 · Artikel tablosunu anlamla kullanmak",
+      "introduction": "Dativ ve Akkusativ tabloları ilk bakışta çok sayıda küçük sözcük gibi görünebilir. Hepsini aynı anda öğrenmek yerine bildiğin üç isim üzerinden ilerleyelim: der Schrank, die Küche, das Regal. Konum ve hedef cümlelerini yan yana okuduğunda biçimlerin neden değiştiğini daha açık görebilirsin.",
+      "rule": "Belirli artikeller: Akkusativ den/die/das/die; Dativ dem/der/dem/den. Çoğul Dativ’te isim uygun olduğunda -n alır: in den Zimmern.",
+      "usage": "Örneklerdeki artikel seçimini gerekçelendirme ve bir yer grubunu karşıt anlamla yeniden kurma sırasında kullan.",
+      "structure": "in der Küche ↔ in die Küche; in den Zimmern.",
+      "mistake": "Çoğul Dativ den biçimini erkek Akkusativ den ile karıştırma. İsim sayısını ve grubun görevini birlikte incele.",
+      "memory": "ÖNCE anlam ve edat; SONRA artikel tablosu.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "der Schrank",
+            "neben dem Schrank / neben den Schrank",
+            "dolabın yanında / yanına"
+          ],
+          [
+            "die Küche",
+            "in der Küche / in die Küche",
+            "mutfakta / mutfağa"
+          ],
+          [
+            "das Regal",
+            "im Regal / ins Regal",
+            "rafta / rafa"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Tabloyu soldan sağa mekanik okumak yerine her satıra iki küçük resim düşün. Biri yerinde duran eşya, diğeri yeni yere götürülen eşya olsun. Dem ve den biçimleri bu anlam ilişkisini taşır. Karşılaştırmayı sesli yapmak benzer görünen artikelleri daha kolay ayırt etmeni sağlar."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Bir alıştırmada den gördüğünde hemen cevabı işaretleme. Den Schrank tekil erkek Akkusativ nesne olabilir; den Zimmern çoğul Dativ yer grubudur. Hedefin yalnızca biçimi tanımak değil, neden o biçimin kullanıldığını açıklamaktır. İsim çoğulunu ve cümledeki edatı kontrol et."
+        }
+      ],
+      "id": "a2-03-teach-4"
+    },
+    {
+      "title": "5 · Stehen ve stellen",
+      "introduction": "Stehen bir eşyanın dik durumda veya kendine uygun biçimde durduğunu anlatır. Stellen ise bir şeyi böyle bir konuma koymaktır. Der Stuhl steht ... cümlesinde sandalye özne, Ich stelle den Stuhl ... cümlesinde sandalye nesnedir. Fiil farkı ile yer grubundaki hâl farkını birlikte görmelisin.",
+      "rule": "Konum: stehen + bu yer edatlarıyla Dativ. Yerleştirme: stellen + Akkusativ nesne + hedef bildiren iki hâlli edatla Akkusativ.",
+      "usage": "Sandalye, dolap veya vazo gibi bir eşyayı tarif etme ve yerleştirme sırasında kullan.",
+      "structure": "Der Stuhl steht neben dem Schrank. / Ich stelle den Stuhl neben den Schrank.",
+      "mistake": "Ich stehe den Stuhl deme; eşyayı yerleştirme eylemi için stellen gerekir. Kendin duruyorsan Ich stehe doğru olabilir.",
+      "memory": "STEHEN: duruyor. STELLEN: koyuyorum.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "durum",
+            "Die Vase steht auf dem Tisch.",
+            "Vazo masada duruyor."
+          ],
+          [
+            "işlem",
+            "Ich stelle die Vase auf den Tisch.",
+            "Vazoyu masanın üstüne koyuyorum."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "İkinci cümlede iki Akkusativ grubu olabilir: die Vase nesne, auf den Tisch hedef grubudur. Bu iki grubun neden Akkusativ olduğunu ayrı ayrı açıkla. Biri fiilin nesnesi, diğeri yer edatının bu kullanımındaki yön anlamıdır. İkisinin aynı hâli alması görevlerini aynı yapmaz."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Bir sandalyenin önce nerede durduğunu söyle, sonra onu başka yere koyan kişiyi ekle. Der Stuhl steht im Flur ve Ich stelle den Stuhl ins Wohnzimmer karşılaştırmasında özne, nesne, fiil ve yer bilgisi değişir. Soruda yalnızca artikel isteniyorsa diğer ögeleri değiştirmeden kuralı uygula."
+        }
+      ],
+      "id": "a2-03-teach-5"
+    },
+    {
+      "title": "6 · Liegen ve legen",
+      "introduction": "Liegen bir şeyin yatay durumda bulunmasını, legen ise bir şeyi yatay şekilde yerleştirmeyi anlatır. Das Buch liegt auf dem Tisch ile Ich lege das Buch auf den Tisch örnekleri aynı nesneyle iki farklı durumu gösterir. Türkçede iki cümlede de masa sözcüğü geçer ama ‘masada’ ve ‘masaya’ ayrımı anlamı değiştirir.",
+      "rule": "Liegen konumu, legen yerleştirmeyi anlatır. Du liegst ve du legst biçimlerini mastarlarla birlikte öğren; kişi çekimini seçerken kök farkını koru.",
+      "usage": "Kitap, anahtar veya yastık gibi bir eşyanın yerini söyleme ve onu başka yere koyma sırasında kullan.",
+      "structure": "Das Kissen liegt auf dem Sofa. / Ich lege das Kissen auf das Sofa.",
+      "mistake": "Das Buch legt auf dem Tisch deme; kitap burada kendi kendine bir nesne yerleştirmiyor. Mevcut konum için liegt gerekir.",
+      "memory": "LIEGEN: yatıyor. LEGEN: yatırarak koymak.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "konum",
+            "Das Buch liegt im Regal.",
+            "Kitap rafta."
+          ],
+          [
+            "hedef",
+            "Ich lege das Buch ins Regal.",
+            "Kitabı rafa koyuyorum."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Önce cümlede işi yapan biri var mı diye sor. Das Buch liegt ... mevcut bir durumu tanıtır. Ich lege das Buch ... ise bir kişinin yaptığı eylemdir. Kitabın kendi başına eylem yapmadığını fark etmek, fiil ve hâl seçimini birlikte anlamana yardımcı olur."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Hedef değişmese de fiilin anlamını koru. Kitabı masanın üstüne koyarken auf den Tisch, kitap orada dururken auf dem Tisch kullan. Sırf cümlede ‘masa’ var diye tek artikel ezberleme; ismin kendi artikeli ile cümledeki hâl biçimi farklı öğrenme katmanlarıdır."
+        }
+      ],
+      "id": "a2-03-teach-6"
+    },
+    {
+      "title": "7 · Sitzen ve sich setzen",
+      "introduction": "Sitzen oturuyor olmayı, sich setzen ise oturma eylemiyle bir yere geçmeyi anlatır. Ich sitze auf dem Stuhl ve Ich setze mich auf den Stuhl örneklerinde mich yeni bir ögedir. Kendini oturtma anlamındaki dönüşlü yapıda bu zamir gerekir. Her fiile gelişigüzel mich eklemiyoruz; bu yapıyı bir bütün olarak öğreniyoruz.",
+      "rule": "Ich setze mich; du setzt dich; er/sie setzt sich. Oturulan konumda auf dem Stuhl, oturmak için yönelinen hedefte auf den Stuhl kullanılır.",
+      "usage": "Birinin nerede oturduğunu veya nereye oturduğunu anlatırken kullan. Resmî rica olarak Setzen Sie sich bitte kalıbını tanıyabilirsin.",
+      "structure": "Ich sitze ... ↔ Ich setze mich ...",
+      "mistake": "Ich setze auf den Stuhl eksik kalır; bu anlamdaki sich setzen yapısında dönüşlü zamiri koru. Ich sitze mich de bu konum cümlesine uymaz.",
+      "memory": "SITZE: oturuyorum. SETZE MICH: oturmak üzere geçiyorum.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "ich",
+            "Ich setze mich auf den Stuhl.",
+            "Sandalyeye oturuyorum."
+          ],
+          [
+            "du",
+            "Du setzt dich auf den Stuhl.",
+            "Sandalyeye oturuyorsun."
+          ],
+          [
+            "rica",
+            "Setzen Sie sich bitte.",
+            "Lütfen oturun."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Mich ve dich kişiyle değişir; sich üçüncü kişi ve resmî Sie ile bu örneklerde aynı görünür. Önce kendini anlatan tek kalıbı rahatça kullan, sonra kişiyi değiştir. Böylece hem dönüşlü zamiri hem artikel grubunu aynı anda ezberlemeye çalışmadan adım adım ilerlersin."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Bir sahne hayal et: biri kapıdan geliyor ve boş sandalyeye oturuyor. Hareket tamamlandıktan sonra aynı kişiyi yeniden tarif et. İlk cümlede sich setzen, ikinci cümlede sitzen seçilir. Konumun son durumu ile o konuma geçişi iki ayrı cümleyle anlatabilmek dersin önemli hedefidir."
+        }
+      ],
+      "id": "a2-03-teach-7"
+    },
+    {
+      "title": "8 · Neben, zwischen ve diğer ilişkiler",
+      "introduction": "Bir odanın tarifinde yalnızca içinde ve üstünde demek yetmez. Neben yanında, unter altında, vor önünde, hinter arkasında, zwischen iki şeyin arasında ilişki kurar. Bu edatlar nesneleri başka nesnelere göre konumlandırır. Referans noktasını doğru seçmezsen bütün kelimeler doğru olsa da farklı bir oda tarif etmiş olursun.",
+      "rule": "Bu iki hâlli edatlar konumda Dativ, hedefe yerleştirmede Akkusativ alır. Zwischen iki ayrı isim grubuyla kullanılabilir: zwischen dem Tisch und dem Regal.",
+      "usage": "Bir dinleyicinin odanın düzenini zihninde kurabilmesi veya bir eşyayı doğru yere koyabilmesi için kullan.",
+      "structure": "Die Lampe steht zwischen dem Sofa und dem Regal.",
+      "mistake": "Neben ile zwischen eş anlamlı değildir. Arasında derken iki referans, yanında derken genellikle bir referans kullanılır.",
+      "memory": "Nesneyi değil, nesneler ARASINDAKİ ilişkiyi de anlat.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "yanında",
+            "neben dem Sofa",
+            "kanepenin yanında"
+          ],
+          [
+            "altında",
+            "unter dem Tisch",
+            "masanın altında"
+          ],
+          [
+            "arasında",
+            "zwischen dem Tisch und dem Regal",
+            "masa ile rafın arasında"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Bir yer tarifini kontrol etmek için iki basit şekil çiz. Cümle yanında mı, arkasında mı, arasında mı diyor? Sonra eşyanın yeriyle referansları karşılaştır. Okuma sorusunda nesne adını tanımak yeterli değildir; edat bütün düzeni değiştirebilir. Bu yüzden yeni kelimelerin kadar küçük edatlara da dikkat et."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Bir cümlede und ile bağlanan iki referans varsa her iki isim grubunun hâlini kontrol et. Zwischen dem Tisch und dem Regal konumdur; Tisch ve Regal farklı cinsiyetli olsa da ikisi Dativ’te dem alır. Biçimleri aynı görünse de her grubun artikelini ayrı gerekçelendir."
+        }
+      ],
+      "id": "a2-03-teach-8"
+    },
+    {
+      "title": "9 · Duvarda mı, duvara mı?",
+      "introduction": "Das Bild hängt an der Wand resmi mevcut yerinde tarif eder. Ich hänge das Bild an die Wand ise bir kişinin resmi duvara astığını anlatır. Präsens’te hängen biçimleri benzer olduğu için yalnızca fiilin görünüşüne bakarak konum veya yön seçemezsin. Özne, nesne ve anlamı birlikte incelemelisin.",
+      "rule": "Konum: Das Bild hängt an der Wand. Yerleştirme: Ich hänge das Bild an die Wand. An bir yüzeyle temas veya yakın ilişkiyi anlatabilir; burada duvar örneğini çalışıyoruz.",
+      "usage": "Resim, saat veya ayna gibi duvardaki bir nesneyi tarif ederken ve yerleştirirken kullan.",
+      "structure": "AN + DER WAND ↔ AN + DIE WAND.",
+      "mistake": "Her iki cümlede hängt/hänge benziyor diye artikelin aynı olacağını sanma. Mevcut durum ile yerleştirme arasındaki anlam farkını koru.",
+      "memory": "Resim orada: an der Wand. Resmi asıyorum: an die Wand.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "konum",
+            "Die Uhr hängt an der Wand.",
+            "Saat duvarda asılı."
+          ],
+          [
+            "hedef",
+            "Ich hänge die Uhr an die Wand.",
+            "Saati duvara asıyorum."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "İlk cümlede resim özne, ikinci cümlede resim nesnedir. Yerleştiren kişinin özne olarak eklenmesi yapıyı değiştirir. Hängen fiilinin geçmiş zaman farklılıklarını bu derste genellemiyoruz; hedef, verilen Präsens örneklerinde konum ve hedefi anlamaktır. Tek derste bütün ayrıntıları öğrenmen gerekmez."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Soruya cevap verirken yalnızca an der veya an die parçasını görme; duvarın artikelini de hatırla: die Wand. Dativ’te der, Akkusativ’te die olur. Bu karşılaştırma erkek isimlerdeki dem/den ayrımından farklı göründüğü için aynı anlam mantığını farklı biçimlerde uygulamanı sağlar."
+        }
+      ],
+      "id": "a2-03-teach-9"
+    },
+    {
+      "title": "10 · Kiralık evi anlatmak",
+      "introduction": "Bir ev ilanında Miete, Nebenkosten ve Kaution farklı bilgiler verir. Miete kira, Nebenkosten ek giderler, Kaution ise depozitodur. Bu terimleri bir tutar gördüğünde birbirine karıştırmamalısın. Metindeki fiyatlar kurgu içindir; gerçek bir kira sözleşmesinin hukukî koşullarını veya bütün giderlerini açıklamıyoruz.",
+      "rule": "Die Miete beträgt ... Euro tutarı, inklusive Nebenkosten giderlerin dahil olduğunu anlatan kalıbı tanıtır. Sind die Nebenkosten inklusive? bir evet/hayır sorusudur.",
+      "usage": "Kurgusal bir ilanı okuma, hangi bedelin neyi ifade ettiğini sorma ve evin temel özelliklerini anlatma sırasında kullan.",
+      "structure": "Die Wohnung hat einen Balkon. / Sind die Nebenkosten inklusive?",
+      "mistake": "Bir kira tutarı gördüğünde depozitonun veya tüm giderlerin dahil olduğunu varsayma. Metin ne söylüyorsa onu ayırt et.",
+      "memory": "KİRA ≠ EK GİDER ≠ DEPOZİTO.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "kira",
+            "die Miete",
+            "kira bedeli"
+          ],
+          [
+            "ek gider",
+            "die Nebenkosten",
+            "yan/ek giderler"
+          ],
+          [
+            "depozito",
+            "die Kaution",
+            "depozito"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "İlanı okurken bilgileri ayrı başlıklara taşı: oda, konum, kira, ek gider, depozito. Metinde olmayan bir başlığın altını boş bırakmak doğru bir okuma becerisidir. Bir sayıyı görüp bütün ekonomik bilgiyi anladığını düşünme; sayının hangi isimle ilişkilendirildiğini kontrol et."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Kendi hayalî ilanını üç kısa cümleyle yazabilirsin. Die Wohnung hat ... ile bir özelliği, Die Miete beträgt ... ile bir tutarı söyle. Gerçek adres, kişisel bütçe veya ödeme bilgisi kullanman gerekmez. Burada amaç bir ilanı dil açısından anlayıp açık sorular sorabilmektir."
+        }
+      ],
+      "id": "a2-03-teach-10"
+    },
+    {
+      "title": "11 · Komşuna kibarca rica etmek",
+      "introduction": "Komşulukta kısa ve açık bir rica, sert bir suçlamadan daha anlaşılır olabilir. Könnten Sie bitte die Musik leiser machen? karşındaki kişiden sesi azaltmasını isteyen resmî bir kalıptır. Önceki ünitedeki kibar rica yapısını yeni bir bağlamda tekrar kullanıyorsun. Leiser sesin daha az olmasını anlatır.",
+      "rule": "Könnten Sie + bitte + nesne + leiser machen? Resmî Sie ile uyumlu biçimi koru. Du kullandığın yakın biriyle Könntest du ...? olur; iki hitabı karıştırma.",
+      "usage": "Müzik sesini azaltma, kapıyı kapatma veya bir konuda yardım isteme gibi kurgusal komşuluk durumlarında kullan.",
+      "structure": "Entschuldigung. Könnten Sie bitte die Musik leiser machen?",
+      "mistake": "Könnten du veya Könntest Sie biçimlerini eşleştirme. Hitap seçimindeki tutarlılık ricayı anlaşılır kılar.",
+      "memory": "ÖNCE nazik açılış, SONRA açık eylem.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "resmî",
+            "Könnten Sie bitte die Tür schließen?",
+            "Kapıyı kapatabilir misiniz?"
+          ],
+          [
+            "samimi",
+            "Könntest du bitte helfen?",
+            "Yardım edebilir misin?"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Bir rica cümlesinde ne istediğinin belli olması önemlidir. Sadece Es ist laut durumu söyler; leiser machen istediğin değişikliği de açıklar. İkisini kısa bir gerekçeyle birleştirebilirsin. Bu bölümde amaç uzun tartışmalar değil, yumuşak bir başlangıç ve anlaşılır tek bir istektir."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Cümleyi kurarken önce karşındakiyle hangi hitabı kullandığını seç. Sonra kibar rica kalıbını ve mastarı yerleştir. Almancada Bitte sözcüğünün tek başına bütün dilbilgisini değiştirmediğini hatırla. Doğru kişi çekimi, nesne ve sona gelen mastar hâlâ gereklidir."
+        }
+      ],
+      "id": "a2-03-teach-11"
+    },
+    {
+      "title": "12 · Weil ile kısa bir gerekçe",
+      "introduction": "Bir ricaya neden eklemek için weil kullanabiliriz. Ich lerne, weil ich morgen eine Prüfung habe cümlesinde ikinci parça ilk cümlenin nedenini açıklar. Bu, A2’de bağlantılı anlatıma küçük bir adımdır. Önce kısa ana cümleyi kur, sonra yalnızca bir gerekçe ekle; uzun yan cümle zincirleri kurman gerekmiyor.",
+      "rule": "Weil ile başlayan yan cümlede çekimli fiil sona gider. Ana cümle ile yan cümle arasına virgül konur: ..., weil ich Ruhe brauche.",
+      "usage": "Komşuna bir isteğin nedenini açıklama veya evdeki bir durumu gerekçelendirme sırasında kullan.",
+      "structure": "Ich brauche Ruhe, weil ich lernen muss.",
+      "mistake": "Weil ich muss lernen dizilişini bu hedef yapıda kullanma. Modal fiilli yan cümlede lernen muss sona gelir.",
+      "memory": "WEIL → çekimli fiili sona beklet.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "basit fiil",
+            "weil ich morgen eine Prüfung habe",
+            "çünkü yarın sınavım var"
+          ],
+          [
+            "modal",
+            "weil ich lernen muss",
+            "çünkü ders çalışmam gerekiyor"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Ana cümlede fiil ikinci konumdaydı. Weil yan cümlesi farklı bir çerçeve açar: özne ve diğer bilgilerden sonra çekimli fiil kapanışı yapar. Bu farkı görmek için habe ve muss sözcüklerini işaretle. Her bağlaçta aynı kuralı uygulama; und ve aber bu ünitedeki weil örneğiyle aynı yapıyı kurmaz."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "İlk denemede gerekçeyi kısa tut: weil ich lerne veya weil ich Ruhe brauche. Sonra bir nesne veya zaman ekleyebilirsin. Soruda sabit taşlarla çalışırken fiilin sonda olmasını sağla; serbest bir çeviride başka doğru sıralamalar olabileceğini bil ama verilen görevin istediği yapıyı koru."
+        }
+      ],
+      "id": "a2-03-teach-12"
+    },
+    {
+      "title": "13 · Ev kuralları ve ortak alanlar",
+      "introduction": "Hausordnung bina/ev kurallarını, Treppenhaus merdiven boşluğu veya ortak merdiven alanını anlatır. Ortak alanın nasıl kullanılacağı metinde açık bir kural olarak verilebilir. Man darf hier keine Fahrräder abstellen örneğinde man genel bir özne, darf izin fiili, keine Fahrräder olumsuz nesne grubudur.",
+      "rule": "Man üçüncü tekil çekim alır: man darf, man muss. Dürfen nicht izin yokluğunu, müssen nicht zorunluluk yokluğunu anlatmaya devam eder.",
+      "usage": "Kurgusal bina duyurusunu anlama ve ortak alanla ilgili kısa bir soru sorma sırasında kullan.",
+      "structure": "Man darf hier keine Fahrräder abstellen.",
+      "mistake": "Man dürfen deme; man tekil çekim alır. Metindeki kuralları bütün şehirler veya binalar için geçerli kurallar olarak genelleme.",
+      "memory": "MAN tekil çekilir; kuralı metnin sınırında oku.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "kural",
+            "Man darf hier nicht rauchen.",
+            "Burada sigara içilmesine izin yok."
+          ],
+          [
+            "ortak alan",
+            "Das Fahrrad steht im Keller.",
+            "Bisiklet bodrumda duruyor."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Bir duyuruda kimden söz edildiğini ara. Man belirli bir erkek kişi anlamına gelmek zorunda değildir; genel bir ‘insanlar/biri’ öznesidir. Bu kullanımda herkes için belirtilen bir kuralı anlatır. Fiilin tekil olması çoğul bir topluluğa yönelik kural söylenmesini engellemez."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Duyuruyu okurken yasaklanan eylemi, yeri ve varsa zamanı ayrı bul. Bir binanın örnek kuralında olmayan saatleri veya yaptırımları ekleme. Metindeki bilgiye bağlı kalmak hem doğru okuma hem açık iletişim için önemlidir. Bu ders hukuki bina yönetimi bilgisi yerine Almanca ifadelerin anlamını çalıştırır."
+        }
+      ],
+      "id": "a2-03-teach-13"
+    },
+    {
+      "title": "14 · Oda tarifi ve komşu diyaloğu",
+      "introduction": "Artık bir oda tarifini resme dönüştürebilir, eşyanın yerini değiştirirken yeni hedefi söyleyebilir ve komşuna kibarca rica edebilirsin. Okuma metninde odayı ilk ve son düzeniyle ayrı düşün. Diyalogda konuşmacının isteğini ve kabul edilen değişikliği bul. Benzer nesneler veya saatler dikkati dağıtabilir; metindeki kanıta dön.",
+      "rule": "Mevcut konum ile hedefi, isteğin kendisi ile gerekçesini ayır. Metinde belirtilmeyen ayrıntıyı tahmin edip kesin cevap yapma.",
+      "usage": "Hayalî oda anlatısı, kısa taşınma konuşması ve komşuluk ricası yazarken bütün üniteyi birleştir.",
+      "structure": "Wo steht ...? / Wohin stellst du ...? / Könnten Sie ...? / ..., weil ...",
+      "mistake": "Cümle uzayınca fiil çerçevesini bırakma. Ana cümlede çekimli fiil, modal mastar ve weil yan cümlesini ayrı ayrı kontrol et.",
+      "memory": "KONUM → DEĞİŞİKLİK → RİCA → GEREKÇE.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "konum sorusu",
+            "Wo steht das Regal?",
+            "Raf nerede?"
+          ],
+          [
+            "hedef sorusu",
+            "Wohin stellst du das Regal?",
+            "Rafı nereye koyuyorsun?"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Bir metni ilk okuyuşunda bütün artikel biçimlerini çözmeye çalışmak zorunda değilsin. Önce hangi eşyanın nerede olduğunu anla, ikinci okuyuşta dem/den ve der/die çiftlerini incele. Bu iki aşamalı okuma, genel anlamı kaybetmeden dilbilgisi ayrıntılarını görmeni sağlar."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "İsteğe bağlı olarak sekiz cümlelik hayalî bir oda tarifi yaz. Üç konum, iki yerleştirme cümlesi ve gerekçeli bir komşuluk ricası ekle. Gerçek adresini paylaşman gerekmez. Yazın otomatik notlandırılmaz; kontrol listesinden edat, hâl, kişi çekimi ve fiil sırasını tek tek denetle."
+        }
+      ],
+      "id": "a2-03-teach-14"
+    }
+  ],
+  "examples": [
+    {
+      "id": "a2-03-example-1",
+      "de": "Der Schrank steht im Flur.",
+      "tr": "Dolap koridorda duruyor.",
+      "explanation": "Schrank konumdaki eşyadır ve öznedir. Im, in dem kısaltmasıdır; Wo sorusuna cevap veren mevcut yer Dativ alır.",
+      "highlights": [
+        "steht",
+        "im Flur"
+      ]
+    },
+    {
+      "id": "a2-03-example-2",
+      "de": "Ich stelle den Schrank in den Flur.",
+      "tr": "Dolabı koridora koyuyorum.",
+      "explanation": "Ich yerleştiren kişi, den Schrank nesnedir. In den Flur yeni hedefi gösterir; erkek Flur burada Akkusativ den alır.",
+      "highlights": [
+        "stelle",
+        "den Schrank",
+        "in den Flur"
+      ]
+    },
+    {
+      "id": "a2-03-example-3",
+      "de": "Das Buch liegt auf dem Tisch.",
+      "tr": "Kitap masanın üstünde duruyor.",
+      "explanation": "Liegen mevcut konumu anlatır. Auf dem Tisch Wo sorusuna cevap verir; der Tisch Dativ’te dem Tisch olur.",
+      "highlights": [
+        "liegt",
+        "auf dem Tisch"
+      ]
+    },
+    {
+      "id": "a2-03-example-4",
+      "de": "Ich lege das Buch auf den Tisch.",
+      "tr": "Kitabı masanın üstüne koyuyorum.",
+      "explanation": "Legen yerleştirme eylemidir. Auf den Tisch hedefi bildirir; kitabın önce nerede olduğundan bağımsız olarak yeni konum anlatılır.",
+      "highlights": [
+        "lege",
+        "auf den Tisch"
+      ]
+    },
+    {
+      "id": "a2-03-example-5",
+      "de": "Die Lampe steht neben dem Sofa.",
+      "tr": "Lamba kanepenin yanında duruyor.",
+      "explanation": "Neben iki hâlli bir edattır. Burada konum bildirir ve Dativ ister; das Sofa, dem Sofa biçimine geçer.",
+      "highlights": [
+        "neben dem Sofa"
+      ]
+    },
+    {
+      "id": "a2-03-example-6",
+      "de": "Ich stelle die Lampe neben das Sofa.",
+      "tr": "Lambayı kanepenin yanına koyuyorum.",
+      "explanation": "Stellen yerleştirme, neben das Sofa hedef grubudur. Sofa nötr olduğu için Akkusativ’te das görünümü korunur.",
+      "highlights": [
+        "stelle",
+        "neben das Sofa"
+      ]
+    },
+    {
+      "id": "a2-03-example-7",
+      "de": "Das Bild hängt an der Wand.",
+      "tr": "Resim duvarda asılı.",
+      "explanation": "Resim mevcut konumuyla özne olarak anlatılır. An der Wand yer grubudur; die Wand Dativ’te der Wand olur.",
+      "highlights": [
+        "hängt",
+        "an der Wand"
+      ]
+    },
+    {
+      "id": "a2-03-example-8",
+      "de": "Ich hänge das Bild an die Wand.",
+      "tr": "Resmi duvara asıyorum.",
+      "explanation": "Ich işi yapan kişidir, das Bild nesnedir. An die Wand yerleştirmenin hedefidir ve bu nedenle Akkusativ alır.",
+      "highlights": [
+        "hänge",
+        "an die Wand"
+      ]
+    },
+    {
+      "id": "a2-03-example-9",
+      "de": "Ich sitze auf dem Stuhl.",
+      "tr": "Sandalyede oturuyorum.",
+      "explanation": "Sitzen mevcut oturma durumunu bildirir. Auf dem Stuhl konum grubudur; der Stuhl Dativ’te dem Stuhl olur.",
+      "highlights": [
+        "sitze",
+        "auf dem Stuhl"
+      ]
+    },
+    {
+      "id": "a2-03-example-10",
+      "de": "Ich setze mich auf den Stuhl.",
+      "tr": "Sandalyeye oturuyorum.",
+      "explanation": "Sich setzen hedefe oturma eylemini anlatır. Ich için mich gerekir; auf den Stuhl hedef bildirdiği için Akkusativ alır.",
+      "highlights": [
+        "setze mich",
+        "auf den Stuhl"
+      ]
+    },
+    {
+      "id": "a2-03-example-11",
+      "de": "Die Schuhe stehen unter dem Regal.",
+      "tr": "Ayakkabılar rafın altında duruyor.",
+      "explanation": "Schuhe çoğul özne olduğu için stehen kullanılır. Unter dem Regal konum bildirir ve nötr Regal Dativ alır.",
+      "highlights": [
+        "stehen",
+        "unter dem Regal"
+      ]
+    },
+    {
+      "id": "a2-03-example-12",
+      "de": "Ich stelle die Schuhe unter das Regal.",
+      "tr": "Ayakkabıları rafın altına koyuyorum.",
+      "explanation": "Die Schuhe yerleştirilen nesnedir. Unter das Regal yerleştirme hedefini gösterir; das Akkusativ nötr biçimidir. Mevcut konumda ise unter dem Regal derdik.",
+      "highlights": [
+        "stelle",
+        "unter das Regal"
+      ]
+    },
+    {
+      "id": "a2-03-example-13",
+      "de": "Der Tisch steht vor dem Fenster.",
+      "tr": "Masa pencerenin önünde duruyor.",
+      "explanation": "Vor dem Fenster konumdur. Das Fenster Dativ’te dem Fenster olur; stehen eşyanın mevcut yerini tarif eder.",
+      "highlights": [
+        "vor dem Fenster"
+      ]
+    },
+    {
+      "id": "a2-03-example-14",
+      "de": "Ich stelle den Tisch vor das Fenster.",
+      "tr": "Masayı pencerenin önüne koyuyorum.",
+      "explanation": "Den Tisch erkek Akkusativ nesnedir. Vor das Fenster hedef grubudur; nötr isim Akkusativ’te das kalır.",
+      "highlights": [
+        "den Tisch",
+        "vor das Fenster"
+      ]
+    },
+    {
+      "id": "a2-03-example-15",
+      "de": "Die Kissen liegen auf dem Sofa.",
+      "tr": "Yastıklar kanepenin üstünde duruyor.",
+      "explanation": "Kissen çoğul özne olduğu için liegen kullanılır. Auf dem Sofa mevcut konumu belirtir; hareketli yerleştirme anlatılmıyor.",
+      "highlights": [
+        "liegen",
+        "auf dem Sofa"
+      ]
+    },
+    {
+      "id": "a2-03-example-16",
+      "de": "Ich lege die Kissen auf das Sofa.",
+      "tr": "Yastıkları kanepenin üstüne koyuyorum.",
+      "explanation": "Ich lege bir yerleştirme eylemidir. Die Kissen çoğul nesne, auf das Sofa hedef grubudur. İki grubun görevini ayrı incele.",
+      "highlights": [
+        "lege",
+        "auf das Sofa"
+      ]
+    },
+    {
+      "id": "a2-03-example-17",
+      "de": "Die Wohnung hat einen Balkon.",
+      "tr": "Dairenin balkonu var.",
+      "explanation": "Haben doğrudan nesne alır. Balkon erkek cinsiyetli olduğu için belirsiz Akkusativ artikel einen olur.",
+      "highlights": [
+        "einen Balkon"
+      ]
+    },
+    {
+      "id": "a2-03-example-18",
+      "de": "Sind die Nebenkosten inklusive?",
+      "tr": "Ek giderler dahil mi?",
+      "explanation": "Nebenkosten çoğuldur; soru sind ile başlar. Inklusive dahil anlamını verir. Kira veya depozito hakkında ayrıca bilgi çıkarılmaz.",
+      "highlights": [
+        "Sind",
+        "Nebenkosten",
+        "inklusive"
+      ]
+    },
+    {
+      "id": "a2-03-example-19",
+      "de": "Könnten Sie bitte die Musik leiser machen?",
+      "tr": "Lütfen müziğin sesini azaltabilir misiniz?",
+      "explanation": "Könnten Sie resmî kibar ricadır. Leiser machen sesini azaltma eylemini anlatır; machen mastarı sonda bulunur.",
+      "highlights": [
+        "Könnten Sie",
+        "leiser machen"
+      ]
+    },
+    {
+      "id": "a2-03-example-20",
+      "de": "Ich brauche Ruhe, weil ich lernen muss.",
+      "tr": "Ders çalışmam gerektiği için sessizliğe ihtiyacım var.",
+      "explanation": "Weil gerekçe yan cümlesi açar. Çekimli modal muss yan cümlenin sonunda, lernen mastarından sonra gelir.",
+      "highlights": [
+        "weil",
+        "lernen muss"
+      ]
+    },
+    {
+      "id": "a2-03-example-21",
+      "de": "Der Balkon ist neben der Küche.",
+      "tr": "Balkon mutfağın yanında.",
+      "explanation": "Neben der Küche konum bildirir; Küche dişil isimdir ve Dativ’te der alır. Ist burada konum ilişkisinin fiilidir.",
+      "highlights": [
+        "neben der Küche"
+      ]
+    },
+    {
+      "id": "a2-03-example-22",
+      "de": "Das Fahrrad steht im Keller.",
+      "tr": "Bisiklet bodrumda duruyor.",
+      "explanation": "Im Keller, in dem Keller kısaltmasıdır. Mevcut konum anlatıldığı için yer grubu Dativ alır.",
+      "highlights": [
+        "im Keller"
+      ]
+    },
+    {
+      "id": "a2-03-example-23",
+      "de": "Man darf hier keine Fahrräder abstellen.",
+      "tr": "Buraya bisiklet bırakmaya izin yok.",
+      "explanation": "Man tekil çekim alır: darf. Keine Fahrräder olumsuz nesne grubudur; abstellen mastarı modal fiilin sonunda kalır.",
+      "highlights": [
+        "Man darf",
+        "keine Fahrräder",
+        "abstellen"
+      ]
+    },
+    {
+      "id": "a2-03-example-24",
+      "de": "Ich wohne seit einem Monat hier.",
+      "tr": "Bir aydır burada oturuyorum.",
+      "explanation": "Seit Dativ ister: einem Monat. Durum sürüyorsa bu örnekte Präsens wohne ile anlatılır; önceki ünitenin süre kuralı yeniden kullanılır.",
+      "highlights": [
+        "seit einem Monat"
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "title": "Okuma · Elif’in yeni odası",
+      "de": "Elif zieht am Samstag um. Ihr neues Zimmer ist hell. Das Sofa steht zuerst neben der Tür. Der Schrank steht im Flur. Elif möchte den Schrank im Zimmer haben. Sie stellt ihn neben das Fenster. Dann stellt sie das Sofa an die Wand. Die Lampe steht jetzt zwischen dem Sofa und dem Regal. Elif legt ihre Bücher ins Regal und die Kissen auf das Sofa. Ihr Fahrrad bleibt im Keller. Am Abend sitzt sie auf dem Sofa und liest. Sie findet ihr neues Zimmer gemütlich. Die Wohnung hat auch einen Balkon neben der Küche.",
+      "tr": "Elif cumartesi taşınıyor. Yeni odası aydınlık. Kanepe başlangıçta kapının yanında duruyor. Dolap koridorda. Elif dolabın odada olmasını istiyor. Onu pencerenin yanına koyuyor. Sonra kanepeyi duvarın yanına yerleştiriyor. Lamba artık kanepe ile rafın arasında. Elif kitaplarını rafa, yastıklarını kanepenin üstüne koyuyor. Bisikleti bodrumda kalıyor. Akşam kanepede oturup okuyor. Yeni odasını rahat buluyor. Dairenin mutfağın yanında bir balkonu da var.",
+      "notes": "Zuerst başlangıç, dann sonraki yerleştirme, jetzt son konumdur. İhn zamiri der Schrank yerine kullanılır. Metindeki oda düzenini iki küçük çizimle karşılaştırabilirsin.",
+      "id": "a2-03-text-1"
+    },
+    {
+      "title": "Diyalog · Cem ve yeni komşusu",
+      "de": "Elif: Guten Abend. Ich bin Ihre neue Nachbarin Elif.\nCem: Willkommen! Ich heiße Cem.\nElif: Entschuldigung, könnten Sie bitte die Musik leiser machen? Ich brauche Ruhe, weil ich morgen eine Prüfung habe.\nCem: Natürlich. Tut mir leid. Ich mache sie sofort leiser.\nElif: Vielen Dank. Darf ich mein Fahrrad im Treppenhaus abstellen?\nCem: Laut unserer Hausordnung nicht. Im Keller ist aber Platz.\nElif: Gut, dann stelle ich es in den Keller. Ist der Keller links neben der Treppe?\nCem: Ja, genau. Die Tür ist neben dem Aufzug.\nElif: Danke für Ihre Hilfe. Einen schönen Abend!",
+      "tr": "Elif: İyi akşamlar. Ben yeni kadın komşunuz Elif.\nCem: Hoş geldiniz! Benim adım Cem.\nElif: Affedersiniz, müziğin sesini azaltabilir misiniz? Sessizliğe ihtiyacım var, çünkü yarın sınavım var.\nCem: Elbette. Kusura bakmayın. Hemen sesini azaltıyorum.\nElif: Çok teşekkürler. Bisikletimi merdiven alanına bırakabilir miyim?\nCem: Bizim bina kurallarına göre hayır. Ama bodrumda yer var.\nElif: İyi, o zaman onu bodruma koyacağım. Bodrum merdivenin sol yanında mı?\nCem: Evet, tam orada. Kapı asansörün yanında.\nElif: Yardımınız için teşekkürler. İyi akşamlar!",
+      "notes": "İstek müziğin sesini azaltmak; gerekçe yarınki sınavdır. Treppenhaus için izin verilmez, Keller alternatif olarak sunulur. Bu kurgusal binanın kuralı bütün binalara genellenmez.",
+      "id": "a2-03-text-2"
+    }
+  ],
+  "guided": [
+    {
+      "id": "a2-03-guided-01",
+      "type": "choice",
+      "prompt": "Dolap zaten koridorda. Konum cümlesini seç.",
+      "accepted": [
+        "Der Schrank steht im Flur."
+      ],
+      "explanation": "Schrank konumdaki eşyadır ve öznedir. Im, in dem kısaltmasıdır; Wo sorusuna cevap veren mevcut yer Dativ alır.",
+      "rule": "Wo? Im Flur; Dativ.",
+      "hints": [
+        "Wo? Im Flur; Dativ.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-03"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-03"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Der Schrank steht im Flur.",
+        "Ich stelle den Schrank in den Flur.",
+        "Der Schrank steht in den Flur."
+      ],
+      "optionNotes": {
+        "Der Schrank steht im Flur.": "Schrank konumdaki eşyadır ve öznedir. Im, in dem kısaltmasıdır; Wo sorusuna cevap veren mevcut yer Dativ alır.",
+        "Ich stelle den Schrank in den Flur.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Schrank konumdaki eşyadır ve öznedir. Im, in dem kısaltmasıdır; Wo sorusuna cevap veren mevcut yer Dativ alır.",
+        "Der Schrank steht in den Flur.": "Cümleyi şu ölçütle yeniden incele: Wo? Im Flur; Dativ. Schrank konumdaki eşyadır ve öznedir. Im, in dem kısaltmasıdır; Wo sorusuna cevap veren mevcut yer Dativ alır."
+      }
+    },
+    {
+      "id": "a2-03-guided-02",
+      "type": "choice",
+      "prompt": "Dolabı koridora yerleştirdiğini söyle.",
+      "accepted": [
+        "Ich stelle den Schrank in den Flur."
+      ],
+      "explanation": "Ich yerleştiren kişi, den Schrank nesnedir. In den Flur yeni hedefi gösterir; erkek Flur burada Akkusativ den alır.",
+      "rule": "Stellen + nesne + hedef.",
+      "hints": [
+        "Stellen + nesne + hedef.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-21"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-21"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich stehe den Schrank im Flur.",
+        "Der Schrank steht im Flur.",
+        "Ich stelle den Schrank in den Flur."
+      ],
+      "optionNotes": {
+        "Ich stelle den Schrank in den Flur.": "Ich yerleştiren kişi, den Schrank nesnedir. In den Flur yeni hedefi gösterir; erkek Flur burada Akkusativ den alır.",
+        "Ich stehe den Schrank im Flur.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Ich yerleştiren kişi, den Schrank nesnedir. In den Flur yeni hedefi gösterir; erkek Flur burada Akkusativ den alır.",
+        "Der Schrank steht im Flur.": "Cümleyi şu ölçütle yeniden incele: Stellen + nesne + hedef. Ich yerleştiren kişi, den Schrank nesnedir. In den Flur yeni hedefi gösterir; erkek Flur burada Akkusativ den alır."
+      }
+    },
+    {
+      "id": "a2-03-guided-03",
+      "type": "choice",
+      "prompt": "Kitap masanın üzerinde duruyor. Hangi cümle?",
+      "accepted": [
+        "Das Buch liegt auf dem Tisch."
+      ],
+      "explanation": "Liegen mevcut konumu anlatır. Auf dem Tisch Wo sorusuna cevap verir; der Tisch Dativ’te dem Tisch olur.",
+      "rule": "Liegen mevcut konumu anlatır.",
+      "hints": [
+        "Liegen mevcut konumu anlatır.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-24"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-24"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich lege das Buch auf den Tisch.",
+        "Das Buch liegt auf dem Tisch.",
+        "Das Buch legt auf den Tisch."
+      ],
+      "optionNotes": {
+        "Das Buch liegt auf dem Tisch.": "Liegen mevcut konumu anlatır. Auf dem Tisch Wo sorusuna cevap verir; der Tisch Dativ’te dem Tisch olur.",
+        "Das Buch legt auf den Tisch.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Liegen mevcut konumu anlatır. Auf dem Tisch Wo sorusuna cevap verir; der Tisch Dativ’te dem Tisch olur.",
+        "Ich lege das Buch auf den Tisch.": "Cümleyi şu ölçütle yeniden incele: Liegen mevcut konumu anlatır. Liegen mevcut konumu anlatır. Auf dem Tisch Wo sorusuna cevap verir; der Tisch Dativ’te dem Tisch olur."
+      }
+    },
+    {
+      "id": "a2-03-guided-04",
+      "type": "choice",
+      "prompt": "Kitabı masanın üzerine koyduğunu söyle.",
+      "accepted": [
+        "Ich lege das Buch auf den Tisch."
+      ],
+      "explanation": "Legen yerleştirme eylemidir. Auf den Tisch hedefi bildirir; kitabın önce nerede olduğundan bağımsız olarak yeni konum anlatılır.",
+      "rule": "Legen + auf den Tisch.",
+      "hints": [
+        "Legen + auf den Tisch.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-23"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-23"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich lege das Buch auf den Tisch.",
+        "Ich liege das Buch auf dem Tisch.",
+        "Das Buch liegt auf dem Tisch."
+      ],
+      "optionNotes": {
+        "Ich lege das Buch auf den Tisch.": "Legen yerleştirme eylemidir. Auf den Tisch hedefi bildirir; kitabın önce nerede olduğundan bağımsız olarak yeni konum anlatılır.",
+        "Ich liege das Buch auf dem Tisch.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Legen yerleştirme eylemidir. Auf den Tisch hedefi bildirir; kitabın önce nerede olduğundan bağımsız olarak yeni konum anlatılır.",
+        "Das Buch liegt auf dem Tisch.": "Cümleyi şu ölçütle yeniden incele: Legen + auf den Tisch. Legen yerleştirme eylemidir. Auf den Tisch hedefi bildirir; kitabın önce nerede olduğundan bağımsız olarak yeni konum anlatılır."
+      }
+    },
+    {
+      "id": "a2-03-guided-05",
+      "type": "choice",
+      "prompt": "Lamba kanepenin yanında. Konumu seç.",
+      "accepted": [
+        "Die Lampe steht neben dem Sofa."
+      ],
+      "explanation": "Neben iki hâlli bir edattır. Burada konum bildirir ve Dativ ister; das Sofa, dem Sofa biçimine geçer.",
+      "rule": "Neben + Dativ konumdur.",
+      "hints": [
+        "Neben + Dativ konumdur.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-09"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-09"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Die Lampe steht neben das Sofa.",
+        "Ich stelle die Lampe neben das Sofa.",
+        "Die Lampe steht neben dem Sofa."
+      ],
+      "optionNotes": {
+        "Die Lampe steht neben dem Sofa.": "Neben iki hâlli bir edattır. Burada konum bildirir ve Dativ ister; das Sofa, dem Sofa biçimine geçer.",
+        "Die Lampe steht neben das Sofa.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Neben iki hâlli bir edattır. Burada konum bildirir ve Dativ ister; das Sofa, dem Sofa biçimine geçer.",
+        "Ich stelle die Lampe neben das Sofa.": "Cümleyi şu ölçütle yeniden incele: Neben + Dativ konumdur. Neben iki hâlli bir edattır. Burada konum bildirir ve Dativ ister; das Sofa, dem Sofa biçimine geçer."
+      }
+    },
+    {
+      "id": "a2-03-guided-06",
+      "type": "choice",
+      "prompt": "Lambayı kanepenin yanına koyuyorsun.",
+      "accepted": [
+        "Ich stelle die Lampe neben das Sofa."
+      ],
+      "explanation": "Stellen yerleştirme, neben das Sofa hedef grubudur. Sofa nötr olduğu için Akkusativ’te das görünümü korunur.",
+      "rule": "Neben + Akkusativ hedefi gösterir.",
+      "hints": [
+        "Neben + Akkusativ hedefi gösterir.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-05"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-05"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich stelle die Lampe neben dem Sofa.",
+        "Ich stelle die Lampe neben das Sofa.",
+        "Die Lampe steht neben dem Sofa."
+      ],
+      "optionNotes": {
+        "Ich stelle die Lampe neben das Sofa.": "Stellen yerleştirme, neben das Sofa hedef grubudur. Sofa nötr olduğu için Akkusativ’te das görünümü korunur.",
+        "Die Lampe steht neben dem Sofa.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Stellen yerleştirme, neben das Sofa hedef grubudur. Sofa nötr olduğu için Akkusativ’te das görünümü korunur.",
+        "Ich stelle die Lampe neben dem Sofa.": "Cümleyi şu ölçütle yeniden incele: Neben + Akkusativ hedefi gösterir. Stellen yerleştirme, neben das Sofa hedef grubudur. Sofa nötr olduğu için Akkusativ’te das görünümü korunur."
+      }
+    },
+    {
+      "id": "a2-03-guided-07",
+      "type": "choice",
+      "prompt": "Duvara asılı resmi tarif et.",
+      "accepted": [
+        "Das Bild hängt an der Wand."
+      ],
+      "explanation": "Resim mevcut konumuyla özne olarak anlatılır. An der Wand yer grubudur; die Wand Dativ’te der Wand olur.",
+      "rule": "Konum: an der Wand.",
+      "hints": [
+        "Konum: an der Wand.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-10"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-10"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Das Bild hängt an der Wand.",
+        "Das Bild hängt an die Wand.",
+        "Ich hänge das Bild an die Wand."
+      ],
+      "optionNotes": {
+        "Das Bild hängt an der Wand.": "Resim mevcut konumuyla özne olarak anlatılır. An der Wand yer grubudur; die Wand Dativ’te der Wand olur.",
+        "Das Bild hängt an die Wand.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Resim mevcut konumuyla özne olarak anlatılır. An der Wand yer grubudur; die Wand Dativ’te der Wand olur.",
+        "Ich hänge das Bild an die Wand.": "Cümleyi şu ölçütle yeniden incele: Konum: an der Wand. Resim mevcut konumuyla özne olarak anlatılır. An der Wand yer grubudur; die Wand Dativ’te der Wand olur."
+      }
+    },
+    {
+      "id": "a2-03-guided-08",
+      "type": "choice",
+      "prompt": "Resmi duvara asma eylemini seç.",
+      "accepted": [
+        "Ich hänge das Bild an die Wand."
+      ],
+      "explanation": "Ich işi yapan kişidir, das Bild nesnedir. An die Wand yerleştirmenin hedefidir ve bu nedenle Akkusativ alır.",
+      "rule": "Yerleştirme hedefi: an die Wand.",
+      "hints": [
+        "Yerleştirme hedefi: an die Wand.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-27"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-27"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Das Bild hängt an der Wand.",
+        "Ich hänge das Bild an der Wand.",
+        "Ich hänge das Bild an die Wand."
+      ],
+      "optionNotes": {
+        "Ich hänge das Bild an die Wand.": "Ich işi yapan kişidir, das Bild nesnedir. An die Wand yerleştirmenin hedefidir ve bu nedenle Akkusativ alır.",
+        "Das Bild hängt an der Wand.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Ich işi yapan kişidir, das Bild nesnedir. An die Wand yerleştirmenin hedefidir ve bu nedenle Akkusativ alır.",
+        "Ich hänge das Bild an der Wand.": "Cümleyi şu ölçütle yeniden incele: Yerleştirme hedefi: an die Wand. Ich işi yapan kişidir, das Bild nesnedir. An die Wand yerleştirmenin hedefidir ve bu nedenle Akkusativ alır."
+      }
+    },
+    {
+      "id": "a2-03-guided-09",
+      "type": "choice",
+      "prompt": "Sandalyede oturuyor olma durumunu söyle.",
+      "accepted": [
+        "Ich sitze auf dem Stuhl."
+      ],
+      "explanation": "Sitzen mevcut oturma durumunu bildirir. Auf dem Stuhl konum grubudur; der Stuhl Dativ’te dem Stuhl olur.",
+      "rule": "Sitzen + konum Dativ.",
+      "hints": [
+        "Sitzen + konum Dativ.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-26"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-26"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich sitze auf den Stuhl.",
+        "Ich sitze auf dem Stuhl.",
+        "Ich setze mich auf den Stuhl."
+      ],
+      "optionNotes": {
+        "Ich sitze auf dem Stuhl.": "Sitzen mevcut oturma durumunu bildirir. Auf dem Stuhl konum grubudur; der Stuhl Dativ’te dem Stuhl olur.",
+        "Ich setze mich auf den Stuhl.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Sitzen mevcut oturma durumunu bildirir. Auf dem Stuhl konum grubudur; der Stuhl Dativ’te dem Stuhl olur.",
+        "Ich sitze auf den Stuhl.": "Cümleyi şu ölçütle yeniden incele: Sitzen + konum Dativ. Sitzen mevcut oturma durumunu bildirir. Auf dem Stuhl konum grubudur; der Stuhl Dativ’te dem Stuhl olur."
+      }
+    },
+    {
+      "id": "a2-03-guided-10",
+      "type": "choice",
+      "prompt": "Sandalyeye oturma eylemini söyle.",
+      "accepted": [
+        "Ich setze mich auf den Stuhl."
+      ],
+      "explanation": "Sich setzen hedefe oturma eylemini anlatır. Ich için mich gerekir; auf den Stuhl hedef bildirdiği için Akkusativ alır.",
+      "rule": "Ich setze mich + hedef.",
+      "hints": [
+        "Ich setze mich + hedef.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-25"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-25"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich setze mich auf den Stuhl.",
+        "Ich setze auf den Stuhl.",
+        "Ich sitze auf dem Stuhl."
+      ],
+      "optionNotes": {
+        "Ich setze mich auf den Stuhl.": "Sich setzen hedefe oturma eylemini anlatır. Ich için mich gerekir; auf den Stuhl hedef bildirdiği için Akkusativ alır.",
+        "Ich setze auf den Stuhl.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Sich setzen hedefe oturma eylemini anlatır. Ich için mich gerekir; auf den Stuhl hedef bildirdiği için Akkusativ alır.",
+        "Ich sitze auf dem Stuhl.": "Cümleyi şu ölçütle yeniden incele: Ich setze mich + hedef. Sich setzen hedefe oturma eylemini anlatır. Ich için mich gerekir; auf den Stuhl hedef bildirdiği için Akkusativ alır."
+      }
+    },
+    {
+      "id": "a2-03-guided-11",
+      "type": "blank",
+      "prompt": "Der Schrank steht ___ Flur. (in + dem; kısaltma)",
+      "accepted": [
+        "im"
+      ],
+      "explanation": "Schrank konumdaki eşyadır ve öznedir. Im, in dem kısaltmasıdır; Wo sorusuna cevap veren mevcut yer Dativ alır.",
+      "rule": "In dem → im; mevcut yer.",
+      "hints": [
+        "In dem → im; mevcut yer.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-02"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-02"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-guided-12",
+      "type": "blank",
+      "prompt": "Ich stelle den Schrank in ___ Flur. (der; hedef)",
+      "accepted": [
+        "den"
+      ],
+      "explanation": "Ich yerleştiren kişi, den Schrank nesnedir. In den Flur yeni hedefi gösterir; erkek Flur burada Akkusativ den alır.",
+      "rule": "Erkek Akkusativ: den Flur.",
+      "hints": [
+        "Erkek Akkusativ: den Flur.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-03"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-03"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-guided-13",
+      "type": "blank",
+      "prompt": "Das Buch liegt auf ___ Tisch. (der; konum)",
+      "accepted": [
+        "dem"
+      ],
+      "explanation": "Liegen mevcut konumu anlatır. Auf dem Tisch Wo sorusuna cevap verir; der Tisch Dativ’te dem Tisch olur.",
+      "rule": "Konum için auf dem Tisch.",
+      "hints": [
+        "Konum için auf dem Tisch.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-24"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-24"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-guided-14",
+      "type": "blank",
+      "prompt": "Ich lege das Buch auf ___ Tisch. (der; hedef)",
+      "accepted": [
+        "den"
+      ],
+      "explanation": "Legen yerleştirme eylemidir. Auf den Tisch hedefi bildirir; kitabın önce nerede olduğundan bağımsız olarak yeni konum anlatılır.",
+      "rule": "Hedef için auf den Tisch.",
+      "hints": [
+        "Hedef için auf den Tisch.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-23"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-23"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-guided-15",
+      "type": "blank",
+      "prompt": "Die Lampe steht neben ___ Sofa. (das; konum)",
+      "accepted": [
+        "dem"
+      ],
+      "explanation": "Neben iki hâlli bir edattır. Burada konum bildirir ve Dativ ister; das Sofa, dem Sofa biçimine geçer.",
+      "rule": "Das Sofa Dativ: dem Sofa.",
+      "hints": [
+        "Das Sofa Dativ: dem Sofa.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-05"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-05"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-guided-16",
+      "type": "blank",
+      "prompt": "Ich stelle die Lampe neben ___ Sofa. (das; hedef)",
+      "accepted": [
+        "das"
+      ],
+      "explanation": "Stellen yerleştirme, neben das Sofa hedef grubudur. Sofa nötr olduğu için Akkusativ’te das görünümü korunur.",
+      "rule": "Nötr Akkusativ: das Sofa.",
+      "hints": [
+        "Nötr Akkusativ: das Sofa.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-09"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-09"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-guided-17",
+      "type": "blank",
+      "prompt": "Das Bild hängt an ___ Wand. (die; konum)",
+      "accepted": [
+        "der"
+      ],
+      "explanation": "Resim mevcut konumuyla özne olarak anlatılır. An der Wand yer grubudur; die Wand Dativ’te der Wand olur.",
+      "rule": "Dişil Dativ: der Wand.",
+      "hints": [
+        "Dişil Dativ: der Wand.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-10"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-10"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-guided-18",
+      "type": "blank",
+      "prompt": "Ich hänge das Bild an ___ Wand. (die; hedef)",
+      "accepted": [
+        "die"
+      ],
+      "explanation": "Ich işi yapan kişidir, das Bild nesnedir. An die Wand yerleştirmenin hedefidir ve bu nedenle Akkusativ alır.",
+      "rule": "Dişil Akkusativ: die Wand.",
+      "hints": [
+        "Dişil Akkusativ: die Wand.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-27"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-27"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-guided-19",
+      "type": "blank",
+      "prompt": "Ich setze ___ auf den Stuhl. (ich; dönüşlü zamir)",
+      "accepted": [
+        "mich"
+      ],
+      "explanation": "Sich setzen hedefe oturma eylemini anlatır. Ich için mich gerekir; auf den Stuhl hedef bildirdiği için Akkusativ alır.",
+      "rule": "Ich setze mich.",
+      "hints": [
+        "Ich setze mich.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-25"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-25"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-guided-20",
+      "type": "blank",
+      "prompt": "Du setzt ___ auf den Stuhl. (du; dönüşlü zamir)",
+      "accepted": [
+        "dich"
+      ],
+      "explanation": "Du öznesinin dönüşlü zamiri burada dich olur. Sich setzen oturma eylemini, auf den Stuhl hedefi bildirir.",
+      "rule": "Du setzt dich.",
+      "hints": [
+        "Du setzt dich.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-25"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-25"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    }
+  ],
+  "independent": [
+    {
+      "id": "a2-03-independent-01",
+      "type": "choice",
+      "prompt": "Ayakkabılar rafın altında duruyor.",
+      "accepted": [
+        "Die Schuhe stehen unter dem Regal."
+      ],
+      "explanation": "Schuhe çoğul özne olduğu için stehen kullanılır. Unter dem Regal konum bildirir ve nötr Regal Dativ alır.",
+      "rule": "Çoğul Schuhe + stehen; konum Dativ.",
+      "hints": [
+        "Çoğul Schuhe + stehen; konum Dativ.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-04"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-04"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Die Schuhe stehen unter dem Regal.",
+        "Die Schuhe steht unter dem Regal.",
+        "Die Schuhe stehen unter das Regal."
+      ],
+      "optionNotes": {
+        "Die Schuhe stehen unter dem Regal.": "Schuhe çoğul özne olduğu için stehen kullanılır. Unter dem Regal konum bildirir ve nötr Regal Dativ alır.",
+        "Die Schuhe steht unter dem Regal.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Schuhe çoğul özne olduğu için stehen kullanılır. Unter dem Regal konum bildirir ve nötr Regal Dativ alır.",
+        "Die Schuhe stehen unter das Regal.": "Cümleyi şu ölçütle yeniden incele: Çoğul Schuhe + stehen; konum Dativ. Schuhe çoğul özne olduğu için stehen kullanılır. Unter dem Regal konum bildirir ve nötr Regal Dativ alır."
+      }
+    },
+    {
+      "id": "a2-03-independent-02",
+      "type": "choice",
+      "prompt": "Ayakkabıları rafın altına yerleştir.",
+      "accepted": [
+        "Ich stelle die Schuhe unter das Regal."
+      ],
+      "explanation": "Die Schuhe yerleştirilen nesnedir. Unter das Regal yerleştirme hedefini gösterir; das Akkusativ nötr biçimidir. Mevcut konumda ise unter dem Regal derdik.",
+      "rule": "Hedef: unter das Regal.",
+      "hints": [
+        "Hedef: unter das Regal.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-21"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-21"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich stelle die Schuhe unter dem Regal.",
+        "Die Schuhe stehen unter dem Regal.",
+        "Ich stelle die Schuhe unter das Regal."
+      ],
+      "optionNotes": {
+        "Ich stelle die Schuhe unter das Regal.": "Die Schuhe yerleştirilen nesnedir. Unter das Regal yerleştirme hedefini gösterir; das Akkusativ nötr biçimidir. Mevcut konumda ise unter dem Regal derdik.",
+        "Ich stelle die Schuhe unter dem Regal.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Die Schuhe yerleştirilen nesnedir. Unter das Regal yerleştirme hedefini gösterir; das Akkusativ nötr biçimidir. Mevcut konumda ise unter dem Regal derdik.",
+        "Die Schuhe stehen unter dem Regal.": "Cümleyi şu ölçütle yeniden incele: Hedef: unter das Regal. Die Schuhe yerleştirilen nesnedir. Unter das Regal yerleştirme hedefini gösterir; das Akkusativ nötr biçimidir. Mevcut konumda ise unter dem Regal derdik."
+      }
+    },
+    {
+      "id": "a2-03-independent-03",
+      "type": "choice",
+      "prompt": "Masanın pencerenin önündeki konumunu anlat.",
+      "accepted": [
+        "Der Tisch steht vor dem Fenster."
+      ],
+      "explanation": "Vor dem Fenster konumdur. Das Fenster Dativ’te dem Fenster olur; stehen eşyanın mevcut yerini tarif eder.",
+      "rule": "Vor + Dativ konumu bildirir.",
+      "hints": [
+        "Vor + Dativ konumu bildirir.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-22"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-22"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich stelle den Tisch vor das Fenster.",
+        "Der Tisch steht vor dem Fenster.",
+        "Der Tisch steht vor das Fenster."
+      ],
+      "optionNotes": {
+        "Der Tisch steht vor dem Fenster.": "Vor dem Fenster konumdur. Das Fenster Dativ’te dem Fenster olur; stehen eşyanın mevcut yerini tarif eder.",
+        "Der Tisch steht vor das Fenster.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Vor dem Fenster konumdur. Das Fenster Dativ’te dem Fenster olur; stehen eşyanın mevcut yerini tarif eder.",
+        "Ich stelle den Tisch vor das Fenster.": "Cümleyi şu ölçütle yeniden incele: Vor + Dativ konumu bildirir. Vor dem Fenster konumdur. Das Fenster Dativ’te dem Fenster olur; stehen eşyanın mevcut yerini tarif eder."
+      }
+    },
+    {
+      "id": "a2-03-independent-04",
+      "type": "choice",
+      "prompt": "Masayı pencerenin önüne koyuyorsun.",
+      "accepted": [
+        "Ich stelle den Tisch vor das Fenster."
+      ],
+      "explanation": "Den Tisch erkek Akkusativ nesnedir. Vor das Fenster hedef grubudur; nötr isim Akkusativ’te das kalır.",
+      "rule": "Den Tisch nesne, vor das Fenster hedef.",
+      "hints": [
+        "Den Tisch nesne, vor das Fenster hedef.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-21"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-21"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich stelle den Tisch vor das Fenster.",
+        "Ich stelle der Tisch vor das Fenster.",
+        "Der Tisch steht vor dem Fenster."
+      ],
+      "optionNotes": {
+        "Ich stelle den Tisch vor das Fenster.": "Den Tisch erkek Akkusativ nesnedir. Vor das Fenster hedef grubudur; nötr isim Akkusativ’te das kalır.",
+        "Ich stelle der Tisch vor das Fenster.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Den Tisch erkek Akkusativ nesnedir. Vor das Fenster hedef grubudur; nötr isim Akkusativ’te das kalır.",
+        "Der Tisch steht vor dem Fenster.": "Cümleyi şu ölçütle yeniden incele: Den Tisch nesne, vor das Fenster hedef. Den Tisch erkek Akkusativ nesnedir. Vor das Fenster hedef grubudur; nötr isim Akkusativ’te das kalır."
+      }
+    },
+    {
+      "id": "a2-03-independent-05",
+      "type": "choice",
+      "prompt": "Kanepede bulunan çoğul yastıkları tarif et.",
+      "accepted": [
+        "Die Kissen liegen auf dem Sofa."
+      ],
+      "explanation": "Kissen çoğul özne olduğu için liegen kullanılır. Auf dem Sofa mevcut konumu belirtir; hareketli yerleştirme anlatılmıyor.",
+      "rule": "Çoğul Kissen + liegen.",
+      "hints": [
+        "Çoğul Kissen + liegen.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-07"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-07"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Die Kissen liegt auf dem Sofa.",
+        "Ich lege die Kissen auf das Sofa.",
+        "Die Kissen liegen auf dem Sofa."
+      ],
+      "optionNotes": {
+        "Die Kissen liegen auf dem Sofa.": "Kissen çoğul özne olduğu için liegen kullanılır. Auf dem Sofa mevcut konumu belirtir; hareketli yerleştirme anlatılmıyor.",
+        "Die Kissen liegt auf dem Sofa.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Kissen çoğul özne olduğu için liegen kullanılır. Auf dem Sofa mevcut konumu belirtir; hareketli yerleştirme anlatılmıyor.",
+        "Ich lege die Kissen auf das Sofa.": "Cümleyi şu ölçütle yeniden incele: Çoğul Kissen + liegen. Kissen çoğul özne olduğu için liegen kullanılır. Auf dem Sofa mevcut konumu belirtir; hareketli yerleştirme anlatılmıyor."
+      }
+    },
+    {
+      "id": "a2-03-independent-06",
+      "type": "choice",
+      "prompt": "Yastıkları kanepenin üstüne koyduğunu söyle.",
+      "accepted": [
+        "Ich lege die Kissen auf das Sofa."
+      ],
+      "explanation": "Ich lege bir yerleştirme eylemidir. Die Kissen çoğul nesne, auf das Sofa hedef grubudur. İki grubun görevini ayrı incele.",
+      "rule": "Legen yerleştirme eylemidir.",
+      "hints": [
+        "Legen yerleştirme eylemidir.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-23"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-23"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Die Kissen liegen auf dem Sofa.",
+        "Ich lege die Kissen auf das Sofa.",
+        "Ich liege die Kissen auf dem Sofa."
+      ],
+      "optionNotes": {
+        "Ich lege die Kissen auf das Sofa.": "Ich lege bir yerleştirme eylemidir. Die Kissen çoğul nesne, auf das Sofa hedef grubudur. İki grubun görevini ayrı incele.",
+        "Ich liege die Kissen auf dem Sofa.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Ich lege bir yerleştirme eylemidir. Die Kissen çoğul nesne, auf das Sofa hedef grubudur. İki grubun görevini ayrı incele.",
+        "Die Kissen liegen auf dem Sofa.": "Cümleyi şu ölçütle yeniden incele: Legen yerleştirme eylemidir. Ich lege bir yerleştirme eylemidir. Die Kissen çoğul nesne, auf das Sofa hedef grubudur. İki grubun görevini ayrı incele."
+      }
+    },
+    {
+      "id": "a2-03-independent-07",
+      "type": "choice",
+      "prompt": "Dairenin balkonu olduğunu söyle.",
+      "accepted": [
+        "Die Wohnung hat einen Balkon."
+      ],
+      "explanation": "Haben doğrudan nesne alır. Balkon erkek cinsiyetli olduğu için belirsiz Akkusativ artikel einen olur.",
+      "rule": "Der Balkon → einen Balkon nesnesi.",
+      "hints": [
+        "Der Balkon → einen Balkon nesnesi.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-11"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-11"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Die Wohnung hat einen Balkon.",
+        "Die Wohnung hat ein Balkon.",
+        "Die Wohnung hat eine Balkon."
+      ],
+      "optionNotes": {
+        "Die Wohnung hat einen Balkon.": "Haben doğrudan nesne alır. Balkon erkek cinsiyetli olduğu için belirsiz Akkusativ artikel einen olur.",
+        "Die Wohnung hat ein Balkon.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Haben doğrudan nesne alır. Balkon erkek cinsiyetli olduğu için belirsiz Akkusativ artikel einen olur.",
+        "Die Wohnung hat eine Balkon.": "Cümleyi şu ölçütle yeniden incele: Der Balkon → einen Balkon nesnesi. Haben doğrudan nesne alır. Balkon erkek cinsiyetli olduğu için belirsiz Akkusativ artikel einen olur."
+      }
+    },
+    {
+      "id": "a2-03-independent-08",
+      "type": "choice",
+      "prompt": "Ek giderlerin dahil olup olmadığını sor.",
+      "accepted": [
+        "Sind die Nebenkosten inklusive?"
+      ],
+      "explanation": "Nebenkosten çoğuldur; soru sind ile başlar. Inklusive dahil anlamını verir. Kira veya depozito hakkında ayrıca bilgi çıkarılmaz.",
+      "rule": "Nebenkosten çoğuldur; sind kullanılır.",
+      "hints": [
+        "Nebenkosten çoğuldur; sind kullanılır.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-17"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-17"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ist die Nebenkosten inklusive?",
+        "Die Kaution ist hoch.",
+        "Sind die Nebenkosten inklusive?"
+      ],
+      "optionNotes": {
+        "Sind die Nebenkosten inklusive?": "Nebenkosten çoğuldur; soru sind ile başlar. Inklusive dahil anlamını verir. Kira veya depozito hakkında ayrıca bilgi çıkarılmaz.",
+        "Ist die Nebenkosten inklusive?": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Nebenkosten çoğuldur; soru sind ile başlar. Inklusive dahil anlamını verir. Kira veya depozito hakkında ayrıca bilgi çıkarılmaz.",
+        "Die Kaution ist hoch.": "Cümleyi şu ölçütle yeniden incele: Nebenkosten çoğuldur; sind kullanılır. Nebenkosten çoğuldur; soru sind ile başlar. Inklusive dahil anlamını verir. Kira veya depozito hakkında ayrıca bilgi çıkarılmaz."
+      }
+    },
+    {
+      "id": "a2-03-independent-09",
+      "type": "choice",
+      "prompt": "Müziğin sesini azaltmasını kibarca iste.",
+      "accepted": [
+        "Könnten Sie bitte die Musik leiser machen?"
+      ],
+      "explanation": "Könnten Sie resmî kibar ricadır. Leiser machen sesini azaltma eylemini anlatır; machen mastarı sonda bulunur.",
+      "rule": "Sie ile könnten; leiser daha az ses.",
+      "hints": [
+        "Sie ile könnten; leiser daha az ses.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-29"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-29"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Könnten Sie bitte die Musik lauter machen?",
+        "Könnten Sie bitte die Musik leiser machen?",
+        "Könnten du bitte die Musik leiser machen?"
+      ],
+      "optionNotes": {
+        "Könnten Sie bitte die Musik leiser machen?": "Könnten Sie resmî kibar ricadır. Leiser machen sesini azaltma eylemini anlatır; machen mastarı sonda bulunur.",
+        "Könnten du bitte die Musik leiser machen?": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Könnten Sie resmî kibar ricadır. Leiser machen sesini azaltma eylemini anlatır; machen mastarı sonda bulunur.",
+        "Könnten Sie bitte die Musik lauter machen?": "Cümleyi şu ölçütle yeniden incele: Sie ile könnten; leiser daha az ses. Könnten Sie resmî kibar ricadır. Leiser machen sesini azaltma eylemini anlatır; machen mastarı sonda bulunur."
+      }
+    },
+    {
+      "id": "a2-03-independent-10",
+      "type": "choice",
+      "prompt": "Weil ile doğru fiil sırasını seç.",
+      "accepted": [
+        "Ich brauche Ruhe, weil ich lernen muss."
+      ],
+      "explanation": "Weil gerekçe yan cümlesi açar. Çekimli modal muss yan cümlenin sonunda, lernen mastarından sonra gelir.",
+      "rule": "Weil yan cümlesinde çekimli fiil sonda.",
+      "hints": [
+        "Weil yan cümlesinde çekimli fiil sonda.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-20"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-20"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich brauche Ruhe, weil ich lernen muss.",
+        "Ich brauche Ruhe, weil ich muss lernen.",
+        "Ich brauche Ruhe, weil muss ich lernen."
+      ],
+      "optionNotes": {
+        "Ich brauche Ruhe, weil ich lernen muss.": "Weil gerekçe yan cümlesi açar. Çekimli modal muss yan cümlenin sonunda, lernen mastarından sonra gelir.",
+        "Ich brauche Ruhe, weil ich muss lernen.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Weil gerekçe yan cümlesi açar. Çekimli modal muss yan cümlenin sonunda, lernen mastarından sonra gelir.",
+        "Ich brauche Ruhe, weil muss ich lernen.": "Cümleyi şu ölçütle yeniden incele: Weil yan cümlesinde çekimli fiil sonda. Weil gerekçe yan cümlesi açar. Çekimli modal muss yan cümlenin sonunda, lernen mastarından sonra gelir."
+      }
+    },
+    {
+      "id": "a2-03-independent-11",
+      "type": "choice",
+      "prompt": "Bisikletin bodrumda olduğunu söyle.",
+      "accepted": [
+        "Das Fahrrad steht im Keller."
+      ],
+      "explanation": "Im Keller, in dem Keller kısaltmasıdır. Mevcut konum anlatıldığı için yer grubu Dativ alır.",
+      "rule": "Im Keller mevcut konumu anlatır.",
+      "hints": [
+        "Im Keller mevcut konumu anlatır.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-12"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-12"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Das Fahrrad steht in den Keller.",
+        "Ich stelle das Fahrrad in den Keller.",
+        "Das Fahrrad steht im Keller."
+      ],
+      "optionNotes": {
+        "Das Fahrrad steht im Keller.": "Im Keller, in dem Keller kısaltmasıdır. Mevcut konum anlatıldığı için yer grubu Dativ alır.",
+        "Das Fahrrad steht in den Keller.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Im Keller, in dem Keller kısaltmasıdır. Mevcut konum anlatıldığı için yer grubu Dativ alır.",
+        "Ich stelle das Fahrrad in den Keller.": "Cümleyi şu ölçütle yeniden incele: Im Keller mevcut konumu anlatır. Im Keller, in dem Keller kısaltmasıdır. Mevcut konum anlatıldığı için yer grubu Dativ alır."
+      }
+    },
+    {
+      "id": "a2-03-independent-12",
+      "type": "choice",
+      "prompt": "Genel özne man ile doğru kural cümlesini seç.",
+      "accepted": [
+        "Man darf hier keine Fahrräder abstellen."
+      ],
+      "explanation": "Man tekil çekim alır: darf. Keine Fahrräder olumsuz nesne grubudur; abstellen mastarı modal fiilin sonunda kalır.",
+      "rule": "Man + darf + mastar sonda.",
+      "hints": [
+        "Man + darf + mastar sonda.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-19"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-19"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Man darf hier keine Fahrräder abstelle.",
+        "Man darf hier keine Fahrräder abstellen.",
+        "Man dürfen hier keine Fahrräder abstellen."
+      ],
+      "optionNotes": {
+        "Man darf hier keine Fahrräder abstellen.": "Man tekil çekim alır: darf. Keine Fahrräder olumsuz nesne grubudur; abstellen mastarı modal fiilin sonunda kalır.",
+        "Man dürfen hier keine Fahrräder abstellen.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Man tekil çekim alır: darf. Keine Fahrräder olumsuz nesne grubudur; abstellen mastarı modal fiilin sonunda kalır.",
+        "Man darf hier keine Fahrräder abstelle.": "Cümleyi şu ölçütle yeniden incele: Man + darf + mastar sonda. Man tekil çekim alır: darf. Keine Fahrräder olumsuz nesne grubudur; abstellen mastarı modal fiilin sonunda kalır."
+      }
+    },
+    {
+      "id": "a2-03-independent-13",
+      "type": "blank",
+      "prompt": "Die Schuhe ___ unter dem Regal. (stehen; çoğul)",
+      "accepted": [
+        "stehen"
+      ],
+      "explanation": "Schuhe çoğul özne olduğu için stehen kullanılır. Unter dem Regal konum bildirir ve nötr Regal Dativ alır.",
+      "rule": "Çoğul Schuhe → stehen.",
+      "hints": [
+        "Çoğul Schuhe → stehen.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-22"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-22"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-14",
+      "type": "blank",
+      "prompt": "Ich stelle die Schuhe unter ___ Regal. (das; hedef)",
+      "accepted": [
+        "das"
+      ],
+      "explanation": "Die Schuhe yerleştirilen nesnedir. Unter das Regal yerleştirme hedefini gösterir; das Akkusativ nötr biçimidir. Mevcut konumda ise unter dem Regal derdik.",
+      "rule": "Unter das Regal hedef grubudur.",
+      "hints": [
+        "Unter das Regal hedef grubudur.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-04"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-04"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-15",
+      "type": "blank",
+      "prompt": "Der Tisch steht vor ___ Fenster. (das; konum)",
+      "accepted": [
+        "dem"
+      ],
+      "explanation": "Vor dem Fenster konumdur. Das Fenster Dativ’te dem Fenster olur; stehen eşyanın mevcut yerini tarif eder.",
+      "rule": "Das Fenster Dativ → dem Fenster.",
+      "hints": [
+        "Das Fenster Dativ → dem Fenster.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-22"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-22"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-16",
+      "type": "blank",
+      "prompt": "Ich stelle ___ Tisch vor das Fenster. (der; nesne)",
+      "accepted": [
+        "den"
+      ],
+      "explanation": "Den Tisch erkek Akkusativ nesnedir. Vor das Fenster hedef grubudur; nötr isim Akkusativ’te das kalır.",
+      "rule": "Stellen fiilinin erkek nesnesi den Tisch.",
+      "hints": [
+        "Stellen fiilinin erkek nesnesi den Tisch.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-21"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-21"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-17",
+      "type": "blank",
+      "prompt": "Die Kissen ___ auf dem Sofa. (liegen; çoğul)",
+      "accepted": [
+        "liegen"
+      ],
+      "explanation": "Kissen çoğul özne olduğu için liegen kullanılır. Auf dem Sofa mevcut konumu belirtir; hareketli yerleştirme anlatılmıyor.",
+      "rule": "Çoğul Kissen → liegen.",
+      "hints": [
+        "Çoğul Kissen → liegen.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-07"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-07"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-18",
+      "type": "blank",
+      "prompt": "Ich ___ die Kissen auf das Sofa. (legen; ich)",
+      "accepted": [
+        "lege"
+      ],
+      "explanation": "Ich lege bir yerleştirme eylemidir. Die Kissen çoğul nesne, auf das Sofa hedef grubudur. İki grubun görevini ayrı incele.",
+      "rule": "Ich lege + nesne + hedef.",
+      "hints": [
+        "Ich lege + nesne + hedef.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-23"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-23"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-19",
+      "type": "blank",
+      "prompt": "Die Wohnung hat ___ Balkon. (ein; erkek nesne)",
+      "accepted": [
+        "einen"
+      ],
+      "explanation": "Haben doğrudan nesne alır. Balkon erkek cinsiyetli olduğu için belirsiz Akkusativ artikel einen olur.",
+      "rule": "Haben + einen Balkon.",
+      "hints": [
+        "Haben + einen Balkon.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-11"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-11"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-20",
+      "type": "blank",
+      "prompt": "___ die Nebenkosten inklusive? (sein; çoğul soru)",
+      "accepted": [
+        "Sind"
+      ],
+      "explanation": "Nebenkosten çoğuldur; soru sind ile başlar. Inklusive dahil anlamını verir. Kira veya depozito hakkında ayrıca bilgi çıkarılmaz.",
+      "rule": "Çoğul Nebenkosten → sind.",
+      "hints": [
+        "Çoğul Nebenkosten → sind.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-17"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-17"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-21",
+      "type": "blank",
+      "prompt": "Könnten Sie bitte die Musik ___ machen? (leise; daha az ses)",
+      "accepted": [
+        "leiser"
+      ],
+      "explanation": "Könnten Sie resmî kibar ricadır. Leiser machen sesini azaltma eylemini anlatır; machen mastarı sonda bulunur.",
+      "rule": "Leiser = daha kısık sesli.",
+      "hints": [
+        "Leiser = daha kısık sesli.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-29"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-29"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-22",
+      "type": "blank",
+      "prompt": "Ich brauche Ruhe, weil ich lernen ___. (müssen; ich)",
+      "accepted": [
+        "muss"
+      ],
+      "explanation": "Weil gerekçe yan cümlesi açar. Çekimli modal muss yan cümlenin sonunda, lernen mastarından sonra gelir.",
+      "rule": "Weil ... lernen muss.",
+      "hints": [
+        "Weil ... lernen muss.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-20"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-20"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-23",
+      "type": "blank",
+      "prompt": "Der Balkon ist neben ___ Küche. (die; konum)",
+      "accepted": [
+        "der"
+      ],
+      "explanation": "Neben der Küche konum bildirir; Küche dişil isimdir ve Dativ’te der alır. Ist burada konum ilişkisinin fiilidir.",
+      "rule": "Dişil Dativ: der Küche.",
+      "hints": [
+        "Dişil Dativ: der Küche.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-11"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-11"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-24",
+      "type": "blank",
+      "prompt": "Das Fahrrad steht ___ Keller. (in + dem; kısaltma)",
+      "accepted": [
+        "im"
+      ],
+      "explanation": "Im Keller, in dem Keller kısaltmasıdır. Mevcut konum anlatıldığı için yer grubu Dativ alır.",
+      "rule": "In dem Keller → im Keller.",
+      "hints": [
+        "In dem Keller → im Keller.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-12"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-12"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-25",
+      "type": "blank",
+      "prompt": "Man ___ hier keine Fahrräder abstellen. (dürfen)",
+      "accepted": [
+        "darf"
+      ],
+      "explanation": "Man tekil çekim alır: darf. Keine Fahrräder olumsuz nesne grubudur; abstellen mastarı modal fiilin sonunda kalır.",
+      "rule": "Man üçüncü tekil çekim alır.",
+      "hints": [
+        "Man üçüncü tekil çekim alır.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-19"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-19"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-26",
+      "type": "blank",
+      "prompt": "Ich wohne seit ___ Monat hier. (ein; der Monat)",
+      "accepted": [
+        "einem"
+      ],
+      "explanation": "Seit Dativ ister: einem Monat. Durum sürüyorsa bu örnekte Präsens wohne ile anlatılır; önceki ünitenin süre kuralı yeniden kullanılır.",
+      "rule": "Seit + Dativ: einem Monat.",
+      "hints": [
+        "Seit + Dativ: einem Monat.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-01"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-27",
+      "type": "blank",
+      "prompt": "Die Lampe steht zwischen dem Sofa und ___ Regal. (das; konum)",
+      "accepted": [
+        "dem"
+      ],
+      "explanation": "Zwischen bu cümlede konum bildirir ve iki referans da Dativ alır. Regal nötrdür; bu yüzden dem gerekir.",
+      "rule": "Zwischen ... und dem Regal.",
+      "hints": [
+        "Zwischen ... und dem Regal.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-09"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-09"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-28",
+      "type": "blank",
+      "prompt": "Die Kinder spielen in den ___. (Zimmer; çoğul Dativ)",
+      "accepted": [
+        "Zimmern"
+      ],
+      "explanation": "Oyun aynı odaların içinde sürer; yeni bir hedef anlatılmıyor. Çoğul Dativ Zimmern biçimini alır.",
+      "rule": "In den Zimmern = odalarda.",
+      "hints": [
+        "In den Zimmern = odalarda.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-01"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-29",
+      "type": "sentence",
+      "prompt": "“Dolap koridorda duruyor.” anlamını verilen sözcüklerle kur. İlk sözcük: Der.",
+      "accepted": [
+        "Der Schrank steht im Flur."
+      ],
+      "explanation": "Schrank konumdaki eşyadır ve öznedir. Im, in dem kısaltmasıdır; Wo sorusuna cevap veren mevcut yer Dativ alır.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-03"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-03"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Flur",
+        "im",
+        "steht",
+        "Schrank",
+        "Der"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-30",
+      "type": "sentence",
+      "prompt": "“Dolabı koridora koyuyorum.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich stelle den Schrank in den Flur."
+      ],
+      "explanation": "Ich yerleştiren kişi, den Schrank nesnedir. In den Flur yeni hedefi gösterir; erkek Flur burada Akkusativ den alır.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-21"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-21"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Flur",
+        "den",
+        "in",
+        "Schrank",
+        "den",
+        "stelle",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-31",
+      "type": "sentence",
+      "prompt": "“Kitap masanın üstünde duruyor.” anlamını verilen sözcüklerle kur. İlk sözcük: Das.",
+      "accepted": [
+        "Das Buch liegt auf dem Tisch."
+      ],
+      "explanation": "Liegen mevcut konumu anlatır. Auf dem Tisch Wo sorusuna cevap verir; der Tisch Dativ’te dem Tisch olur.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-24"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-24"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Tisch",
+        "dem",
+        "auf",
+        "liegt",
+        "Buch",
+        "Das"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-32",
+      "type": "sentence",
+      "prompt": "“Kitabı masanın üstüne koyuyorum.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich lege das Buch auf den Tisch."
+      ],
+      "explanation": "Legen yerleştirme eylemidir. Auf den Tisch hedefi bildirir; kitabın önce nerede olduğundan bağımsız olarak yeni konum anlatılır.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-23"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-23"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Tisch",
+        "den",
+        "auf",
+        "Buch",
+        "das",
+        "lege",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-33",
+      "type": "sentence",
+      "prompt": "“Lamba kanepenin yanında duruyor.” anlamını verilen sözcüklerle kur. İlk sözcük: Die.",
+      "accepted": [
+        "Die Lampe steht neben dem Sofa."
+      ],
+      "explanation": "Neben iki hâlli bir edattır. Burada konum bildirir ve Dativ ister; das Sofa, dem Sofa biçimine geçer.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-09"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-09"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Sofa",
+        "dem",
+        "neben",
+        "steht",
+        "Lampe",
+        "Die"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-34",
+      "type": "sentence",
+      "prompt": "“Lambayı kanepenin yanına koyuyorum.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich stelle die Lampe neben das Sofa."
+      ],
+      "explanation": "Stellen yerleştirme, neben das Sofa hedef grubudur. Sofa nötr olduğu için Akkusativ’te das görünümü korunur.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-05"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-05"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Sofa",
+        "das",
+        "neben",
+        "Lampe",
+        "die",
+        "stelle",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-35",
+      "type": "sentence",
+      "prompt": "“Resim duvarda asılı.” anlamını verilen sözcüklerle kur. İlk sözcük: Das.",
+      "accepted": [
+        "Das Bild hängt an der Wand."
+      ],
+      "explanation": "Resim mevcut konumuyla özne olarak anlatılır. An der Wand yer grubudur; die Wand Dativ’te der Wand olur.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-10"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-10"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Wand",
+        "der",
+        "an",
+        "hängt",
+        "Bild",
+        "Das"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-36",
+      "type": "sentence",
+      "prompt": "“Resmi duvara asıyorum.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich hänge das Bild an die Wand."
+      ],
+      "explanation": "Ich işi yapan kişidir, das Bild nesnedir. An die Wand yerleştirmenin hedefidir ve bu nedenle Akkusativ alır.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-27"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-27"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Wand",
+        "die",
+        "an",
+        "Bild",
+        "das",
+        "hänge",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-37",
+      "type": "sentence",
+      "prompt": "“Sandalyede oturuyorum.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich sitze auf dem Stuhl."
+      ],
+      "explanation": "Sitzen mevcut oturma durumunu bildirir. Auf dem Stuhl konum grubudur; der Stuhl Dativ’te dem Stuhl olur.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-26"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-26"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Stuhl",
+        "dem",
+        "auf",
+        "sitze",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-38",
+      "type": "sentence",
+      "prompt": "“Sandalyeye oturuyorum.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich setze mich auf den Stuhl."
+      ],
+      "explanation": "Sich setzen hedefe oturma eylemini anlatır. Ich için mich gerekir; auf den Stuhl hedef bildirdiği için Akkusativ alır.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-25"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-25"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Stuhl",
+        "den",
+        "auf",
+        "mich",
+        "setze",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-39",
+      "type": "sentence",
+      "prompt": "“Ayakkabılar rafın altında duruyor.” anlamını verilen sözcüklerle kur. İlk sözcük: Die.",
+      "accepted": [
+        "Die Schuhe stehen unter dem Regal."
+      ],
+      "explanation": "Schuhe çoğul özne olduğu için stehen kullanılır. Unter dem Regal konum bildirir ve nötr Regal Dativ alır.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-04"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-04"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Regal",
+        "dem",
+        "unter",
+        "stehen",
+        "Schuhe",
+        "Die"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-40",
+      "type": "sentence",
+      "prompt": "“Ayakkabıları rafın altına koyuyorum.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich stelle die Schuhe unter das Regal."
+      ],
+      "explanation": "Die Schuhe yerleştirilen nesnedir. Unter das Regal yerleştirme hedefini gösterir; das Akkusativ nötr biçimidir. Mevcut konumda ise unter dem Regal derdik.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-21"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-21"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Regal",
+        "das",
+        "unter",
+        "Schuhe",
+        "die",
+        "stelle",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-41",
+      "type": "sentence",
+      "prompt": "“Masa pencerenin önünde duruyor.” anlamını verilen sözcüklerle kur. İlk sözcük: Der.",
+      "accepted": [
+        "Der Tisch steht vor dem Fenster."
+      ],
+      "explanation": "Vor dem Fenster konumdur. Das Fenster Dativ’te dem Fenster olur; stehen eşyanın mevcut yerini tarif eder.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-22"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-22"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Fenster",
+        "dem",
+        "vor",
+        "steht",
+        "Tisch",
+        "Der"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-42",
+      "type": "sentence",
+      "prompt": "“Masayı pencerenin önüne koyuyorum.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich stelle den Tisch vor das Fenster."
+      ],
+      "explanation": "Den Tisch erkek Akkusativ nesnedir. Vor das Fenster hedef grubudur; nötr isim Akkusativ’te das kalır.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-21"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-21"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Fenster",
+        "das",
+        "vor",
+        "Tisch",
+        "den",
+        "stelle",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-43",
+      "type": "sentence",
+      "prompt": "“Yastıklar kanepenin üstünde duruyor.” anlamını verilen sözcüklerle kur. İlk sözcük: Die.",
+      "accepted": [
+        "Die Kissen liegen auf dem Sofa."
+      ],
+      "explanation": "Kissen çoğul özne olduğu için liegen kullanılır. Auf dem Sofa mevcut konumu belirtir; hareketli yerleştirme anlatılmıyor.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-07"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-07"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Sofa",
+        "dem",
+        "auf",
+        "liegen",
+        "Kissen",
+        "Die"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-44",
+      "type": "sentence",
+      "prompt": "“Yastıkları kanepenin üstüne koyuyorum.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich lege die Kissen auf das Sofa."
+      ],
+      "explanation": "Ich lege bir yerleştirme eylemidir. Die Kissen çoğul nesne, auf das Sofa hedef grubudur. İki grubun görevini ayrı incele.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-23"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-23"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Sofa",
+        "das",
+        "auf",
+        "Kissen",
+        "die",
+        "lege",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-45",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Der Schrank steht in den Flur. (yalnızca in den yerine kısaltma)",
+      "accepted": [
+        "Der Schrank steht im Flur."
+      ],
+      "explanation": "Schrank konumdaki eşyadır ve öznedir. Im, in dem kısaltmasıdır; Wo sorusuna cevap veren mevcut yer Dativ alır.",
+      "rule": "Konumda in dem → im.",
+      "hints": [
+        "Konumda in dem → im.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-02"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-02"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-46",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Das Buch liegt auf den Tisch. (yalnızca den)",
+      "accepted": [
+        "Das Buch liegt auf dem Tisch."
+      ],
+      "explanation": "Liegen mevcut konumu anlatır. Auf dem Tisch Wo sorusuna cevap verir; der Tisch Dativ’te dem Tisch olur.",
+      "rule": "Mevcut konumda auf dem Tisch.",
+      "hints": [
+        "Mevcut konumda auf dem Tisch.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-24"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-24"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-47",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Ich lege das Buch auf dem Tisch. (yalnızca dem)",
+      "accepted": [
+        "Ich lege das Buch auf den Tisch."
+      ],
+      "explanation": "Legen yerleştirme eylemidir. Auf den Tisch hedefi bildirir; kitabın önce nerede olduğundan bağımsız olarak yeni konum anlatılır.",
+      "rule": "Yerleştirme hedefi auf den Tisch.",
+      "hints": [
+        "Yerleştirme hedefi auf den Tisch.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-23"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-23"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-48",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Die Lampe steht neben das Sofa. (yalnızca das)",
+      "accepted": [
+        "Die Lampe steht neben dem Sofa."
+      ],
+      "explanation": "Neben iki hâlli bir edattır. Burada konum bildirir ve Dativ ister; das Sofa, dem Sofa biçimine geçer.",
+      "rule": "Konum: neben dem Sofa.",
+      "hints": [
+        "Konum: neben dem Sofa.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-09"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-09"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-49",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Ich hänge das Bild an der Wand. (yalnızca der)",
+      "accepted": [
+        "Ich hänge das Bild an die Wand."
+      ],
+      "explanation": "Ich işi yapan kişidir, das Bild nesnedir. An die Wand yerleştirmenin hedefidir ve bu nedenle Akkusativ alır.",
+      "rule": "Yerleştirme hedefi an die Wand.",
+      "hints": [
+        "Yerleştirme hedefi an die Wand.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-10"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-10"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-50",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Ich setze auf den Stuhl. (setze ardından dönüşlü zamir ekle)",
+      "accepted": [
+        "Ich setze mich auf den Stuhl."
+      ],
+      "explanation": "Sich setzen hedefe oturma eylemini anlatır. Ich için mich gerekir; auf den Stuhl hedef bildirdiği için Akkusativ alır.",
+      "rule": "Ich setze mich biçiminde zamiri koru.",
+      "hints": [
+        "Ich setze mich biçiminde zamiri koru.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-25"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-25"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-51",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Die Wohnung hat ein Balkon. (yalnızca ein)",
+      "accepted": [
+        "Die Wohnung hat einen Balkon."
+      ],
+      "explanation": "Haben doğrudan nesne alır. Balkon erkek cinsiyetli olduğu için belirsiz Akkusativ artikel einen olur.",
+      "rule": "Erkek Akkusativ nesne einen Balkon.",
+      "hints": [
+        "Erkek Akkusativ nesne einen Balkon.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-11"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-11"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-52",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Ich brauche Ruhe, weil ich muss lernen. (yalnızca muss ve lernen yer değiştirsin)",
+      "accepted": [
+        "Ich brauche Ruhe, weil ich lernen muss."
+      ],
+      "explanation": "Weil gerekçe yan cümlesi açar. Çekimli modal muss yan cümlenin sonunda, lernen mastarından sonra gelir.",
+      "rule": "Weil yan cümlesinde modal fiil en sondadır.",
+      "hints": [
+        "Weil yan cümlesinde modal fiil en sondadır.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-20"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-20"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-03-independent-53",
+      "type": "choice",
+      "prompt": "Elif ne zaman taşınıyor?",
+      "accepted": [
+        "Cumartesi."
+      ],
+      "explanation": "İlk cümlede am Samstag der. Odanın akşam tarif edilmesi taşınma gününü değiştirmez.",
+      "rule": "Am Samstag = cumartesi.",
+      "hints": [
+        "Am Samstag = cumartesi.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-28"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-28"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Pazartesi.",
+        "Cuma.",
+        "Cumartesi."
+      ],
+      "optionNotes": {
+        "Cumartesi.": "İlk cümlede am Samstag der. Odanın akşam tarif edilmesi taşınma gününü değiştirmez.",
+        "Pazartesi.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. İlk cümlede am Samstag der. Odanın akşam tarif edilmesi taşınma gününü değiştirmez.",
+        "Cuma.": "Cümleyi şu ölçütle yeniden incele: Am Samstag = cumartesi. İlk cümlede am Samstag der. Odanın akşam tarif edilmesi taşınma gününü değiştirmez."
+      },
+      "contextId": "a2-03-text-1"
+    },
+    {
+      "id": "a2-03-independent-54",
+      "type": "choice",
+      "prompt": "Dolap başlangıçta nerede?",
+      "accepted": [
+        "Koridorda."
+      ],
+      "explanation": "Der Schrank steht im Flur cümlesi ilk konumu verir. Sonraki hareketle dolabın yeri değişir.",
+      "rule": "İlk konum: im Flur.",
+      "hints": [
+        "İlk konum: im Flur.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-03"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-03"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Balkonda.",
+        "Koridorda.",
+        "Bodrumda."
+      ],
+      "optionNotes": {
+        "Koridorda.": "Der Schrank steht im Flur cümlesi ilk konumu verir. Sonraki hareketle dolabın yeri değişir.",
+        "Bodrumda.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Der Schrank steht im Flur cümlesi ilk konumu verir. Sonraki hareketle dolabın yeri değişir.",
+        "Balkonda.": "Cümleyi şu ölçütle yeniden incele: İlk konum: im Flur. Der Schrank steht im Flur cümlesi ilk konumu verir. Sonraki hareketle dolabın yeri değişir."
+      },
+      "contextId": "a2-03-text-1"
+    },
+    {
+      "id": "a2-03-independent-55",
+      "type": "choice",
+      "prompt": "Dolap nereye yerleştiriliyor?",
+      "accepted": [
+        "Pencerenin yanına."
+      ],
+      "explanation": "Sie stellt ihn neben das Fenster cümlesinde ihn dolabı gösterir. Pencere hedefe referanstır.",
+      "rule": "Hedef: neben das Fenster.",
+      "hints": [
+        "Hedef: neben das Fenster.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-21"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-21"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Pencerenin yanına.",
+        "Kapının arkasına.",
+        "Kanepenin üstüne."
+      ],
+      "optionNotes": {
+        "Pencerenin yanına.": "Sie stellt ihn neben das Fenster cümlesinde ihn dolabı gösterir. Pencere hedefe referanstır.",
+        "Kapının arkasına.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Sie stellt ihn neben das Fenster cümlesinde ihn dolabı gösterir. Pencere hedefe referanstır.",
+        "Kanepenin üstüne.": "Cümleyi şu ölçütle yeniden incele: Hedef: neben das Fenster. Sie stellt ihn neben das Fenster cümlesinde ihn dolabı gösterir. Pencere hedefe referanstır."
+      },
+      "contextId": "a2-03-text-1"
+    },
+    {
+      "id": "a2-03-independent-56",
+      "type": "choice",
+      "prompt": "Lambanın son konumu hangisi?",
+      "accepted": [
+        "Kanepe ile rafın arasında."
+      ],
+      "explanation": "Die Lampe steht jetzt zwischen dem Sofa und dem Regal ifadesi son konumu açıkça verir.",
+      "rule": "Zwischen ... und ... = arasında.",
+      "hints": [
+        "Zwischen ... und ... = arasında.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-09"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-09"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Masanın altında.",
+        "Balkonun dışında.",
+        "Kanepe ile rafın arasında."
+      ],
+      "optionNotes": {
+        "Kanepe ile rafın arasında.": "Die Lampe steht jetzt zwischen dem Sofa und dem Regal ifadesi son konumu açıkça verir.",
+        "Masanın altında.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Die Lampe steht jetzt zwischen dem Sofa und dem Regal ifadesi son konumu açıkça verir.",
+        "Balkonun dışında.": "Cümleyi şu ölçütle yeniden incele: Zwischen ... und ... = arasında. Die Lampe steht jetzt zwischen dem Sofa und dem Regal ifadesi son konumu açıkça verir."
+      },
+      "contextId": "a2-03-text-1"
+    },
+    {
+      "id": "a2-03-independent-57",
+      "type": "choice",
+      "prompt": "Elif neden sessizlik istiyor?",
+      "accepted": [
+        "Yarın sınavı olduğu için."
+      ],
+      "explanation": "Weil ich morgen eine Prüfung habe gerekçeyi verir. Bisiklet konuşması bundan sonra gelir ve farklı bir konudur.",
+      "rule": "Gerekçe: morgen eine Prüfung.",
+      "hints": [
+        "Gerekçe: morgen eine Prüfung.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-20"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-20"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Bisikletini satacağı için.",
+        "Yarın sınavı olduğu için.",
+        "Bugün tatile gideceği için."
+      ],
+      "optionNotes": {
+        "Yarın sınavı olduğu için.": "Weil ich morgen eine Prüfung habe gerekçeyi verir. Bisiklet konuşması bundan sonra gelir ve farklı bir konudur.",
+        "Bugün tatile gideceği için.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Weil ich morgen eine Prüfung habe gerekçeyi verir. Bisiklet konuşması bundan sonra gelir ve farklı bir konudur.",
+        "Bisikletini satacağı için.": "Cümleyi şu ölçütle yeniden incele: Gerekçe: morgen eine Prüfung. Weil ich morgen eine Prüfung habe gerekçeyi verir. Bisiklet konuşması bundan sonra gelir ve farklı bir konudur."
+      },
+      "contextId": "a2-03-text-2"
+    },
+    {
+      "id": "a2-03-independent-58",
+      "type": "choice",
+      "prompt": "Cem müzik için ne yapacağını söylüyor?",
+      "accepted": [
+        "Sesini hemen azaltacak."
+      ],
+      "explanation": "Ich mache sie sofort leiser ifadesinde sie müziği, leiser daha az sesi anlatır. Sofort hemen demektir.",
+      "rule": "Leiser machen = sesi azaltmak.",
+      "hints": [
+        "Leiser machen = sesi azaltmak.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-29"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-29"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Sesini hemen azaltacak.",
+        "Sesini daha çok açacak.",
+        "Radyoyu satacak."
+      ],
+      "optionNotes": {
+        "Sesini hemen azaltacak.": "Ich mache sie sofort leiser ifadesinde sie müziği, leiser daha az sesi anlatır. Sofort hemen demektir.",
+        "Sesini daha çok açacak.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Ich mache sie sofort leiser ifadesinde sie müziği, leiser daha az sesi anlatır. Sofort hemen demektir.",
+        "Radyoyu satacak.": "Cümleyi şu ölçütle yeniden incele: Leiser machen = sesi azaltmak. Ich mache sie sofort leiser ifadesinde sie müziği, leiser daha az sesi anlatır. Sofort hemen demektir."
+      },
+      "contextId": "a2-03-text-2"
+    },
+    {
+      "id": "a2-03-independent-59",
+      "type": "choice",
+      "prompt": "Bisiklet için hangi yer alternatif gösteriliyor?",
+      "accepted": [
+        "Bodrum."
+      ],
+      "explanation": "Merdiven alanı için izin verilmez; Im Keller ist aber Platz ile bodrum alternatifi sunulur.",
+      "rule": "Alternatif yer: im Keller.",
+      "hints": [
+        "Alternatif yer: im Keller.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-12"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-12"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Merdiven alanı.",
+        "Elif’in balkonu.",
+        "Bodrum."
+      ],
+      "optionNotes": {
+        "Bodrum.": "Merdiven alanı için izin verilmez; Im Keller ist aber Platz ile bodrum alternatifi sunulur.",
+        "Merdiven alanı.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Merdiven alanı için izin verilmez; Im Keller ist aber Platz ile bodrum alternatifi sunulur.",
+        "Elif’in balkonu.": "Cümleyi şu ölçütle yeniden incele: Alternatif yer: im Keller. Merdiven alanı için izin verilmez; Im Keller ist aber Platz ile bodrum alternatifi sunulur."
+      },
+      "contextId": "a2-03-text-2"
+    },
+    {
+      "id": "a2-03-independent-60",
+      "type": "choice",
+      "prompt": "Bodrumun kapısı neyin yanında?",
+      "accepted": [
+        "Asansörün."
+      ],
+      "explanation": "Die Tür ist neben dem Aufzug cümlesi kapının konumunu söyler. Önceki merdiven bilgisi başka bir yer tarifidir.",
+      "rule": "Neben dem Aufzug = asansörün yanında.",
+      "hints": [
+        "Neben dem Aufzug = asansörün yanında.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-03-13"
+      ],
+      "reviewWordIds": [
+        "dg-a2-03-13"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Kanepenin.",
+        "Asansörün.",
+        "Pencerenin."
+      ],
+      "optionNotes": {
+        "Asansörün.": "Die Tür ist neben dem Aufzug cümlesi kapının konumunu söyler. Önceki merdiven bilgisi başka bir yer tarifidir.",
+        "Pencerenin.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Die Tür ist neben dem Aufzug cümlesi kapının konumunu söyler. Önceki merdiven bilgisi başka bir yer tarifidir.",
+        "Kanepenin.": "Cümleyi şu ölçütle yeniden incele: Neben dem Aufzug = asansörün yanında. Die Tür ist neben dem Aufzug cümlesi kapının konumunu söyler. Önceki merdiven bilgisi başka bir yer tarifidir."
+      },
+      "contextId": "a2-03-text-2"
+    }
+  ],
+  "studyPlan": {
+    "prerequisites": [
+      "İsimlerin artikelleri ve temel Akkusativ nesne",
+      "Kişi çekimi ve ana cümlede fiilin ikinci konumu",
+      "A2 randevu dersindeki kibar rica, dürfen ve seit"
+    ],
+    "objectives": [
+      "30 kelimeyle oda, ortak alan ve kira bilgisini tanımak",
+      "Wo ve wohin sorularını doğru anlamla eşleştirmek",
+      "İki hâlli yer edatlarında konum ve hedefi ayırmak",
+      "Stehen/stellen, liegen/legen, sitzen/sich setzen kullanmak",
+      "Kibar ricaya weil ile kısa bir gerekçe eklemek"
+    ],
+    "sessions": [
+      {
+        "title": "1. oturum · Konuyu adım adım öğren",
+        "description": "1–7. açıklamaları ve tabloları incele. Örnek cümlelerin Türkçe karşılığını kendi sözlerinle açıkla. İlerlemen kaydedilir; aynı gün bitirmek zorunda değilsin."
+      },
+      {
+        "title": "2. oturum · Bağlam içinde uygula",
+        "description": "8–14. açıklamaları ve iki metni çalış. Ardından 24 açıklamalı örneği inceleyip 20 yönlendirmeli soruyu çöz. Hatalı denemede açıklamayı okuyarak yeniden deneyebilirsin."
+      },
+      {
+        "title": "3. oturum · Bağımsız çalış ve tekrar et",
+        "description": "60 bağımsız soruyu çöz. Hatalarını ayrı tekrar bölümünde düzelt, özeti oku ve isteğe bağlı yazma kontrol listesini uygula. Serbest yazma otomatik notlandırılmaz."
+      }
+    ]
+  },
+  "summary": {
+    "takeaways": [
+      "Önce konum mu hedef mi olduğuna karar ver, sonra edatın kuralını uygula.",
+      "İki hâlli edatlar konumda Dativ, hedefe yerleştirmede Akkusativ alır.",
+      "Hareket eden bir eylem tek başına Akkusativ nedeni değildir: im Garten spielen.",
+      "Zu yön bildirse bile Dativ ister; bütün edatlara tek kural uygulama.",
+      "Stehen/liegen/sitzen mevcut durumu; stellen/legen/sich setzen yerleştirmeyi anlatır.",
+      "Ich setze mich, du setzt dich biçimlerinde dönüşlü zamiri koru.",
+      "An der Wand mevcut konum, an die Wand yerleştirme hedefidir.",
+      "Im = in dem; ins = in das. İki kısaltmanın anlamı farklıdır.",
+      "Könnten Sie ...? resmî kibar ricadır; weil yan cümlesinde çekimli fiil sonda kalır.",
+      "Kira, ek gider ve depozito ayrı kavramlardır; metinde olmayan bilgiyi varsayma."
+    ],
+    "vocabulary": [
+      {
+        "de": "die Wohnung",
+        "tr": "daire; konut"
+      },
+      {
+        "de": "der Flur",
+        "tr": "koridor; antre"
+      },
+      {
+        "de": "der Schrank",
+        "tr": "dolap"
+      },
+      {
+        "de": "das Regal",
+        "tr": "raf; raflı dolap"
+      },
+      {
+        "de": "das Sofa",
+        "tr": "kanepe"
+      },
+      {
+        "de": "der Sessel",
+        "tr": "koltuk"
+      },
+      {
+        "de": "das Kissen",
+        "tr": "yastık"
+      },
+      {
+        "de": "der Teppich",
+        "tr": "halı"
+      },
+      {
+        "de": "die Lampe",
+        "tr": "lamba"
+      },
+      {
+        "de": "die Wand",
+        "tr": "duvar"
+      },
+      {
+        "de": "der Balkon",
+        "tr": "balkon"
+      },
+      {
+        "de": "der Keller",
+        "tr": "bodrum; kiler"
+      },
+      {
+        "de": "das Treppenhaus",
+        "tr": "merdiven boşluğu; ortak merdiven alanı"
+      },
+      {
+        "de": "der Nachbar",
+        "tr": "erkek komşu; komşu"
+      },
+      {
+        "de": "die Nachbarin",
+        "tr": "kadın komşu"
+      },
+      {
+        "de": "die Miete",
+        "tr": "kira"
+      },
+      {
+        "de": "die Nebenkosten",
+        "tr": "ek giderler; yan giderler"
+      },
+      {
+        "de": "die Kaution",
+        "tr": "depozito"
+      },
+      {
+        "de": "die Hausordnung",
+        "tr": "bina kuralları; ev kuralları"
+      },
+      {
+        "de": "die Ruhe",
+        "tr": "sessizlik; huzur"
+      },
+      {
+        "de": "stellen",
+        "tr": "dik konumda yerleştirmek; koymak"
+      },
+      {
+        "de": "stehen",
+        "tr": "ayakta/dik durumda durmak"
+      },
+      {
+        "de": "legen",
+        "tr": "yatay biçimde koymak"
+      },
+      {
+        "de": "liegen",
+        "tr": "yatay durumda durmak; yatmak"
+      },
+      {
+        "de": "sich setzen",
+        "tr": "oturmak üzere bir yere geçmek"
+      },
+      {
+        "de": "sitzen",
+        "tr": "oturuyor olmak"
+      },
+      {
+        "de": "hängen",
+        "tr": "asılı olmak; asmak"
+      },
+      {
+        "de": "umziehen",
+        "tr": "taşınmak"
+      },
+      {
+        "de": "leise",
+        "tr": "sessiz; alçak sesle"
+      },
+      {
+        "de": "laut",
+        "tr": "gürültülü; yüksek sesli"
+      }
+    ],
+    "mistakes": [
+      "Konumda in dem → im.",
+      "Mevcut konumda auf dem Tisch.",
+      "Yerleştirme hedefi auf den Tisch.",
+      "Konum: neben dem Sofa.",
+      "Yerleştirme hedefi an die Wand.",
+      "Ich setze mich biçiminde zamiri koru.",
+      "Erkek Akkusativ nesne einen Balkon.",
+      "Weil yan cümlesinde modal fiil en sondadır."
+    ],
+    "examples": [
+      "Der Schrank steht im Flur.",
+      "Ich stelle den Schrank in den Flur.",
+      "Das Buch liegt auf dem Tisch."
+    ],
+    "writingChecklist": [
+      "Hayalî bir oda seç; gerçek adres veya özel bilgi gerekmez.",
+      "Üç konum ve iki yerleştirme cümlesi yaz.",
+      "Bir erkek, bir dişil, bir nötr isimle artikel farklarını kontrol et.",
+      "Bir kibar komşuluk ricası ve weil ile bir gerekçe ekle.",
+      "Her yer grubunda wo/wohin ve edatın istediği hâli ayrı kontrol et.",
+      "Serbest yazı otomatik notlandırılmaz; örnek kuralları gerçek kira/hukuk danışmanlığı olarak kullanma."
+    ]
+  }
+}

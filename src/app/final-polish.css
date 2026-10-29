@@ -1,0 +1,52 @@
+/* Small consistency/accessibility corrections; no layout or gameplay rewrite. */
+:where(a, button, input, select, textarea, summary):focus-visible {
+  outline: 3px solid #8061ad;
+  outline-offset: 4px;
+}
+.game-subtle,
+.game-badge p,
+.game-badge small,
+.game-history small,
+.game-milestones small,
+.game-summary > small {
+  color: #75617e;
+}
+.game-badge-state,
+.game-pill {
+  color: #725781;
+}
+.game-badge-reward {
+  color: #795a89;
+}
+.account-card small,
+.account-privacy-copy {
+  color: #74627e;
+}
+.birthday-memory-shortcut,
+.birthday-countdown-banner {
+  color: #796181;
+}
+.birthday-memory-shortcut a,
+.birthday-countdown-banner strong {
+  color: #79568c;
+}
+.birthday-page .eyebrow,
+.birthday-entrance .eyebrow {
+  color: #80618b;
+}
+@media (max-width: 700px) {
+  .welcome-return {
+    padding: 5px 0;
+    min-height: 36px;
+    display: inline-flex;
+    align-items: center;
+  }
+  .game-celebration .garden-button {
+    min-height: 42px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto !important;
+  }
+}

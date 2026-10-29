@@ -1,0 +1,2229 @@
+{
+  "version": 1,
+  "engine": "piper-tts 1.8.0",
+  "voice": "de_DE-thorsten-medium",
+  "encoder": "lameenc 1.8.1 / LAME",
+  "modelSha256": "7e64762d8e5118bb578f2eea6207e1a35a8e0c30595010b666f983fc87bb7819",
+  "episodes": {
+    "listen-a1-travel-bus": {
+      "url": "/audio/listening-complete/a5a15d69ce81fcc1b50212fa.mp3",
+      "duration": 34.4293877551024,
+      "sampleRate": 22050,
+      "sha256": "a5a15d69ce81fcc1b50212fad2f71884fedd18fa9723343184fcf2e7df78530e",
+      "segments": [
+        {
+          "id": "listen-a1-travel-bus:s1",
+          "start": 0,
+          "end": 5.0967800453514736
+        },
+        {
+          "id": "listen-a1-travel-bus:s2",
+          "start": 5.446757369614512,
+          "end": 9.858548752834466
+        },
+        {
+          "id": "listen-a1-travel-bus:s3",
+          "start": 10.208526077097504,
+          "end": 15.131156462585032
+        },
+        {
+          "id": "listen-a1-travel-bus:s4",
+          "start": 15.481133786848071,
+          "end": 22.08721088435374
+        },
+        {
+          "id": "listen-a1-travel-bus:s5",
+          "start": 22.437188208616778,
+          "end": 27.998367346938775
+        },
+        {
+          "id": "listen-a1-travel-bus:s6",
+          "start": 28.34834467120181,
+          "end": 34.00240362811791
+        }
+      ],
+      "textSha256": "8c05c407f69fdf085e2e12e211656afdb5fd6ab4f2cf703759961386800265d3"
+    },
+    "listen-a1-technology-call": {
+      "url": "/audio/listening-complete/92173ea606aba47b122b816f.mp3",
+      "duration": 34.7428571428575,
+      "sampleRate": 22050,
+      "sha256": "92173ea606aba47b122b816fd876d517b2e2fff87b37858136c407033cc8b214",
+      "segments": [
+        {
+          "id": "listen-a1-technology-call:s1",
+          "start": 0,
+          "end": 4.841360544217687
+        },
+        {
+          "id": "listen-a1-technology-call:s2",
+          "start": 5.191337868480725,
+          "end": 10.973106575963719
+        },
+        {
+          "id": "listen-a1-technology-call:s3",
+          "start": 11.323083900226758,
+          "end": 16.512743764172335
+        },
+        {
+          "id": "listen-a1-technology-call:s4",
+          "start": 16.86272108843537,
+          "end": 21.425442176870746
+        },
+        {
+          "id": "listen-a1-technology-call:s5",
+          "start": 21.775419501133783,
+          "end": 27.278548752834464
+        },
+        {
+          "id": "listen-a1-technology-call:s6",
+          "start": 27.6285260770975,
+          "end": 34.31587301587301
+        }
+      ],
+      "textSha256": "5a848062ec5460fb075b02ee576f53c3b4c4ee3ec0f6013c2e0d6b7c2bde7a80"
+    },
+    "listen-a1-grammar-person": {
+      "url": "/audio/listening-complete/409eed7d3796c1ee825b89f1.mp3",
+      "duration": 35.78775510204119,
+      "sampleRate": 22050,
+      "sha256": "409eed7d3796c1ee825b89f174da0b9768c30efc29b02a4e9372c31bfb22a668",
+      "segments": [
+        {
+          "id": "listen-a1-grammar-person:s1",
+          "start": 0,
+          "end": 5.735328798185941
+        },
+        {
+          "id": "listen-a1-grammar-person:s2",
+          "start": 6.08530612244898,
+          "end": 11.809024943310657
+        },
+        {
+          "id": "listen-a1-grammar-person:s3",
+          "start": 12.159002267573696,
+          "end": 17.731791383219953
+        },
+        {
+          "id": "listen-a1-grammar-person:s4",
+          "start": 18.08176870748299,
+          "end": 23.13210884353741
+        },
+        {
+          "id": "listen-a1-grammar-person:s5",
+          "start": 23.482086167800446,
+          "end": 29.438004535147385
+        },
+        {
+          "id": "listen-a1-grammar-person:s6",
+          "start": 29.787981859410422,
+          "end": 35.383990929705206
+        }
+      ],
+      "textSha256": "81ab1412fdfc752228ec8d1821d1a6a5212d694cb79b407586158a14625b1169"
+    },
+    "listen-a2-plan-2": {
+      "url": "/audio/listening-complete/9d3f981d0617f6061331aa58.mp3",
+      "duration": 42.318367346939226,
+      "sampleRate": 22050,
+      "sha256": "9d3f981d0617f6061331aa58bfee6606cec745f9595730f57070ffd6e7034988",
+      "segments": [
+        {
+          "id": "listen-a2-plan-2:s1",
+          "start": 0,
+          "end": 4.539501133786848
+        },
+        {
+          "id": "listen-a2-plan-2:s2",
+          "start": 4.8894784580498865,
+          "end": 10.090748299319728
+        },
+        {
+          "id": "listen-a2-plan-2:s3",
+          "start": 10.440725623582766,
+          "end": 15.53750566893424
+        },
+        {
+          "id": "listen-a2-plan-2:s4",
+          "start": 15.88748299319728,
+          "end": 20.810113378684807
+        },
+        {
+          "id": "listen-a2-plan-2:s5",
+          "start": 21.160090702947844,
+          "end": 26.709659863945575
+        },
+        {
+          "id": "listen-a2-plan-2:s6",
+          "start": 27.05963718820861,
+          "end": 31.924217687074826
+        },
+        {
+          "id": "listen-a2-plan-2:s7",
+          "start": 32.274195011337866,
+          "end": 36.8485260770975
+        },
+        {
+          "id": "listen-a2-plan-2:s8",
+          "start": 37.19850340136054,
+          "end": 41.90054421768707
+        }
+      ],
+      "textSha256": "67b39bc45bed4253d7c309d5b3e9762941fffb04f34c491c97b27ed00aa998c0"
+    },
+    "listen-a2-plan-3": {
+      "url": "/audio/listening-complete/58b80ac26c513bb0224e7009.mp3",
+      "duration": 47.072653061225,
+      "sampleRate": 22050,
+      "sha256": "58b80ac26c513bb0224e700918577a5ebd038a189da73018f5b7ff1ce5bb3c04",
+      "segments": [
+        {
+          "id": "listen-a2-plan-3:s1",
+          "start": 0,
+          "end": 6.373877551020408
+        },
+        {
+          "id": "listen-a2-plan-3:s2",
+          "start": 6.723854875283447,
+          "end": 12.80748299319728
+        },
+        {
+          "id": "listen-a2-plan-3:s3",
+          "start": 13.157460317460318,
+          "end": 18.753469387755104
+        },
+        {
+          "id": "listen-a2-plan-3:s4",
+          "start": 19.10344671201814,
+          "end": 25.001315192743764
+        },
+        {
+          "id": "listen-a2-plan-3:s5",
+          "start": 25.3512925170068,
+          "end": 30.761541950113376
+        },
+        {
+          "id": "listen-a2-plan-3:s6",
+          "start": 31.111519274376413,
+          "end": 36.8004081632653
+        },
+        {
+          "id": "listen-a2-plan-3:s7",
+          "start": 37.15038548752834,
+          "end": 41.46929705215419
+        },
+        {
+          "id": "listen-a2-plan-3:s8",
+          "start": 41.819274376417226,
+          "end": 46.64902494331065
+        }
+      ],
+      "textSha256": "6966590197b85559f50cf08fe5f91840675c7f15f893019110df760e28d59330"
+    },
+    "listen-a2-plan-4": {
+      "url": "/audio/listening-complete/95eaf1834c57e69088acbad5.mp3",
+      "duration": 50.18122448979646,
+      "sampleRate": 22050,
+      "sha256": "95eaf1834c57e69088acbad5ad8fac2e7c80dbc2de57b8c240856b90964bb71a",
+      "segments": [
+        {
+          "id": "listen-a2-plan-4:s1",
+          "start": 0,
+          "end": 5.421859410430839
+        },
+        {
+          "id": "listen-a2-plan-4:s2",
+          "start": 5.771836734693878,
+          "end": 11.867074829931973
+        },
+        {
+          "id": "listen-a2-plan-4:s3",
+          "start": 12.217052154195011,
+          "end": 19.47328798185941
+        },
+        {
+          "id": "listen-a2-plan-4:s4",
+          "start": 19.823265306122448,
+          "end": 26.417732426303854
+        },
+        {
+          "id": "listen-a2-plan-4:s5",
+          "start": 26.76770975056689,
+          "end": 32.08507936507936
+        },
+        {
+          "id": "listen-a2-plan-4:s6",
+          "start": 32.435056689342396,
+          "end": 37.70598639455781
+        },
+        {
+          "id": "listen-a2-plan-4:s7",
+          "start": 38.05596371882085,
+          "end": 43.62875283446711
+        },
+        {
+          "id": "listen-a2-plan-4:s8",
+          "start": 43.978730158730144,
+          "end": 49.7721088435374
+        }
+      ],
+      "textSha256": "acbac6f0050b30a820bcd1c47b8fe1988f2b9799da4837f3dc807728051472f6"
+    },
+    "listen-a2-plan-5": {
+      "url": "/audio/listening-complete/5d7a4a24f87921fbb298736e.mp3",
+      "duration": 52.21877551020465,
+      "sampleRate": 22050,
+      "sha256": "5d7a4a24f87921fbb298736e49e2b9956cdf3def3ef062936b1953b987f766db",
+      "segments": [
+        {
+          "id": "listen-a2-plan-5:s1",
+          "start": 0,
+          "end": 6.5712471655328795
+        },
+        {
+          "id": "listen-a2-plan-5:s2",
+          "start": 6.921224489795918,
+          "end": 13.596961451247164
+        },
+        {
+          "id": "listen-a2-plan-5:s3",
+          "start": 13.946938775510203,
+          "end": 19.461678004535145
+        },
+        {
+          "id": "listen-a2-plan-5:s4",
+          "start": 19.81165532879818,
+          "end": 25.802403628117908
+        },
+        {
+          "id": "listen-a2-plan-5:s5",
+          "start": 26.152380952380945,
+          "end": 32.18956916099773
+        },
+        {
+          "id": "listen-a2-plan-5:s6",
+          "start": 32.539546485260765,
+          "end": 38.95986394557823
+        },
+        {
+          "id": "listen-a2-plan-5:s7",
+          "start": 39.309841269841264,
+          "end": 44.859410430839
+        },
+        {
+          "id": "listen-a2-plan-5:s8",
+          "start": 45.209387755102036,
+          "end": 51.79224489795918
+        }
+      ],
+      "textSha256": "f778d73c6e5f42d74c6359e2df50cafbf72485f0d8bbcfcd0f1152c95752c1d4"
+    },
+    "listen-a2-plan-6": {
+      "url": "/audio/listening-complete/efefe3d1d633df791587d517.mp3",
+      "duration": 48.45714285714338,
+      "sampleRate": 22050,
+      "sha256": "efefe3d1d633df791587d517a11b4b43c9037f266572f6a010f45aa0e8efff46",
+      "segments": [
+        {
+          "id": "listen-a2-plan-6:s1",
+          "start": 0,
+          "end": 7.592925170068027
+        },
+        {
+          "id": "listen-a2-plan-6:s2",
+          "start": 7.942902494331066,
+          "end": 13.38798185941043
+        },
+        {
+          "id": "listen-a2-plan-6:s3",
+          "start": 13.73795918367347,
+          "end": 19.380408163265308
+        },
+        {
+          "id": "listen-a2-plan-6:s4",
+          "start": 19.730385487528345,
+          "end": 24.95487528344671
+        },
+        {
+          "id": "listen-a2-plan-6:s5",
+          "start": 25.304852607709748,
+          "end": 31.144671201814056
+        },
+        {
+          "id": "listen-a2-plan-6:s6",
+          "start": 31.494648526077093,
+          "end": 36.76557823129251
+        },
+        {
+          "id": "listen-a2-plan-6:s7",
+          "start": 37.115555555555545,
+          "end": 42.83927437641722
+        },
+        {
+          "id": "listen-a2-plan-6:s8",
+          "start": 43.18925170068026,
+          "end": 48.05383219954647
+        }
+      ],
+      "textSha256": "44c7f3e057445056117a6f986dbf4b286f5ca8cf5b41311eee50f17ad6c71494"
+    },
+    "listen-a2-plan-7": {
+      "url": "/audio/listening-complete/a7d137d2d4b8ce2dd78835d5.mp3",
+      "duration": 49.972244897959726,
+      "sampleRate": 22050,
+      "sha256": "a7d137d2d4b8ce2dd78835d583e985dcf4ac1c2aabf1512464aec1697d54b70e",
+      "segments": [
+        {
+          "id": "listen-a2-plan-7:s1",
+          "start": 0,
+          "end": 6.443537414965986
+        },
+        {
+          "id": "listen-a2-plan-7:s2",
+          "start": 6.793514739229025,
+          "end": 12.23859410430839
+        },
+        {
+          "id": "listen-a2-plan-7:s3",
+          "start": 12.588571428571429,
+          "end": 18.89278911564626
+        },
+        {
+          "id": "listen-a2-plan-7:s4",
+          "start": 19.242766439909296,
+          "end": 25.082585034013604
+        },
+        {
+          "id": "listen-a2-plan-7:s5",
+          "start": 25.43256235827664,
+          "end": 31.365260770975055
+        },
+        {
+          "id": "listen-a2-plan-7:s6",
+          "start": 31.715238095238092,
+          "end": 37.70598639455782
+        },
+        {
+          "id": "listen-a2-plan-7:s7",
+          "start": 38.055963718820855,
+          "end": 43.43138321995464
+        },
+        {
+          "id": "listen-a2-plan-7:s8",
+          "start": 43.78136054421768,
+          "end": 49.56312925170067
+        }
+      ],
+      "textSha256": "99bd71af6e9f2502d42587076dad23324f62d91c52cc01eef66750cb6ad86a1b"
+    },
+    "listen-a2-grammar-perfekt": {
+      "url": "/audio/listening-complete/c8b830e91608b0ee3d5ce847.mp3",
+      "duration": 50.54693877551075,
+      "sampleRate": 22050,
+      "sha256": "c8b830e91608b0ee3d5ce847cf25374ee53d1ab6101742e0346b32ba47cc9482",
+      "segments": [
+        {
+          "id": "listen-a2-grammar-perfekt:s1",
+          "start": 0,
+          "end": 6.15328798185941
+        },
+        {
+          "id": "listen-a2-grammar-perfekt:s2",
+          "start": 6.503265306122449,
+          "end": 12.110884353741497
+        },
+        {
+          "id": "listen-a2-grammar-perfekt:s3",
+          "start": 12.460861678004536,
+          "end": 17.917551020408162
+        },
+        {
+          "id": "listen-a2-grammar-perfekt:s4",
+          "start": 18.2675283446712,
+          "end": 23.63133786848072
+        },
+        {
+          "id": "listen-a2-grammar-perfekt:s5",
+          "start": 23.981315192743757,
+          "end": 29.321904761904754
+        },
+        {
+          "id": "listen-a2-grammar-perfekt:s6",
+          "start": 29.67188208616779,
+          "end": 36.08058956916099
+        },
+        {
+          "id": "listen-a2-grammar-perfekt:s7",
+          "start": 36.43056689342403,
+          "end": 42.56063492063491
+        },
+        {
+          "id": "listen-a2-grammar-perfekt:s8",
+          "start": 42.91061224489795,
+          "end": 50.14362811791382
+        }
+      ],
+      "textSha256": "db4ca4ea147cdb45f5b8e29ffc060e5381f0251376bee43ccc9babf5f23cef77"
+    },
+    "listen-a2-education-shift": {
+      "url": "/audio/listening-complete/5da7dc339ed6ece0570b4788.mp3",
+      "duration": 42.94530612244944,
+      "sampleRate": 22050,
+      "sha256": "5da7dc339ed6ece0570b47885e9f3228600eee760c51c9f713b22cd37b1d18ae",
+      "segments": [
+        {
+          "id": "listen-a2-education-shift:s1",
+          "start": 0,
+          "end": 7.070476190476191
+        },
+        {
+          "id": "listen-a2-education-shift:s2",
+          "start": 7.420453514739229,
+          "end": 13.701451247165533
+        },
+        {
+          "id": "listen-a2-education-shift:s3",
+          "start": 14.051428571428572,
+          "end": 19.85641723356009
+        },
+        {
+          "id": "listen-a2-education-shift:s4",
+          "start": 20.206394557823128,
+          "end": 27.729659863945578
+        },
+        {
+          "id": "listen-a2-education-shift:s5",
+          "start": 28.079637188208615,
+          "end": 34.97596371882086
+        },
+        {
+          "id": "listen-a2-education-shift:s6",
+          "start": 35.325941043083894,
+          "end": 42.52412698412698
+        }
+      ],
+      "textSha256": "3d3994b4bd8828a996be3baa399da97aaaf40b10852c266d162be4a2166a09c9"
+    },
+    "listen-a2-technology-library": {
+      "url": "/audio/listening-complete/8bb1cf51004dcfbc31ffb537.mp3",
+      "duration": 45.087346938775994,
+      "sampleRate": 22050,
+      "sha256": "8bb1cf51004dcfbc31ffb537cdcf71a19e79c01b98e547c8d8c2fba3d7671e19",
+      "segments": [
+        {
+          "id": "listen-a2-technology-library:s1",
+          "start": 0,
+          "end": 6.884716553287982
+        },
+        {
+          "id": "listen-a2-technology-library:s2",
+          "start": 7.23469387755102,
+          "end": 13.38798185941043
+        },
+        {
+          "id": "listen-a2-technology-library:s3",
+          "start": 13.73795918367347,
+          "end": 20.251156462585033
+        },
+        {
+          "id": "listen-a2-technology-library:s4",
+          "start": 20.60113378684807,
+          "end": 28.077959183673467
+        },
+        {
+          "id": "listen-a2-technology-library:s5",
+          "start": 28.427936507936504,
+          "end": 35.86993197278911
+        },
+        {
+          "id": "listen-a2-technology-library:s6",
+          "start": 36.21990929705215,
+          "end": 44.66036281179137
+        }
+      ],
+      "textSha256": "f4e54f48018578872666c76a1c5de3721bfeff0d4f30d8fc541d99e03d092e9d"
+    },
+    "listen-a2-words-time": {
+      "url": "/audio/listening-complete/e39482ac338bf2bb730bd101.mp3",
+      "duration": 41.11673469387799,
+      "sampleRate": 22050,
+      "sha256": "e39482ac338bf2bb730bd1016cec9172bcc0694da3a79b4537906890af0de45a",
+      "segments": [
+        {
+          "id": "listen-a2-words-time:s1",
+          "start": 0,
+          "end": 6.3854875283446715
+        },
+        {
+          "id": "listen-a2-words-time:s2",
+          "start": 6.73546485260771,
+          "end": 13.713061224489795
+        },
+        {
+          "id": "listen-a2-words-time:s3",
+          "start": 14.063038548752834,
+          "end": 19.39201814058957
+        },
+        {
+          "id": "listen-a2-words-time:s4",
+          "start": 19.741995464852607,
+          "end": 25.10580498866213
+        },
+        {
+          "id": "listen-a2-words-time:s5",
+          "start": 25.455782312925166,
+          "end": 31.423310657596367
+        },
+        {
+          "id": "listen-a2-words-time:s6",
+          "start": 31.773287981859404,
+          "end": 40.689750566893416
+        }
+      ],
+      "textSha256": "78ec2b901f6ce1ce96f23925652282ca7c9dcab3eee5054051756074d8c6b7eb"
+    },
+    "listen-b1-plan-2": {
+      "url": "/audio/listening-complete/2a9112ece594b32a1828e492.mp3",
+      "duration": 59.97714285714352,
+      "sampleRate": 22050,
+      "sha256": "2a9112ece594b32a1828e4920152ca6146166401a4b5ad216e7aecfc884ac023",
+      "segments": [
+        {
+          "id": "listen-b1-plan-2:s1",
+          "start": 0,
+          "end": 6.675736961451247
+        },
+        {
+          "id": "listen-b1-plan-2:s2",
+          "start": 7.025714285714286,
+          "end": 13.829160997732426
+        },
+        {
+          "id": "listen-b1-plan-2:s3",
+          "start": 14.179138321995465,
+          "end": 21.505034013605442
+        },
+        {
+          "id": "listen-b1-plan-2:s4",
+          "start": 21.85501133786848,
+          "end": 29.622086167800454
+        },
+        {
+          "id": "listen-b1-plan-2:s5",
+          "start": 29.97206349206349,
+          "end": 36.79873015873016
+        },
+        {
+          "id": "listen-b1-plan-2:s6",
+          "start": 37.148707482993196,
+          "end": 43.80122448979591
+        },
+        {
+          "id": "listen-b1-plan-2:s7",
+          "start": 44.15120181405895,
+          "end": 50.93142857142857
+        },
+        {
+          "id": "listen-b1-plan-2:s8",
+          "start": 51.281405895691606,
+          "end": 59.57092970521541
+        }
+      ],
+      "textSha256": "65ab073d917bfec106b24c5a5c345348fea1932cc16e1b1d12d9f75a58422cd4"
+    },
+    "listen-b1-plan-3": {
+      "url": "/audio/listening-complete/105f3cf6b402675b9bdcce4d.mp3",
+      "duration": 63.00734693877621,
+      "sampleRate": 22050,
+      "sha256": "105f3cf6b402675b9bdcce4df77679b79762885dbaac3bd8b9a6619f33e0d6c1",
+      "segments": [
+        {
+          "id": "listen-b1-plan-3:s1",
+          "start": 0,
+          "end": 7.209795918367347
+        },
+        {
+          "id": "listen-b1-plan-3:s2",
+          "start": 7.559773242630386,
+          "end": 14.8740589569161
+        },
+        {
+          "id": "listen-b1-plan-3:s3",
+          "start": 15.224036281179139,
+          "end": 23.420680272108843
+        },
+        {
+          "id": "listen-b1-plan-3:s4",
+          "start": 23.77065759637188,
+          "end": 31.305532879818593
+        },
+        {
+          "id": "listen-b1-plan-3:s5",
+          "start": 31.65551020408163,
+          "end": 38.54022675736961
+        },
+        {
+          "id": "listen-b1-plan-3:s6",
+          "start": 38.890204081632646,
+          "end": 47.15650793650793
+        },
+        {
+          "id": "listen-b1-plan-3:s7",
+          "start": 47.506485260770965,
+          "end": 54.93687074829931
+        },
+        {
+          "id": "listen-b1-plan-3:s8",
+          "start": 55.28684807256235,
+          "end": 62.60113378684807
+        }
+      ],
+      "textSha256": "cf2ceb0e48331dd17c8c64316927a6001a725ad075c9ba9a42bb7ed8b6872769"
+    },
+    "listen-b1-plan-4": {
+      "url": "/audio/listening-complete/2589e0ebfe55bae6af328da2.mp3",
+      "duration": 60.26448979591903,
+      "sampleRate": 22050,
+      "sha256": "2589e0ebfe55bae6af328da21a84c8329e79b564334fe9e2495971adaccdb384",
+      "segments": [
+        {
+          "id": "listen-b1-plan-4:s1",
+          "start": 0,
+          "end": 6.6873469387755105
+        },
+        {
+          "id": "listen-b1-plan-4:s2",
+          "start": 7.037324263038549,
+          "end": 14.154240362811791
+        },
+        {
+          "id": "listen-b1-plan-4:s3",
+          "start": 14.50421768707483,
+          "end": 22.236462585034012
+        },
+        {
+          "id": "listen-b1-plan-4:s4",
+          "start": 22.58643990929705,
+          "end": 29.494376417233557
+        },
+        {
+          "id": "listen-b1-plan-4:s5",
+          "start": 29.844353741496594,
+          "end": 37.62303854875283
+        },
+        {
+          "id": "listen-b1-plan-4:s6",
+          "start": 37.97301587301587,
+          "end": 45.066712018140585
+        },
+        {
+          "id": "listen-b1-plan-4:s7",
+          "start": 45.41668934240362,
+          "end": 51.59319727891156
+        },
+        {
+          "id": "listen-b1-plan-4:s8",
+          "start": 51.9431746031746,
+          "end": 59.86117913832199
+        }
+      ],
+      "textSha256": "5ce892603a7f9b955bf83a6509311e66b9d0f3fe9deea0bcb36a68f0911029a7"
+    },
+    "listen-b1-plan-5": {
+      "url": "/audio/listening-complete/e435a6d21db31184600db50c.mp3",
+      "duration": 57.730612244898595,
+      "sampleRate": 22050,
+      "sha256": "e435a6d21db31184600db50c56ce7501e7571568aa4fb80e161ab7aeab5d0aab",
+      "segments": [
+        {
+          "id": "listen-b1-plan-5:s1",
+          "start": 0,
+          "end": 7.198185941043084
+        },
+        {
+          "id": "listen-b1-plan-5:s2",
+          "start": 7.548163265306123,
+          "end": 13.53891156462585
+        },
+        {
+          "id": "listen-b1-plan-5:s3",
+          "start": 13.88888888888889,
+          "end": 20.796825396825398
+        },
+        {
+          "id": "listen-b1-plan-5:s4",
+          "start": 21.146802721088434,
+          "end": 27.96185941043084
+        },
+        {
+          "id": "listen-b1-plan-5:s5",
+          "start": 28.311836734693877,
+          "end": 35.42875283446712
+        },
+        {
+          "id": "listen-b1-plan-5:s6",
+          "start": 35.778730158730156,
+          "end": 42.46607709750567
+        },
+        {
+          "id": "listen-b1-plan-5:s7",
+          "start": 42.816054421768705,
+          "end": 50.11873015873016
+        },
+        {
+          "id": "listen-b1-plan-5:s8",
+          "start": 50.468707482993196,
+          "end": 57.306984126984126
+        }
+      ],
+      "textSha256": "9fc00375b474cc0a64683ecfeac280984d253e2e767a6756078081a2de484bca"
+    },
+    "listen-b1-plan-6": {
+      "url": "/audio/listening-complete/faf8f4bad7271d5baa049656.mp3",
+      "duration": 64.88816326530684,
+      "sampleRate": 22050,
+      "sha256": "faf8f4bad7271d5baa04965636c8cc6304719de0911f79069bd7ed4d5a031e29",
+      "segments": [
+        {
+          "id": "listen-b1-plan-6:s1",
+          "start": 0,
+          "end": 8.25469387755102
+        },
+        {
+          "id": "listen-b1-plan-6:s2",
+          "start": 8.604671201814059,
+          "end": 16.267256235827663
+        },
+        {
+          "id": "listen-b1-plan-6:s3",
+          "start": 16.6172335600907,
+          "end": 24.25659863945578
+        },
+        {
+          "id": "listen-b1-plan-6:s4",
+          "start": 24.606575963718818,
+          "end": 33.20956916099773
+        },
+        {
+          "id": "listen-b1-plan-6:s5",
+          "start": 33.55954648526077,
+          "end": 41.036371882086165
+        },
+        {
+          "id": "listen-b1-plan-6:s6",
+          "start": 41.3863492063492,
+          "end": 48.131746031746026
+        },
+        {
+          "id": "listen-b1-plan-6:s7",
+          "start": 48.48172335600906,
+          "end": 55.261950113378674
+        },
+        {
+          "id": "listen-b1-plan-6:s8",
+          "start": 55.61192743764171,
+          "end": 64.4703401360544
+        }
+      ],
+      "textSha256": "137509aa367434a6eda7d0d48625d9b16e6b1cce455aa8c85d1c73e5d125a484"
+    },
+    "listen-b1-plan-7": {
+      "url": "/audio/listening-complete/afdfcf616161665bdeb40006.mp3",
+      "duration": 59.95102040816393,
+      "sampleRate": 22050,
+      "sha256": "afdfcf616161665bdeb40006657320e8c9ac35f4a713dbce41c094dd547ff9b9",
+      "segments": [
+        {
+          "id": "listen-b1-plan-7:s1",
+          "start": 0,
+          "end": 7.1053061224489795
+        },
+        {
+          "id": "listen-b1-plan-7:s2",
+          "start": 7.455283446712018,
+          "end": 14.467709750566893
+        },
+        {
+          "id": "listen-b1-plan-7:s3",
+          "start": 14.817687074829932,
+          "end": 22.10875283446712
+        },
+        {
+          "id": "listen-b1-plan-7:s4",
+          "start": 22.458730158730155,
+          "end": 30.051655328798184
+        },
+        {
+          "id": "listen-b1-plan-7:s5",
+          "start": 30.40163265306122,
+          "end": 36.31111111111111
+        },
+        {
+          "id": "listen-b1-plan-7:s6",
+          "start": 36.66108843537415,
+          "end": 43.812834467120176
+        },
+        {
+          "id": "listen-b1-plan-7:s7",
+          "start": 44.16281179138321,
+          "end": 51.24489795918367
+        },
+        {
+          "id": "listen-b1-plan-7:s8",
+          "start": 51.594875283446704,
+          "end": 59.524489795918356
+        }
+      ],
+      "textSha256": "dea9f655b8453973af1705dd9d796f5fd0112f17ba4eaa094c782f98f945337b"
+    },
+    "listen-b1-technology-update": {
+      "url": "/audio/listening-complete/cac6e1d8b404d1ab301a4f96.mp3",
+      "duration": 56.97306122449042,
+      "sampleRate": 22050,
+      "sha256": "cac6e1d8b404d1ab301a4f96cde0cc1916f66c7d7f5aea977d74dfab3ee29e20",
+      "segments": [
+        {
+          "id": "listen-b1-technology-update:s1",
+          "start": 0,
+          "end": 8.40562358276644
+        },
+        {
+          "id": "listen-b1-technology-update:s2",
+          "start": 8.755600907029478,
+          "end": 19.12331065759637
+        },
+        {
+          "id": "listen-b1-technology-update:s3",
+          "start": 19.473287981859407,
+          "end": 28.00662131519274
+        },
+        {
+          "id": "listen-b1-technology-update:s4",
+          "start": 28.356598639455775,
+          "end": 37.110521541950106
+        },
+        {
+          "id": "listen-b1-technology-update:s5",
+          "start": 37.46049886621314,
+          "end": 46.330521541950105
+        },
+        {
+          "id": "listen-b1-technology-update:s6",
+          "start": 46.68049886621314,
+          "end": 56.56058956916099
+        }
+      ],
+      "textSha256": "8aa0e02cf7d291be805f6a61b338a3585a08dcfb295841587b6365efe3527f83"
+    },
+    "listen-b1-grammar-relatives": {
+      "url": "/audio/listening-complete/79929119f4b572fde9b8455f.mp3",
+      "duration": 47.75183673469439,
+      "sampleRate": 22050,
+      "sha256": "79929119f4b572fde9b8455f7cbc60f10c077a2201596c3bc7a0e14572ba8dfd",
+      "segments": [
+        {
+          "id": "listen-b1-grammar-relatives:s1",
+          "start": 0,
+          "end": 7.4071655328798185
+        },
+        {
+          "id": "listen-b1-grammar-relatives:s2",
+          "start": 7.757142857142857,
+          "end": 15.79124716553288
+        },
+        {
+          "id": "listen-b1-grammar-relatives:s3",
+          "start": 16.141224489795917,
+          "end": 23.49034013605442
+        },
+        {
+          "id": "listen-b1-grammar-relatives:s4",
+          "start": 23.840317460317458,
+          "end": 29.81945578231292
+        },
+        {
+          "id": "listen-b1-grammar-relatives:s5",
+          "start": 30.16943310657596,
+          "end": 39.30648526077097
+        },
+        {
+          "id": "listen-b1-grammar-relatives:s6",
+          "start": 39.65646258503401,
+          "end": 47.33065759637188
+        }
+      ],
+      "textSha256": "b0d409dbdfb2b6bb65e95fc476ca0c35249cca58e2a933ce7302045a1bfb02d0"
+    },
+    "listen-b1-words-opinion": {
+      "url": "/audio/listening-complete/a4f65b98ececd1d04bbbdfe1.mp3",
+      "duration": 50.99102040816382,
+      "sampleRate": 22050,
+      "sha256": "a4f65b98ececd1d04bbbdfe1497b02845336692d74787dbccd1a4305ccb9cb4e",
+      "segments": [
+        {
+          "id": "listen-b1-words-opinion:s1",
+          "start": 0,
+          "end": 7.650975056689342
+        },
+        {
+          "id": "listen-b1-words-opinion:s2",
+          "start": 8.00095238095238,
+          "end": 15.57065759637188
+        },
+        {
+          "id": "listen-b1-words-opinion:s3",
+          "start": 15.92063492063492,
+          "end": 24.012789115646257
+        },
+        {
+          "id": "listen-b1-words-opinion:s4",
+          "start": 24.362766439909294,
+          "end": 31.99052154195011
+        },
+        {
+          "id": "listen-b1-words-opinion:s5",
+          "start": 32.340498866213146,
+          "end": 41.41950113378684
+        },
+        {
+          "id": "listen-b1-words-opinion:s6",
+          "start": 41.769478458049875,
+          "end": 50.58145124716552
+        }
+      ],
+      "textSha256": "be0c4897e04d3ac2886a361e3b36f7258a19be74be5f8639088044298138e1d1"
+    },
+    "listen-b2-plan-2": {
+      "url": "/audio/listening-complete/1f6636e8688cfb1fb8a82602.mp3",
+      "duration": 74.3706122448988,
+      "sampleRate": 22050,
+      "sha256": "1f6636e8688cfb1fb8a82602066e1111a0b69fe18f7457a3919ed1231f3fa8d7",
+      "segments": [
+        {
+          "id": "listen-b2-plan-2:s1",
+          "start": 0,
+          "end": 8.730702947845804
+        },
+        {
+          "id": "listen-b2-plan-2:s2",
+          "start": 9.080680272108843,
+          "end": 18.670521541950112
+        },
+        {
+          "id": "listen-b2-plan-2:s3",
+          "start": 19.02049886621315,
+          "end": 28.320090702947844
+        },
+        {
+          "id": "listen-b2-plan-2:s4",
+          "start": 28.67006802721088,
+          "end": 36.68095238095238
+        },
+        {
+          "id": "listen-b2-plan-2:s5",
+          "start": 37.030929705215414,
+          "end": 46.52789115646258
+        },
+        {
+          "id": "listen-b2-plan-2:s6",
+          "start": 46.87786848072562,
+          "end": 56.154240362811784
+        },
+        {
+          "id": "listen-b2-plan-2:s7",
+          "start": 56.50421768707482,
+          "end": 66.1869387755102
+        },
+        {
+          "id": "listen-b2-plan-2:s8",
+          "start": 66.53691609977324,
+          "end": 73.96730158730158
+        }
+      ],
+      "textSha256": "f3c26ce582a31077f5f17a7125e0a10b9215b519d51184ea2e64fe41b87eb6e5"
+    },
+    "listen-b2-plan-3": {
+      "url": "/audio/listening-complete/e9ace4c17ac108ecf82a2080.mp3",
+      "duration": 72.17632653061305,
+      "sampleRate": 22050,
+      "sha256": "e9ace4c17ac108ecf82a2080909c23b65afc56c2068b0c5f81fb7e876c7032a3",
+      "segments": [
+        {
+          "id": "listen-b2-plan-3:s1",
+          "start": 0,
+          "end": 8.161814058956915
+        },
+        {
+          "id": "listen-b2-plan-3:s2",
+          "start": 8.511791383219954,
+          "end": 17.40503401360544
+        },
+        {
+          "id": "listen-b2-plan-3:s3",
+          "start": 17.755011337868478,
+          "end": 26.299954648526075
+        },
+        {
+          "id": "listen-b2-plan-3:s4",
+          "start": 26.649931972789112,
+          "end": 34.02226757369614
+        },
+        {
+          "id": "listen-b2-plan-3:s5",
+          "start": 34.37224489795918,
+          "end": 42.882358276643984
+        },
+        {
+          "id": "listen-b2-plan-3:s6",
+          "start": 43.23233560090702,
+          "end": 52.659637188208606
+        },
+        {
+          "id": "listen-b2-plan-3:s7",
+          "start": 53.00961451247164,
+          "end": 62.25115646258502
+        },
+        {
+          "id": "listen-b2-plan-3:s8",
+          "start": 62.60113378684806,
+          "end": 71.77301587301586
+        }
+      ],
+      "textSha256": "a1976e64c989b4e4c6b0dff09e5ce2dfc19b81fe6e262cbd5149cf8712f01d5f"
+    },
+    "listen-b2-plan-4": {
+      "url": "/audio/listening-complete/c1d80d619a04ffc1a35a4ef6.mp3",
+      "duration": 72.38530612244979,
+      "sampleRate": 22050,
+      "sha256": "c1d80d619a04ffc1a35a4ef633c0d9d9433d160bf04e6ecde3f5185e536d4e6d",
+      "segments": [
+        {
+          "id": "listen-b2-plan-4:s1",
+          "start": 0,
+          "end": 7.9760544217687075
+        },
+        {
+          "id": "listen-b2-plan-4:s2",
+          "start": 8.326031746031745,
+          "end": 18.322222222222223
+        },
+        {
+          "id": "listen-b2-plan-4:s3",
+          "start": 18.67219954648526,
+          "end": 28.482630385487525
+        },
+        {
+          "id": "listen-b2-plan-4:s4",
+          "start": 28.83260770975056,
+          "end": 37.79551020408163
+        },
+        {
+          "id": "listen-b2-plan-4:s5",
+          "start": 38.14548752834467,
+          "end": 46.84136054421768
+        },
+        {
+          "id": "listen-b2-plan-4:s6",
+          "start": 47.191337868480716,
+          "end": 55.37637188208616
+        },
+        {
+          "id": "listen-b2-plan-4:s7",
+          "start": 55.7263492063492,
+          "end": 63.365714285714276
+        },
+        {
+          "id": "listen-b2-plan-4:s8",
+          "start": 63.71569160997731,
+          "end": 71.9819954648526
+        }
+      ],
+      "textSha256": "2099074613c3c6f3d0658157d4315167e00a237fe9a263d55c976f3d90592ce4"
+    },
+    "listen-b2-plan-5": {
+      "url": "/audio/listening-complete/63acba4bd3faa262e9855f5d.mp3",
+      "duration": 72.6987755102049,
+      "sampleRate": 22050,
+      "sha256": "63acba4bd3faa262e9855f5d2382c0b76c6d71b72635d13e56d7e99ce901c090",
+      "segments": [
+        {
+          "id": "listen-b2-plan-5:s1",
+          "start": 0,
+          "end": 9.241541950113378
+        },
+        {
+          "id": "listen-b2-plan-5:s2",
+          "start": 9.591519274376417,
+          "end": 18.008752834467117
+        },
+        {
+          "id": "listen-b2-plan-5:s3",
+          "start": 18.358730158730154,
+          "end": 28.35492063492063
+        },
+        {
+          "id": "listen-b2-plan-5:s4",
+          "start": 28.70489795918367,
+          "end": 38.317959183673466
+        },
+        {
+          "id": "listen-b2-plan-5:s5",
+          "start": 38.6679365079365,
+          "end": 46.30730158730158
+        },
+        {
+          "id": "listen-b2-plan-5:s6",
+          "start": 46.65727891156462,
+          "end": 55.980090702947834
+        },
+        {
+          "id": "listen-b2-plan-5:s7",
+          "start": 56.33006802721087,
+          "end": 64.65442176870746
+        },
+        {
+          "id": "listen-b2-plan-5:s8",
+          "start": 65.0043990929705,
+          "end": 72.27224489795917
+        }
+      ],
+      "textSha256": "0631fdcf7487b5013f6fb9111ea62d4e1315b74bf8d0a782dfaefd0d8aae8d78"
+    },
+    "listen-b2-plan-6": {
+      "url": "/audio/listening-complete/c7936099e84951c300047f56.mp3",
+      "duration": 68.91102040816403,
+      "sampleRate": 22050,
+      "sha256": "c7936099e84951c300047f5635cac6a1bf8269135fb55f2f10f2ee5acabb9193",
+      "segments": [
+        {
+          "id": "listen-b2-plan-6:s1",
+          "start": 0,
+          "end": 8.626213151927438
+        },
+        {
+          "id": "listen-b2-plan-6:s2",
+          "start": 8.976190476190476,
+          "end": 16.685215419501134
+        },
+        {
+          "id": "listen-b2-plan-6:s3",
+          "start": 17.03519274376417,
+          "end": 25.870385487528345
+        },
+        {
+          "id": "listen-b2-plan-6:s4",
+          "start": 26.220362811791382,
+          "end": 34.2892970521542
+        },
+        {
+          "id": "listen-b2-plan-6:s5",
+          "start": 34.639274376417234,
+          "end": 41.94195011337869
+        },
+        {
+          "id": "listen-b2-plan-6:s6",
+          "start": 42.291927437641725,
+          "end": 50.26798185941043
+        },
+        {
+          "id": "listen-b2-plan-6:s7",
+          "start": 50.61795918367347,
+          "end": 58.59401360544218
+        },
+        {
+          "id": "listen-b2-plan-6:s8",
+          "start": 58.943990929705215,
+          "end": 68.48739229024943
+        }
+      ],
+      "textSha256": "538d396831de63dcb8e359aee24a1e619327eaddbe1e0ac48b8f8e45401143c2"
+    },
+    "listen-b2-grammar-modal": {
+      "url": "/audio/listening-complete/11a5c18d22ff63e3b810323c.mp3",
+      "duration": 65.59346938775583,
+      "sampleRate": 22050,
+      "sha256": "11a5c18d22ff63e3b810323ced70d5b538563ddd3e1cf2eb7a202724c4412ced",
+      "segments": [
+        {
+          "id": "listen-b2-grammar-modal:s1",
+          "start": 0,
+          "end": 9.160272108843538
+        },
+        {
+          "id": "listen-b2-grammar-modal:s2",
+          "start": 9.510249433106576,
+          "end": 17.149614512471658
+        },
+        {
+          "id": "listen-b2-grammar-modal:s3",
+          "start": 17.499591836734695,
+          "end": 24.488798185941043
+        },
+        {
+          "id": "listen-b2-grammar-modal:s4",
+          "start": 24.83877551020408,
+          "end": 32.199501133786846
+        },
+        {
+          "id": "listen-b2-grammar-modal:s5",
+          "start": 32.54947845804988,
+          "end": 41.59365079365079
+        },
+        {
+          "id": "listen-b2-grammar-modal:s6",
+          "start": 41.943628117913825,
+          "end": 49.46689342403627
+        },
+        {
+          "id": "listen-b2-grammar-modal:s7",
+          "start": 49.81687074829931,
+          "end": 57.65360544217686
+        },
+        {
+          "id": "listen-b2-grammar-modal:s8",
+          "start": 58.0035827664399,
+          "end": 65.19015873015871
+        }
+      ],
+      "textSha256": "e016f88ad2ebef47f69b908658bb83291af8ead1d4dbd4de15e71b41a96f6f0a"
+    },
+    "listen-b2-conversation-room": {
+      "url": "/audio/listening-complete/ba689d2cd57e2c235f62663a.mp3",
+      "duration": 66.0114285714293,
+      "sampleRate": 22050,
+      "sha256": "ba689d2cd57e2c235f62663ae333a01b3fed3071451ffab92a4a51293cb4ba6d",
+      "segments": [
+        {
+          "id": "listen-b2-conversation-room:s1",
+          "start": 0,
+          "end": 10.669569160997732
+        },
+        {
+          "id": "listen-b2-conversation-room:s2",
+          "start": 11.01954648526077,
+          "end": 20.783537414965984
+        },
+        {
+          "id": "listen-b2-conversation-room:s3",
+          "start": 21.13351473922902,
+          "end": 32.755102040816325
+        },
+        {
+          "id": "listen-b2-conversation-room:s4",
+          "start": 33.10507936507936,
+          "end": 44.88920634920635
+        },
+        {
+          "id": "listen-b2-conversation-room:s5",
+          "start": 45.239183673469384,
+          "end": 55.21215419501134
+        },
+        {
+          "id": "listen-b2-conversation-room:s6",
+          "start": 55.562131519274374,
+          "end": 65.6047619047619
+        }
+      ],
+      "textSha256": "9e936765ae54eb95f9e99b99819e3d940144819e13ecaaacfe6184546f0a5d57"
+    },
+    "listen-b2-stories-key": {
+      "url": "/audio/listening-complete/9b0b7f609534b670174d0c8a.mp3",
+      "duration": 63.3730612244905,
+      "sampleRate": 22050,
+      "sha256": "9b0b7f609534b670174d0c8a635326b1062207ddcc36a72e5fab76de9bb4707e",
+      "segments": [
+        {
+          "id": "listen-b2-stories-key:s1",
+          "start": 0,
+          "end": 9.264761904761905
+        },
+        {
+          "id": "listen-b2-stories-key:s2",
+          "start": 9.614739229024943,
+          "end": 20.528117913832197
+        },
+        {
+          "id": "listen-b2-stories-key:s3",
+          "start": 20.878095238095234,
+          "end": 30.897505668934237
+        },
+        {
+          "id": "listen-b2-stories-key:s4",
+          "start": 31.247482993197274,
+          "end": 40.930204081632645
+        },
+        {
+          "id": "listen-b2-stories-key:s5",
+          "start": 41.28018140589568,
+          "end": 50.87002267573695
+        },
+        {
+          "id": "listen-b2-stories-key:s6",
+          "start": 51.219999999999985,
+          "end": 62.969297052154175
+        }
+      ],
+      "textSha256": "8dd8e5f5d97d88030a17854e607a73f066eb162cf2f4a6adc45bc1c9d31c39ae"
+    },
+    "listen-b2-travel-access": {
+      "url": "/audio/listening-complete/6e37f0d0376bfb6dfeea329c.mp3",
+      "duration": 65.95918367347012,
+      "sampleRate": 22050,
+      "sha256": "6e37f0d0376bfb6dfeea329c4097bc3386382aa5cd853e6bfef034fc66ac12e3",
+      "segments": [
+        {
+          "id": "listen-b2-travel-access:s1",
+          "start": 0,
+          "end": 10.32126984126984
+        },
+        {
+          "id": "listen-b2-travel-access:s2",
+          "start": 10.671247165532879,
+          "end": 22.664353741496598
+        },
+        {
+          "id": "listen-b2-travel-access:s3",
+          "start": 23.014331065759634,
+          "end": 35.44861678004535
+        },
+        {
+          "id": "listen-b2-travel-access:s4",
+          "start": 35.798594104308386,
+          "end": 45.156235827664396
+        },
+        {
+          "id": "listen-b2-travel-access:s5",
+          "start": 45.50621315192743,
+          "end": 55.11927437641723
+        },
+        {
+          "id": "listen-b2-travel-access:s6",
+          "start": 55.46925170068027,
+          "end": 65.54671201814058
+        }
+      ],
+      "textSha256": "afaafa3efb07d713c8a8ce505752459ad5e92a53d5b4892e47406d121321bba0"
+    },
+    "listen-b2-words-source": {
+      "url": "/audio/listening-complete/b0c3fec6441ae9a35262035d.mp3",
+      "duration": 63.16408163265376,
+      "sampleRate": 22050,
+      "sha256": "b0c3fec6441ae9a35262035d9173939e68e22a08f16c28dbe62893099ec84aee",
+      "segments": [
+        {
+          "id": "listen-b2-words-source:s1",
+          "start": 0,
+          "end": 10.367709750566894
+        },
+        {
+          "id": "listen-b2-words-source:s2",
+          "start": 10.717687074829932,
+          "end": 20.516507936507935
+        },
+        {
+          "id": "listen-b2-words-source:s3",
+          "start": 20.866485260770972,
+          "end": 31.68698412698412
+        },
+        {
+          "id": "listen-b2-words-source:s4",
+          "start": 32.03696145124716,
+          "end": 42.96195011337868
+        },
+        {
+          "id": "listen-b2-words-source:s5",
+          "start": 43.311927437641714,
+          "end": 52.762448979591824
+        },
+        {
+          "id": "listen-b2-words-source:s6",
+          "start": 53.11242630385486,
+          "end": 62.74870748299318
+        }
+      ],
+      "textSha256": "79cf6fb3b437b4418cf24ec48e04071decefa4334df76acdcf6823910cd61a71"
+    },
+    "listen-c1-plan-2": {
+      "url": "/audio/listening-complete/7baffd180ed994069afca474.mp3",
+      "duration": 91.37632653061328,
+      "sampleRate": 22050,
+      "sha256": "7baffd180ed994069afca4749c029142b49bf31ae0ff703e899b812305e9e922",
+      "segments": [
+        {
+          "id": "listen-c1-plan-2:s1",
+          "start": 0,
+          "end": 12.57360544217687
+        },
+        {
+          "id": "listen-c1-plan-2:s2",
+          "start": 12.923582766439909,
+          "end": 23.790521541950113
+        },
+        {
+          "id": "listen-c1-plan-2:s3",
+          "start": 24.14049886621315,
+          "end": 35.820136054421766
+        },
+        {
+          "id": "listen-c1-plan-2:s4",
+          "start": 36.1701133786848,
+          "end": 46.723582766439904
+        },
+        {
+          "id": "listen-c1-plan-2:s5",
+          "start": 47.07356009070294,
+          "end": 58.71836734693877
+        },
+        {
+          "id": "listen-c1-plan-2:s6",
+          "start": 59.06834467120181,
+          "end": 68.91360544217686
+        },
+        {
+          "id": "listen-c1-plan-2:s7",
+          "start": 69.2635827664399,
+          "end": 79.41070294784579
+        },
+        {
+          "id": "listen-c1-plan-2:s8",
+          "start": 79.76068027210883,
+          "end": 90.9526984126984
+        }
+      ],
+      "textSha256": "fcbac77e1dc7507fc648ad41211bfac3adcd4b67f20b17ea9963143300ef2e67"
+    },
+    "listen-c1-plan-3": {
+      "url": "/audio/listening-complete/7738246266182714d2e1755f.mp3",
+      "duration": 90.38367346938878,
+      "sampleRate": 22050,
+      "sha256": "7738246266182714d2e1755f7799bf56a472c82875c34ed44b0cbbe0f8f54193",
+      "segments": [
+        {
+          "id": "listen-c1-plan-3:s1",
+          "start": 0,
+          "end": 11.3081179138322
+        },
+        {
+          "id": "listen-c1-plan-3:s2",
+          "start": 11.658095238095239,
+          "end": 24.092380952380953
+        },
+        {
+          "id": "listen-c1-plan-3:s3",
+          "start": 24.44235827664399,
+          "end": 35.33251700680272
+        },
+        {
+          "id": "listen-c1-plan-3:s4",
+          "start": 35.682494331065755,
+          "end": 46.79324263038548
+        },
+        {
+          "id": "listen-c1-plan-3:s5",
+          "start": 47.143219954648515,
+          "end": 58.20752834467119
+        },
+        {
+          "id": "listen-c1-plan-3:s6",
+          "start": 58.557505668934226,
+          "end": 68.53047619047618
+        },
+        {
+          "id": "listen-c1-plan-3:s7",
+          "start": 68.88045351473922,
+          "end": 80.14213151927436
+        },
+        {
+          "id": "listen-c1-plan-3:s8",
+          "start": 80.4921088435374,
+          "end": 89.9774603174603
+        }
+      ],
+      "textSha256": "5672f54c0ade51cced22f616c87aff9c9749cd6065ea070ee5b7afeb59fc7818"
+    },
+    "listen-c1-plan-4": {
+      "url": "/audio/listening-complete/19d2aec008b05281ac8630f8.mp3",
+      "duration": 90.77551020408266,
+      "sampleRate": 22050,
+      "sha256": "19d2aec008b05281ac8630f8cf8fe9c609c1eb8849e4d72d0617ac2ff491e953",
+      "segments": [
+        {
+          "id": "listen-c1-plan-4:s1",
+          "start": 0,
+          "end": 10.832108843537416
+        },
+        {
+          "id": "listen-c1-plan-4:s2",
+          "start": 11.182086167800454,
+          "end": 23.88340136054422
+        },
+        {
+          "id": "listen-c1-plan-4:s3",
+          "start": 24.233378684807256,
+          "end": 35.63437641723356
+        },
+        {
+          "id": "listen-c1-plan-4:s4",
+          "start": 35.9843537414966,
+          "end": 47.97746031746031
+        },
+        {
+          "id": "listen-c1-plan-4:s5",
+          "start": 48.32743764172335,
+          "end": 58.88090702947845
+        },
+        {
+          "id": "listen-c1-plan-4:s6",
+          "start": 59.23088435374149,
+          "end": 69.64503401360543
+        },
+        {
+          "id": "listen-c1-plan-4:s7",
+          "start": 69.99501133786846,
+          "end": 80.21179138321993
+        },
+        {
+          "id": "listen-c1-plan-4:s8",
+          "start": 80.56176870748297,
+          "end": 90.34897959183671
+        }
+      ],
+      "textSha256": "e7822698fc703ffa9e5f9ab765be9111b31ca177913ede0acc026a8014056611"
+    },
+    "listen-c1-plan-5": {
+      "url": "/audio/listening-complete/d7688e191d7f740444b357b6.mp3",
+      "duration": 86.72653061224588,
+      "sampleRate": 22050,
+      "sha256": "d7688e191d7f740444b357b6d2d9a046f3e0b9949b6032f1639966c278ec1ad8",
+      "segments": [
+        {
+          "id": "listen-c1-plan-5:s1",
+          "start": 0,
+          "end": 13.653333333333334
+        },
+        {
+          "id": "listen-c1-plan-5:s2",
+          "start": 14.003310657596373,
+          "end": 23.221632653061228
+        },
+        {
+          "id": "listen-c1-plan-5:s3",
+          "start": 23.571609977324265,
+          "end": 34.63591836734694
+        },
+        {
+          "id": "listen-c1-plan-5:s4",
+          "start": 34.985895691609976,
+          "end": 45.12140589569161
+        },
+        {
+          "id": "listen-c1-plan-5:s5",
+          "start": 45.471383219954646,
+          "end": 54.84063492063492
+        },
+        {
+          "id": "listen-c1-plan-5:s6",
+          "start": 55.190612244897956,
+          "end": 64.86172335600907
+        },
+        {
+          "id": "listen-c1-plan-5:s7",
+          "start": 65.2117006802721,
+          "end": 76.60108843537414
+        },
+        {
+          "id": "listen-c1-plan-5:s8",
+          "start": 76.95106575963717,
+          "end": 86.30870748299319
+        }
+      ],
+      "textSha256": "9e3fd64a787480656c005f937decde76bdeee3400f382a723fb54bb582b8dd8e"
+    },
+    "listen-c1-conversation-feedback": {
+      "url": "/audio/listening-complete/426ef4c340347e60ef341504.mp3",
+      "duration": 71.47102040816407,
+      "sampleRate": 22050,
+      "sha256": "426ef4c340347e60ef3415046fc2168687c2256b88268695078226804581fc5d",
+      "segments": [
+        {
+          "id": "listen-c1-conversation-feedback:s1",
+          "start": 0,
+          "end": 12.294965986394558
+        },
+        {
+          "id": "listen-c1-conversation-feedback:s2",
+          "start": 12.644943310657597,
+          "end": 24.440680272108843
+        },
+        {
+          "id": "listen-c1-conversation-feedback:s3",
+          "start": 24.79065759637188,
+          "end": 35.9362358276644
+        },
+        {
+          "id": "listen-c1-conversation-feedback:s4",
+          "start": 36.286213151927434,
+          "end": 47.385351473922896
+        },
+        {
+          "id": "listen-c1-conversation-feedback:s5",
+          "start": 47.73532879818593,
+          "end": 58.358458049886615
+        },
+        {
+          "id": "listen-c1-conversation-feedback:s6",
+          "start": 58.70843537414965,
+          "end": 71.06145124716552
+        }
+      ],
+      "textSha256": "7985b4a49b463485abe1544f76fca0976d6cc8f32beb2ab45e019b86f6a7159d"
+    },
+    "listen-c1-stories-letter": {
+      "url": "/audio/listening-complete/b94a7500a2f72e9aca5fa945.mp3",
+      "duration": 61.622857142857825,
+      "sampleRate": 22050,
+      "sha256": "b94a7500a2f72e9aca5fa945fe222adb47f9c1022b9348574d72d502c8f3aeea",
+      "segments": [
+        {
+          "id": "listen-c1-stories-letter:s1",
+          "start": 0,
+          "end": 9.624671201814058
+        },
+        {
+          "id": "listen-c1-stories-letter:s2",
+          "start": 9.974648526077097,
+          "end": 18.821451247165534
+        },
+        {
+          "id": "listen-c1-stories-letter:s3",
+          "start": 19.17142857142857,
+          "end": 29.14439909297052
+        },
+        {
+          "id": "listen-c1-stories-letter:s4",
+          "start": 29.494376417233557,
+          "end": 39.8156462585034
+        },
+        {
+          "id": "listen-c1-stories-letter:s5",
+          "start": 40.165623582766436,
+          "end": 50.64943310657596
+        },
+        {
+          "id": "listen-c1-stories-letter:s6",
+          "start": 50.999410430839,
+          "end": 61.20458049886621
+        }
+      ],
+      "textSha256": "ad56964855a5c4dc018a316cf8a8dc2c5e697361168b959fdcca1e13f80b508d"
+    },
+    "listen-c1-travel-information": {
+      "url": "/audio/listening-complete/d16f40394d05219e99fbe882.mp3",
+      "duration": 65.98530612244971,
+      "sampleRate": 22050,
+      "sha256": "d16f40394d05219e99fbe88200e5c101be71c8c2a1b3bfa1678dbba592420ea2",
+      "segments": [
+        {
+          "id": "listen-c1-travel-information:s1",
+          "start": 0,
+          "end": 11.6215873015873
+        },
+        {
+          "id": "listen-c1-travel-information:s2",
+          "start": 11.97156462585034,
+          "end": 22.304444444444442
+        },
+        {
+          "id": "listen-c1-travel-information:s3",
+          "start": 22.65442176870748,
+          "end": 31.617324263038547
+        },
+        {
+          "id": "listen-c1-travel-information:s4",
+          "start": 31.967301587301584,
+          "end": 42.358231292517004
+        },
+        {
+          "id": "listen-c1-travel-information:s5",
+          "start": 42.70820861678004,
+          "end": 54.60843537414966
+        },
+        {
+          "id": "listen-c1-travel-information:s6",
+          "start": 54.958412698412694,
+          "end": 65.55832199546485
+        }
+      ],
+      "textSha256": "da24026743367fdceeff589437845a09633e31caee7a1b91c432b910c9954813"
+    },
+    "listen-c1-technology-ranking": {
+      "url": "/audio/listening-complete/02cc27959bf10c6f5d620deb.mp3",
+      "duration": 69.56408163265384,
+      "sampleRate": 22050,
+      "sha256": "02cc27959bf10c6f5d620deb120dfc0241c38f1b70ac2b73f1c8bc7e121436f2",
+      "segments": [
+        {
+          "id": "listen-c1-technology-ranking:s1",
+          "start": 0,
+          "end": 10.518639455782314
+        },
+        {
+          "id": "listen-c1-technology-ranking:s2",
+          "start": 10.868616780045352,
+          "end": 23.105532879818597
+        },
+        {
+          "id": "listen-c1-technology-ranking:s3",
+          "start": 23.455510204081634,
+          "end": 32.88281179138322
+        },
+        {
+          "id": "listen-c1-technology-ranking:s4",
+          "start": 33.232789115646256,
+          "end": 45.36521541950113
+        },
+        {
+          "id": "listen-c1-technology-ranking:s5",
+          "start": 45.71519274376417,
+          "end": 57.10458049886621
+        },
+        {
+          "id": "listen-c1-technology-ranking:s6",
+          "start": 57.45455782312925,
+          "end": 69.14580498866214
+        }
+      ],
+      "textSha256": "cf9f230b135c3a22d1cae96997e4d7f1bf2da04be1b2ae65fa4aa3b9924a1e23"
+    },
+    "listen-c1-grammar-reporting": {
+      "url": "/audio/listening-complete/1b890670f8996a0f2cdbdbfa.mp3",
+      "duration": 70.3738775510212,
+      "sampleRate": 22050,
+      "sha256": "1b890670f8996a0f2cdbdbfaedcc4bb44edcc72bf0857480d3c77264b86a7519",
+      "segments": [
+        {
+          "id": "listen-c1-grammar-reporting:s1",
+          "start": 0,
+          "end": 10.62312925170068
+        },
+        {
+          "id": "listen-c1-grammar-reporting:s2",
+          "start": 10.973106575963719,
+          "end": 21.247936507936508
+        },
+        {
+          "id": "listen-c1-grammar-reporting:s3",
+          "start": 21.597913832199545,
+          "end": 32.72027210884354
+        },
+        {
+          "id": "listen-c1-grammar-reporting:s4",
+          "start": 33.070249433106575,
+          "end": 44.0881179138322
+        },
+        {
+          "id": "listen-c1-grammar-reporting:s5",
+          "start": 44.43809523809524,
+          "end": 55.61850340136054
+        },
+        {
+          "id": "listen-c1-grammar-reporting:s6",
+          "start": 55.96848072562358,
+          "end": 69.95850340136055
+        }
+      ],
+      "textSha256": "fbdaeed407ee5289d662fcf0d2308560c26638b74fff849cd93de35ed8933f51"
+    },
+    "listen-c1-words-hedges": {
+      "url": "/audio/listening-complete/4f3f95f8fd8c861f0eca99b3.mp3",
+      "duration": 65.98530612244971,
+      "sampleRate": 22050,
+      "sha256": "4f3f95f8fd8c861f0eca99b3bcdb773d251687067445cf5cc0052045089ced7c",
+      "segments": [
+        {
+          "id": "listen-c1-words-hedges:s1",
+          "start": 0,
+          "end": 9.903310657596371
+        },
+        {
+          "id": "listen-c1-words-hedges:s2",
+          "start": 10.25328798185941,
+          "end": 19.54126984126984
+        },
+        {
+          "id": "listen-c1-words-hedges:s3",
+          "start": 19.891247165532878,
+          "end": 29.632018140589565
+        },
+        {
+          "id": "listen-c1-words-hedges:s4",
+          "start": 29.981995464852602,
+          "end": 42.12603174603174
+        },
+        {
+          "id": "listen-c1-words-hedges:s5",
+          "start": 42.47600907029478,
+          "end": 52.83210884353741
+        },
+        {
+          "id": "listen-c1-words-hedges:s6",
+          "start": 53.18208616780045,
+          "end": 65.58154195011338
+        }
+      ],
+      "textSha256": "9bdfe0c8688badcc29dddc96abc59b7049c4ca91535ae51684316aa4e1add28d"
+    },
+    "listen-c2-plan-2": {
+      "url": "/audio/listening-complete/2d3aead51f2ca8fbdf3f289e.mp3",
+      "duration": 99.76163265306236,
+      "sampleRate": 22050,
+      "sha256": "2d3aead51f2ca8fbdf3f289e4f1f2f96bf1d3abe2c5cc4694cb53b08efe0abb1",
+      "segments": [
+        {
+          "id": "listen-c2-plan-2:s1",
+          "start": 0,
+          "end": 13.676553287981859
+        },
+        {
+          "id": "listen-c2-plan-2:s2",
+          "start": 14.026530612244898,
+          "end": 28.08621315192744
+        },
+        {
+          "id": "listen-c2-plan-2:s3",
+          "start": 28.436190476190475,
+          "end": 41.07945578231293
+        },
+        {
+          "id": "listen-c2-plan-2:s4",
+          "start": 41.429433106575964,
+          "end": 53.23678004535147
+        },
+        {
+          "id": "listen-c2-plan-2:s5",
+          "start": 53.58675736961451,
+          "end": 64.63945578231292
+        },
+        {
+          "id": "listen-c2-plan-2:s6",
+          "start": 64.98943310657596,
+          "end": 77.62108843537415
+        },
+        {
+          "id": "listen-c2-plan-2:s7",
+          "start": 77.97106575963718,
+          "end": 89.44172335600906
+        },
+        {
+          "id": "listen-c2-plan-2:s8",
+          "start": 89.7917006802721,
+          "end": 99.35832199546485
+        }
+      ],
+      "textSha256": "395893931711520e5fc67b2ca7abd51b06c541e43760b66cc1798e1a895d81c4"
+    },
+    "listen-c2-plan-3": {
+      "url": "/audio/listening-complete/bc3ed2b614fe9acd1015edb8.mp3",
+      "duration": 92.44734693877656,
+      "sampleRate": 22050,
+      "sha256": "bc3ed2b614fe9acd1015edb8929b89040c5ead948a77527b8067caf6a776c2a1",
+      "segments": [
+        {
+          "id": "listen-c2-plan-3:s1",
+          "start": 0,
+          "end": 12.1556462585034
+        },
+        {
+          "id": "listen-c2-plan-3:s2",
+          "start": 12.50562358276644,
+          "end": 23.88340136054422
+        },
+        {
+          "id": "listen-c2-plan-3:s3",
+          "start": 24.233378684807256,
+          "end": 35.599546485260774
+        },
+        {
+          "id": "listen-c2-plan-3:s4",
+          "start": 35.94952380952381,
+          "end": 48.05873015873016
+        },
+        {
+          "id": "listen-c2-plan-3:s5",
+          "start": 48.408707482993194,
+          "end": 59.04344671201814
+        },
+        {
+          "id": "listen-c2-plan-3:s6",
+          "start": 59.393424036281175,
+          "end": 70.5041723356009
+        },
+        {
+          "id": "listen-c2-plan-3:s7",
+          "start": 70.85414965986394,
+          "end": 82.20870748299319
+        },
+        {
+          "id": "listen-c2-plan-3:s8",
+          "start": 82.55868480725623,
+          "end": 92.03242630385486
+        }
+      ],
+      "textSha256": "7be49064bbd5a5e8de0bad1285bd4e5e6bf0beed25d7a9cd388d4a29e3b4b728"
+    },
+    "listen-c2-plan-4": {
+      "url": "/audio/listening-complete/4f4c731707d1512a36b4d877.mp3",
+      "duration": 88.50285714285815,
+      "sampleRate": 22050,
+      "sha256": "4f4c731707d1512a36b4d877486499328f4580a74387728409e125cc9382f0a5",
+      "segments": [
+        {
+          "id": "listen-c2-plan-4:s1",
+          "start": 0,
+          "end": 11.38938775510204
+        },
+        {
+          "id": "listen-c2-plan-4:s2",
+          "start": 11.73936507936508,
+          "end": 22.223174603174606
+        },
+        {
+          "id": "listen-c2-plan-4:s3",
+          "start": 22.573151927437642,
+          "end": 34.21795918367347
+        },
+        {
+          "id": "listen-c2-plan-4:s4",
+          "start": 34.56793650793651,
+          "end": 45.40004535147392
+        },
+        {
+          "id": "listen-c2-plan-4:s5",
+          "start": 45.75002267573696,
+          "end": 55.5372335600907
+        },
+        {
+          "id": "listen-c2-plan-4:s6",
+          "start": 55.887210884353735,
+          "end": 64.32766439909297
+        },
+        {
+          "id": "listen-c2-plan-4:s7",
+          "start": 64.677641723356,
+          "end": 77.00743764172336
+        },
+        {
+          "id": "listen-c2-plan-4:s8",
+          "start": 77.3574149659864,
+          "end": 88.08503401360544
+        }
+      ],
+      "textSha256": "0fdefce3a3727032d92347424efe9ae8a871ffcdf2ba418529ff35922881bd68"
+    },
+    "listen-c2-plan-5": {
+      "url": "/audio/listening-complete/11c30f0e34c9b2850d62cd83.mp3",
+      "duration": 92.13387755102146,
+      "sampleRate": 22050,
+      "sha256": "11c30f0e34c9b2850d62cd8327428d746cfdb9357c86fd5bfc670c158cad5952",
+      "segments": [
+        {
+          "id": "listen-c2-plan-5:s1",
+          "start": 0,
+          "end": 11.470657596371883
+        },
+        {
+          "id": "listen-c2-plan-5:s2",
+          "start": 11.820634920634921,
+          "end": 22.037414965986393
+        },
+        {
+          "id": "listen-c2-plan-5:s3",
+          "start": 22.38739229024943,
+          "end": 35.529886621315185
+        },
+        {
+          "id": "listen-c2-plan-5:s4",
+          "start": 35.87986394557822,
+          "end": 47.095102040816315
+        },
+        {
+          "id": "listen-c2-plan-5:s5",
+          "start": 47.44507936507935,
+          "end": 59.14793650793649
+        },
+        {
+          "id": "listen-c2-plan-5:s6",
+          "start": 59.49791383219953,
+          "end": 70.78281179138321
+        },
+        {
+          "id": "listen-c2-plan-5:s7",
+          "start": 71.13278911564625,
+          "end": 80.46721088435373
+        },
+        {
+          "id": "listen-c2-plan-5:s8",
+          "start": 80.81718820861677,
+          "end": 91.7073469387755
+        }
+      ],
+      "textSha256": "d83b65b04c130f16f8c66302742107e6ff0b67637bc50b91766ed84e302b260a"
+    },
+    "listen-c2-germany-public": {
+      "url": "/audio/listening-complete/825e842569d19b7766c330c1.mp3",
+      "duration": 77.60979591836822,
+      "sampleRate": 22050,
+      "sha256": "825e842569d19b7766c330c179e464de0c07b97260db021e827d80574e1fd1e4",
+      "segments": [
+        {
+          "id": "listen-c2-germany-public:s1",
+          "start": 0,
+          "end": 13.40952380952381
+        },
+        {
+          "id": "listen-c2-germany-public:s2",
+          "start": 13.759501133786848,
+          "end": 26.623356009070296
+        },
+        {
+          "id": "listen-c2-germany-public:s3",
+          "start": 26.973333333333333,
+          "end": 39.87201814058957
+        },
+        {
+          "id": "listen-c2-germany-public:s4",
+          "start": 40.221995464852604,
+          "end": 52.11061224489796
+        },
+        {
+          "id": "listen-c2-germany-public:s5",
+          "start": 52.460589569160994,
+          "end": 63.49006802721088
+        },
+        {
+          "id": "listen-c2-germany-public:s6",
+          "start": 63.84004535147392,
+          "end": 77.19151927437642
+        }
+      ],
+      "textSha256": "64cd946a68d57985277222bf2b3efabe44e9f78a4edcddd0523bfa7092b16f62"
+    },
+    "listen-c2-travel-perspective": {
+      "url": "/audio/listening-complete/53235c70bead63a5e8635f02.mp3",
+      "duration": 75.88571428571514,
+      "sampleRate": 22050,
+      "sha256": "53235c70bead63a5e8635f02e3fac4f5ed99ba06de4ca994bd7e9818cb9767ef",
+      "segments": [
+        {
+          "id": "listen-c2-travel-perspective:s1",
+          "start": 0,
+          "end": 11.946666666666667
+        },
+        {
+          "id": "listen-c2-travel-perspective:s2",
+          "start": 12.296643990929706,
+          "end": 24.84702947845805
+        },
+        {
+          "id": "listen-c2-travel-perspective:s3",
+          "start": 25.197006802721088,
+          "end": 37.782222222222224
+        },
+        {
+          "id": "listen-c2-travel-perspective:s4",
+          "start": 38.13219954648526,
+          "end": 51.19342403628118
+        },
+        {
+          "id": "listen-c2-travel-perspective:s5",
+          "start": 51.543401360544216,
+          "end": 62.87473922902494
+        },
+        {
+          "id": "listen-c2-travel-perspective:s6",
+          "start": 63.224716553287976,
+          "end": 75.46163265306122
+        }
+      ],
+      "textSha256": "7f90d90d96ce16a76389223100cff52b88e9ceec79e8c15734f6b16d8213c3b5"
+    },
+    "listen-c2-technology-assumption": {
+      "url": "/audio/listening-complete/c13724fe8d5ee6ee8141bf49.mp3",
+      "duration": 77.87102040816414,
+      "sampleRate": 22050,
+      "sha256": "c13724fe8d5ee6ee8141bf496f4a885efc08d50ca96b5f4eb74cf2bcdaebf432",
+      "segments": [
+        {
+          "id": "listen-c2-technology-assumption:s1",
+          "start": 0,
+          "end": 11.911836734693878
+        },
+        {
+          "id": "listen-c2-technology-assumption:s2",
+          "start": 12.261814058956917,
+          "end": 25.160498866213153
+        },
+        {
+          "id": "listen-c2-technology-assumption:s3",
+          "start": 25.51047619047619,
+          "end": 39.10575963718821
+        },
+        {
+          "id": "listen-c2-technology-assumption:s4",
+          "start": 39.455736961451244,
+          "end": 53.23678004535147
+        },
+        {
+          "id": "listen-c2-technology-assumption:s5",
+          "start": 53.58675736961451,
+          "end": 64.19827664399092
+        },
+        {
+          "id": "listen-c2-technology-assumption:s6",
+          "start": 64.54825396825396,
+          "end": 77.44693877551019
+        }
+      ],
+      "textSha256": "e0701c7e456e815708be92307cf229263f752791f3ccee2db1af241c31575a8d"
+    },
+    "listen-c2-grammar-scope": {
+      "url": "/audio/listening-complete/0473f1855e75c5f7d6010019.mp3",
+      "duration": 70.55673469387834,
+      "sampleRate": 22050,
+      "sha256": "0473f1855e75c5f7d601001940dbff79c2bc7ab9cee83089c42d168b737d0a5d",
+      "segments": [
+        {
+          "id": "listen-c2-grammar-scope:s1",
+          "start": 0,
+          "end": 12.34140589569161
+        },
+        {
+          "id": "listen-c2-grammar-scope:s2",
+          "start": 12.691383219954648,
+          "end": 24.568390022675736
+        },
+        {
+          "id": "listen-c2-grammar-scope:s3",
+          "start": 24.918367346938773,
+          "end": 35.657596371882086
+        },
+        {
+          "id": "listen-c2-grammar-scope:s4",
+          "start": 36.00757369614512,
+          "end": 47.25764172335601
+        },
+        {
+          "id": "listen-c2-grammar-scope:s5",
+          "start": 47.607619047619046,
+          "end": 57.836009070294786
+        },
+        {
+          "id": "listen-c2-grammar-scope:s6",
+          "start": 58.18598639455782,
+          "end": 70.14426303854876
+        }
+      ],
+      "textSha256": "69a9fde2824cec916e2439aa3ff77bf4ad6ed0bad54cb24fd56a66cb8a09777a"
+    }
+  }
+}

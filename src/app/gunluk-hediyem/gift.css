@@ -1,0 +1,453 @@
+.daily-gift-page {
+  --gift-ink: #685574;
+  color: var(--gift-ink);
+}
+.daily-wallet {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-radius: 19px;
+  padding: 13px 17px;
+  background: #fff5da;
+  border: 1px solid #eedeb6;
+  color: #a38c5e;
+  font-size: 11px;
+}
+.daily-wallet strong {
+  font-size: 23px;
+}
+.daily-gift-hero {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1.05fr 1fr;
+  gap: 20px;
+  background:
+    radial-gradient(circle at 75% 50%, #fff3ce88, transparent 40%),
+    linear-gradient(120deg, #f1e7fc, #fff0f6 70%, #fff3de);
+  border: 1px solid #ead9ee;
+  border-radius: 30px;
+  padding: 36px;
+  overflow: hidden;
+}
+.gift-available-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid #e8d8ba;
+  background: #fff9e9;
+  color: #b59c6c;
+  padding: 7px 12px;
+  border-radius: 25px;
+  font-size: 10px;
+  font-weight: 800;
+}
+.daily-gift-copy h2 {
+  font-size: clamp(29px, 3.4vw, 43px);
+  line-height: 1.2;
+  letter-spacing: -1.2px;
+  margin: 20px 0 14px;
+}
+.daily-gift-copy em {
+  font-style: normal;
+  color: #ae83bb;
+}
+.daily-gift-copy > p {
+  font-size: 13px;
+  line-height: 1.9;
+  max-width: 400px;
+  color: #a08a9f;
+}
+.daily-gift-copy > small {
+  display: block;
+  font-size: 9px;
+  color: #ad97a7;
+  margin-top: 12px;
+}
+.gift-lumi-note {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 19px 0;
+  max-width: 370px;
+}
+.gift-lumi-note svg {
+  width: 55px;
+  height: 65px;
+  flex-shrink: 0;
+}
+.gift-lumi-note span {
+  font-size: 11px;
+  font-style: italic;
+  line-height: 1.8;
+  color: #a186a4;
+}
+.gift-stage {
+  position: relative;
+  align-self: center;
+  isolation: isolate;
+  min-width: 0;
+}
+.gift-halo {
+  position: absolute;
+  inset: 12% 2%;
+  border-radius: 50%;
+  background: #fffbec88;
+  box-shadow:
+    0 0 0 22px #fff8e442,
+    0 0 0 43px #fff8e425;
+  z-index: -1;
+}
+.daily-gift-art {
+  width: 100%;
+  max-height: 330px;
+  filter: drop-shadow(0 12px 9px #b39ac51b);
+}
+.gift-lid {
+  transform-origin: 150px 115px;
+  transition: transform 0.8s cubic-bezier(0.25, 0.9, 0.4, 1.2);
+}
+.opened .gift-lid {
+  transform: translate(12px, -39px) rotate(-13deg);
+}
+.gift-heart {
+  transition: transform 0.8s;
+}
+.opened .gift-heart {
+  transform: translate(150px, 160px) scale(1.15);
+}
+.gift-opened-seal {
+  position: absolute;
+  bottom: 2%;
+  right: 14%;
+  background: #f1f8e9;
+  color: #85a476;
+  border: 1px solid #d8e7c9;
+  padding: 8px 15px;
+  border-radius: 20px;
+  font-size: 11px;
+  transform: rotate(-8deg);
+}
+.gift-confetti {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+.gift-confetti i {
+  display: none;
+  position: absolute;
+  width: 8px;
+  height: 14px;
+  border-radius: 3px;
+  background: #d2b8ed;
+  left: calc(8% + var(--i) * 7%);
+  top: 50%;
+}
+.gift-confetti i:nth-child(3n) {
+  background: #ffb7d5;
+}
+.gift-confetti i:nth-child(3n + 1) {
+  background: #ffe78f;
+}
+.is-celebrating .gift-confetti i {
+  display: block;
+  animation: gift-confetti 1.7s ease-out both;
+  animation-delay: calc(var(--i) * 0.025s);
+}
+.is-celebrating .daily-gift-art {
+  animation: gift-celebrate 0.7s ease-in-out;
+}
+.daily-gift-bottom {
+  display: grid;
+  grid-template-columns: 1.1fr 1fr;
+  gap: 20px;
+  margin-top: 22px;
+}
+.gift-today,
+.gift-countdown,
+.gift-history {
+  border: 1px solid #ece1ef;
+  border-radius: 24px;
+  padding: 26px;
+  background: #fffdf8;
+}
+.gift-today > h2,
+.gift-countdown h2,
+.gift-history h2 {
+  font-size: 20px;
+  margin: 0 0 18px;
+  letter-spacing: -0.4px;
+}
+.gift-possibilities {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.gift-possibilities > span {
+  background: #f9f1fa;
+  border: 1px solid #efe3f0;
+  border-radius: 16px;
+  padding: 18px 11px;
+  font-size: 25px;
+  display: flex;
+  gap: 9px;
+  align-items: center;
+}
+.gift-possibilities strong {
+  font-size: 11px;
+  color: #a18aaa;
+}
+.gift-countdown {
+  text-align: center;
+  background: linear-gradient(#fffaf0, #fffdf9);
+}
+.gift-countdown > svg {
+  margin: 0 auto 12px;
+  color: #c5a967;
+}
+.gift-countdown > .eyebrow {
+  display: block;
+  font-size: 8px;
+  color: #b9a174;
+  margin-bottom: 8px;
+}
+.gift-countdown h2 {
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+.gift-clock {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.gift-clock > span {
+  display: grid;
+  gap: 4px;
+  background: #fff5db;
+  border: 1px solid #ecdfbe;
+  border-radius: 15px;
+  min-width: 65px;
+  padding: 10px;
+}
+.gift-clock strong {
+  font-size: 28px;
+  font-variant-numeric: tabular-nums;
+  color: #ad925f;
+}
+.gift-clock small {
+  font-size: 9px;
+  color: #b4a17c;
+}
+.gift-countdown p {
+  font-size: 11px;
+  color: #b09c85;
+  line-height: 1.8;
+  margin: 17px 0;
+}
+.gift-guarantee {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 12px;
+  background: #f6effb;
+  border-radius: 12px;
+  font-size: 10px;
+  color: #a086b5;
+  text-align: left;
+}
+.gift-reward {
+  text-align: center;
+}
+.gift-reward-picture {
+  display: grid;
+  place-items: center;
+  height: 130px;
+  border-radius: 20px;
+  background: radial-gradient(ellipse, #fff0cb, transparent 70%);
+  color: #d1ae5d;
+}
+.gift-reward-picture > .game-flower {
+  height: 125px;
+  width: 105px;
+}
+.gift-reward-picture > .decoration-art {
+  height: 115px;
+  width: 125px;
+}
+.gift-reward-picture > span {
+  font-size: 62px;
+}
+.gift-reward .eyebrow {
+  font-size: 8px;
+  display: block;
+  color: #b194b4;
+}
+.gift-reward h3 {
+  font-size: 23px;
+  margin: 8px 0;
+  color: #a27cb1;
+}
+.gift-reward p {
+  font-size: 12px;
+  color: #a48eaa;
+  line-height: 1.8;
+}
+.gift-reward.is-rare {
+  background: linear-gradient(140deg, #f6efff55, #fff6d977);
+  border-radius: 20px;
+  padding: 10px;
+}
+.daily-gift-notice {
+  padding: 13px 17px;
+  background: #fff6e3;
+  border: 1px solid #ecdfc5;
+  border-radius: 14px;
+  color: #a18d6e;
+  font-size: 12px;
+  line-height: 1.8;
+  margin-top: 16px;
+}
+.gift-details {
+  padding: 17px;
+  border: 1px dashed #e6d8e9;
+  background: #fffaf7;
+  border-radius: 16px;
+  margin: 20px 0;
+  color: #a38ea9;
+  font-size: 11px;
+  line-height: 1.9;
+}
+.gift-details summary {
+  font-weight: 800;
+  cursor: pointer;
+}
+.gift-history h2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.gift-history h2 span {
+  font-size: 11px;
+  color: #b19bb6;
+  font-weight: 600;
+}
+.gift-history > p {
+  font-size: 12px;
+  color: #b49fba;
+}
+.gift-history ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.gift-history li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 0;
+  border-top: 1px solid #f0e7f1;
+  font-size: 11px;
+  color: #a18ca7;
+}
+.gift-history li > span:nth-of-type(2) {
+  flex: 1;
+  text-align: right;
+}
+.gift-history li small {
+  color: #bda264;
+  background: #fff4cf;
+  padding: 4px 8px;
+  border-radius: 12px;
+}
+.daily-gift-page a:focus-visible,
+.daily-gift-page button:focus-visible {
+  outline: 3px solid #b8a4f4;
+  outline-offset: 4px;
+}
+@keyframes gift-confetti {
+  0% {
+    opacity: 0;
+    transform: translateY(0) rotate(0);
+  }
+  15% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-250px) rotate(190deg);
+  }
+}
+@keyframes gift-celebrate {
+  0%,
+  100% {
+    transform: rotate(0);
+  }
+  30% {
+    transform: rotate(-7deg);
+  }
+  65% {
+    transform: rotate(5deg);
+  }
+}
+@media (max-width: 800px) {
+  .daily-gift-hero {
+    padding: 25px;
+    grid-template-columns: 1fr;
+  }
+  .gift-stage {
+    max-width: 300px;
+    justify-self: center;
+    width: 100%;
+    margin: 12px 0;
+  }
+  .daily-gift-copy h2 {
+    font-size: 34px;
+  }
+  .daily-gift-bottom {
+    grid-template-columns: 1fr;
+  }
+  .daily-gift-hero .gift-stage {
+    grid-row: 2;
+  }
+  .daily-gift-copy > p {
+    font-size: 12px;
+  }
+  .gift-clock > span {
+    min-width: 75px;
+  }
+  .gift-today,
+  .gift-countdown,
+  .gift-history {
+    padding: 21px;
+  }
+  .gift-history li {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .gift-history li > span:nth-of-type(2) {
+    flex-basis: 50%;
+    font-size: 10px;
+  }
+  .daily-wallet {
+    width: 100%;
+  }
+  .gift-possibilities {
+    gap: 8px;
+  }
+  .gift-possibilities > span {
+    padding: 15px 9px;
+    font-size: 23px;
+  }
+  .gift-possibilities strong {
+    font-size: 10px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .daily-gift-page * {
+    animation: none !important;
+    transition: none !important;
+  }
+  .gift-confetti {
+    display: none;
+  }
+}

@@ -1,0 +1,842 @@
+{
+  "version": 1,
+  "engine": "piper-tts 1.8.0",
+  "voice": "de_DE-thorsten-medium",
+  "modelSha256": "7e64762d8e5118bb578f2eea6207e1a35a8e0c30595010b666f983fc87bb7819",
+  "scenes": {
+    "story-b1-briefe:start": {
+      "full": {
+        "url": "/audio/extensions/story-b1-briefe-start.wav",
+        "duration": 27.06702947845805,
+        "sha256": "4f5c733461ebff2f795ea15bf42ea0d37a98b7050311b392a5640571fc4eab6b"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b1-briefe-start-0.wav",
+          "duration": 6.362267573696145,
+          "sha256": "df21da0b2bfc5ca1047810140a45df5e9979da2c0eb27a911f35ef84286693da"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-start-1.wav",
+          "duration": 5.955918367346939,
+          "sha256": "f9f17ce6eeed7961d54fe4b7b8946432cd0ff6c3cb8e007e07aae25d05a664d4"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-start-2.wav",
+          "duration": 7.325895691609977,
+          "sha256": "bf3c9d4bb251a69810d024f50cd5da719655a04c0b5fb8ae84a14d4e0ddaa9cf"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-start-3.wav",
+          "duration": 6.222947845804988,
+          "sha256": "1b6832b9824b2323f345b8073e5ca8a48099ca67f97c9d40e6d2374a2cbb79af"
+        }
+      ]
+    },
+    "story-b1-briefe:library": {
+      "full": {
+        "url": "/audio/extensions/story-b1-briefe-library.wav",
+        "duration": 25.023673469387756,
+        "sha256": "f2240f559da76b90d9d8641f4e63f6ae9e47f57ef122883405b3344d3740ef6a"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b1-briefe-library-0.wav",
+          "duration": 6.222947845804988,
+          "sha256": "0c9e75e341d089d5713e93b3ae822ad6ad801226b651f9a72bb3f8a1fbb4b24d"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-library-1.wav",
+          "duration": 5.921088435374149,
+          "sha256": "bf78d600c1b71aacd4ffa2a75f8d027dddebb2f02b7c2cf92d9c8ff45537442a"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-library-2.wav",
+          "duration": 6.03718820861678,
+          "sha256": "6b4418d36dc892ffece3c6f3bb8eb12dd341fbe2a6215b1df28ccc2e2d656168"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-library-3.wav",
+          "duration": 5.642448979591837,
+          "sha256": "306aaa3418910f087e237cb55464967fafef8bcbb8c69211bdc44c6b18daedd2"
+        }
+      ]
+    },
+    "story-b1-briefe:gate": {
+      "full": {
+        "url": "/audio/extensions/story-b1-briefe-gate.wav",
+        "duration": 26.64907029478458,
+        "sha256": "0d8c53910cf1fdb9c1f50bd640aace1b21fce1dda732ec866d3e587bbd2d7415"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b1-briefe-gate-0.wav",
+          "duration": 6.339047619047619,
+          "sha256": "619b742cb76f68b2c706c0d26d179c4ad71df13124bb97feffb2e99ab9610f36"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-gate-1.wav",
+          "duration": 7.360725623582766,
+          "sha256": "231df97ad56fa024fb80ad11982f3b9719f77a2f0255b85b2dc3cd02a69045cc"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-gate-2.wav",
+          "duration": 6.350657596371882,
+          "sha256": "9e74baf2e584d9b59e6704aa8f0560407a8e2458ca8ef4303e91e2e8f26a7e79"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-gate-3.wav",
+          "duration": 5.3986394557823125,
+          "sha256": "5c895d890dddca584302e6f69aba4dd77f97479bf1111b4bdb05898262c93444"
+        }
+      ]
+    },
+    "story-b1-briefe:reunited": {
+      "full": {
+        "url": "/audio/extensions/story-b1-briefe-reunited.wav",
+        "duration": 24.036825396825396,
+        "sha256": "c71a37530ad50ea7cf631941ba557cc7af8c98650668d2b2fa34a2afc0b889b4"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b1-briefe-reunited-0.wav",
+          "duration": 6.339047619047619,
+          "sha256": "993a21bd7de4fabcdaf192907afecf381a77c461455263cebf4cc4b9f23f574b"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-reunited-1.wav",
+          "duration": 5.561179138321996,
+          "sha256": "b01afa00ad7e1aef1775bf4c0c05b7c0f46d73db436df89edda657b80e43dd71"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-reunited-2.wav",
+          "duration": 4.365351473922902,
+          "sha256": "7c6ff2cbfdfb48bb3b90a9bc248a2b39cee2cae788c0e75fd7f2f7b1e06151d8"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-reunited-3.wav",
+          "duration": 6.5712471655328795,
+          "sha256": "0aa5d1b17b7fef79e99731204274039f25584c1bb3fccd7e84b638e61642f1af"
+        }
+      ]
+    },
+    "story-b1-briefe:safe": {
+      "full": {
+        "url": "/audio/extensions/story-b1-briefe-safe.wav",
+        "duration": 23.351836734693876,
+        "sha256": "7e86cbfcc47daebf3e4aee3c60d3f563d6936ce2064898c218a2f8eb5b539b6b"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b1-briefe-safe-0.wav",
+          "duration": 6.629297052154195,
+          "sha256": "f11e8d6a7fef1cb1c744c26271eb5279a74c096306e285d05738ff507e5583f1"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-safe-1.wav",
+          "duration": 5.166439909297052,
+          "sha256": "1a8bb20c508d4cf1ee08a1febf001a92bfe46d3ab810a901773b2e4528c41307"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-safe-2.wav",
+          "duration": 5.758548752834467,
+          "sha256": "a76bbf9a45e93c52c781d89dc99091e15502ec2dc614437208d2cc1ce817c456"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-safe-3.wav",
+          "duration": 4.597551020408163,
+          "sha256": "83dd5e7d4c6e8a37e1a51c82371eaafb70c9922c7ff8a0cd96817395cc161b3a"
+        }
+      ]
+    },
+    "story-b1-briefe:confirmed": {
+      "full": {
+        "url": "/audio/extensions/story-b1-briefe-confirmed.wav",
+        "duration": 23.525986394557822,
+        "sha256": "220c148af08871309855868a2323f784ac13b3677ebed554bc435b6b6b430a7f"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b1-briefe-confirmed-0.wav",
+          "duration": 5.932698412698413,
+          "sha256": "859616bf7ef796abdf70c30b5f98fbe083b30b75d1192d8b6fa85d66a57cbffd"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-confirmed-1.wav",
+          "duration": 5.12,
+          "sha256": "3a0e46cbbe3bd40197d4dbc18bff3fe66e1aff015eed1024631af5f5dafd8793"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-confirmed-2.wav",
+          "duration": 5.3986394557823125,
+          "sha256": "92df3478ad3731c2bcfe2f078d921311f53f01709759a28f6d2c19c7742123c8"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-confirmed-3.wav",
+          "duration": 5.874648526077097,
+          "sha256": "0990e304e20bae0785308c6a5d9871c40ca862ad7ad6e069cd233dfdea2c5fa9"
+        }
+      ]
+    },
+    "story-b1-briefe:waiting": {
+      "full": {
+        "url": "/audio/extensions/story-b1-briefe-waiting.wav",
+        "duration": 23.79301587301587,
+        "sha256": "0467ae5496689edfd67b08d1a05d7b9d1ac06bd316d601e5248946c3e910efcc"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b1-briefe-waiting-0.wav",
+          "duration": 5.572789115646258,
+          "sha256": "01cc888b86523d5427c8ff28c57e43787bd9f0263af86d526b8e0fb4157450c7"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-waiting-1.wav",
+          "duration": 5.352199546485261,
+          "sha256": "2c6d24ecbc87676bb916ae3af328245a63895848af9bf6d917efcc8346f18fb9"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-waiting-2.wav",
+          "duration": 6.327437641723356,
+          "sha256": "b6cf4d154e28b3f514454c6ae34f2e90db9788e53e0ca33add6991a7f1b67b61"
+        },
+        {
+          "url": "/audio/extensions/story-b1-briefe-waiting-3.wav",
+          "duration": 5.340589569160998,
+          "sha256": "c63fe1b671d20e41748c77465d26df71a22167b707bcf7fc8ea3fa07d4947a6b"
+        }
+      ]
+    },
+    "story-b2-entscheidung:start": {
+      "full": {
+        "url": "/audio/extensions/story-b2-entscheidung-start.wav",
+        "duration": 29.121995464852606,
+        "sha256": "124cc0c26c283015e3f3150e73741748b50792d57b19bcf2a367b2ef8414b80a"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-start-0.wav",
+          "duration": 7.500045351473923,
+          "sha256": "919f4d26be556af4650995d36e1c25807975638f58aaf77ed9565d932bddeb7a"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-start-1.wav",
+          "duration": 6.675736961451247,
+          "sha256": "2490ffb6699bdde38cb0d3407413a8fe61eeb9594f427d7c55648e81cd3fce75"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-start-2.wav",
+          "duration": 7.024036281179138,
+          "sha256": "cc41852e1374c2b6e4c8568f9ec98cacab7493ade560597ecfe33332239ef658"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-start-3.wav",
+          "duration": 6.722176870748299,
+          "sha256": "9ae50c487590fd4f19faa469d922e9ccc7cf94c264f1c3e3e8505922415ae765"
+        }
+      ]
+    },
+    "story-b2-entscheidung:negotiate": {
+      "full": {
+        "url": "/audio/extensions/story-b2-entscheidung-negotiate.wav",
+        "duration": 30.306213151927437,
+        "sha256": "ed846cf8c7bcae0a5d5f4833ea4cae14a45cd12217d8ab8dc8512dc5b7e18c63"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-negotiate-0.wav",
+          "duration": 6.675736961451247,
+          "sha256": "9a41099d0435d9342dfb28b32f26862cf14d993997af9bb34d5dc4a4356fdd01"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-negotiate-1.wav",
+          "duration": 7.3723356009070296,
+          "sha256": "38bdda15600e9663bf9dcdd8766f809aee77a17590818e71e094da964b1b439f"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-negotiate-2.wav",
+          "duration": 8.498503401360544,
+          "sha256": "323b5d49fff4c334b1141a6ac233751bc6914eb8c96be87a833aca221a0c4eed"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-negotiate-3.wav",
+          "duration": 6.559637188208617,
+          "sha256": "034b22075ced86702c2291ee4a9acbe98d52cdc069fbd0ed073d43985d531dcd"
+        }
+      ]
+    },
+    "story-b2-entscheidung:team": {
+      "full": {
+        "url": "/audio/extensions/story-b2-entscheidung-team.wav",
+        "duration": 29.272925170068028,
+        "sha256": "22798a369d2c0373c52a975324a42ddd5b1e98666b1f4eb03fd3dec81c50f7f3"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-team-0.wav",
+          "duration": 7.058866213151927,
+          "sha256": "1dcf3197c15cbd128db58c9262fae2d54b423de808937a51342178ac876e19b4"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-team-1.wav",
+          "duration": 7.836734693877551,
+          "sha256": "1fc9b29840b4db3ae30ac245acb9fa30adf86f4619ed475d66a52a03eb47387f"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-team-2.wav",
+          "duration": 7.523265306122449,
+          "sha256": "bb256fa34e23681c8862bf3b75e868e2d9331480e30226853087d4da580e5125"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-team-3.wav",
+          "duration": 5.6540589569161,
+          "sha256": "cb9c10209955eeeb410f86aa7f4a77e95f96d4664109c88c9764fa9ea9c093d6"
+        }
+      ]
+    },
+    "story-b2-entscheidung:reviewed": {
+      "full": {
+        "url": "/audio/extensions/story-b2-entscheidung-reviewed.wav",
+        "duration": 28.41378684807256,
+        "sha256": "93a5b76aa50fbf3bafa9077ad2924ee46729b3a6240ffa965861bf3a68427b88"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-reviewed-0.wav",
+          "duration": 6.617687074829932,
+          "sha256": "2dc9a9bbe7be56bdd9ccaaf0fd4d7f2bd656829ead22bd9cc71233890ee6af48"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-reviewed-1.wav",
+          "duration": 6.849886621315193,
+          "sha256": "f52f34d3a5ac6eb9aed2805703f2f2dd736d657208976ebf6c81e477023e8246"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-reviewed-2.wav",
+          "duration": 7.128526077097506,
+          "sha256": "08b3eda303dc6cc1803305654d983c65532af57567a6bb5fa258d997bd4b6c71"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-reviewed-3.wav",
+          "duration": 6.617687074829932,
+          "sha256": "fb7cf56c2c7e8fa1572c1b8c508b234bcc3ea1362c425cd3b28a61ef1c403982"
+        }
+      ]
+    },
+    "story-b2-entscheidung:smaller": {
+      "full": {
+        "url": "/audio/extensions/story-b2-entscheidung-smaller.wav",
+        "duration": 27.241179138321996,
+        "sha256": "ed573f5d914b4bfcdce00d4431e4bf72b98166e9dbfe6e300e733a41aff7b335"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-smaller-0.wav",
+          "duration": 7.500045351473923,
+          "sha256": "5cbe7482ddf0bac21e557c9f8a53e62de486fe2fbbe590d7478a5c126a96d52f"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-smaller-1.wav",
+          "duration": 5.3986394557823125,
+          "sha256": "49493b06812b34976b940f54a01937844e9361a121cbe64e868ab1fd5b9ad457"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-smaller-2.wav",
+          "duration": 6.5364172335600905,
+          "sha256": "3f12f7ff31de0432ce8ed8994217fe04729861d5834cfd873707f0c18b4f8fe5"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-smaller-3.wav",
+          "duration": 6.606077097505669,
+          "sha256": "4abb7be6f92b000cd0f02a321458b48857740b32e92186840cc897ec2d4810b3"
+        }
+      ]
+    },
+    "story-b2-entscheidung:collective": {
+      "full": {
+        "url": "/audio/extensions/story-b2-entscheidung-collective.wav",
+        "duration": 28.21641723356009,
+        "sha256": "599e08c542e33084f6e9c9a9f73fac6db5cc2020780ee1e647269115e451a25e"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-collective-0.wav",
+          "duration": 6.362267573696145,
+          "sha256": "7e5bd4ae067c7f14370580f40790d6f56a8afb54fe10773eae3d84ad0f239142"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-collective-1.wav",
+          "duration": 6.977596371882086,
+          "sha256": "9665dac0370456e3ccf4a6b8d99ab757f70a352bce65d15fd4a261e394cb79dd"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-collective-2.wav",
+          "duration": 6.513197278911565,
+          "sha256": "1aec69bed48b06c04a9576e574b897395dccf982e45f616dcf268fe2e11f97bd"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-collective-3.wav",
+          "duration": 7.163356009070295,
+          "sha256": "2483672003bafe8d7cd73e38f8870f7d6ef6545aea171359463e11a807e7ee0c"
+        }
+      ]
+    },
+    "story-b2-entscheidung:limited": {
+      "full": {
+        "url": "/audio/extensions/story-b2-entscheidung-limited.wav",
+        "duration": 28.378956916099774,
+        "sha256": "4262f2617f1c024d444259a1a249c7cadbac9bba29c0cb921bcd41f0f68b6676"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-limited-0.wav",
+          "duration": 6.524807256235827,
+          "sha256": "35b711bd48876b8c3e281f69c992837bbf7ea760b4ecac2bc0586cdbf4ab1361"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-limited-1.wav",
+          "duration": 6.060408163265306,
+          "sha256": "4f69f815d11d0f3e3d1645227fe62a78faf20df3ef88f6a740bdd6708e82716a"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-limited-2.wav",
+          "duration": 7.9760544217687075,
+          "sha256": "7aefc0144cd7400f16fc2792994719c824a06561c1b55a34f9d4c1e2076574b0"
+        },
+        {
+          "url": "/audio/extensions/story-b2-entscheidung-limited-3.wav",
+          "duration": 6.617687074829932,
+          "sha256": "9f499d0c4522491cc7305323f8cd3caef5bd18f158ce9c3523108b1b324c52ba"
+        }
+      ]
+    },
+    "story-c1-stadt:start": {
+      "full": {
+        "url": "/audio/extensions/story-c1-stadt-start.wav",
+        "duration": 28.11192743764172,
+        "sha256": "16047ce065a7786f31d6f5a9a7aa3ce934300f45321503d3c97dd06be0ccc737"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c1-stadt-start-0.wav",
+          "duration": 7.2562358276643995,
+          "sha256": "a210a2fb232e9d332f00f96771097f1e6ccd89acf6628424c283e7d717fcf4b0"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-start-1.wav",
+          "duration": 6.5712471655328795,
+          "sha256": "95a10775b37ab9d8e14829ed39a95d6ca7090cf4a3598981c027f25f6552e1a9"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-start-2.wav",
+          "duration": 6.582857142857143,
+          "sha256": "cc83cba44af158981c1a043b7fafeaa8c6b91c3933746bbfa3bab2a246e0dd56"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-start-3.wav",
+          "duration": 6.501587301587302,
+          "sha256": "7ce8171d3f12a8787350716ce0c6444dbbe18007e78d9b9cf74285cd7f2907e1"
+        }
+      ]
+    },
+    "story-c1-stadt:archive": {
+      "full": {
+        "url": "/audio/extensions/story-c1-stadt-archive.wav",
+        "duration": 32.00126984126984,
+        "sha256": "306b9d13c874a688bbe807bff82cda9c932326c874bdcacdd9f6c8f170f3210c"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c1-stadt-archive-0.wav",
+          "duration": 7.952834467120182,
+          "sha256": "74180e61459b52b9c59381db08ab918610f2cd8d8981b428bc9ffd570b071537"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-archive-1.wav",
+          "duration": 7.337505668934241,
+          "sha256": "047fbf8d93703d46bec17ca69e180524a21047d83d560a4057674206a854d931"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-archive-2.wav",
+          "duration": 9.125442176870749,
+          "sha256": "8c194a663c1a1726726cc29a3429de7d81f1bd62b18e685b131fb102e327e991"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-archive-3.wav",
+          "duration": 6.3854875283446715,
+          "sha256": "58c69d100b01d5ddb4e9bd89e21f51ec4b10e72925ffd7441bdf93978472bcd4"
+        }
+      ]
+    },
+    "story-c1-stadt:voices": {
+      "full": {
+        "url": "/audio/extensions/story-c1-stadt-voices.wav",
+        "duration": 30.282993197278913,
+        "sha256": "8a29c2554ff53f5e98f7f9d0062a876a9e05923a914a105f5f479cca0f79fa88"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c1-stadt-voices-0.wav",
+          "duration": 6.977596371882086,
+          "sha256": "075679e1b25b8f237c3eb745d2252773647ad0bbf99d80f7366099273d8f2320"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-voices-1.wav",
+          "duration": 6.292607709750567,
+          "sha256": "2dd704c9bc847c7e4a05e122c336ab7bcbae129764e0866816c77ecdbda9c098"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-voices-2.wav",
+          "duration": 7.9412244897959186,
+          "sha256": "cac2e04a9f83ca01aa030ad5e1b95a14cd9d00b50db8f731fbe0f5fb6864b32b"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-voices-3.wav",
+          "duration": 7.87156462585034,
+          "sha256": "ac0881242d8e5dcdc1c26252d8f97fa342f73b4484d44fc58b87fd4c2896cb70"
+        }
+      ]
+    },
+    "story-c1-stadt:layers": {
+      "full": {
+        "url": "/audio/extensions/story-c1-stadt-layers.wav",
+        "duration": 31.26984126984127,
+        "sha256": "3c164a291f61ec9d87d8fdf04b2dbf88f0eab604ca527fb7ad8de88baaced73a"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c1-stadt-layers-0.wav",
+          "duration": 7.383945578231293,
+          "sha256": "89b3264a3282ad442c48e04bde382ce1f213f546c632fb828990c816f6f9dbc9"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-layers-1.wav",
+          "duration": 8.150204081632653,
+          "sha256": "28bd4a2870cb34986dd79316a418b88fc301535cc9670e7a9b27caef633fc782"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-layers-2.wav",
+          "duration": 8.312743764172335,
+          "sha256": "82d94fa9856e7c63dcf4b01a8cea9e2141ee29b0f883c829ff14a56da439f324"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-layers-3.wav",
+          "duration": 6.222947845804988,
+          "sha256": "f672a419ac756412f977af25ac9ffec863c4983bc246dff99e82ddea5fdb50c3"
+        }
+      ]
+    },
+    "story-c1-stadt:caution": {
+      "full": {
+        "url": "/audio/extensions/story-c1-stadt-caution.wav",
+        "duration": 27.67074829931973,
+        "sha256": "673300efe111ecbc8b1ca2aec118d84ab861e74bb3e793e788e5f4a304e7112c"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c1-stadt-caution-0.wav",
+          "duration": 7.848344671201814,
+          "sha256": "ff9362f21694c4fef6895b8454387ccd85cc9d107f3dc9b8e3d9eb4520778d32"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-caution-1.wav",
+          "duration": 5.456689342403628,
+          "sha256": "ec985555124ec4f580ddd5fcb420a331f507536de1530a429ed4108f9da1b02b"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-caution-2.wav",
+          "duration": 7.035646258503402,
+          "sha256": "7992a6533a20ed945039b403463d744ca1943a0458232c5ad8986867e7698f86"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-caution-3.wav",
+          "duration": 6.130068027210885,
+          "sha256": "135b08c3a50cb2eac9d5e66c2c14afade789cb78f9f0b56ca28ebf225821f9f0"
+        }
+      ]
+    },
+    "story-c1-stadt:consent": {
+      "full": {
+        "url": "/audio/extensions/story-c1-stadt-consent.wav",
+        "duration": 29.145215419501135,
+        "sha256": "5de935191443a58d567ea1076d3e197d7ea2cdb72b3851ffa9565e09da104022"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c1-stadt-consent-0.wav",
+          "duration": 7.500045351473923,
+          "sha256": "f431baad8074d6ed64058184e4af9193cbd2877636cbc8004036b8ba8ed6ed11"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-consent-1.wav",
+          "duration": 7.627755102040816,
+          "sha256": "a8d0300a16bdcdef35b421b014a4467eade977c875cecb823ddd33656286b2d5"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-consent-2.wav",
+          "duration": 7.047256235827664,
+          "sha256": "a171b26ca01b9c1fc6427779fb80bf61744fcb90e365abe0fe15b81419feba37"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-consent-3.wav",
+          "duration": 5.77015873015873,
+          "sha256": "0362145cac392a90afc51618cf9bb410a6fc88221342d2e5b8e3066405e2b321"
+        }
+      ]
+    },
+    "story-c1-stadt:process": {
+      "full": {
+        "url": "/audio/extensions/story-c1-stadt-process.wav",
+        "duration": 29.679274376417233,
+        "sha256": "2af03072a8fe7a5e3e48d087e1e6b8867655abd65de6af0474bada67109ea0b3"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c1-stadt-process-0.wav",
+          "duration": 7.151746031746032,
+          "sha256": "07f5b8e69c7e1ea9b248b95035e941d7f08c170ac4960f61186f3380658b07b6"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-process-1.wav",
+          "duration": 7.87156462585034,
+          "sha256": "90326b7ea5e178cad8fd4eca77fb3677cbbb5560c58109d0ba0dd10b148c185b"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-process-2.wav",
+          "duration": 6.222947845804988,
+          "sha256": "7d80b68d7f79e393171fedb23c7e35e33b7977e1494fe9cfca9024c966a898e2"
+        },
+        {
+          "url": "/audio/extensions/story-c1-stadt-process-3.wav",
+          "duration": 7.233015873015873,
+          "sha256": "0ffe4b43808d3ebfce799d7e13d179fb2b7decb3dce5a1ecb0700386c4756381"
+        }
+      ]
+    },
+    "story-c2-stimmen:start": {
+      "full": {
+        "url": "/audio/extensions/story-c2-stimmen-start.wav",
+        "duration": 31.6065306122449,
+        "sha256": "5829af8958601ca700efa018c6a3b034fa37b14a6e500f6f498f727a4e4252f4"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c2-stimmen-start-0.wav",
+          "duration": 7.743854875283446,
+          "sha256": "fe4edb47be9a8eb156324d3d2a398cb090cd6893a39d8aa8cb39b4f34d777a0e"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-start-1.wav",
+          "duration": 7.999274376417233,
+          "sha256": "ae0da39e9142ef8232549c9fa42b576695db439f54c5e9a506bc9c9399118a14"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-start-2.wav",
+          "duration": 6.733786848072563,
+          "sha256": "9a9668310f642551179acc48362722b230e5577f10586c48edce00f6a6fea269"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-start-3.wav",
+          "duration": 7.929614512471655,
+          "sha256": "5fb9b39557c8a9c575ea763311c3ea0578507032d5ec3a4108b7012ffcde5572"
+        }
+      ]
+    },
+    "story-c2-stimmen:notes": {
+      "full": {
+        "url": "/audio/extensions/story-c2-stimmen-notes.wav",
+        "duration": 32.40761904761905,
+        "sha256": "78c167ee42ced4cc4921c3bf4204fa7ec6a3df94660fe43b9fb35e986e56f4e8"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c2-stimmen-notes-0.wav",
+          "duration": 9.195102040816327,
+          "sha256": "37272cbbe978bb6d461b5ba4f7d0b3a5ce90e08fec451995e3c611b09bd5d27e"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-notes-1.wav",
+          "duration": 8.916462585034013,
+          "sha256": "b9a0fca6037000b8d06e96cdcb91ee3bf48c1bb800bd06f944efae330b912411"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-notes-2.wav",
+          "duration": 6.594467120181406,
+          "sha256": "a8ad0c4e87f443e9d8e698e5f78653e92e4430828238c69aab762a8815c9a24f"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-notes-3.wav",
+          "duration": 6.501587301587302,
+          "sha256": "0340960341f1e57e2ff7d3b44d136a49cbeccef03b20c50589cd6725faca8f4a"
+        }
+      ]
+    },
+    "story-c2-stimmen:perspective": {
+      "full": {
+        "url": "/audio/extensions/story-c2-stimmen-perspective.wav",
+        "duration": 29.946303854875282,
+        "sha256": "ed062b4c8f665975a4057d4496d80ad3ed4ef2d33167dc47512211f6b5aee341"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c2-stimmen-perspective-0.wav",
+          "duration": 7.070476190476191,
+          "sha256": "58ebf9a060266f048bd33c865126dace84f6c5f37b89091384ae12d72fb2ace3"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-perspective-1.wav",
+          "duration": 6.594467120181406,
+          "sha256": "c98e8dc70d1223f8c4092f848c9c3382c703be8ddf864adcda4ca85a217d4c2f"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-perspective-2.wav",
+          "duration": 7.848344671201814,
+          "sha256": "7290b3b6fb0c781ff92477dff5bacccfb2cfbf7fe1182f5e3559c990b60eb245"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-perspective-3.wav",
+          "duration": 7.233015873015873,
+          "sha256": "99ed9998ad8bee5f52b06d1fb9fc125eaa673252d7ba79031b6729c942c54afe"
+        }
+      ]
+    },
+    "story-c2-stimmen:footnote": {
+      "full": {
+        "url": "/audio/extensions/story-c2-stimmen-footnote.wav",
+        "duration": 28.25124716553288,
+        "sha256": "5db19798d892e6333684ff00ec826c2bfc501cae9eee7aff0de6a29f2fd9e6df"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c2-stimmen-footnote-0.wav",
+          "duration": 7.87156462585034,
+          "sha256": "649bd61793dd9462b53c2ac0ad183823a079ff1dc6d08a6105c79179005f9a27"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-footnote-1.wav",
+          "duration": 6.478367346938776,
+          "sha256": "66434f0d3c186adaa115cdefa8cf890f59b26e9ffe1c371cef25f8e2646c7442"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-footnote-2.wav",
+          "duration": 7.291065759637188,
+          "sha256": "1bddab5b89d8146812d0b7055bec0d5f2b540147761db90c9753f2a77c8008b6"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-footnote-3.wav",
+          "duration": 5.410249433106576,
+          "sha256": "2a539595f6a207f5322f09019b895e8d2c401cb18face879f4e5e4b6346d151a"
+        }
+      ]
+    },
+    "story-c2-stimmen:restraint": {
+      "full": {
+        "url": "/audio/extensions/story-c2-stimmen-restraint.wav",
+        "duration": 29.992743764172335,
+        "sha256": "8b1e696eda130bdab2388498fe60310f4c9ea8f6bb9fb3bd18199c7a7f3dee02"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c2-stimmen-restraint-0.wav",
+          "duration": 6.849886621315193,
+          "sha256": "5239dd7c20ff778ad69acfaaceb43e9e4a9cf305afb96e3d3b4f5f146e33ad90"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-restraint-1.wav",
+          "duration": 6.373877551020408,
+          "sha256": "77f3823225425e24765c1e315a0c655aaaae9c2185b1c1b844d9c592f57da9c1"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-restraint-2.wav",
+          "duration": 7.87156462585034,
+          "sha256": "ade4930be2ba476f91ceafac3e90fa548ca65c6fb62faa1fc8520f7cc1e6e623"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-restraint-3.wav",
+          "duration": 7.697414965986394,
+          "sha256": "91bea9e5299dd5ef156f4ba6c4b9f4ee53ef699450195765487d2f843d2881bb"
+        }
+      ]
+    },
+    "story-c2-stimmen:parallel": {
+      "full": {
+        "url": "/audio/extensions/story-c2-stimmen-parallel.wav",
+        "duration": 28.936235827664397,
+        "sha256": "4aee3c0c4ecb4a809ebde1e609d963bb2821fed457dc6abe82adfe4c215b27cf"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c2-stimmen-parallel-0.wav",
+          "duration": 6.524807256235827,
+          "sha256": "ce18fe1828bdb84149153161af931837db736ea2b7091c7001fc571e748dbb3e"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-parallel-1.wav",
+          "duration": 7.163356009070295,
+          "sha256": "243288cf9f5b23c7de9e0645bb57392a5a0342958b1929812bb3eaf6a7d34624"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-parallel-2.wav",
+          "duration": 8.324353741496598,
+          "sha256": "2427d72b82c01496ca3552d1a405591af00197f290ce435f349a5556276b6ba9"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-parallel-3.wav",
+          "duration": 5.723718820861678,
+          "sha256": "7b319ef6758b67e822b526b1bbc63bdc311d6239cf05efaaa1ef4d46f2f48ea1"
+        }
+      ]
+    },
+    "story-c2-stimmen:close": {
+      "full": {
+        "url": "/audio/extensions/story-c2-stimmen-close.wav",
+        "duration": 33.893696145124714,
+        "sha256": "bfdc4f208e42a08028ef12568d59c23fda5e15883b8d9f196de9f97471673993"
+      },
+      "lines": [
+        {
+          "url": "/audio/extensions/story-c2-stimmen-close-0.wav",
+          "duration": 8.510113378684807,
+          "sha256": "fcb8123f4d94eb0583663f73bf01d87f711907d969e4c450188ebdef7db99824"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-close-1.wav",
+          "duration": 7.662585034013605,
+          "sha256": "fc06a6823adf66a4301a5420fb6d9b20c4c6e364e8acc91bc0fc2a38d6654372"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-close-2.wav",
+          "duration": 9.404081632653062,
+          "sha256": "5a673b9ff3acb976895117724c5de3a01cdd7fc8bd3d1b39dd701bc2f2b8e102"
+        },
+        {
+          "url": "/audio/extensions/story-c2-stimmen-close-3.wav",
+          "duration": 7.116916099773243,
+          "sha256": "a87c292e3861ed8204a44a03714a928027dc0457b26645301bf61f3966f6f1dd"
+        }
+      ]
+    }
+  },
+  "glossary": {
+    "story-extra-1": {
+      "url": "/audio/extensions/story-extra-1.wav",
+      "duration": 1.1493877551020408,
+      "sha256": "39fe22949f4308a9a5abc15483478221a1e12df8592ff3b94fe65a74a503ad68"
+    },
+    "story-extra-2": {
+      "url": "/audio/extensions/story-extra-2.wav",
+      "duration": 0.9868480725623583,
+      "sha256": "9e2aa62fbd796b42fc987897cf118e7d47716f577909d49d3e79d2ea5539d3bd"
+    },
+    "story-extra-3": {
+      "url": "/audio/extensions/story-extra-3.wav",
+      "duration": 0.9868480725623583,
+      "sha256": "956b96924f69e06107eb07179723ab60199cb48c54b6b5606871f43448b3733b"
+    },
+    "story-extra-4": {
+      "url": "/audio/extensions/story-extra-4.wav",
+      "duration": 0.7546485260770975,
+      "sha256": "f41d872073bcb2f6b764d9435b3f0064e9c3fa0c2d681c646a05fc0175e3b81d"
+    }
+  }
+}

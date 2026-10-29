@@ -1,0 +1,568 @@
+const lessons = [
+  {
+    level: "C1",
+    id: "listen-c1-conversation-feedback",
+    title: "Geri bildirim üzerine görüşme",
+    german: "Kritik, die überprüfbar bleibt",
+    category: "conversation",
+    goal: "Geri bildirimde gözlem, yorum ve talebi ayır.",
+    lines: [
+      [
+        "In einem fiktiven Gespräch möchte eine Projektleiterin wiederholte Verzögerungen ansprechen. Statt ihren Kollegen pauschal als unzuverlässig zu bezeichnen, nennt sie zwei konkrete Übergaben, die später als vereinbart eingingen.",
+        "Kurgusal görüşmede proje lideri gecikmeleri konuşmak istiyor. Meslektaşını genelleyerek güvenilmez saymak yerine geç gelen iki somut devri belirtiyor.",
+      ],
+      [
+        "Der Kollege bestreitet die Termine nicht, erklärt aber, dass ihm bei beiden Aufgaben eine wichtige Vorinformation gefehlt habe. Diese Erklärung soll geprüft werden, ohne die Auswirkungen der Verspätung zu leugnen.",
+        "Meslektaşı tarihleri reddetmiyor ama iki işte de önemli ön bilginin eksik olduğunu söylüyor. Açıklama, gecikmenin etkisi inkâr edilmeden incelenecek.",
+      ],
+      [
+        "Die Leiterin unterscheidet deshalb zwischen beobachtetem Ablauf und vermuteter Absicht. Dass eine Übergabe verspätet war, belegt für sie noch nicht, dass der Kollege die Arbeit absichtlich vernachlässigt hat.",
+        "Lider gözlenen süreçle varsayılan niyeti ayırıyor. Geç devir, çalışanın işi kasten savsadığını tek başına kanıtlamıyor.",
+      ],
+      [
+        "Beide vereinbaren, fehlende Informationen künftig früher sichtbar zu machen. Eine kurze Nachricht soll konkret benennen, was fehlt, wer gefragt wurde und welche Aufgabe dadurch blockiert ist.",
+        "İkisi eksik bilgiyi erken görünür kılmakta uzlaşıyor. Kısa mesaj neyin eksik, kime sorulmuş, hangi işin engellenmiş olduğunu belirtecek.",
+      ],
+      [
+        "Nach zwei Wochen wollen sie gemeinsam prüfen, ob sich die Übergaben verbessern. Die neue Absprache ist keine nachträgliche Erklärung, dass frühere Verzögerungen folgenlos gewesen seien.",
+        "İki hafta sonra devirlerin düzelip düzelmediği incelenecek. Yeni uzlaşı geçmiş gecikmelerin etkisiz olduğunu sonradan ilan etmiyor.",
+      ],
+      [
+        "Das Gespräch endet mit einer veränderbaren Vereinbarung, nicht mit einem endgültigen Urteil über den Charakter einer Person. Sachlichkeit bedeutet hier, Probleme präzise und zugleich ohne unbelegte Motive zu beschreiben.",
+        "Görüşme kişinin karakterine nihai hükümle değil, değişebilir uzlaşıyla bitiyor. Nesnellik sorunları açık ama kanıtsız niyet eklemeden anlatmak.",
+      ],
+    ],
+    checks: [
+      [
+        "Lider başta neyi seçiyor?",
+        "Somut gecikme örneklerini",
+        "Kesin karakter yargısını",
+        "Kişisel sırları yayımlamayı",
+        "İki devir gözlemi incelenebilir ayrıntıdır. Güvenilmez etiketi bütün kişiliğe ilişkin daha geniş ve gerekçesiz yargı olurdu.",
+      ],
+      [
+        "Meslektaşın açıklaması ne oluyor?",
+        "Etkiler silinmeden incelenecek",
+        "Otomatik kesin gerçek sayılıyor",
+        "Hiç dinlenmeden reddediliyor",
+        "Erklärung soll geprüft werden incelemeyi açık tutar. Gerekçe aramak, gecikmenin gerçek etkisini yok saymak değildir.",
+      ],
+      [
+        "Geç devir neyi tek başına kanıtlamaz?",
+        "Kasıtlı savsaklamayı",
+        "Bir zaman farkı olduğunu",
+        "Anlaşılmış tarihin varlığını",
+        "Gözlem ile niyet yorumu ayrılır. Kasıt için ek kanıt gerekir; gecikme bunun tek başına ispatı değildir.",
+      ],
+      [
+        "Sonuç ne?",
+        "Gözden geçirilebilir çalışma uzlaşısı",
+        "Kişilik hakkında kesin hüküm",
+        "Geçmiş etkilerin silinmesi",
+        "İki haftalık değerlendirme yeni düzeni açık tutar. Bir anlaşma yapmak geçmiş zararların olmadığı anlamına gelmez.",
+      ],
+    ],
+    focus: [
+      [
+        0,
+        "Statt",
+        "Um",
+        "Seit",
+        "Statt genelleyici etikete karşı somut gözlem seçimini kurar. Amaç kişiyi kötülemek değil incelenebilir sorunu tanımlamaktır.",
+      ],
+      [
+        1,
+        "habe",
+        "habest",
+        "habet",
+        "Tekil Vorinformation ile gefehlt habe aktarılan açıklamadır. Kaynağı meslektaştır; bağımsız doğrulama henüz yapılacak.",
+      ],
+      [
+        3,
+        "was",
+        "wer",
+        "wo",
+        "was fehlt eksik bilginin içeriğini sorar. Ardından kime sorulduğu ayrıca gelir; soru türlerinin görevini ayır.",
+      ],
+      [
+        4,
+        "ob",
+        "weil",
+        "obwohl",
+        "ob düzelmenin gerçekleşip gerçekleşmediğini incelemeye açık tutar. Uzlaşma, sonuçtaki iyileşmenin peşinen kanıtı değildir.",
+      ],
+    ],
+  },
+  {
+    level: "C1",
+    id: "listen-c1-stories-letter",
+    title: "Öykü: mektubun tarihi",
+    german: "Das Datum am Rand",
+    category: "stories",
+    goal: "Özgün anlatıda belge, çıkarım ve karşı kanıtı takip et.",
+    lines: [
+      [
+        "Als Mara den Nachlass ihres Onkels ordnet, entdeckt sie einen Brief ohne Umschlag. Am Rand steht ein Datum, das sie sofort mit einem bekannten Familienereignis verbindet.",
+        "Mara amcasının eşyalarını düzenlerken zarfsız mektup buluyor. Kenardaki tarihi hemen bilinen aile olayıyla ilişkilendiriyor.",
+      ],
+      [
+        "Der Text erwähnt jedoch weder dieses Ereignis noch einen bestimmten Ort. Mara bemerkt, dass sie die Verbindung selbst hergestellt hat; der Brief bestätigt sie bisher nicht.",
+        "Ama metin ne olayı ne belirli yeri anıyor. Mara bağı kendisinin kurduğunu fark ediyor; mektup bunu henüz doğrulamıyor.",
+      ],
+      [
+        "In einer zweiten Mappe findet sie einen Entwurf mit fast gleichem Wortlaut. Das Datum unterscheidet sich, und eine gestrichene Zeile zeigt, dass der Text mehrfach überarbeitet wurde.",
+        "İkinci dosyada neredeyse aynı metnin taslağını buluyor. Tarih farklı; çizilmiş satır metnin birkaç kez düzenlendiğini gösteriyor.",
+      ],
+      [
+        "Eine Cousine erinnert sich an einen Briefwechsel, ist sich beim Jahr aber unsicher. Mara notiert die Erinnerung als Hinweis und kennzeichnet ausdrücklich, dass sie keine sichere Datierung liefert.",
+        "Kuzeni bir yazışma hatırlıyor ama yıldan emin değil. Mara bunu ipucu diye yazıp kesin tarihleme vermediğini açık işaretliyor.",
+      ],
+      [
+        "Schließlich legt sie beide Fassungen nebeneinander, statt die frühere durch die vollständigere zu ersetzen. Gerade die Unterschiede könnten später helfen, den Entstehungsprozess besser zu verstehen.",
+        "Sonunda eskiyi tam metinle değiştirmek yerine ikisini yan yana koyuyor. Farklar ileride oluşum sürecini anlamaya yardımcı olabilir.",
+      ],
+      [
+        "Offen bleibt, welche Fassung tatsächlich abgeschickt wurde. Die Geschichte endet nicht mit der Auflösung eines Geheimnisses, sondern mit einer sorgfältigeren Frage an das vorhandene Material.",
+        "Hangi sürümün gerçekten gönderildiği açık kalıyor. Öykü sırrın çözümüyle değil, eldeki malzemeye daha özenli soruyla bitiyor.",
+      ],
+    ],
+    checks: [
+      [
+        "Aile olayı bağı nereden geliyor?",
+        "Mara'nın yorumundan",
+        "Mektubun açık ifadesinden",
+        "Zarf üzerindeki adresten",
+        "Zarf yoktur; metin olayı açık anmaz. Bağlantıyı yorumun kurduğu belirtilir; bunu belge ifadesi diye sunma.",
+      ],
+      [
+        "İkinci taslak ne gösteriyor?",
+        "Metnin düzenlenmiş olduğunu",
+        "İlk metnin kesin gönderildiğini",
+        "Bütün tarihler aynı olduğunu",
+        "Farklı tarih ve çizilmiş satır düzenleme kanıtıdır. Hangi sürümün gönderildiği ayrı sorudur ve açık kalır.",
+      ],
+      [
+        "Kuzenin anısı nasıl kaydediliyor?",
+        "Belirsizliği işaretlenmiş ipucu",
+        "Kesin tarih kanıtı",
+        "Tamamen silinen ayrıntı",
+        "Yıldan emin olmamak notun bilgi statüsünü sınırlar. İpucu saklanır ama kesin tarih olarak yükseltilmez.",
+      ],
+      [
+        "Neden iki sürüm saklanıyor?",
+        "Farkları oluşum sürecini aydınlatabilir",
+        "Biri kesin değersiz olduğu için",
+        "Yalnız kâğıt sayısı artsın diye",
+        "Yerine koymak eski farkı kaybettirebilir. İki metni korumak, daha sonra karşılaştırma yapma olanağı sağlar.",
+      ],
+    ],
+    focus: [
+      [
+        1,
+        "weder",
+        "entweder",
+        "sowohl",
+        "weder ... noch iki içerikte de açıklık olmadığını belirtir. Hem olay hem yer açıkça anılmış gibi çevrilemez.",
+      ],
+      [
+        2,
+        "wurde",
+        "wurden",
+        "wurdest",
+        "Tekil Text için geçmiş edilgen wurde ... überarbeitet kurulur. Düzenleme çok olsa da öznenin tekilliği değişmez.",
+      ],
+      [
+        4,
+        "statt",
+        "um",
+        "seit",
+        "statt eskiyi yenisiyle değiştirmeme seçimini karşılaştırır. Amaç eski sürümü silmek değil farkları korumaktır.",
+      ],
+      [
+        5,
+        "sondern",
+        "denn",
+        "oder",
+        "nicht ... sondern beklenen sır çözümünün yerine daha dikkatli soruyu koyar. Nihai çözüm verilmediği korunur.",
+      ],
+    ],
+  },
+  {
+    level: "C1",
+    id: "listen-c1-travel-information",
+    title: "Seyahat bilgisinin güncelliği",
+    german: "Ein Reisebericht ist kein Fahrplan",
+    category: "travel",
+    goal: "Deneyim anlatısını güncel ulaşım bilgisi yerine kullanmama sınırını dinle.",
+    lines: [
+      [
+        "Eine Reisende liest vor einer Fahrt mehrere persönliche Berichte über eine abgelegene Küstenregion. Die Beschreibungen sind anschaulich, doch manche stammen aus einer Zeit, in der andere Verbindungen angeboten wurden.",
+        "Bir gezgin uzak kıyı bölgesi öncesi kişisel anlatılar okuyor. Betimlemeler canlı ama bazıları başka bağlantıların sunulduğu döneme ait.",
+      ],
+      [
+        "Sie trennt deshalb Erfahrungen von überprüfbaren Planungsangaben. Dass jemand früher problemlos umsteigen konnte, garantiert weder die heutige Fahrzeit noch einen aktuellen Anschluss.",
+        "Bu yüzden deneyimleri denetlenebilir plan bilgisinden ayırıyor. Eskiden rahat aktarma yapılması bugünkü süreyi veya bağlantıyı garanti etmiyor.",
+      ],
+      [
+        "Für Termine und Zugänge fragt sie die jeweiligen Stellen nach dem aktuellen Stand. Die Antworten speichert sie mit Datum, damit spätere Änderungen erkennbar bleiben.",
+        "Saat ve erişimler için ilgili yerlerden güncel bilgi alıyor. Sonraki değişiklikler anlaşılabilsin diye yanıtları tarihleriyle saklıyor.",
+      ],
+      [
+        "Ein besonders begeisterter Bericht nennt einen Weg mühelos. Die Reisende versteht das als persönliche Einschätzung, nicht als verlässliche Aussage über alle körperlichen Voraussetzungen und Wetterlagen.",
+        "Çok hevesli bir anlatı yolu zahmetsiz diyor. Gezgin bunu tüm beden koşulları ve hava durumları için güvenilir hüküm değil kişisel değerlendirme sayıyor.",
+      ],
+      [
+        "Sie plant kürzere Abschnitte und eine erreichbare Alternative für den Fall einer Unterbrechung. Dadurch verschwindet nicht jedes Risiko, aber eine einzelne versäumte Verbindung muss nicht den ganzen Plan unbrauchbar machen.",
+        "Kesinti için kısa etaplar ve ulaşılabilir alternatif planlıyor. Her risk kaybolmuyor ama kaçan tek bağlantı tüm planı işlemez yapmayabilir.",
+      ],
+      [
+        "Die Reiseberichte behält sie trotzdem: Sie liefern Perspektiven, keine verbindlichen Zusagen. Entscheidend ist, die Art der Information zu erkennen, statt alle Quellen an derselben Aufgabe zu messen.",
+        "Yine de anlatıları tutuyor: Bakış açısı veriyorlar, bağlayıcı söz değil. Önemli olan bütün kaynaklara aynı görev yüklemek yerine bilgi türünü tanımak.",
+      ],
+    ],
+    checks: [
+      [
+        "Eski deneyim neyi garanti etmez?",
+        "Bugünkü bağlantıyı",
+        "Birinin bir deneyim yaşadığını",
+        "Öznel bakış bulunabildiğini",
+        "Tarih farkı ulaşım koşullarını değiştirebilir. Geçmiş başarılı aktarmayı güncel tarife kanıtı yapmamak gerekir.",
+      ],
+      [
+        "Yanıtlar neden tarihle tutuluyor?",
+        "Güncellik sınırı görülsün diye",
+        "Bütün değişimler yasaklansın diye",
+        "Fiyat kesin artsın diye",
+        "Tarih sonradan değişmiş bilginin ayırt edilmesine yardım eder. Bu değişimi engelleyen garanti değildir.",
+      ],
+      [
+        "mühelos sözü nasıl alınıyor?",
+        "Kişisel değerlendirme",
+        "Her bedene ve havaya kesin garanti",
+        "Resmî ulaşım tarifi",
+        "Zahmetsizlik deneyime ve koşullara bağlıdır. Tek gezginin değerlendirmesi herkes için erişim hükmü sayılmaz.",
+      ],
+      [
+        "Anlatılar neden tamamen atılmıyor?",
+        "Farklı perspektif sundukları için",
+        "Bütün saatleri kesin bildirdikleri için",
+        "Her kaynak aynı görevde olduğu için",
+        "Metin kaynak türlerinin farklı işlevini korur. Güncel tarife olmamak, anlatının hiç değer taşımadığı anlamına gelmez.",
+      ],
+    ],
+    focus: [
+      [
+        0,
+        "wurden",
+        "wurde",
+        "wurdest",
+        "Çoğul Verbindungen ile geçmiş edilgen wurden angeboten kurulur. Bağlantılar o döneme aittir; bugünkü liste diye sunulmaz.",
+      ],
+      [
+        1,
+        "weder",
+        "entweder",
+        "sowohl",
+        "weder ... noch hem güncel süre hem bağlantı garantisini reddeder. İki garantiden birinin kesin verildiği anlamına gelmez.",
+      ],
+      [
+        2,
+        "damit",
+        "obwohl",
+        "seitdem",
+        "damit tarih kaydının amacını verir: değişiklikler ayırt edilsin. Sadece zaman başlangıcı veya karşıtlık değildir.",
+      ],
+      [
+        5,
+        "statt",
+        "um",
+        "seit",
+        "statt bütün kaynakları aynı işleve zorlamak yerine bilgi türünü tanımayı karşılaştırır. Anlatıları güncel tarife yapmak hedeflenmez.",
+      ],
+    ],
+  },
+  {
+    level: "C1",
+    id: "listen-c1-technology-ranking",
+    title: "Öneri sistemini anlamak",
+    german: "Sichtbar ist nicht automatisch wichtig",
+    category: "technology",
+    goal: "Öneri sisteminde gösterge, geri besleme ve kullanıcı denetimini ayır.",
+    lines: [
+      [
+        "In einem fiktiven Medienprojekt werden Beiträge nach häufigen Aufrufen sortiert. Zunächst erscheint die Liste wie ein neutrales Abbild dessen, was das Publikum am wichtigsten findet.",
+        "Kurgusal medya projesinde içerikler görüntülenmeye göre sıralanıyor. Liste önce izleyicinin en önemli bulduğunun tarafsız resmi gibi görünüyor.",
+      ],
+      [
+        "Eine Entwicklerin weist darauf hin, dass Sichtbarkeit und Aufrufe sich gegenseitig beeinflussen. Was oben steht, wird eher geöffnet; zusätzliche Aufrufe können den oberen Platz anschließend weiter stabilisieren.",
+        "Geliştirici görünürlükle görüntülenmenin birbirini etkilediğini söylüyor. Üstteki daha çok açılıyor; ek açılışlar üst sıralamayı pekiştirebilir.",
+      ],
+      [
+        "Daraus folgt nicht, dass die Beiträge bedeutungslos sind. Die Zahl allein lässt aber nicht erkennen, ob ein Text hilfreich, nur auffällig oder zufällig früh sichtbar war.",
+        "Bu içeriklerin anlamsız olduğu sonucu çıkmaz. Ama sayı tek başına metnin yararlı mı çarpıcı mı yoksa rastlantıyla erken görünür mü olduğunu göstermez.",
+      ],
+      [
+        "Das Team ergänzt deshalb verständliche Sortieroptionen und erklärt die verwendeten Kriterien. Eine andere Reihenfolge ist möglich, ohne dass die Nutzenden dafür zusätzliche persönliche Angaben machen müssen.",
+        "Ekip anlaşılır sıralama seçenekleri ekleyip ölçütleri açıklıyor. Kullanıcı ek kişisel bilgi vermeden başka sıra seçebiliyor.",
+      ],
+      [
+        "Für die Auswertung sollen auch selten angezeigte Beiträge untersucht werden. Nur die bereits erfolgreichen Beispiele zu betrachten, würde die ursprüngliche Auswahl ein zweites Mal als Erfolg bestätigen.",
+        "Değerlendirmede az gösterilen içerikler de incelenecek. Yalnız zaten başarılı örneklere bakmak ilk seçimi yeniden başarı diye onaylayabilir.",
+      ],
+      [
+        "Die neue Gestaltung macht das System nicht vollständig neutral. Sie ermöglicht jedoch, seine Auswahl besser nachzuvollziehen und eine automatisch erzeugte Rangfolge nicht mit einer endgültigen Wertung zu verwechseln.",
+        "Yeni tasarım sistemi tümüyle tarafsız yapmıyor. Ama seçimi izlemeyi ve otomatik sırayı nihai değer yargısıyla karıştırmamayı kolaylaştırıyor.",
+      ],
+    ],
+    checks: [
+      [
+        "Üst sıranın daha çok açılması neyi gösterir?",
+        "Görünürlük geri beslemesi olabileceğini",
+        "Her üst içeriğin kesin en yararlı olduğunu",
+        "Bütün metinlerin değersizliğini",
+        "Sıra görünürlüğü, görünürlük sayıyı etkileyebilir. Sayıyı bağımsız kalite ölçüsü saymak bu döngüyü gözden kaçırır.",
+      ],
+      [
+        "Sayı tek başına neyi ayıramaz?",
+        "Yararlılık, çarpıcılık ve erken görünürlüğü",
+        "Hiç görüntülenme olmadığını",
+        "Sistemde sıra bulunduğunu",
+        "Aynı sayı farklı nedenlerle oluşabilir. Metin bu nedenleri ayırmak için ek yorum ve inceleme gerektirdiğini söyler.",
+      ],
+      [
+        "Yeni sıralama seçeneği için ek özel bilgi gerekiyor mu?",
+        "Hayır",
+        "Evet, kesin konum",
+        "Evet, özel günlük metni",
+        "ohne dass ... zusätzliche Angaben ek bilgi şartını reddeder. Kullanıcı denetimi gereksiz veri paylaşımına bağlanmıyor.",
+      ],
+      [
+        "Neden az gösterilenler de inceleniyor?",
+        "İlk seçimi yalnız başarılı örneklerle doğrulamamak için",
+        "Bütün üst sıraları silmek için",
+        "Döngüyü daha çok gizlemek için",
+        "Yalnız kazananlara bakmak seçimin etkisini yeniden başarı sanabilir. Az görünür örnekler bu değerlendirme sınırını açar.",
+      ],
+    ],
+    focus: [
+      [
+        1,
+        "gegenseitig",
+        "niemals",
+        "ausschließlich",
+        "gegenseitig iki yönlü etkiyi anlatır. Sıra ile açılış sayısı tek yönlü ve bağımsız kanıtlar gibi alınmaz.",
+      ],
+      [
+        2,
+        "nicht",
+        "zwingend",
+        "garantiert",
+        "nicht olumsuz değer çıkarımını reddeder: döngü görmek metinlerin anlamsızlığına kesin kanıt değildir.",
+      ],
+      [
+        3,
+        "ohne",
+        "um",
+        "statt",
+        "ohne dass ek kişisel bilgi vermeden seçebilme olanağını kurar. Sıra değişikliği veri toplama amacına bağlanmaz.",
+      ],
+      [
+        4,
+        "würde",
+        "würden",
+        "würdet",
+        "Mastar grubu Nur ... zu betrachten tekil kavramsal özne gibi würde ile eşleşir. Bu varsayımsal değerlendirme hatasıdır.",
+      ],
+    ],
+  },
+  {
+    level: "C1",
+    id: "listen-c1-grammar-reporting",
+    title: "Gramer Dinleme: kaynağı koru",
+    german: "Sie habe es selbst gesehen",
+    category: "grammar",
+    goal: "Konjunktiv I, önceki olay ve aktarım sınırını sesli örneklerde ayır.",
+    lines: [
+      [
+        "In einer fiktiven Besprechung erklärt eine Sprecherin, die neue Regel sei verständlich. Wer das später wiedergibt, kann damit ihre Aussage markieren, ohne selbst jede Anwendung der Regel geprüft zu haben.",
+        "Kurgusal toplantıda sözcü yeni kuralın anlaşılır olduğunu söylüyor. Bunu aktaran, bütün uygulamaları kendi incelemiş olmadan onun ifadesini işaretleyebilir.",
+      ],
+      [
+        "Eine Kollegin ergänzt, sie habe die Erklärung gestern gelesen. Habe gelesen bezeichnet hier einen früheren Vorgang, während sei verständlich zunächst die zugeschriebene Eigenschaft wiedergibt.",
+        "Bir çalışan açıklamayı dün okuduğunu ekliyor. habe gelesen önceki olayı, sei verständlich ise aktarılan niteliği veriyor.",
+      ],
+      [
+        "Mehrere Teilnehmende sagen, sie hätten noch Fragen. Die Ersatzform hätten kann helfen, die Wiedergabe sichtbar zu halten, weil haben in der Mehrzahl nicht eindeutig als Konjunktiv I erkennbar ist.",
+        "Birçok katılımcı hâlâ soruları olduğunu söylüyor. Çoğul haben Konjunktiv I olarak ayırt edilmediği için hätten yerine geçen biçimi aktarımı belirginleştirebilir.",
+      ],
+      [
+        "Aus der Form hätten folgt in diesem Zusammenhang nicht automatisch Misstrauen. Der Wechsel kann eine grammatische Kennzeichnung sein und muss nicht bedeuten, dass die sprechende Person den Inhalt für falsch hält.",
+        "Bu bağlamda hätten otomatik güvensizlik demek değil. Değişim gramatik işaret olabilir; konuşanın içeriği yanlış bulduğu anlamına gelmek zorunda değil.",
+      ],
+      [
+        "Beim Zusammenfassen bleibt außerdem wichtig, wer noch Fragen hat und worauf sie sich beziehen. Ein Wechsel der Quelle sollte erkennbar sein; ein einziges sagt am Anfang deckt nicht jede spätere Bewertung ab.",
+        "Özette kimin sorusu olduğu, soruların neye bağlı olduğu da önemli. Kaynak değişimi görünmeli; baştaki tek diyor her sonraki değerlendirmeyi kapsamaz.",
+      ],
+      [
+        "Höre deshalb auf Person, Hilfsverb und Zeitangabe zugleich. Konjunktiv I und Konjunktiv II sind keine einfachen Etiketten für heute und gestern, sondern Formen mit unterschiedlichen und teilweise überlappenden Funktionen.",
+        "Bu yüzden kişi, yardımcı fiil ve zaman ifadesini birlikte dinle. Konjunktiv I ve II bugün ve dünün basit etiketleri değil; farklı ve kısmen örtüşen işlevleri olan biçimler.",
+      ],
+    ],
+    checks: [
+      [
+        "sei verständlich neyi doğrudan kanıtlamaz?",
+        "Aktaranın her uygulamayı incelediğini",
+        "Sözcünün ifadesinin aktarıldığını",
+        "Bir nitelik iddiası bulunduğunu",
+        "Kaynak aktarımı bağımsız denetimle aynı şey değildir. Dil biçimi, aktaranın tüm örnekleri kontrol ettiğine kanıt sağlamaz.",
+      ],
+      [
+        "habe gelesen hangi zaman ilişkisi?",
+        "Önceki okuma olayı",
+        "Kesin gelecek okuma emri",
+        "Yalnız şimdiki durum",
+        "gestern ve Perfekt aktarımı önceki okumayı taşır. sei biçimini tek başına geçmiş diye ezberlemek uygun değildir.",
+      ],
+      [
+        "hätten burada neden seçilebilir?",
+        "Çoğul haben biçimindeki belirsizliği azaltmak için",
+        "İçeriğin kesin yalan olduğunu kanıtlamak için",
+        "Kişi sayısını gizlemek için",
+        "Ersatzform görünür kip ayrımı sağlayabilir. Kayıt bunun otomatik kuşku veya yanlışlık işareti olmadığını özellikle söyler.",
+      ],
+      [
+        "Özette ne korunmalı?",
+        "Kaynağın kimliği ve kapsamı",
+        "Bütün ifadeleri aynı kişiye yüklemek",
+        "Zaman bilgilerini silmek",
+        "Kim soruyor ve hangi iddia kime ait soruları kaybolmamalıdır. Başta tek atıf, sonradan eklenen her yorumu kapsamaz.",
+      ],
+    ],
+    focus: [
+      [
+        0,
+        "sei",
+        "seien",
+        "seiet",
+        "Tekil Regel ile sei Konjunktiv I kurulur. Nitelik sözcüye atfedilir; doğruluğu kipten tek başına çıkmaz.",
+      ],
+      [
+        1,
+        "habe",
+        "habest",
+        "habet",
+        "Tekil Kollegin için habe gelesen önceki okumayı aktarır. Kişi ve geçmiş olayın yardımcı kalıbı birlikte korunur.",
+      ],
+      [
+        2,
+        "hätten",
+        "hättest",
+        "hättet",
+        "Çoğul Teilnehmende için hätten görünür aktarım seçeneğidir. Farklı kişi ekleri aynı çoğul gönderimi taşımaz.",
+      ],
+      [
+        3,
+        "nicht automatisch",
+        "immer zwingend",
+        "ausnahmslos",
+        "nicht automatisch kuşku çıkarımını sınırlar. Biçim değişimi her durumda iddiayı reddetme veya yalanlama değildir.",
+      ],
+    ],
+  },
+  {
+    level: "C1",
+    id: "listen-c1-words-hedges",
+    title: "Kelime Tekrarı: savın gücü",
+    german: "Hinweis ist nicht Beweis",
+    category: "words",
+    goal: "İpucu, kanıt ve sınırlama sözcüklerinin iddiaya etkisini ayır.",
+    lines: [
+      [
+        "In einer fiktiven Auswertung wird ein Unterschied zwischen zwei Gruppen beobachtet. Der Text sagt zunächst nur, dass dieser Unterschied unter den untersuchten Bedingungen auftritt.",
+        "Kurgusal değerlendirmede iki grup arasında fark gözleniyor. Metin önce yalnız bu farkın incelenen koşullarda oluştuğunu söylüyor.",
+      ],
+      [
+        "Die Formulierung deutet darauf hin kennzeichnet eine mögliche Interpretation. Sie ist schwächer als der Anspruch, damit sei eine bestimmte Ursache zweifelsfrei nachgewiesen.",
+        "deutet darauf hin olası yorum işaretler. Belirli nedenin tartışmasız kanıtlandığı iddiasından daha zayıftır.",
+      ],
+      [
+        "Mit möglicherweise wird eine Erklärung offen gehalten, während ausschließlich den Geltungsbereich begrenzen kann. Beide Wörter wirken auf die Aussage, aber nicht auf dieselbe Weise.",
+        "möglicherweise açıklamayı açık tutarken ausschließlich geçerlilik alanını sınırlayabilir. İkisi de ifadeyi etkiler ama aynı biçimde değil.",
+      ],
+      [
+        "Eine Einschränkung nennt eine Grenze, ohne das gesamte Ergebnis automatisch aufzuheben. Beispielsweise kann eine kleine untersuchte Gruppe die Übertragbarkeit begrenzen, obwohl die Beobachtung in dieser Gruppe zutrifft.",
+        "Sınırlama bütün sonucu otomatik iptal etmeden sınır belirtir. Örneğin küçük grup, gruptaki gözlem doğru olsa da aktarılabilirliği sınırlayabilir.",
+      ],
+      [
+        "Im Gespräch wird deshalb gefragt, welche Schlussfolgerung die Daten tatsächlich tragen. Ein plausibler Gedanke verdient Prüfung, ist aber noch kein Beleg für jede denkbare Anwendung.",
+        "Bu yüzden verinin gerçekten hangi çıkarımı taşıdığı soruluyor. Makul fikir incelemeyi hak eder ama her uygulama için kanıt değildir.",
+      ],
+      [
+        "Beim zweiten Hören sammelst du die Wörter, die Sicherheit und Reichweite begrenzen. Eine gute Zusammenfassung behält diese Grenzen bei, statt durch kürzere Formulierungen unbemerkt stärkere Behauptungen zu erzeugen.",
+        "İkinci dinleyişte kesinlik ve kapsamı sınırlayan sözcükleri topla. İyi özet kısaltırken fark etmeden daha güçlü iddia üretmek yerine sınırları korur.",
+      ],
+    ],
+    checks: [
+      [
+        "deutet darauf hin ne tür ifade?",
+        "Olası yoruma işaret",
+        "Tartışmasız neden kanıtı",
+        "Kesin evrensel yasa",
+        "Kalıp sınırlı çıkarım sunar. İpucunu doğrudan kesin neden kanıtına dönüştürmek metnin güven derecesini büyütür.",
+      ],
+      [
+        "möglicherweise ve ausschließlich aynı mı?",
+        "Hayır, olasılık ve kapsamı farklı sınırlar",
+        "Evet, bütün bağlamlarda",
+        "İkisi de yalnız zaman söyler",
+        "Biri mümkün açıklamayı açık tutar, diğeri uygulama alanını sınırlayabilir. Aynı Türkçe etiketle birleştirme.",
+      ],
+      [
+        "Küçük örneklem neyi sınırlayabilir?",
+        "Bulguyu başka gruplara taşıma gücünü",
+        "Gözlenen her şeyin varlığını kesin silmeyi",
+        "Bütün çalışmaları otomatik doğru yapmayı",
+        "Gruptaki gözlemle genelleme ayrı aşamalardır. Sınır göstermek, içteki bulguyu otomatik yanlış ilan etmek değildir.",
+      ],
+      [
+        "Özette korunacak şey ne?",
+        "Kesinlik ve kapsam sınırları",
+        "Yalnız iddianın en güçlü hâli",
+        "Bütün ihtiyat sözcüklerinin silinmesi",
+        "Daha kısa ifade daha güçlü iddia üretmemelidir. Kaynağın sınırladığı alan ve güven derecesi özette de görünmelidir.",
+      ],
+    ],
+    focus: [
+      [
+        0,
+        "dass",
+        "obwohl",
+        "damit",
+        "dass bulgunun içeriğini açar. Altındaki koşul sınırı korunmalı; bu metin sınırsız genelleme yapmaz.",
+      ],
+      [
+        1,
+        "schwächer",
+        "stärker",
+        "identisch",
+        "schwächer ipucu ile kesin kanıtlama arasındaki güç farkını verir. İki ifade eşit doğrulama statüsü taşımaz.",
+      ],
+      [
+        3,
+        "ohne",
+        "um",
+        "seit",
+        "ohne otomatik iptal olmamasını kurar. Sınırlama belirtmenin amacı bütün sonucu silmek değildir; bilgi alanını ayırır.",
+      ],
+      [
+        5,
+        "statt",
+        "um",
+        "seit",
+        "statt güçlendirilmiş iddia üretme yerine sınır korumayı karşılaştırır. Özetin kısalığı içerik sadakatinden bağımsız değildir.",
+      ],
+    ],
+  },
+];
+
+export default lessons;

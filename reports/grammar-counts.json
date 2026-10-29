@@ -1,0 +1,17 @@
+{
+  "topics": 66,
+  "readyLessons": 16,
+  "examples": 33,
+  "quizQuestions": 80,
+  "practiceQuestions": 16,
+  "fullyReadyByLevel": {
+    "A1": 16,
+    "A2": 0,
+    "B1": 0,
+    "B2": 0,
+    "C1": 0,
+    "C2": 0
+  },
+  "supabaseConnected": false,
+  "migrationApplied": false
+}

@@ -1,0 +1,2446 @@
+/* Local garden game. All game artwork is original SVG/CSS and stays offline-capable. */
+.garden-game-page {
+  --garden-ink: #4d6650;
+  --garden-muted: #7c8b72;
+  padding-bottom: 10px;
+}
+.garden-game-page .page-description {
+  font-size: 13px;
+}
+.garden-game-page .eyebrow {
+  font-size: 9px;
+  letter-spacing: 1px;
+}
+.local-save-status {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 11px;
+  color: #789070;
+  background: #edf5e8;
+  border: 1px solid #dce9d4;
+  border-radius: 20px;
+  padding: 9px 12px;
+  white-space: nowrap;
+}
+.local-save-status > span {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #91b184;
+}
+.local-save-status.mode-memory,
+.local-save-status.mode-readonly {
+  background: #fff0dc;
+  color: #a57b43;
+  border-color: #f0dcba;
+}
+.local-save-status.mode-memory > span,
+.local-save-status.mode-readonly > span {
+  background: #d9b169;
+}
+.garden-lumi-guide {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  padding: 8px 17px 8px 4px;
+  background: linear-gradient(95deg, #f5eafa, #fff6f0);
+  border: 1px solid #eaddf1;
+  border-radius: 20px;
+  margin-bottom: 22px;
+  min-height: 91px;
+}
+.garden-lumi-art {
+  width: 88px;
+  height: 83px;
+  flex-shrink: 0;
+}
+.garden-lumi-art .lumi-mascot {
+  height: 100%;
+  width: 100%;
+}
+.garden-lumi-guide > div:nth-child(2) {
+  flex: 1;
+  min-width: 0;
+}
+.garden-lumi-guide strong {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: #9875ac;
+}
+.garden-lumi-guide p {
+  font-size: 12px;
+  line-height: 1.7;
+  color: #826c90;
+  margin-top: 5px;
+}
+.garden-rules-link {
+  display: flex;
+  gap: 7px;
+  align-items: center;
+  background: #fffdf7a8;
+  border-radius: 12px;
+  padding: 10px;
+  color: #a08aac;
+  font-size: 10px;
+  white-space: nowrap;
+}
+.garden-rules-link:hover {
+  background: #fff;
+}
+.garden-storage-warning,
+.garden-sound-notice {
+  background: #fff1db;
+  border: 1px solid #e8d2ab;
+  border-radius: 12px;
+  color: #8d6c39;
+  font-size: 12px;
+  padding: 13px 16px;
+  line-height: 1.7;
+  margin: -8px 0 20px;
+}
+.garden-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 285px;
+  gap: 22px;
+  align-items: start;
+}
+.garden-play-column {
+  min-width: 0;
+}
+.garden-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+.garden-tool-options {
+  display: flex;
+  gap: 5px;
+  padding: 5px;
+  border: 1px solid #e9e2e5;
+  border-radius: 15px;
+  background: #fffdfa;
+}
+.garden-toolbar button,
+.garden-toolbar-right > a {
+  min-height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  border-radius: 10px;
+  font-size: 11px;
+  background: transparent;
+  color: #96849d;
+  font-weight: 700;
+  padding: 8px 12px;
+  transition: background 0.2s;
+}
+.garden-tool-options button[aria-pressed="true"] {
+  background: #e9e0f5;
+  color: #80639f;
+  box-shadow: 0 2px 5px #8c769810;
+}
+.garden-tool-options button[aria-pressed="true"]:nth-child(2) {
+  background: #e2f0f8;
+  color: #6d97af;
+}
+.garden-toolbar button:hover,
+.garden-toolbar-right > a:hover {
+  background: #efe6f4;
+}
+.garden-toolbar button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+.garden-toolbar-right {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.garden-toolbar-right > a {
+  background: #f1ecf6;
+  font-size: 10px;
+}
+.garden-toolbar-right > button {
+  width: 42px;
+  border: 1px solid #e7deea;
+  padding: 8px;
+  background: #fffcf7;
+}
+.garden-toolbar-right button[aria-pressed="true"] {
+  color: #739386;
+  background: #e9f4e9;
+}
+.garden-sound-notice {
+  margin: 0 0 10px;
+  font-size: 11px;
+}
+.garden-playground {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  border-radius: 28px;
+  border: 2px solid #dbe9c8;
+  box-shadow:
+    0 6px 0 #c5d8b25c,
+    0 14px 30px #74996d0a;
+  background: #d5e6b9;
+}
+.playground-scenery {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  pointer-events: none;
+}
+.meadow-sign {
+  position: absolute;
+  top: 27px;
+  left: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  max-width: 65%;
+  color: #668060;
+}
+.meadow-sign > span {
+  font-size: 10px;
+  font-weight: 900;
+  letter-spacing: 1.25px;
+  background: #fffbedb3;
+  border: 1px solid #fffceb;
+  padding: 7px 12px;
+  border-radius: 30px;
+  align-self: flex-start;
+}
+.meadow-sign > strong {
+  font-size: 17px;
+  letter-spacing: -0.5px;
+  color: #64835e;
+  line-height: 1.4;
+}
+.planting-field {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 24px 15px;
+  padding: 172px 48px 145px;
+  justify-items: center;
+  min-height: 690px;
+}
+.garden-plot {
+  position: relative;
+  width: 100%;
+  max-width: 124px;
+  min-height: 110px;
+  background: none;
+  border: 0;
+  border-radius: 35%;
+  padding: 0;
+  isolation: isolate;
+  transition: transform 0.18s;
+  touch-action: manipulation;
+  color: #667a55;
+}
+.garden-plot:hover {
+  transform: translateY(-3px);
+}
+.garden-plot:active {
+  transform: translateY(1px);
+}
+.garden-plot:disabled {
+  cursor: wait;
+  opacity: 0.7;
+}
+.plot-soil {
+  position: absolute;
+  left: 1%;
+  right: 1%;
+  bottom: 22px;
+  height: 42px;
+  background: radial-gradient(ellipse at 48% 25%, #c4a181, #b48e71);
+  border-radius: 50%;
+  border: 3px solid #d4b597;
+  box-shadow:
+    0 4px 0 #91725455,
+    0 8px 0 #9ebd8377;
+  transform: rotate(-4deg);
+  z-index: -1;
+}
+.plot-soil:after {
+  content: "";
+  position: absolute;
+  inset: 11px 13px;
+  border-top: 2px dashed #8c715d55;
+  border-bottom: 2px dashed #8c715d44;
+  border-radius: 50%;
+  transform: rotate(4deg);
+}
+.garden-plot.empty .plot-soil {
+  background: radial-gradient(ellipse at 48% 25%, #bfa082, #b39277);
+  border: 2px dashed #f0d6b1;
+}
+.empty-plot-icon {
+  display: grid;
+  place-items: center;
+  position: absolute;
+  inset: auto 0 31px;
+  margin: auto;
+  height: 29px;
+  width: 29px;
+  border: 1px solid #f5debd7a;
+  border-radius: 50%;
+  color: #fbe7c9;
+  background: #b7987e44;
+}
+.plot-name {
+  font-size: 9px;
+  font-weight: 800;
+  position: absolute;
+  bottom: 0;
+  left: -10px;
+  right: -10px;
+  text-align: center;
+  color: #6e835b;
+  text-shadow: 0 1px 0 #e6efc9;
+  line-height: 1.5;
+}
+.garden-plot > .game-flower {
+  width: 100%;
+  height: 127px;
+  position: absolute;
+  left: 0;
+  bottom: 22px;
+  overflow: visible;
+  pointer-events: none;
+}
+.game-flower {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+.plant-sway {
+  transform-origin: 60px 124px;
+  animation: plant-sway 6s ease-in-out infinite;
+}
+.garden-plot:nth-child(3n) .plant-sway {
+  animation-delay: -2s;
+}
+.stage-bloom .flower-head {
+  transform-origin: 60px 54px;
+  animation: flower-bloom 1.1s ease-out both;
+}
+.stage-bloom .plant-sway {
+  animation-duration: 7s;
+}
+.plot-water-hint {
+  position: absolute;
+  top: 6px;
+  right: 3px;
+  background: #e0e7d06e;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  display: grid;
+  place-items: center;
+  color: #a4b29b;
+}
+.plot-water-hint.available {
+  background: #e9f8ff;
+  color: #82a9c3;
+  box-shadow: 0 2px 5px #7d9fa523;
+}
+.tool-water .garden-plot.occupied:hover .plot-soil {
+  box-shadow:
+    0 0 0 4px #c4e1e8,
+    0 5px 0 #91b6ad;
+}
+.plot-bloom-star {
+  position: absolute;
+  right: 1px;
+  top: -1px;
+  font-size: 23px;
+  color: #fff3b0;
+  animation: meadow-twinkle 4s ease-in-out infinite;
+  text-shadow: 0 1px 3px #b9a35f44;
+}
+.just-planted {
+  animation: seed-pop 0.5s ease-out;
+}
+.planting-sparkle {
+  position: absolute;
+  inset: 0;
+  color: #f8e59f;
+  font-size: 28px;
+  animation: plant-sparkle 1.3s ease-out both;
+  pointer-events: none;
+}
+.watering-drops {
+  position: absolute;
+  inset: -12px 0 15px;
+  pointer-events: none;
+  overflow: hidden;
+}
+.watering-drops i {
+  position: absolute;
+  left: 35%;
+  top: 0;
+  width: 7px;
+  height: 11px;
+  border-radius: 50% 50% 65% 65%;
+  background: #a6d9ec;
+  animation: water-drop 0.8s ease-in infinite;
+}
+.watering-drops i:nth-child(2) {
+  left: 60%;
+  animation-delay: 0.2s;
+}
+.watering-drops i:nth-child(3) {
+  left: 47%;
+  animation-delay: 0.4s;
+}
+.is-watering .plot-soil {
+  background: radial-gradient(ellipse, #8f8170, #9b7f69);
+}
+.garden-decoration-rail {
+  position: absolute;
+  left: 25px;
+  right: 25px;
+  bottom: 22px;
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 8px;
+  align-items: end;
+}
+.decoration-slot {
+  position: relative;
+  background: none;
+  border: 0;
+  padding: 0;
+  border-radius: 17px;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: column;
+  color: #8da073;
+  min-width: 0;
+  transition: background 0.2s;
+}
+.decoration-slot:before {
+  content: "";
+  position: absolute;
+  bottom: 17px;
+  left: 9%;
+  right: 9%;
+  height: 20px;
+  border-radius: 50%;
+  background: #b5ca935e;
+  border: 1px dashed #e9f1cb;
+  z-index: -1;
+}
+.decoration-slot > span {
+  height: 38px;
+  width: 38px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  border: 1px dashed #eaf1d1;
+  background: #d5e5b77a;
+  margin-bottom: 12px;
+}
+.decoration-slot small {
+  font-size: 8px;
+  height: 16px;
+  color: #849469;
+}
+.decoration-slot > .decoration-art {
+  width: 68px;
+  height: 66px;
+  max-width: 100%;
+  position: absolute;
+  bottom: 16px;
+}
+.decoration-slot:hover {
+  background: #e4efcf65;
+}
+.placing-decoration .decoration-slot {
+  outline: 2px dashed #aab986;
+  outline-offset: 2px;
+  background: #edf4d25c;
+}
+.placing-decoration .decoration-slot.has-decoration {
+  outline-color: #d7bba3;
+}
+.decoration-art {
+  display: block;
+  height: 100%;
+  width: 100%;
+  overflow: visible;
+}
+.garden-butterfly {
+  transform-origin: 50px 45px;
+  animation: butterfly-flutter 6s ease-in-out infinite;
+}
+.scenery-butterfly {
+  animation: meadow-twinkle 5s ease-in-out infinite;
+}
+.meadow-sparkles {
+  animation: meadow-twinkle 6s ease-in-out infinite;
+}
+.garden-ground-note {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+  line-height: 1.7;
+  color: #879371;
+  padding: 13px 10px;
+  margin-top: 6px;
+  min-height: 55px;
+}
+.garden-note-dot {
+  width: 6px;
+  height: 6px;
+  background: #b0c78f;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.garden-ground-note > button {
+  background: #efe8f5;
+  color: #8c70a1;
+  border-radius: 8px;
+  padding: 8px 10px;
+  margin-left: auto;
+  min-height: 36px;
+  font-size: 10px;
+}
+.garden-rules {
+  scroll-margin-top: 20px;
+  margin-top: 12px;
+  background: #fffdf8;
+  border: 1px solid #eee7db;
+  border-radius: 20px;
+  padding: 23px;
+}
+.garden-rules h2 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+  color: #877750;
+  line-height: 1.5;
+  letter-spacing: -0.3px;
+}
+.garden-rules h2 svg {
+  color: #adc0b3;
+}
+.garden-rules > div {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin: 21px 0;
+}
+.garden-rules strong {
+  display: block;
+  font-size: 11px;
+  color: #8c8f71;
+}
+.garden-rules p span {
+  display: block;
+  color: #a09c88;
+  font-size: 10px;
+  line-height: 1.8;
+  margin-top: 6px;
+}
+.garden-local-note {
+  font-size: 10px;
+  line-height: 1.8;
+  color: #a89b8d;
+  border-top: 1px dashed #ece3d4;
+  padding-top: 13px;
+}
+.garden-bag {
+  min-width: 0;
+  background: #fffdf9;
+  border: 1px solid #e9e1e7;
+  border-radius: 23px;
+  padding: 22px 19px;
+  scroll-margin-top: 20px;
+}
+.bag-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 7px;
+}
+.bag-heading h2 {
+  font-size: 21px;
+  color: #75617f;
+}
+.bag-coins {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 0 5px;
+  align-items: center;
+  color: #bd9b58;
+  font-size: 18px;
+  font-weight: 800;
+  text-align: right;
+}
+.bag-coins small {
+  grid-column: 1/-1;
+  font-size: 8px;
+  color: #a39275;
+  font-weight: 500;
+  line-height: 1.6;
+}
+.bag-starter {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  color: #a092a6;
+  line-height: 1.5;
+  font-size: 9px;
+  background: #f7f1f8;
+  padding: 8px;
+  margin: 16px 0 23px;
+  border-radius: 10px;
+}
+.bag-starter svg {
+  width: 14px;
+}
+.garden-bag > h3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #8e799a;
+  font-size: 13px;
+  letter-spacing: -0.2px;
+  margin-bottom: 13px;
+}
+.garden-bag > h3 span {
+  font-size: 9px;
+  font-weight: 500;
+  color: #a594af;
+}
+.bag-seeds {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 6px;
+}
+.bag-seed {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  min-height: 50px;
+  border: 1px solid #f0e9ef;
+  border-radius: 12px;
+  background: #fcf9fc;
+  padding: 5px 10px;
+}
+.bag-seed > .game-flower {
+  height: 39px;
+  width: 35px;
+  flex-shrink: 0;
+}
+.bag-seed strong {
+  display: block;
+  font-size: 11px;
+  color: #8b7396;
+}
+.bag-seed > div > span {
+  font-size: 9px;
+  color: #ab99b4;
+  display: block;
+  margin-top: 3px;
+}
+.seed-count {
+  font-size: 12px;
+  font-weight: 800;
+  color: #ab93b9;
+  margin-left: auto;
+}
+.bag-hint {
+  font-size: 10px;
+  color: #a190a8;
+  line-height: 1.8;
+  margin: 11px 0 23px;
+}
+.bag-decorations {
+  display: grid;
+  gap: 7px;
+}
+.bag-decorations > button {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  background: #fbf7f0;
+  border: 1px solid #efe4d6;
+  border-radius: 12px;
+  padding: 8px 10px;
+  text-align: left;
+  min-height: 57px;
+  transition:
+    background 0.2s,
+    border-color 0.2s;
+}
+.bag-decorations > button:hover {
+  background: #f3edf7;
+}
+.bag-decorations > button.selected {
+  background: #eee6f6;
+  border-color: #bba0d1;
+  box-shadow: 0 0 0 2px #d8c8e855;
+}
+.bag-decorations .decoration-art {
+  width: 38px;
+  height: 38px;
+  flex-shrink: 0;
+}
+.bag-decorations strong {
+  font-size: 11px;
+  color: #99846d;
+  display: block;
+}
+.bag-decorations small {
+  font-size: 9px;
+  color: #b09c83;
+  display: block;
+  margin-top: 3px;
+}
+.bag-decorations > button.selected strong {
+  color: #8963a7;
+}
+.bag-tools {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  border-top: 1px dashed #ece2ed;
+  margin-top: 22px;
+  padding-top: 20px;
+}
+.bag-tools > span {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: center;
+  text-align: center;
+  color: #a18db1;
+}
+.bag-tools > span:first-child {
+  color: #8ba9b4;
+}
+.bag-tools strong {
+  font-size: 10px;
+  color: #8f7d9c;
+}
+.bag-tools small {
+  font-size: 8px;
+  line-height: 1.6;
+  color: #ad9ab8;
+}
+.garden-worlds {
+  margin-top: 35px;
+}
+.world-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 19px;
+}
+.world-heading h2 {
+  font-size: 22px;
+  color: #7a638b;
+}
+.world-heading > span {
+  font-size: 11px;
+  color: #b09bba;
+  white-space: nowrap;
+}
+.world-cards {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 12px;
+}
+.world-card {
+  position: relative;
+  padding: 21px 14px 17px;
+  border-radius: 19px;
+  background: #f0ebf4;
+  border: 1px solid #e7dfed;
+  min-width: 0;
+  overflow: hidden;
+}
+.world-card:not(:first-child) {
+  background: linear-gradient(140deg, #f3eef5, #eeeaf1);
+  color: #b2a4bd;
+}
+.world-card:first-child {
+  background: linear-gradient(135deg, #edf5e3, #e6f0d7);
+  border-color: #cddfba;
+}
+.world-emoji {
+  font-size: 27px;
+  display: block;
+  opacity: 0.5;
+  filter: saturate(0.6);
+}
+.world-card:first-child .world-emoji {
+  opacity: 1;
+  filter: none;
+}
+.world-level {
+  font-size: 10px;
+  font-weight: 900;
+  position: absolute;
+  top: 17px;
+  right: 12px;
+  color: #ad9fba;
+  background: #ffffff65;
+  padding: 4px 6px;
+  border-radius: 6px;
+}
+.world-card:first-child .world-level {
+  color: #90a573;
+}
+.world-card h3 {
+  font-size: 12px;
+  color: #a08dad;
+  line-height: 1.5;
+  margin: 12px 0 10px;
+  min-height: 36px;
+  letter-spacing: -0.1px;
+}
+.world-card:first-child h3 {
+  color: #819569;
+}
+.world-card p {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 8px;
+  color: #b6a7bf;
+  line-height: 1.8;
+}
+.world-card:first-child p {
+  color: #95a77f;
+}
+.garden-game-dialog {
+  border: 1px solid #e9dcef;
+  border-radius: 24px;
+  background: #fffaf5;
+  color: #695474;
+  width: min(92vw, 650px);
+  max-height: 86dvh;
+  padding: 26px;
+  box-shadow: 0 25px 90px #46334e33;
+  overflow: auto;
+}
+.garden-game-dialog::backdrop {
+  background: #4e405d66;
+  backdrop-filter: blur(5px);
+}
+.garden-dialog-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  margin-bottom: 16px;
+}
+.garden-dialog-heading .eyebrow {
+  font-size: 8px;
+  letter-spacing: 1px;
+  color: #aa91b7;
+}
+.garden-dialog-heading h2 {
+  font-size: 26px;
+  color: #7b5d91;
+}
+.garden-dialog-heading > .icon-button {
+  flex-shrink: 0;
+  min-height: 44px;
+  min-width: 44px;
+}
+.garden-dialog-intro {
+  font-size: 12px;
+  color: #a48eae;
+  line-height: 1.8;
+  margin-bottom: 18px;
+}
+.seed-picker {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 9px;
+}
+.seed-picker > button {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  min-width: 0;
+  padding: 13px 17px;
+  background: #faf3fb;
+  border: 1px solid #eadeee;
+  border-radius: 17px;
+  text-align: left;
+  transition:
+    transform 0.15s,
+    background 0.15s;
+}
+.seed-picker > button:not(:disabled):hover {
+  background: #f0e6f7;
+  transform: translateY(-2px);
+}
+.seed-picker > button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+.seed-picker .game-flower {
+  width: 54px;
+  height: 65px;
+  flex-shrink: 0;
+}
+.seed-picker > button > div {
+  flex: 1;
+  min-width: 0;
+}
+.seed-picker strong {
+  font-size: 15px;
+  color: #8e6ca4;
+}
+.seed-picker p {
+  font-size: 11px;
+  color: #a58caf;
+  line-height: 1.6;
+  margin: 5px 0;
+}
+.seed-picker > button > div > span {
+  font-size: 10px;
+  font-weight: 700;
+  color: #b09abd;
+}
+.seed-plant-action {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  flex-shrink: 0;
+  font-size: 12px;
+  color: #9878ae;
+  background: #eee2f5;
+  border-radius: 9px;
+  padding: 9px 10px;
+}
+.garden-dialog-footnote {
+  font-size: 11px;
+  color: #ad98b7;
+  line-height: 1.8;
+  margin-top: 17px;
+  text-align: center;
+}
+.plant-details {
+  padding: 0 12px;
+  text-align: center;
+}
+.plant-detail-art {
+  position: relative;
+  width: 145px;
+  height: 165px;
+  margin: 0 auto 8px;
+  background: radial-gradient(ellipse at 50% 65%, #e6efda, #eff4e500 70%);
+}
+.plant-detail-art .game-flower {
+  width: 100%;
+  height: 100%;
+}
+.plant-detail-art > span {
+  position: absolute;
+  top: 10px;
+  right: 0;
+  font-size: 31px;
+  color: #e0be71;
+  animation: meadow-twinkle 3s ease-in-out infinite;
+}
+.plant-stage-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  font-weight: 800;
+  color: #8c9e76;
+  background: #edf3e2;
+  border: 1px solid #e1ebd1;
+  border-radius: 20px;
+  padding: 7px 11px;
+}
+.plant-details > p:not(.garden-dialog-footnote):not(.bloom-keepsake) {
+  font-size: 12px;
+  line-height: 1.8;
+  color: #a38dad;
+  margin: 15px 0 22px;
+}
+.plant-detail-progress {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 11px;
+  color: #ad94b9;
+  margin-bottom: 11px;
+}
+.plant-detail-progress strong {
+  font-size: 11px;
+  font-weight: 700;
+}
+.plant-details .progress-track {
+  height: 10px;
+  background: #eee3f4;
+}
+.plant-details .progress-fill {
+  background: linear-gradient(90deg, #b9d3a1, #a1bd8d);
+}
+.plant-stage-path {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 10px;
+  margin: 13px 0 26px;
+  color: #c1acc9;
+}
+.plant-stage-path > span {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.plant-stage-path > span:before {
+  content: "";
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: #ded1e4;
+}
+.plant-stage-path .reached {
+  color: #9bad83;
+}
+.plant-stage-path .reached:before {
+  background: #b4c696;
+}
+.plant-details > .garden-button {
+  min-height: 46px;
+  height: auto;
+  padding-block: 12px;
+  white-space: normal;
+  line-height: 1.5;
+  font-size: 12px;
+  max-width: 100%;
+}
+.bloom-keepsake {
+  font-size: 12px;
+  line-height: 1.8;
+  color: #a58baf;
+  background: #f5eaf7;
+  border-radius: 12px;
+  padding: 12px;
+  margin-top: 16px;
+}
+.slot-details {
+  text-align: center;
+}
+.slot-details > .decoration-art {
+  width: 130px;
+  height: 140px;
+  margin: 10px auto;
+}
+.slot-details h3 {
+  font-size: 22px;
+  color: #9b7ba5;
+  margin: 8px 0 12px;
+}
+.slot-details > p {
+  font-size: 13px;
+  color: #a58eac;
+  line-height: 1.8;
+  margin: 15px 0 20px;
+}
+.slot-actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin: 22px 0 10px;
+}
+.slot-actions .garden-button {
+  font-size: 12px;
+  min-height: 46px;
+}
+.slot-decor-picker {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+.slot-decor-picker > button {
+  background: #f7eff8;
+  border: 1px solid #e9ddeb;
+  border-radius: 16px;
+  padding: 16px 10px;
+  color: #9d7da9;
+  min-height: 140px;
+}
+.slot-decor-picker .decoration-art {
+  height: 65px;
+  width: 65px;
+  margin: auto auto 12px;
+}
+.slot-decor-picker strong {
+  font-size: 12px;
+  display: block;
+}
+.slot-decor-picker small {
+  font-size: 10px;
+  display: block;
+  color: #b59bbe;
+  margin-top: 6px;
+}
+.garden-toast {
+  position: fixed;
+  bottom: 25px;
+  left: calc(50% + 100px);
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  background: #fffaf3f5;
+  border: 1px solid #dfd0e7;
+  box-shadow: 0 9px 40px #795a9420;
+  border-radius: 15px;
+  padding: 14px 18px;
+  max-width: min(80vw, 600px);
+  font-size: 12px;
+  color: #9573a5;
+  z-index: 55;
+  pointer-events: none;
+  animation: toast-appear 0.3s ease-out;
+}
+.garden-toast > span {
+  font-size: 19px;
+}
+@keyframes plant-sway {
+  0%,
+  100% {
+    transform: rotate(-2deg);
+  }
+  50% {
+    transform: rotate(2deg);
+  }
+}
+@keyframes flower-bloom {
+  0% {
+    transform: scale(0.3);
+    opacity: 0.2;
+  }
+  70% {
+    transform: scale(1.08);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+@keyframes meadow-twinkle {
+  0%,
+  100% {
+    opacity: 0.35;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+@keyframes butterfly-flutter {
+  0%,
+  100% {
+    transform: rotate(-4deg);
+  }
+  50% {
+    transform: rotate(4deg);
+  }
+}
+@keyframes seed-pop {
+  0% {
+    transform: translateY(8px) scale(0.85);
+  }
+  65% {
+    transform: translateY(-4px) scale(1.03);
+  }
+  100% {
+    transform: translateY(0) scale(1);
+  }
+}
+@keyframes plant-sparkle {
+  0% {
+    opacity: 0;
+    transform: translateY(15px) scale(0.4);
+  }
+  40% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-30px) scale(1.3);
+  }
+}
+@keyframes water-drop {
+  0% {
+    opacity: 0;
+    transform: translateY(0);
+  }
+  20% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(90px);
+  }
+}
+@keyframes toast-appear {
+  from {
+    opacity: 0;
+    translate: 0 8px;
+  }
+  to {
+    opacity: 1;
+    translate: 0 0;
+  }
+}
+@media (min-width: 1600px) {
+  .garden-layout {
+    grid-template-columns: minmax(0, 1fr) 315px;
+    gap: 25px;
+  }
+  .garden-bag {
+    padding: 26px;
+  }
+  .planting-field {
+    padding-inline: 65px;
+    min-height: 720px;
+    row-gap: 28px;
+  }
+  .garden-plot {
+    max-width: 140px;
+    min-height: 115px;
+  }
+  .garden-plot > .game-flower {
+    height: 140px;
+  }
+  .meadow-sign {
+    top: 30px;
+    left: 40px;
+  }
+  .meadow-sign > strong {
+    font-size: 20px;
+  }
+  .plot-name {
+    font-size: 11px;
+  }
+  .garden-rules strong {
+    font-size: 13px;
+  }
+  .garden-rules p span {
+    font-size: 11px;
+  }
+  .bag-seed strong {
+    font-size: 13px;
+  }
+  .bag-seed {
+    min-height: 56px;
+  }
+  .world-card h3 {
+    font-size: 14px;
+  }
+}
+@media (max-width: 1250px) {
+  .garden-layout {
+    grid-template-columns: minmax(0, 1fr) 248px;
+    gap: 16px;
+  }
+  .garden-bag {
+    padding: 20px 15px;
+  }
+  .planting-field {
+    padding: 163px 24px 143px;
+    column-gap: 10px;
+    row-gap: 28px;
+  }
+  .garden-plot > .game-flower {
+    height: 118px;
+  }
+  .garden-toolbar button {
+    font-size: 10px;
+    padding-inline: 10px;
+  }
+  .garden-toolbar-right > a > span {
+    display: none;
+  }
+  .garden-toolbar-right > a {
+    width: 40px;
+    padding: 7px;
+  }
+  .world-cards {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .world-card h3 {
+    min-height: 0;
+  }
+  .garden-rules > div {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+  .garden-rules p span {
+    margin-top: 3px;
+  }
+  .garden-lumi-guide p {
+    font-size: 11px;
+  }
+}
+@media (max-width: 1100px) {
+  .garden-layout {
+    grid-template-columns: 1fr;
+    gap: 22px;
+  }
+  .planting-field {
+    padding: 165px 58px 145px;
+    gap: 27px 20px;
+    min-height: 690px;
+  }
+  .garden-plot > .game-flower {
+    height: 130px;
+  }
+  .garden-bag {
+    padding: 25px;
+  }
+  .bag-seeds {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  .bag-seed {
+    padding: 8px;
+    gap: 6px;
+  }
+  .bag-seed strong {
+    font-size: 10px;
+  }
+  .bag-seed > .game-flower {
+    width: 29px;
+  }
+  .bag-decorations {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  .bag-decorations > button {
+    padding: 10px 8px;
+    gap: 7px;
+  }
+  .bag-decorations strong {
+    font-size: 10px;
+  }
+  .bag-tools {
+    grid-template-columns: 1fr 1fr;
+    margin-top: 23px;
+  }
+  .garden-bag > h3 {
+    font-size: 16px;
+  }
+  .garden-bag .bag-hint {
+    font-size: 11px;
+  }
+  .garden-rules > div {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+  }
+  .garden-lumi-guide {
+    gap: 9px;
+  }
+  .garden-rules-link {
+    padding: 9px;
+    font-size: 9px;
+  }
+  .garden-toolbar-right > a > span {
+    display: block;
+  }
+  .garden-toolbar-right > a {
+    width: auto;
+    padding: 10px;
+  }
+  .garden-lumi-guide p {
+    font-size: 12px;
+  }
+  .local-save-status {
+    font-size: 9px;
+  }
+  .garden-game-page .page-heading {
+    align-items: flex-start;
+  }
+}
+@media (max-width: 760px) {
+  .garden-game-page .page-heading {
+    flex-direction: column;
+    gap: 14px;
+    margin-bottom: 18px;
+  }
+  .garden-game-page h1 {
+    font-size: 27px;
+  }
+  .garden-game-page .page-description {
+    font-size: 12px;
+  }
+  .local-save-status {
+    font-size: 10px;
+    padding: 7px 10px;
+  }
+  .garden-lumi-guide {
+    padding: 9px 12px 9px 0;
+    gap: 5px;
+  }
+  .garden-lumi-art {
+    width: 72px;
+    height: 80px;
+  }
+  .garden-lumi-guide strong {
+    font-size: 12px;
+  }
+  .garden-lumi-guide p {
+    font-size: 11px;
+    line-height: 1.7;
+  }
+  .garden-rules-link {
+    padding: 9px;
+    background: #fffdf690;
+    align-self: flex-start;
+    margin-top: 4px;
+  }
+  .garden-rules-link > span {
+    display: none;
+  }
+  .garden-toolbar button,
+  .garden-toolbar-right > a {
+    font-size: 10px;
+    gap: 6px;
+    padding-inline: 9px;
+    min-height: 44px;
+  }
+  .garden-toolbar {
+    gap: 6px;
+  }
+  .garden-tool-options {
+    gap: 2px;
+    padding: 4px;
+  }
+  .garden-toolbar-right {
+    gap: 4px;
+  }
+  .garden-toolbar-right > a > span {
+    display: none;
+  }
+  .garden-toolbar-right > a {
+    width: 38px;
+    padding: 6px;
+  }
+  .garden-toolbar-right > button {
+    width: 38px;
+    padding: 6px;
+  }
+  .garden-toolbar svg {
+    width: 17px;
+  }
+  .garden-playground {
+    border-radius: 23px;
+  }
+  .planting-field {
+    padding: 157px 37px 135px;
+    gap: 25px 13px;
+    min-height: 665px;
+  }
+  .meadow-sign {
+    left: 23px;
+    top: 24px;
+    max-width: 70%;
+  }
+  .meadow-sign > strong {
+    font-size: 16px;
+  }
+  .meadow-sign > span {
+    font-size: 9px;
+  }
+  .plot-name {
+    font-size: 9px;
+  }
+  .garden-plot > .game-flower {
+    height: 120px;
+  }
+  .garden-decoration-rail {
+    left: 17px;
+    right: 17px;
+    gap: 6px;
+    bottom: 21px;
+  }
+  .garden-ground-note {
+    font-size: 11px;
+    padding-inline: 5px;
+    min-height: 65px;
+  }
+  .garden-bag {
+    padding: 23px;
+  }
+  .bag-seed strong {
+    font-size: 11px;
+  }
+  .bag-heading h2 {
+    font-size: 23px;
+  }
+  .bag-starter {
+    font-size: 11px;
+    padding: 10px;
+  }
+  .bag-coins small {
+    font-size: 9px;
+  }
+  .bag-seeds {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .bag-seed {
+    min-height: 59px;
+    padding: 9px;
+  }
+  .bag-seed > .game-flower {
+    width: 33px;
+    height: 43px;
+  }
+  .bag-decorations {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .bag-decorations strong {
+    font-size: 11px;
+  }
+  .bag-decorations > button {
+    min-height: 65px;
+  }
+  .bag-decorations .decoration-art {
+    width: 36px;
+  }
+  .bag-tools strong {
+    font-size: 12px;
+  }
+  .bag-tools small {
+    font-size: 9px;
+  }
+  .garden-bag > h3 span {
+    font-size: 11px;
+  }
+  .garden-bag .bag-hint {
+    font-size: 11px;
+  }
+  .world-heading {
+    align-items: flex-start;
+  }
+  .world-heading h2 {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+  .world-heading > span {
+    display: none;
+  }
+  .world-cards {
+    gap: 10px;
+  }
+  .world-card {
+    padding: 16px 12px;
+  }
+  .world-card h3 {
+    font-size: 12px;
+    min-height: 36px;
+  }
+  .world-card p {
+    font-size: 8px;
+    display: block;
+    line-height: 1.8;
+  }
+  .world-card p svg {
+    display: inline;
+    margin-right: 3px;
+    vertical-align: middle;
+  }
+  .garden-rules {
+    padding: 20px;
+  }
+  .garden-rules h2 {
+    font-size: 15px;
+  }
+  .garden-rules > div {
+    gap: 13px;
+  }
+  .garden-rules strong {
+    font-size: 11px;
+  }
+  .garden-local-note {
+    font-size: 10px;
+  }
+  .garden-toast {
+    left: 50%;
+    bottom: 92px;
+    width: max-content;
+    max-width: 90vw;
+    font-size: 11px;
+    padding: 12px 15px;
+  }
+  .garden-storage-warning {
+    font-size: 11px;
+  }
+}
+@media (max-width: 520px) {
+  .planting-field {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    padding: 156px 23px 134px;
+    gap: 26px 13px;
+    min-height: 735px;
+  }
+  .garden-plot {
+    min-height: 95px;
+  }
+  .garden-plot > .game-flower {
+    height: 112px;
+    bottom: 22px;
+  }
+  .plot-soil {
+    height: 35px;
+    border-width: 2px;
+  }
+  .empty-plot-icon {
+    bottom: 25px;
+    width: 28px;
+    height: 28px;
+  }
+  .plot-name {
+    bottom: 0;
+    font-size: 9px;
+    left: -5px;
+    right: -5px;
+  }
+  .plot-water-hint {
+    top: 1px;
+    right: -2px;
+    width: 18px;
+    height: 18px;
+  }
+  .plot-bloom-star {
+    right: -4px;
+    top: -4px;
+    font-size: 20px;
+  }
+  .garden-decoration-rail {
+    left: 12px;
+    right: 12px;
+    gap: 4px;
+    bottom: 21px;
+  }
+  .decoration-slot {
+    height: 66px;
+  }
+  .decoration-slot > .decoration-art {
+    height: 54px;
+    width: 54px;
+    bottom: 16px;
+  }
+  .decoration-slot > span {
+    width: 32px;
+    height: 32px;
+    margin-bottom: 12px;
+  }
+  .decoration-slot small {
+    font-size: 7px;
+  }
+  .meadow-sign > strong {
+    font-size: 15px;
+  }
+  .meadow-sign > span {
+    font-size: 8px;
+    letter-spacing: 0.8px;
+  }
+  .garden-tool-options button {
+    font-size: 9px;
+    gap: 5px;
+    padding-inline: 7px;
+  }
+  .garden-toolbar-right > a {
+    display: none;
+  }
+  .garden-toolbar-right > button {
+    width: 38px;
+    min-height: 45px;
+  }
+  .garden-toolbar {
+    gap: 4px;
+  }
+  .garden-tool-options {
+    flex: 1;
+  }
+  .garden-tool-options > button {
+    flex: 1;
+  }
+  .garden-rules > div {
+    grid-template-columns: 1fr;
+    gap: 17px;
+  }
+  .garden-rules h2 {
+    align-items: flex-start;
+    font-size: 14px;
+  }
+  .garden-rules h2 svg {
+    width: 18px;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+  .garden-rules strong {
+    font-size: 12px;
+  }
+  .garden-rules p span {
+    font-size: 11px;
+  }
+  .garden-local-note {
+    font-size: 11px;
+  }
+  .garden-bag {
+    padding: 20px 16px;
+  }
+  .bag-seed {
+    padding: 8px;
+    gap: 5px;
+  }
+  .bag-seed > .game-flower {
+    width: 30px;
+  }
+  .bag-seed strong {
+    font-size: 10px;
+  }
+  .bag-seed > div > span {
+    font-size: 9px;
+  }
+  .seed-count {
+    font-size: 11px;
+  }
+  .bag-decorations {
+    gap: 8px;
+  }
+  .bag-decorations > button {
+    gap: 6px;
+    padding: 9px 8px;
+  }
+  .bag-decorations strong {
+    font-size: 10px;
+  }
+  .bag-decorations small {
+    font-size: 9px;
+    line-height: 1.5;
+  }
+  .bag-decorations .decoration-art {
+    width: 31px;
+    flex-shrink: 0;
+  }
+  .world-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .world-card h3 {
+    font-size: 13px;
+    min-height: 0;
+  }
+  .world-card p {
+    font-size: 9px;
+  }
+  .world-card {
+    padding: 18px 15px;
+  }
+  .garden-game-dialog {
+    padding: 21px 16px;
+    width: 94vw;
+    max-height: 85dvh;
+    border-radius: 22px;
+  }
+  .garden-dialog-heading h2 {
+    font-size: 22px;
+  }
+  .garden-dialog-heading .eyebrow {
+    font-size: 7px;
+  }
+  .garden-dialog-intro {
+    font-size: 12px;
+  }
+  .seed-picker > button {
+    padding: 12px 10px;
+    gap: 9px;
+  }
+  .seed-picker .game-flower {
+    width: 42px;
+    height: 57px;
+  }
+  .seed-picker strong {
+    font-size: 14px;
+  }
+  .seed-picker p {
+    font-size: 10px;
+  }
+  .seed-picker > button > div > span {
+    font-size: 10px;
+  }
+  .seed-plant-action {
+    font-size: 11px;
+    padding: 8px 7px;
+    gap: 2px;
+  }
+  .seed-plant-action svg {
+    width: 12px;
+  }
+  .plant-details {
+    padding: 0 5px;
+  }
+  .plant-detail-progress {
+    flex-direction: column;
+    gap: 7px;
+    text-align: left;
+  }
+  .plant-details > .garden-button {
+    font-size: 12px;
+    width: 100%;
+  }
+  .plant-stage-path {
+    font-size: 10px;
+    gap: 4px;
+  }
+  .plant-stage-path > span {
+    gap: 3px;
+  }
+  .slot-decor-picker {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 9px;
+  }
+  .slot-decor-picker > button {
+    min-height: 135px;
+  }
+  .slot-actions {
+    flex-direction: column;
+    gap: 13px;
+  }
+  .slot-actions .garden-button {
+    width: 100%;
+  }
+  .garden-lumi-art {
+    width: 62px;
+  }
+  .garden-lumi-guide p {
+    font-size: 10px;
+  }
+  .garden-lumi-guide strong {
+    font-size: 11px;
+  }
+  .garden-rules-link {
+    padding: 8px;
+  }
+  .garden-rules-link svg {
+    width: 15px;
+  }
+  .garden-toast {
+    bottom: 95px;
+  }
+}
+@media (max-width: 360px) {
+  .garden-game-page h1 {
+    font-size: 24px;
+  }
+  .planting-field {
+    padding-inline: 15px;
+    column-gap: 11px;
+  }
+  .garden-plot > .game-flower {
+    height: 107px;
+  }
+  .bag-coins {
+    font-size: 16px;
+  }
+  .bag-coins small {
+    font-size: 8px;
+  }
+  .bag-seed > .game-flower {
+    width: 25px;
+  }
+  .bag-decorations > button {
+    padding: 8px 6px;
+  }
+  .bag-decorations .decoration-art {
+    width: 26px;
+  }
+  .garden-worlds .world-heading h2 {
+    font-size: 19px;
+  }
+  .garden-toolbar button {
+    font-size: 8px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .garden-game-page *,
+  .garden-game-page *::before,
+  .garden-game-page *::after,
+  .garden-game-dialog *,
+  .garden-game-dialog *::before {
+    animation: none !important;
+    transition: none !important;
+  }
+  .garden-plot:hover,
+  .garden-plot:active,
+  .seed-picker > button:not(:disabled):hover {
+    transform: none;
+  }
+  .garden-toast {
+    animation: none;
+  }
+}
+
+/* Keep the sky artwork round on narrow, tall gardens. */
+@media (max-width: 520px) {
+  .garden-playground::before {
+    content: "";
+    position: absolute;
+    right: 19px;
+    top: 30px;
+    width: 43px;
+    height: 43px;
+    border-radius: 50%;
+    background: #ffe69a;
+    box-shadow: 0 0 0 12px #ffe69a25;
+    pointer-events: none;
+  }
+  .garden-playground::after {
+    content: "";
+    position: absolute;
+    right: 27px;
+    top: 111px;
+    width: 48px;
+    height: 18px;
+    border-radius: 30px;
+    background: #fffdf3bb;
+    box-shadow:
+      -9px 1px 0 0 #fffdf3aa,
+      -4px -8px 0 -2px #fffdf3bb;
+    pointer-events: none;
+  }
+}
+
+/* Larger touch targets for the mobile decoration rail and the bag shortcut. */
+@media (max-width: 520px) {
+  .garden-toolbar-right > a {
+    display: flex;
+    min-width: 42px;
+    min-height: 44px;
+  }
+  .garden-decoration-rail {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    row-gap: 7px;
+    bottom: 20px;
+  }
+  .decoration-slot {
+    height: 62px;
+  }
+  .planting-field {
+    padding-bottom: 211px;
+    min-height: 810px;
+  }
+}
+.garden-lumi-art .lumi-float {
+  transform-origin: 150px 170px;
+  animation: plant-sway 6s ease-in-out infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .garden-lumi-art .lumi-float {
+    animation: none;
+  }
+}
+/* Stage 12 extends the existing garden without replacing its playing field. */
+.plot-harvest-hint {
+  width: auto !important;
+  height: auto !important;
+  right: 7px !important;
+  top: 7px !important;
+  padding: 4px 8px;
+  border-radius: 14px;
+  background: #fff7df;
+  border: 1px solid #ebd6ab;
+  font-size: 9px !important;
+  color: #a58b58;
+  white-space: nowrap;
+  animation: none !important;
+}
+.harvest-burst {
+  position: absolute;
+  inset: 20% 0;
+  z-index: 5;
+  pointer-events: none;
+  color: #dc9cbd;
+  font-size: 25px;
+  animation: harvest-burst 1.5s ease-out both;
+  word-spacing: 14px;
+}
+.just-harvested .empty-plot-icon {
+  animation: harvest-soil 0.8s ease-in-out;
+}
+.harvest-button {
+  width: 100%;
+  background: #b399d7 !important;
+  margin: 16px 0 10px;
+}
+.stage-bud .plant-sway {
+  animation: plant-sway 5s ease-in-out infinite;
+}
+.stage-growing .plant-sway {
+  transform-origin: 60px 124px;
+}
+.flower-collection-section {
+  margin: 28px 0;
+  padding: 25px;
+  border-radius: 26px;
+  background: linear-gradient(130deg, #fffdf8, #fbf5fd);
+  border: 1px solid #eadfee;
+  color: #796684;
+}
+.collection-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+}
+.collection-heading .eyebrow {
+  font-size: 8px;
+  color: #b69bbd;
+}
+.collection-heading h2 {
+  font-size: 24px;
+  letter-spacing: -0.5px;
+  margin: 6px 0;
+}
+.collection-heading p {
+  font-size: 12px;
+  color: #a58cab;
+  line-height: 1.7;
+}
+.collection-count {
+  display: grid;
+  text-align: right;
+  gap: 5px;
+  flex-shrink: 0;
+}
+.collection-count strong {
+  font-size: 24px;
+  color: #b295c6;
+}
+.collection-count span {
+  font-size: 9px;
+  color: #ac99b2;
+}
+.collection-progress {
+  height: 8px;
+  background: #eee4f3;
+  border-radius: 20px;
+  overflow: hidden;
+  margin: 15px 0 22px;
+}
+.collection-progress > span {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, #b8a4f4, #ffb7d5);
+  border-radius: 20px;
+  transition: width 0.5s;
+}
+.collection-learning {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 17px;
+  background: #f1f6e9;
+  border: 1px solid #e0e9d4;
+  border-radius: 17px;
+  margin-bottom: 22px;
+}
+.collection-learning > svg {
+  color: #b9ac75;
+  flex-shrink: 0;
+}
+.collection-learning > div {
+  flex: 1;
+}
+.collection-learning strong {
+  font-size: 13px;
+  color: #849573;
+}
+.collection-learning p,
+.collection-learning span {
+  font-size: 10px;
+  color: #98a189;
+  line-height: 1.8;
+  margin: 5px 0;
+  display: block;
+}
+.collection-learning a {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  font-size: 10px;
+  color: #8d9d78;
+  white-space: nowrap;
+  font-weight: 800;
+}
+.collection-display {
+  padding: 20px;
+  border-radius: 22px;
+  background: linear-gradient(#f1f8ea, #e6f1d8);
+  border: 1px solid #d8e5cc;
+  margin-bottom: 23px;
+}
+.collection-display-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+}
+.collection-display-heading h3 {
+  font-size: 18px;
+  margin: 4px 0;
+  color: #839673;
+}
+.collection-display-heading .eyebrow {
+  font-size: 8px;
+  color: #a2b08f;
+}
+.collection-display-heading > span {
+  font-size: 9px;
+  color: #9eac8c;
+  max-width: 140px;
+  text-align: right;
+}
+.collection-display-hint {
+  font-size: 10px;
+  color: #99a789;
+  line-height: 1.7;
+  margin: 9px 0 15px;
+}
+.collection-choice {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #fff9e6;
+  border-radius: 12px;
+  padding: 10px;
+  margin: 11px 0;
+  font-size: 11px;
+  color: #a48d63;
+}
+.collection-choice > span {
+  flex: 1;
+}
+.collection-choice button {
+  background: none;
+  border: 0;
+  cursor: pointer;
+  color: inherit;
+  min-width: 32px;
+  min-height: 32px;
+}
+.collection-display-slots {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 10px;
+}
+.collection-display-slots > button {
+  position: relative;
+  background: #fffcf587;
+  border: 1px dashed #cadbb6;
+  border-radius: 15px;
+  min-height: 110px;
+  color: #b2c49d;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+  cursor: pointer;
+  padding: 6px;
+}
+.collection-display-slots > button.filled {
+  background: #fffdf0c2;
+  border-style: solid;
+  border-color: #d9ddbb;
+}
+.collection-display-slots button > .game-flower {
+  width: 80px;
+  height: 95px;
+  max-width: 100%;
+}
+.collection-display-slots button > span {
+  font-size: 25px;
+  align-self: center;
+  margin: auto;
+}
+.collection-display-slots button > small {
+  font-size: 8px;
+  color: #a1b28c;
+}
+.collection-display-slots button:disabled {
+  cursor: not-allowed;
+}
+.collection-album {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+.collection-card {
+  border: 1px solid #eee1ec;
+  border-radius: 19px;
+  background: #fffefa;
+  overflow: hidden;
+  min-width: 0;
+}
+.collection-card-art {
+  display: grid;
+  place-items: center;
+  height: 160px;
+  background: radial-gradient(ellipse at 50% 60%, #fffaf0, #f5edf9);
+  position: relative;
+}
+.collection-card-art > .game-flower {
+  width: 105px;
+  height: 135px;
+}
+.collection-card.mystery .game-flower {
+  filter: grayscale(1) brightness(0.3);
+  opacity: 0.12;
+}
+.collection-card.mystery .collection-card-art > span {
+  position: absolute;
+  top: 40px;
+  color: #c4b0cf;
+  font-size: 40px;
+  font-weight: 900;
+}
+.collection-card-art > small {
+  position: absolute;
+  bottom: 9px;
+  right: 9px;
+  font-size: 8px;
+  color: #b09abb;
+  background: #ffffffc9;
+  border-radius: 20px;
+  padding: 4px 8px;
+}
+.collection-card-copy {
+  padding: 14px;
+}
+.collection-rarity {
+  font-size: 8px;
+  border: 1px solid #e8d9ee;
+  padding: 3px 7px;
+  border-radius: 12px;
+  color: #ac8dbb;
+  background: #f8f1fd;
+}
+.rarity-magical .collection-rarity,
+.rarity-rare .collection-rarity {
+  color: #b49a62;
+  background: #fff6d8;
+  border-color: #efdfb9;
+}
+.collection-card-copy h3 {
+  font-size: 15px;
+  margin: 9px 0 6px;
+}
+.collection-card-copy p {
+  font-size: 10px;
+  color: #ad98b2;
+  line-height: 1.8;
+  min-height: 53px;
+  margin: 5px 0 12px;
+}
+.collection-card-copy > small {
+  display: block;
+  font-size: 8px;
+  color: #b39db6;
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+.collection-card-copy > .garden-button {
+  width: 100%;
+  font-size: 9px;
+  padding: 8px;
+}
+.collection-card-copy > a {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: #ac8bba;
+  font-size: 9px;
+  font-weight: 800;
+  min-height: 34px;
+}
+.collection-manage {
+  text-align: center;
+}
+.collection-manage > .game-flower {
+  width: 130px;
+  height: 155px;
+  margin: auto;
+}
+.collection-manage p {
+  font-size: 12px;
+  color: #a08ca7;
+  line-height: 1.8;
+}
+.collection-manage > .garden-button {
+  display: flex;
+  width: 100%;
+  margin: 10px 0;
+  font-size: 11px;
+}
+.flower-collection-section button:focus-visible,
+.flower-collection-section a:focus-visible {
+  outline: 3px solid #b8a4f4;
+  outline-offset: 3px;
+}
+.plant-stage-path {
+  grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+}
+@keyframes harvest-burst {
+  0% {
+    opacity: 0;
+    transform: scale(0.5) translateY(20px);
+  }
+  25% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.3) translateY(-55px);
+  }
+}
+@keyframes harvest-soil {
+  50% {
+    transform: scale(1.15);
+  }
+}
+@media (max-width: 1000px) {
+  .collection-album {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .collection-learning {
+    flex-wrap: wrap;
+  }
+  .collection-learning > div {
+    flex-basis: 75%;
+  }
+  .collection-learning > a {
+    margin-left: 40px;
+  }
+  .collection-display-slots {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (max-width: 600px) {
+  .flower-collection-section {
+    padding: 17px;
+  }
+  .collection-heading {
+    align-items: start;
+  }
+  .collection-heading h2 {
+    font-size: 20px;
+  }
+  .collection-heading p {
+    font-size: 11px;
+  }
+  .collection-count strong {
+    font-size: 20px;
+  }
+  .collection-count span {
+    max-width: 85px;
+    font-size: 8px;
+    line-height: 1.6;
+  }
+  .collection-album {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+  .collection-card-art {
+    height: 135px;
+  }
+  .collection-card-art > .game-flower {
+    height: 115px;
+    width: 95px;
+  }
+  .collection-card-copy {
+    padding: 11px;
+  }
+  .collection-card-copy h3 {
+    font-size: 13px;
+  }
+  .collection-card-copy p {
+    font-size: 9px;
+    min-height: 62px;
+  }
+  .collection-card-copy > a {
+    font-size: 8px;
+  }
+  .collection-display {
+    padding: 14px;
+  }
+  .collection-display-heading {
+    align-items: start;
+  }
+  .collection-display-heading h3 {
+    font-size: 16px;
+  }
+  .collection-display-heading > span {
+    font-size: 8px;
+    max-width: 85px;
+  }
+  .collection-display-slots {
+    gap: 7px;
+  }
+  .collection-display-slots > button {
+    min-height: 103px;
+  }
+  .collection-display-slots button > .game-flower {
+    height: 84px;
+  }
+  .collection-learning {
+    gap: 10px;
+    padding: 12px;
+  }
+  .collection-learning p {
+    font-size: 9px;
+  }
+  .collection-learning span {
+    font-size: 9px;
+  }
+  .plant-stage-path > span {
+    font-size: 8px !important;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .harvest-burst,
+  .just-harvested .empty-plot-icon {
+    animation: none;
+  }
+  .collection-progress > span {
+    transition: none;
+  }
+  .harvest-burst {
+    display: none;
+  }
+}

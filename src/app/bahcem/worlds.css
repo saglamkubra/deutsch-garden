@@ -1,0 +1,274 @@
+.playable-worlds {
+  margin: 26px 0 30px;
+}
+.world-explanation {
+  font-size: 0.86rem;
+  line-height: 1.8;
+  color: #766887;
+  max-width: 960px;
+  margin: 12px 0 18px;
+}
+.playable-worlds .world-cards {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 12px;
+}
+.playable-worlds .world-card {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  overflow: hidden;
+  text-align: left;
+  border: 2px solid #eadff1;
+  border-radius: 22px;
+  background: #fffdfa;
+  color: #564769;
+  min-width: 0;
+  opacity: 1;
+  transition:
+    transform 0.18s,
+    border-color 0.18s,
+    box-shadow 0.18s;
+}
+.playable-worlds .world-card:hover:not(:disabled) {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px #76618b18;
+}
+.playable-worlds .world-card:focus-visible {
+  outline: 3px solid #8262ac;
+  outline-offset: 4px;
+}
+.playable-worlds .world-card.world-selected {
+  border-color: #9e82cf;
+  box-shadow: 0 0 0 3px #b8a4f426;
+}
+.playable-worlds .world-card:disabled {
+  cursor: wait;
+  opacity: 0.65;
+}
+.world-thumbnail {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 88px;
+  overflow: hidden;
+  background: linear-gradient(#dff0e7, #c4dfae);
+}
+.world-thumbnail > span {
+  position: absolute;
+  z-index: 2;
+  left: calc(50% - 20px);
+  top: 14px;
+  font-size: 36px;
+  filter: drop-shadow(0 4px 2px #6f638417);
+}
+.world-thumbnail i,
+.world-thumbnail b {
+  position: absolute;
+  display: block;
+  width: 130%;
+  height: 65px;
+  border-radius: 50%;
+  left: -35%;
+  bottom: -38px;
+  background: #b5ce9b;
+}
+.world-thumbnail b {
+  left: 25%;
+  bottom: -42px;
+  background: #d6e6b2;
+}
+.world-thumbnail-a2 {
+  background: linear-gradient(#dbecff, #e4ddfa);
+}
+.world-thumbnail-a2 i {
+  background: #b9d8cd;
+}
+.world-thumbnail-a2 b {
+  background: #d2e9d0;
+}
+.world-thumbnail-b1 {
+  background: linear-gradient(#c3e1d3, #97bda8);
+}
+.world-thumbnail-b1 i {
+  background: #7da88c;
+}
+.world-thumbnail-b1 b {
+  background: #afd1a8;
+}
+.world-thumbnail-b2 {
+  background:
+    radial-gradient(circle at 80% 20%, #fff2be 0 9px, transparent 10px),
+    linear-gradient(#50446e, #afa0d4);
+}
+.world-thumbnail-b2 i {
+  background: #9690b7;
+}
+.world-thumbnail-b2 b {
+  background: #c7bbd9;
+}
+.world-thumbnail-c1 {
+  background:
+    repeating-linear-gradient(90deg, transparent 0 30px, #ffffff80 31px 33px),
+    linear-gradient(#d9d8f4, #c4e6de);
+}
+.world-thumbnail-c1 i {
+  background: #b1cec8;
+}
+.world-thumbnail-c1 b {
+  background: #d4e9dd;
+}
+.world-thumbnail-c2 {
+  background: linear-gradient(125deg, #ffe4d7, #ddc9ee);
+}
+.world-thumbnail-c2 i {
+  background: #c4b2d5;
+}
+.world-thumbnail-c2 b {
+  background: #eddbc8;
+}
+.world-card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 14px 12px;
+  flex: 1;
+  width: 100%;
+}
+.playable-worlds .world-level {
+  font-size: 0.65rem;
+  letter-spacing: 0.02em;
+}
+.world-card-body > strong {
+  font-size: 0.92rem;
+  line-height: 1.35;
+}
+.world-caption {
+  font-size: 0.69rem;
+  line-height: 1.5;
+  color: #83718e;
+  flex: 1;
+}
+.world-open {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.7rem;
+  color: #8162a7;
+  font-weight: 800;
+  margin-top: 4px;
+}
+.garden-playground.theme-a2 {
+  border-color: #c0dce4;
+}
+.garden-playground.theme-b1 {
+  border-color: #a7c9ac;
+}
+.garden-playground.theme-b2 {
+  border-color: #b6a8d7;
+}
+.garden-playground.theme-c1 {
+  border-color: #b6d9d8;
+}
+.garden-playground.theme-c2 {
+  border-color: #dfc9ab;
+}
+.theme-b2 .plot-soil {
+  background: #9c879c;
+}
+.theme-c1 .plot-soil {
+  background: #c0aaad;
+}
+.theme-c2 .plot-soil {
+  background: #baa290;
+}
+.theme-b2 .meadow-sign > span {
+  background: #f1e9fa;
+  color: #73608c;
+}
+.theme-c2 .meadow-sign > span {
+  background: #fff2cf;
+  color: #866641;
+}
+.theme-c1 .meadow-sign > span {
+  background: #ecffff;
+  color: #557d7a;
+}
+.collection-card-copy > .inline-world-transfer {
+  font-size: 0.7rem;
+}
+.collection-card-copy button {
+  white-space: normal;
+  height: auto;
+  min-height: 38px;
+}
+.world-card-body span {
+  overflow-wrap: anywhere;
+}
+@media (max-width: 1100px) {
+  .playable-worlds .world-cards {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .world-thumbnail {
+    height: 72px;
+  }
+  .world-caption {
+    min-height: 30px;
+  }
+}
+@media (max-width: 540px) {
+  .playable-worlds .world-cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+  .world-card-body {
+    padding: 12px;
+  }
+  .world-card-body > strong {
+    font-size: 0.9rem;
+  }
+  .world-heading {
+    align-items: flex-start;
+    gap: 10px;
+  }
+  .world-heading > span {
+    font-size: 0.67rem;
+  }
+  .world-explanation {
+    font-size: 0.79rem;
+  }
+  .world-thumbnail {
+    height: 66px;
+  }
+  .world-thumbnail > span {
+    font-size: 30px;
+    top: 10px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .playable-worlds .world-card {
+    transition: none;
+  }
+  .playable-worlds .world-card:hover:not(:disabled) {
+    transform: none;
+  }
+}
+
+.playable-worlds .world-card .world-level {
+  position: static;
+  display: block;
+  background: none;
+  padding: 0;
+  color: #786187;
+  border-radius: 0;
+}
+.theme-b2 .meadow-sign > strong {
+  color: #fff3d6;
+  text-shadow: 0 1px 3px #352b56;
+}
+.garden-game-page .plot-name {
+  color: #43513e;
+}
+.theme-b2 .plot-name {
+  color: #514268;
+}

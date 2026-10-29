@@ -1,0 +1,80 @@
+{
+  "readyByLevel": {
+    "A1": 4,
+    "A2": 2,
+    "B1": 0,
+    "B2": 0,
+    "C1": 0,
+    "C2": 0
+  },
+  "plannedByLevel": {
+    "A1": 0,
+    "A2": 0,
+    "B1": 1,
+    "B2": 1,
+    "C1": 1,
+    "C2": 1
+  },
+  "stories": [
+    {
+      "id": "story-cafe",
+      "level": "A1",
+      "scenes": 7,
+      "decisionPoints": 3,
+      "branches": 6,
+      "endings": 4
+    },
+    {
+      "id": "story-geschenk",
+      "level": "A1",
+      "scenes": 7,
+      "decisionPoints": 3,
+      "branches": 6,
+      "endings": 4
+    },
+    {
+      "id": "story-freund",
+      "level": "A1",
+      "scenes": 7,
+      "decisionPoints": 3,
+      "branches": 6,
+      "endings": 4
+    },
+    {
+      "id": "story-garten",
+      "level": "A1",
+      "scenes": 7,
+      "decisionPoints": 3,
+      "branches": 6,
+      "endings": 4
+    },
+    {
+      "id": "story-zug",
+      "level": "A2",
+      "scenes": 7,
+      "decisionPoints": 3,
+      "branches": 6,
+      "endings": 4
+    },
+    {
+      "id": "story-nachbarn",
+      "level": "A2",
+      "scenes": 7,
+      "decisionPoints": 3,
+      "branches": 6,
+      "endings": 4
+    }
+  ],
+  "totalScenes": 42,
+  "totalBranches": 36,
+  "totalEndings": 24,
+  "authoredComprehensionQuestions": 42,
+  "questionsPerVisitedPath": 3,
+  "sceneAudio": 42,
+  "lineAudio": 84,
+  "glossaryEntries": 30,
+  "glossaryAudio": 30,
+  "supabaseConnected": false,
+  "migrationApplied": false,
+  "persistence": "deutsch-garden:stories:v1"
+}

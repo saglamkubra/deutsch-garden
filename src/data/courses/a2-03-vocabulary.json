@@ -1,0 +1,932 @@
+[
+  {
+    "id": "dg-a2-03-01",
+    "german_word": "Wohnung",
+    "turkish_meaning": "daire; konut",
+    "word_type": "noun",
+    "example_sentence_de": "Die Wohnung hat einen Balkon.",
+    "example_sentence_tr": "Dairenin balkonu var.",
+    "article": "die",
+    "plural_form": "Wohnungen",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-1",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-02",
+    "german_word": "Flur",
+    "turkish_meaning": "koridor; antre",
+    "word_type": "noun",
+    "example_sentence_de": "Der Schrank steht im Flur.",
+    "example_sentence_tr": "Dolap koridorda duruyor.",
+    "article": "der",
+    "plural_form": "Flure",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-2",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-03",
+    "german_word": "Schrank",
+    "turkish_meaning": "dolap",
+    "word_type": "noun",
+    "example_sentence_de": "Ich stelle den Schrank in den Flur.",
+    "example_sentence_tr": "Dolabı koridora koyuyorum.",
+    "article": "der",
+    "plural_form": "Schränke",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-3",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-04",
+    "german_word": "Regal",
+    "turkish_meaning": "raf; raflı dolap",
+    "word_type": "noun",
+    "example_sentence_de": "Das Buch liegt im Regal.",
+    "example_sentence_tr": "Kitap rafta duruyor.",
+    "article": "das",
+    "plural_form": "Regale",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-4",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-05",
+    "german_word": "Sofa",
+    "turkish_meaning": "kanepe",
+    "word_type": "noun",
+    "example_sentence_de": "Die Lampe steht neben dem Sofa.",
+    "example_sentence_tr": "Lamba kanepenin yanında duruyor.",
+    "article": "das",
+    "plural_form": "Sofas",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-5",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-06",
+    "german_word": "Sessel",
+    "turkish_meaning": "koltuk",
+    "word_type": "noun",
+    "example_sentence_de": "Der Sessel steht am Fenster.",
+    "example_sentence_tr": "Koltuk pencerenin yanında duruyor.",
+    "article": "der",
+    "plural_form": "Sessel",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-6",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-07",
+    "german_word": "Kissen",
+    "turkish_meaning": "yastık",
+    "word_type": "noun",
+    "example_sentence_de": "Die Kissen liegen auf dem Sofa.",
+    "example_sentence_tr": "Yastıklar kanepenin üstünde duruyor.",
+    "article": "das",
+    "plural_form": "Kissen",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-7",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-08",
+    "german_word": "Teppich",
+    "turkish_meaning": "halı",
+    "word_type": "noun",
+    "example_sentence_de": "Der Teppich liegt unter dem Tisch.",
+    "example_sentence_tr": "Halı masanın altında.",
+    "article": "der",
+    "plural_form": "Teppiche",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-8",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-09",
+    "german_word": "Lampe",
+    "turkish_meaning": "lamba",
+    "word_type": "noun",
+    "example_sentence_de": "Die Lampe steht neben dem Sofa.",
+    "example_sentence_tr": "Lamba kanepenin yanında duruyor.",
+    "article": "die",
+    "plural_form": "Lampen",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-9",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-10",
+    "german_word": "Wand",
+    "turkish_meaning": "duvar",
+    "word_type": "noun",
+    "example_sentence_de": "Das Bild hängt an der Wand.",
+    "example_sentence_tr": "Resim duvarda asılı.",
+    "article": "die",
+    "plural_form": "Wände",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-10",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-11",
+    "german_word": "Balkon",
+    "turkish_meaning": "balkon",
+    "word_type": "noun",
+    "example_sentence_de": "Die Wohnung hat einen Balkon.",
+    "example_sentence_tr": "Dairenin balkonu var.",
+    "article": "der",
+    "plural_form": "Balkone",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-11",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-12",
+    "german_word": "Keller",
+    "turkish_meaning": "bodrum; kiler",
+    "word_type": "noun",
+    "example_sentence_de": "Das Fahrrad steht im Keller.",
+    "example_sentence_tr": "Bisiklet bodrumda duruyor.",
+    "article": "der",
+    "plural_form": "Keller",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-12",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-13",
+    "german_word": "Treppenhaus",
+    "turkish_meaning": "merdiven boşluğu; ortak merdiven alanı",
+    "word_type": "noun",
+    "example_sentence_de": "Das Treppenhaus ist sauber.",
+    "example_sentence_tr": "Merdiven alanı temiz.",
+    "article": "das",
+    "plural_form": "Treppenhäuser",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-13",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-14",
+    "german_word": "Nachbar",
+    "turkish_meaning": "erkek komşu; komşu",
+    "word_type": "noun",
+    "example_sentence_de": "Unser Nachbar heißt Cem.",
+    "example_sentence_tr": "Komşumuzun adı Cem.",
+    "article": "der",
+    "plural_form": "Nachbarn",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-14",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-15",
+    "german_word": "Nachbarin",
+    "turkish_meaning": "kadın komşu",
+    "word_type": "noun",
+    "example_sentence_de": "Meine Nachbarin heißt Elif.",
+    "example_sentence_tr": "Kadın komşumun adı Elif.",
+    "article": "die",
+    "plural_form": "Nachbarinnen",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-15",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-16",
+    "german_word": "Miete",
+    "turkish_meaning": "kira",
+    "word_type": "noun",
+    "example_sentence_de": "Die Miete beträgt sechshundert Euro.",
+    "example_sentence_tr": "Kira altı yüz avro.",
+    "article": "die",
+    "plural_form": "Mieten",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-16",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-17",
+    "german_word": "Nebenkosten",
+    "turkish_meaning": "ek giderler; yan giderler",
+    "word_type": "noun",
+    "example_sentence_de": "Sind die Nebenkosten inklusive?",
+    "example_sentence_tr": "Ek giderler dahil mi?",
+    "article": "die",
+    "plural_form": "Nebenkosten",
+    "plural_note": "Bu anlamda çoğul kullanılır.",
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-17",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-18",
+    "german_word": "Kaution",
+    "turkish_meaning": "depozito",
+    "word_type": "noun",
+    "example_sentence_de": "Die Kaution steht im Vertrag.",
+    "example_sentence_tr": "Depozito sözleşmede yazıyor.",
+    "article": "die",
+    "plural_form": "Kautionen",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-18",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-19",
+    "german_word": "Hausordnung",
+    "turkish_meaning": "bina kuralları; ev kuralları",
+    "word_type": "noun",
+    "example_sentence_de": "Ich lese die Hausordnung.",
+    "example_sentence_tr": "Bina kurallarını okuyorum.",
+    "article": "die",
+    "plural_form": "Hausordnungen",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-19",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-20",
+    "german_word": "Ruhe",
+    "turkish_meaning": "sessizlik; huzur",
+    "word_type": "noun",
+    "example_sentence_de": "Ich brauche Ruhe, weil ich lernen muss.",
+    "example_sentence_tr": "Ders çalışmam gerektiği için sessizliğe ihtiyacım var.",
+    "article": "die",
+    "plural_form": null,
+    "plural_note": "Bu anlamda çoğul kullanılmaz.",
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-20",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-21",
+    "german_word": "stellen",
+    "turkish_meaning": "dik konumda yerleştirmek; koymak",
+    "word_type": "verb",
+    "example_sentence_de": "Ich stelle den Schrank in den Flur.",
+    "example_sentence_tr": "Dolabı koridora koyuyorum.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-21",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-22",
+    "german_word": "stehen",
+    "turkish_meaning": "ayakta/dik durumda durmak",
+    "word_type": "verb",
+    "example_sentence_de": "Der Schrank steht im Flur.",
+    "example_sentence_tr": "Dolap koridorda duruyor.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-22",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-23",
+    "german_word": "legen",
+    "turkish_meaning": "yatay biçimde koymak",
+    "word_type": "verb",
+    "example_sentence_de": "Ich lege das Buch auf den Tisch.",
+    "example_sentence_tr": "Kitabı masanın üstüne koyuyorum.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-23",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-24",
+    "german_word": "liegen",
+    "turkish_meaning": "yatay durumda durmak; yatmak",
+    "word_type": "verb",
+    "example_sentence_de": "Das Buch liegt auf dem Tisch.",
+    "example_sentence_tr": "Kitap masanın üstünde duruyor.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-24",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-25",
+    "german_word": "sich setzen",
+    "turkish_meaning": "oturmak üzere bir yere geçmek",
+    "word_type": "verb",
+    "example_sentence_de": "Ich setze mich auf den Stuhl.",
+    "example_sentence_tr": "Sandalyeye oturuyorum.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-25",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-26",
+    "german_word": "sitzen",
+    "turkish_meaning": "oturuyor olmak",
+    "word_type": "verb",
+    "example_sentence_de": "Ich sitze auf dem Stuhl.",
+    "example_sentence_tr": "Sandalyede oturuyorum.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-26",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-27",
+    "german_word": "hängen",
+    "turkish_meaning": "asılı olmak; asmak",
+    "word_type": "verb",
+    "example_sentence_de": "Das Bild hängt an der Wand.",
+    "example_sentence_tr": "Resim duvarda asılı.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-27",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-28",
+    "german_word": "umziehen",
+    "turkish_meaning": "taşınmak",
+    "word_type": "verb",
+    "example_sentence_de": "Wir ziehen am Samstag um.",
+    "example_sentence_tr": "Cumartesi taşınıyoruz.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-28",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-29",
+    "german_word": "leise",
+    "turkish_meaning": "sessiz; alçak sesle",
+    "word_type": "adjective",
+    "example_sentence_de": "Die Musik ist leise.",
+    "example_sentence_tr": "Müziğin sesi kısık.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-29",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-03-30",
+    "german_word": "laut",
+    "turkish_meaning": "gürültülü; yüksek sesli",
+    "word_type": "adjective",
+    "example_sentence_de": "Die Musik ist laut.",
+    "example_sentence_tr": "Müziğin sesi yüksek.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "home",
+    "topics": [
+      "home"
+    ],
+    "unit_ids": [
+      "a2-03"
+    ],
+    "sense_key": "a2-03-30",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  }
+]

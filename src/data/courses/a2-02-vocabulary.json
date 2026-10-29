@@ -1,0 +1,932 @@
+[
+  {
+    "id": "dg-a2-02-01",
+    "german_word": "Termin",
+    "turkish_meaning": "randevu",
+    "word_type": "noun",
+    "example_sentence_de": "Ich möchte einen Termin vereinbaren.",
+    "example_sentence_tr": "Randevu almak istiyorum.",
+    "article": "der",
+    "plural_form": "Termine",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-1",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-02",
+    "german_word": "Arzt",
+    "turkish_meaning": "erkek doktor; doktor",
+    "word_type": "noun",
+    "example_sentence_de": "Ich bin beim Arzt.",
+    "example_sentence_tr": "Doktordayım.",
+    "article": "der",
+    "plural_form": "Ärzte",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-2",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-03",
+    "german_word": "Ärztin",
+    "turkish_meaning": "kadın doktor",
+    "word_type": "noun",
+    "example_sentence_de": "Ich gehe zur Ärztin.",
+    "example_sentence_tr": "Kadın doktora gidiyorum.",
+    "article": "die",
+    "plural_form": "Ärztinnen",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-3",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-04",
+    "german_word": "Praxis",
+    "turkish_meaning": "muayenehane",
+    "word_type": "noun",
+    "example_sentence_de": "Die Praxis ist heute geöffnet.",
+    "example_sentence_tr": "Muayenehane bugün açık.",
+    "article": "die",
+    "plural_form": "Praxen",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-4",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-05",
+    "german_word": "Sprechstunde",
+    "turkish_meaning": "muayene saatleri; görüşme saati",
+    "word_type": "noun",
+    "example_sentence_de": "Die Sprechstunde beginnt um neun Uhr.",
+    "example_sentence_tr": "Muayene saati dokuzda başlıyor.",
+    "article": "die",
+    "plural_form": "Sprechstunden",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-5",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-06",
+    "german_word": "Wartezimmer",
+    "turkish_meaning": "bekleme odası",
+    "word_type": "noun",
+    "example_sentence_de": "Warten Sie bitte im Wartezimmer.",
+    "example_sentence_tr": "Lütfen bekleme odasında bekleyin.",
+    "article": "das",
+    "plural_form": "Wartezimmer",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-6",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-07",
+    "german_word": "Rezept",
+    "turkish_meaning": "reçete",
+    "word_type": "noun",
+    "example_sentence_de": "Ich brauche ein Rezept.",
+    "example_sentence_tr": "Bir reçeteye ihtiyacım var.",
+    "article": "das",
+    "plural_form": "Rezepte",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-7",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-08",
+    "german_word": "Apotheke",
+    "turkish_meaning": "eczane",
+    "word_type": "noun",
+    "example_sentence_de": "Die Apotheke ist neben der Praxis.",
+    "example_sentence_tr": "Eczane muayenehanenin yanında.",
+    "article": "die",
+    "plural_form": "Apotheken",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-8",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-09",
+    "german_word": "Versichertenkarte",
+    "turkish_meaning": "sigortalı kartı",
+    "word_type": "noun",
+    "example_sentence_de": "Ich habe meine Versichertenkarte dabei.",
+    "example_sentence_tr": "Sigortalı kartım yanımda.",
+    "article": "die",
+    "plural_form": "Versichertenkarten",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-9",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-10",
+    "german_word": "Untersuchung",
+    "turkish_meaning": "muayene; inceleme",
+    "word_type": "noun",
+    "example_sentence_de": "Die Untersuchung dauert zwanzig Minuten.",
+    "example_sentence_tr": "Muayene yirmi dakika sürüyor.",
+    "article": "die",
+    "plural_form": "Untersuchungen",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-10",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-11",
+    "german_word": "Beschwerde",
+    "turkish_meaning": "şikâyet; rahatsızlık belirtisi",
+    "word_type": "noun",
+    "example_sentence_de": "Welche Beschwerden haben Sie?",
+    "example_sentence_tr": "Hangi şikâyetleriniz var?",
+    "article": "die",
+    "plural_form": "Beschwerden",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-11",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-12",
+    "german_word": "Kopfschmerzen",
+    "turkish_meaning": "baş ağrısı",
+    "word_type": "noun",
+    "example_sentence_de": "Ich habe Kopfschmerzen.",
+    "example_sentence_tr": "Başım ağrıyor.",
+    "article": "die",
+    "plural_form": "Kopfschmerzen",
+    "plural_note": "Bu anlamda çoğul kullanılır.",
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-12",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-13",
+    "german_word": "Husten",
+    "turkish_meaning": "öksürük",
+    "word_type": "noun",
+    "example_sentence_de": "Ich habe seit zwei Tagen Husten.",
+    "example_sentence_tr": "İki gündür öksürüğüm var.",
+    "article": "der",
+    "plural_form": null,
+    "plural_note": "Bu anlamda genellikle çoğul kullanılmaz.",
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-13",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-14",
+    "german_word": "Schnupfen",
+    "turkish_meaning": "nezle; burun akıntısı",
+    "word_type": "noun",
+    "example_sentence_de": "Ich habe Schnupfen.",
+    "example_sentence_tr": "Nezleyim; burnum akıyor.",
+    "article": "der",
+    "plural_form": null,
+    "plural_note": "Bu anlamda çoğul yaygın değildir.",
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-14",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-15",
+    "german_word": "Fieber",
+    "turkish_meaning": "ateş",
+    "word_type": "noun",
+    "example_sentence_de": "Ich habe seit gestern Fieber.",
+    "example_sentence_tr": "Dünden beri ateşim var.",
+    "article": "das",
+    "plural_form": null,
+    "plural_note": "Bu kullanımda çoğul yoktur.",
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-15",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-16",
+    "german_word": "Halsschmerzen",
+    "turkish_meaning": "boğaz ağrısı",
+    "word_type": "noun",
+    "example_sentence_de": "Seit wann haben Sie Halsschmerzen?",
+    "example_sentence_tr": "Ne zamandan beri boğaz ağrınız var?",
+    "article": "die",
+    "plural_form": "Halsschmerzen",
+    "plural_note": "Bu anlamda çoğul kullanılır.",
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-16",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-17",
+    "german_word": "Rücken",
+    "turkish_meaning": "sırt",
+    "word_type": "noun",
+    "example_sentence_de": "Mein Rücken tut weh.",
+    "example_sentence_tr": "Sırtım ağrıyor.",
+    "article": "der",
+    "plural_form": "Rücken",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-17",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-18",
+    "german_word": "Zahn",
+    "turkish_meaning": "diş",
+    "word_type": "noun",
+    "example_sentence_de": "Mein Zahn tut weh.",
+    "example_sentence_tr": "Dişim ağrıyor.",
+    "article": "der",
+    "plural_form": "Zähne",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-18",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-19",
+    "german_word": "Tablette",
+    "turkish_meaning": "tablet; hap",
+    "word_type": "noun",
+    "example_sentence_de": "Auf dem Rezept steht der Name einer Tablette.",
+    "example_sentence_tr": "Reçetede bir tabletin adı yazıyor.",
+    "article": "die",
+    "plural_form": "Tabletten",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-19",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-20",
+    "german_word": "Tropfen",
+    "turkish_meaning": "damla",
+    "word_type": "noun",
+    "example_sentence_de": "Das Wort Tropfen kann eine Arzneiform bezeichnen.",
+    "example_sentence_tr": "Tropfen sözcüğü bir ilaç biçimini belirtebilir.",
+    "article": "der",
+    "plural_form": "Tropfen",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-20",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-21",
+    "german_word": "Überweisung",
+    "turkish_meaning": "sevk belgesi; yönlendirme",
+    "word_type": "noun",
+    "example_sentence_de": "Die Ärztin schreibt eine Überweisung.",
+    "example_sentence_tr": "Doktor bir sevk belgesi yazıyor.",
+    "article": "die",
+    "plural_form": "Überweisungen",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-21",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-22",
+    "german_word": "Krankschreibung",
+    "turkish_meaning": "hastalık raporu",
+    "word_type": "noun",
+    "example_sentence_de": "Die Mitarbeiterin erklärt das Wort Krankschreibung.",
+    "example_sentence_tr": "Görevli hastalık raporu sözcüğünü açıklıyor.",
+    "article": "die",
+    "plural_form": "Krankschreibungen",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-22",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-23",
+    "german_word": "absagen",
+    "turkish_meaning": "iptal etmek",
+    "word_type": "verb",
+    "example_sentence_de": "Ich muss meinen Termin absagen.",
+    "example_sentence_tr": "Randevumu iptal etmeliyim.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-23",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-24",
+    "german_word": "verschieben",
+    "turkish_meaning": "başka zamana almak; ertelemek",
+    "word_type": "verb",
+    "example_sentence_de": "Ich möchte meinen Termin verschieben.",
+    "example_sentence_tr": "Randevumu başka zamana almak istiyorum.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-24",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-25",
+    "german_word": "vereinbaren",
+    "turkish_meaning": "kararlaştırmak; randevu ayarlamak",
+    "word_type": "verb",
+    "example_sentence_de": "Ich möchte einen Termin vereinbaren.",
+    "example_sentence_tr": "Randevu almak istiyorum.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-25",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-26",
+    "german_word": "einnehmen",
+    "turkish_meaning": "almak; ilaç almak",
+    "word_type": "verb",
+    "example_sentence_de": "Was bedeutet eine Tablette einnehmen?",
+    "example_sentence_tr": "Eine Tablette einnehmen ne demektir?",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-26",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-27",
+    "german_word": "sollen",
+    "turkish_meaning": "talimat veya beklenti bildirmek; yapması söylenmek",
+    "word_type": "verb",
+    "example_sentence_de": "Ich soll morgen wiederkommen.",
+    "example_sentence_tr": "Yarın yeniden gelmem söylendi.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-27",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-28",
+    "german_word": "dürfen",
+    "turkish_meaning": "izinli olmak",
+    "word_type": "verb",
+    "example_sentence_de": "Darf ich hier warten?",
+    "example_sentence_tr": "Burada bekleyebilir miyim?",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-28",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-29",
+    "german_word": "wehtun",
+    "turkish_meaning": "ağrımak; acıtmak",
+    "word_type": "verb",
+    "example_sentence_de": "Mein Rücken tut weh.",
+    "example_sentence_tr": "Sırtım ağrıyor.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-29",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-02-30",
+    "german_word": "seit",
+    "turkish_meaning": "-den beri; -dir",
+    "word_type": "expression",
+    "example_sentence_de": "Ich habe seit zwei Tagen Husten.",
+    "example_sentence_tr": "İki gündür öksürüğüm var.",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "conversation",
+    "topics": [
+      "conversation"
+    ],
+    "unit_ids": [
+      "a2-02"
+    ],
+    "sense_key": "a2-02-30",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  }
+]

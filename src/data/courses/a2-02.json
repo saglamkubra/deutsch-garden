@@ -1,0 +1,3123 @@
+{
+  "id": "a2-02-words",
+  "unitId": "a2-02",
+  "level": "A2",
+  "title": "Sağlık ve Randevular · Kendimi Nasıl Anlatırım?",
+  "goal": "Kurgusal bir şikâyeti anlaşılır biçimde anlat, randevu iste ve değiştir; süre, izin ve talimat arasındaki anlam farklarını kullan.",
+  "steps": [
+    {
+      "title": "1 · Bir telefon konuşmasını yönetmek",
+      "introduction": "A1’de bir şey istemeyi öğrendin. Şimdi bir muayenehaneyi aradığını düşün: önce selam verir, ardından neden aradığını söyler, uygun zamanı sorar ve konuşmanın sonunda bilgiyi doğrularsın. Bütün konuşmayı tek uzun cümleye sığdırmana gerek yok. Bu ders tıbbi karar vermeyi değil, Almanca iletişim kurmayı öğretir. Metinlerdeki şikâyetler ve kişiler hayalîdir.",
+      "rule": "Guten Tag. Ich möchte einen Termin vereinbaren. Bu iki kısa cümle, resmî bir telefon konuşmasının anlaşılır başlangıcıdır. Möchte isteği yumuşatır; vereinbaren mastarı sona gider.",
+      "usage": "Randevu isteme, verilen zamanı doğrulama ve anlaşılmayan bilgiyi yeniden sorma sırasında kullan. Gerçek sağlık bilgilerini paylaşmak zorunda değilsin; alıştırmalarda kurgusal durumu takip et.",
+      "structure": "Ich + möchte + einen Termin + vereinbaren.",
+      "mistake": "Ich möchte einen Termin vereinbare yanlış olur; ikinci fiil kişi eki almayan mastar olmalıdır.",
+      "memory": "SELAM → AMAÇ → ZAMAN → DOĞRULAMA.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "amaç",
+            "Ich möchte einen Termin vereinbaren.",
+            "Randevu almak istiyorum."
+          ],
+          [
+            "doğrulama",
+            "Also am Dienstag um neun Uhr?",
+            "Yani salı saat dokuzda mı?"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Konuşmayı dinleyen kişinin senden hangi bilgiyi beklediğini düşün. Randevu isteyen biri için ilk adım ayrıntılı bir hikâye değildir; kısa amaç cümlesidir. Termin sözcüğünü yalnızca Türkçe karşılığıyla değil einen Termin vereinbaren bütünüyle öğren. Böylece artikel, nesne hâli ve fiil aynı kalıpta yerleşir."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Bir not kâğıdına üç boşluk aç: gün, saat, yer. İlerleyen metinlerde bu bilgileri ayrı ayrı bul. Bilmediğin ayrıntıyı tahmin ederek doldurma. Telefon konuşmasında her sözcüğü anlamasan bile amacı ve randevu bilgisini yakalayabiliyorsan önemli bir iletişim görevini yerine getiriyorsun."
+        }
+      ],
+      "id": "a2-02-teach-1"
+    },
+    {
+      "title": "2 · Şikâyeti haben ile anlatmak",
+      "introduction": "Türkçede ‘başım ağrıyor’ derken Almancada yaygın kalıplardan biri Ich habe Kopfschmerzen olur. Kelime kelime ‘ben sahip olmak’ diye çevirmek yerine kalıbın ne işe yaradığını öğren. Husten ve Fieber gibi isimler haben ile kullanılabilir. Her isim aynı artikel yapısıyla gelmez; bu nedenle örnekleri bütün olarak tekrar edeceğiz.",
+      "rule": "Ich habe + şikâyet. Kopfschmerzen ve Halsschmerzen bu kullanımlarda çoğuldur; Husten, Schnupfen ve Fieber genellikle artikelsiz kullanılır.",
+      "usage": "Bir şikâyetin adını kısa ve anlaşılır biçimde söylemek için kullan. Ne zaman başladığını sonraki bir cümlede ekleyebilirsin.",
+      "structure": "Ich habe Kopfschmerzen. / Sie hat Husten.",
+      "mistake": "Ich bin Kopfschmerzen deme. Krank bir sıfat, Kopfschmerzen ise isimdir; ihtiyaç duyulan fiiller farklıdır.",
+      "memory": "İsimle: habe Schmerzen. Sıfatla: bin krank.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "isim",
+            "Ich habe Husten.",
+            "Öksürüğüm var."
+          ],
+          [
+            "sıfat",
+            "Ich bin krank.",
+            "Hastayım."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Önce söylediğin şeyin türünü belirle: bir durum sıfatı mı, bir şikâyet ismi mi? Krank bir kişinin nasıl olduğunu anlatır. Husten ise şikâyetin adıdır. Bu ayrımın amacı bütün isimleri sınıflandırmak değil, sık kullanılan iki yapıyı karıştırmadan kısa cümle kurabilmektir."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Ich, du ve sie ile üç örnek kur: Ich habe Fieber, du hast Fieber, sie hat Fieber. Şikâyet ismi aynı kalırken haben değişir. Alıştırmada istenen kişi zamirini işaretleyip önce doğru çekimi seç; ardından cümlenin kalanını ekle. Böylece kelime bilgisi ile çekim yükünü ayırırsın."
+        }
+      ],
+      "id": "a2-02-teach-2"
+    },
+    {
+      "title": "3 · Wehtun: ağrıyan yer özne olur",
+      "introduction": "Bir başka anlatım yolu Mein Rücken tut weh cümlesidir. Burada özne ich değil Rücken sözcüğüdür. Ağrıyan bölge çoğulsa Die Zähne tun weh deriz. Wehtun ayrılabilen bir fiildir; ana cümlede tut veya tun öne gelirken weh sona gider. Dativ zamiri ekleyerek kimin etkilendiğini de söyleyebiliriz.",
+      "rule": "Tekil bölge + tut + weh; çoğul bölge + tun + weh. Mir, ‘bana/benim için’ anlamındaki Dativ zamiridir: Mein Zahn tut mir weh.",
+      "usage": "Bir bölgeyi işaret ederek neyin ağrıdığını anlatırken kullan. Mir eklenmeden de Mein Rücken tut weh tam bir cümledir.",
+      "structure": "Mein Rücken tut weh. / Meine Zähne tun weh.",
+      "mistake": "Ich tut Rücken weh biçiminde Türkçe sırayı aktarma. Önce özneyi bul: Rücken tekil, Zähne çoğul.",
+      "memory": "Bir yer: tut. Birden fazla yer: tun.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "tekil",
+            "Mein Zahn tut weh.",
+            "Dişim ağrıyor."
+          ],
+          [
+            "çoğul",
+            "Meine Zähne tun weh.",
+            "Dişlerim ağrıyor."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Tut ile tun arasındaki seçimi kişiyi anlatan iyelik sözcüğüne göre yapma. Meine sözcüğü seni düşündürse de cümledeki özne Meine Zähne bütünüdür. Zähne çoğul olduğu için tun kullanılır. Aynı mantık Mein Rücken tut mir weh cümlesinde de geçerlidir; mir özne değildir ve fiilin sayısını belirlemez."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Örnekleri okurken ağrıyan yerin altını çiz, fiili çember içine al ve weh sözcüğünü kutula. Sonra yalnızca tekil bölgeyi çoğula çevir. Böylece ayrılabilen fiilin çerçevesi sabit kalırken özne-fiil uyumunun nasıl değiştiğini görürsün. Türkçe çeviride tek bir ‘ağrımak’ fiili bulunması Almanca iki parçayı düşürme nedeni değildir."
+        }
+      ],
+      "id": "a2-02-teach-3"
+    },
+    {
+      "title": "4 · Seit: ne zamandan beri?",
+      "introduction": "Bir şikâyetin başlangıcını veya süresini anlatmak için seit kullanabiliriz. Ich habe seit zwei Tagen Husten cümlesinde durum geçmişte başlamış ve konuşma anında sürmektedir. Türkçede ‘iki gündür’ dediğimiz süreyi Almancada seit iki günlük birimle bağlarız. Seit gestern ise belirli bir başlangıç noktasını gösterir.",
+      "rule": "Seit + Dativ; hâlâ süren bir durum bu derste Präsens ile anlatılır. Seit einem Tag, seit einer Woche, seit zwei Tagen biçimlerini karşılaştır.",
+      "usage": "Seit wann? sorusuna başlangıç, Wie lange schon? sorusuna süre bilgisi verirken kullan.",
+      "structure": "Ich habe seit zwei Tagen Husten.",
+      "mistake": "Seit zwei Tage yerine seit zwei Tagen gerekir. Sırf başlangıç geçmişte diye devam eden bu örneği Perfekt’e çevirme.",
+      "memory": "SEIT: başladı ve devam ediyor.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "bir gün",
+            "seit einem Tag",
+            "bir gündür"
+          ],
+          [
+            "bir hafta",
+            "seit einer Woche",
+            "bir haftadır"
+          ],
+          [
+            "iki gün",
+            "seit zwei Tagen",
+            "iki gündür"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Tag için einem, Woche için einer kullanılmasının nedeni kelimelerin artikelleridir: der Tag ve die Woche. Çoğul Dativ’te Tagen biçimindeki -n ekini de fark et. Bu derste her süreyi ezberlemek yerine üç örnek üzerinden artikel ve hâlin birlikte nasıl değiştiğini göreceğiz."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Cümledeki bilgi türünü sor: dün mü başladı, yoksa iki gündür mü sürüyor? Seit gestern ve seit zwei Tagen ikisi de doğru olabilir ama aynı bilgi türünü vermez. Metin sorusunda hangi ifade varsa onu koru; metnin söylemediği bir başlangıç saatini kendin ekleme."
+        }
+      ],
+      "id": "a2-02-teach-4"
+    },
+    {
+      "title": "5 · Müssen: zorunluluğu anlatmak",
+      "introduction": "Müssen bir gerekliliği veya zorunluluğu bildirir. Ich muss den Termin absagen cümlesi randevuyu iptal etmek zorundayım anlamındadır. Bu fiil sağlık konusuyla sınırlı değildir; günlük yaşamda pek çok yükümlülüğü anlatır. Burada kurgusal konuşmacının gerekliliğini ifade etmeyi öğreniyoruz; cümle bir sağlık önerisi değildir.",
+      "rule": "Ich/er/sie muss; du musst; wir/sie müssen; ihr müsst. Modal fiil çekilir, asıl eylem mastar olarak sonda kalır.",
+      "usage": "Randevuyu iptal etme gereği veya bir belgeyi getirme zorunluluğu gibi konuşmada belirtilen yükümlülükleri aktarırken kullan.",
+      "structure": "Ich muss + den Termin + absagen.",
+      "mistake": "Ich muss sage ab deme. Modal fiille absagen bir bütün olarak sona gider; bu yapıda ön ek ayrılmaz.",
+      "memory": "Modal çekilir; mastar sonda birleşir.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "ich",
+            "Ich muss absagen.",
+            "İptal etmeliyim."
+          ],
+          [
+            "du",
+            "Du musst absagen.",
+            "İptal etmelisin."
+          ],
+          [
+            "wir",
+            "Wir müssen absagen.",
+            "İptal etmeliyiz."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Absagen normal ana cümlede Ich sage den Termin ab olur. Aynı eylem bir modal fiille geldiğinde Ich muss den Termin absagen biçimini alır. İki örneği yan yana yaz: değişen çekimli fiili ve yer değiştiren ön eki işaretle. Bu, önceki ünitedeki iki parçalı fiil çerçevesine yeni bir kullanım ekler."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Önce yükümlülüğü kimin taşıdığını seç, sonra muss ailesinden uygun biçimi getir. En sona yalnızca mastarı koy. Aradaki nesneyi unutma: einen Termin istemek, den Termin iptal etmek. Belirli bir randevudan söz ettiğinde den kullanman anlamın da belirli olduğunu gösterir."
+        }
+      ],
+      "id": "a2-02-teach-5"
+    },
+    {
+      "title": "6 · Sollen: aktarılan talimat",
+      "introduction": "Bir konuşmada başkasının söylediğini aktarırken sollen kullanabiliriz: Die Ärztin sagt, ich soll morgen wiederkommen. Burada kişinin kendi zorunluluğundan çok ona iletilmiş bir talimat duyulur. Sollen her bağlamda aynı Türkçe ekle çevrilmez; kimin söylediğini ve konuşmadaki amacı birlikte düşün.",
+      "rule": "Ich soll, du sollst, er/sie soll; wir sollen, ihr sollt. Asıl eylem mastarı sona gelir. Kimin talimat verdiği bağlamla belirtilir.",
+      "usage": "Diyalogda açıkça söylenen bir talimatı veya randevuya ilişkin yönlendirmeyi aktarmak için kullan.",
+      "structure": "Ich soll morgen wiederkommen.",
+      "mistake": "Ich soll komme wieder yanlış olur. Wiederkommen mastarı sona bir bütün olarak yerleşir.",
+      "memory": "SOLL: biri böyle söyledi.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "talimat",
+            "Ich soll die Karte mitbringen.",
+            "Kartı getirmem söylendi."
+          ],
+          [
+            "zorunluluk",
+            "Ich muss den Termin ändern.",
+            "Randevuyu değiştirmem gerekiyor."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Müssen ile sollen bazen Türkçede aynı ‘-meli’ ekiyle karşılanır. Bu yüzden yalnızca Türkçe eke bakarak seçim yapma. Kurgusal diyalogda ‘doktor şöyle dedi’ gibi bir kaynak varsa sollen talimatın aktarımını gösterir. Konuşmacı başka bir nedenle zorunda olduğunu söylüyorsa müssen daha uygun olabilir."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Alıştırmalarda kaynak kişiyi veya durumu ara. Cümleyi bitirdikten sonra ‘bunu kim söylüyor?’ sorusuna cevap ver. Sollen kullanmak anlatılan yönlendirmeyi uygulaman gerektiğini kanıtlamaz; ders yalnızca ifadenin dildeki görevini çalıştırır. Kendi cümleni gerçek özel bilgilerin yerine bir kurgu üzerinden kurabilirsin."
+        }
+      ],
+      "id": "a2-02-teach-6"
+    },
+    {
+      "title": "7 · Dürfen ve iki farklı olumsuzluk",
+      "introduction": "Dürfen izin bildirir: Darf ich hier warten? ‘Burada bekleyebilir miyim?’ sorusudur. Können da Türkçede ‘-ebilmek’ diye çevrilebildiği için iki fiili karıştırmak kolaydır. Birinin yapabilme becerisi ile bir yerin kuralına göre izinli olması farklı anlamlardır. Olumsuzlukta bu ayrım daha da önemlidir.",
+      "rule": "Nicht dürfen yasak veya izin yokluğu; nicht müssen zorunluluk yokluğu bildirir. Du darfst hier nicht rauchen ile Du musst nicht warten aynı anlamda değildir.",
+      "usage": "Bir yerin kuralını sorma, bir davranış için izin isteme veya gerekmediğini söyleme durumlarında kullan.",
+      "structure": "Darf ich hier warten? / Sie müssen nicht warten.",
+      "mistake": "Nicht müssen ifadesini ‘yapmamalısın’ diye otomatik çevirme; ‘yapmak zorunda değilsin’ anlamını kontrol et.",
+      "memory": "DARF NICHT: izin yok. MUSS NICHT: gerek yok.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "izin",
+            "Sie dürfen hier sitzen.",
+            "Burada oturabilirsiniz."
+          ],
+          [
+            "yasak",
+            "Sie dürfen hier nicht rauchen.",
+            "Burada sigara içemezsiniz."
+          ],
+          [
+            "gerek yok",
+            "Sie müssen nicht warten.",
+            "Beklemek zorunda değilsiniz."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "İki cümleyi bir salon kuralı üzerinden karşılaştır. Nicht rauchen bir davranışın yasaklandığını, nicht warten ise bekleme zorunluluğunun kaldırıldığını anlatır. İkisinde de nicht bulunması anlamlarını eşitlemez. Önce hangi modal fiilin olumsuzlandığını gör, sonra Türkçe karşılığını kur."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Darf ich ...? sorusunu sesli okurken çekimli fiilin ilk yerde olduğunu fark et. Ardından özne ich, yer ifadesi ve mastar gelir. Evet/hayır sorularında bu başlangıcı korumak kısa bir izin isteğini anlaşılır kılar. Alıştırmada izin soruluyorsa beceri bildiren seçenekle yetinme."
+        }
+      ],
+      "id": "a2-02-teach-7"
+    },
+    {
+      "title": "8 · Randevu için gün ve saat",
+      "introduction": "Telefonda en kolay kaçan bilgiler gün ve saattir. Am Mittwoch um zehn Uhr cümle parçasında am günle, um saatle kullanılır. Vormittags ve nachmittags günün bölümünü anlatır ama tek başına kesin saat vermez. Bir randevuyu doğrularken genel zaman ifadesini kesin saat gibi yorumlamamalısın.",
+      "rule": "Am + gün, um + saat; resmî randevuda açık saat söylemek belirsizliği azaltır. Von ... bis ... bir zaman aralığıdır.",
+      "usage": "Bir randevu saati isteme, uygun zamanı söyleme ve verilen zamanı yeniden doğrulama sırasında kullan.",
+      "structure": "Haben Sie am Mittwoch um zehn Uhr einen Termin frei?",
+      "mistake": "Um Montag yerine am Montag; am zehn Uhr yerine um zehn Uhr kullan. Zaman ifadelerinin görevleri farklıdır.",
+      "memory": "AM gün; UM saat; VON–BIS aralık.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "gün",
+            "am Mittwoch",
+            "çarşamba günü"
+          ],
+          [
+            "saat",
+            "um zehn Uhr",
+            "saat onda"
+          ],
+          [
+            "aralık",
+            "von neun bis elf Uhr",
+            "dokuzdan on bire kadar"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Bir konuşmada Mittwoch ve zehn sözcüklerini iki ayrı bilgi olarak not et. Saatin on mu, on buçuk mu olduğunu anlamadıysan yeniden sor. Bir soruyu tekrar etmek başarısızlık değildir; gerçek iletişimde bilgiyi doğrulamak çoğu zaman tek seferde anlamaktan daha değerlidir."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Zaman ifadesini cümlenin başına taşıyabilirsin: Am Mittwoch habe ich einen Termin. Am Mittwoch bir öge olduğu için habe ikinci konumda kalır. Önceki ünitedeki zaman ve fiil sırası bilgini burada tekrar kullanıyorsun. Araya ich getirerek Am Mittwoch ich habe yapma."
+        }
+      ],
+      "id": "a2-02-teach-8"
+    },
+    {
+      "title": "9 · Kibarca tekrar istemek",
+      "introduction": "Telefon hattında bir sözcüğü duymamış olabilirsin. Könnten Sie das bitte wiederholen? karşındaki kişiden kibarca tekrar istemeni sağlar. Bu kalıp Konjunktiv II içerir; burada bütün koşul sistemini değil, iletişimde hemen işe yarayan hazır isteği öğreniyoruz. Anlamadığını söylemek konuşmayı sürdürebilmenin bir parçasıdır.",
+      "rule": "Könnten Sie ...? resmî ve kibar bir rica kalıbıdır. Sie büyük harfle yazılır; mastar wiederholen veya sprechen sonda yer alır.",
+      "usage": "Tekrar, daha yavaş konuşma veya bir sözcüğün yazılışını isteme sırasında kullan.",
+      "structure": "Könnten Sie bitte langsamer sprechen?",
+      "mistake": "Könnten du veya könnten Sie sprechen langsamer sırasını kullanma. Bu derste resmî Sie hitabını tutarlı koru.",
+      "memory": "KÖNNTEN SIE + BİLGİ + MASTAR?",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "tekrar",
+            "Könnten Sie das bitte wiederholen?",
+            "Tekrar edebilir misiniz?"
+          ],
+          [
+            "yavaşlık",
+            "Könnten Sie bitte langsamer sprechen?",
+            "Daha yavaş konuşabilir misiniz?"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Cümleyi tek kalıp olarak söyleyip durakları ayır: Könnten Sie / das bitte / wiederholen? Böylece uzun bir isteği bölerek rahatça kullanırsın. Könnten biçimini her yerde Präsens können yerine koyma; bu örnekteki görevi kibar ricadır. Dilbilgisi adını bilmekten çok doğru bağlamda kullanmak hedeflenir."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Duymadığın bilgiye göre ricayı seç. Gün veya saati kaçırdıysan tekrar iste; karşındaki çok hızlı konuşuyorsa yavaşlık iste. Tamamını anlamadığın bir cümleye yalnızca ja diyerek onay verme. Metin sorularında da anlaşılmayan kısmı yeniden okuyup kanıt bulmadan seçim yapma."
+        }
+      ],
+      "id": "a2-02-teach-9"
+    },
+    {
+      "title": "10 · Doktora mı, muayenehanede mi?",
+      "introduction": "Zum Arzt yönelme, beim Arzt bulunma bağlamında sık duyulan kalıplardır. Ärztin ile zur Ärztin ve bei der Ärztin olur. Zu yön belirtse bile Dativ alır; her ‘nereye?’ sorusuna Akkusativ seçmek doğru değildir. Bu ünitede kalıpları artikelleriyle birlikte küçük bir grup olarak öğreniyoruz.",
+      "rule": "Zu ve bei Dativ ister. Zu dem → zum, zu der → zur, bei dem → beim. In der Praxis ise belirli bir yerde bulunmayı anlatır.",
+      "usage": "Nereye gittiğini veya randevu sırasında nerede bulunduğunu anlatırken kullan.",
+      "structure": "Ich gehe zum Arzt. / Ich bin bei der Ärztin.",
+      "mistake": "Ich gehe zu den Arzt deme. Arzt sözcüğünün Dativ’teki biçimi der Arzt → dem Arzt olur; bu örnek çoğul değildir.",
+      "memory": "ZU hedefe; BEI yanında/bulunma.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "hedef",
+            "zum Arzt",
+            "doktora"
+          ],
+          [
+            "kadın doktor",
+            "zur Ärztin",
+            "kadın doktora"
+          ],
+          [
+            "bulunma",
+            "beim Arzt",
+            "doktorda"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Hedef gösteren bütün edatların aynı hâli almadığını özellikle fark et. In die Praxis ile zur Praxis yönelme anlatabilir ama farklı edatlar farklı dilbilgisi kalıpları kurar. Bu derste zu ve bei kalıplarını öğrenmek, sonraki ev ünitesindeki konum-yön ayrımına hazırlık sağlar."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Önce kişi adının artikelini bul, sonra edatın istediği hâli uygula. Erkek doktor için zum Arzt, kadın doktor için zur Ärztin örneklerini yan yana yaz. Türkçede artikeller görünmediği için karşılıklarını ezberlerken Almanca biçimleri atlama; küçük farklar kelime grubunun görevini gösterir."
+        }
+      ],
+      "id": "a2-02-teach-10"
+    },
+    {
+      "title": "11 · İptal etmek ve başka saate almak",
+      "introduction": "Absagen randevuyu iptal etmek; verschieben ise başka bir zamana almak demektir. İki eylem aynı değildir. Bir konuşmada yeni saat veriliyorsa yalnızca iptal edildiğini söylemek bilgiyi eksik aktarır. Ich möchte meinen Termin verschieben biçimi kibarca değişiklik istemeyi sağlar; yeni zamanı ayrıca sormalısın.",
+      "rule": "Ich sage den Termin ab ayrılabilen bir ana cümledir. Ich möchte den Termin absagen yapısında mastar bir bütün olarak sonda durur. Verschieben ayrılmaz.",
+      "usage": "Mevcut bir randevudan söz ederken nesne ve iyelik biçimini koruyarak kullan.",
+      "structure": "Ich möchte meinen Termin verschieben.",
+      "mistake": "Ich verschiebe ab veya Ich möchte sage ab biçimlerini kurma. Fiilin anlamını ve ayrılma özelliğini ayrı kontrol et.",
+      "memory": "ABSAGEN: iptal. VERSCHIEBEN: başka zamana.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "iptal",
+            "Ich sage meinen Termin ab.",
+            "Randevumu iptal ediyorum."
+          ],
+          [
+            "değişiklik",
+            "Ich verschiebe meinen Termin.",
+            "Randevumu başka zamana alıyorum."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Termin der artikelli bir isimdir. Haben, absagen ve verschieben gibi bu örneklerde doğrudan nesne alan fiillerle einen, den veya meinen biçimleri karşına çıkar. Mein Termin özne olabilirken meinen Termin nesne olarak kullanılır. Önce neyin değiştirildiğini sor; randevu nesnedir."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Kısa bir konuşma yaz: mevcut randevuyu tanıt, başka zaman istediğini söyle ve yeni günü doğrula. Gerekçe olarak özel bilgi vermen gerekmez; Leider kann ich am Dienstag nicht kommen yeterli bir dil örneğidir. Yeni saat açıkça söylenmediyse değişikliğin kesinleştiğini varsayma."
+        }
+      ],
+      "id": "a2-02-teach-11"
+    },
+    {
+      "title": "12 · Emir ve rica arasındaki ton",
+      "introduction": "Bir görevli Bringen Sie bitte Ihre Karte mit diyebilir. Resmî emir/rica biçiminde fiil önce, Sie sonra gelir. Bitte tonu yumuşatır ama cümlenin yapısını değiştirmez. Önceki modal kalıpla Sie sollen Ihre Karte mitbringen aynı bilgiyi başka bir cümle yapısıyla aktarabiliriz.",
+      "rule": "Resmî emir: çekimli fiil + Sie + ... + ayrılan ön ek. Mitbringen → Bringen Sie ... mit. Modal fiille mitbringen birleşik mastardır.",
+      "usage": "Kurgusal görevlinin söylediği basit yönlendirmeyi anlama ve başka birine aktarma sırasında kullan.",
+      "structure": "Bringen Sie bitte Ihre Versichertenkarte mit.",
+      "mistake": "Bringen Sie ... mitbringen deme; aynı fiili iki kez kullanmış olursun. Ihre resmî hitapta büyük yazılır.",
+      "memory": "BRINGEN SIE ... MIT ↔ SIE SOLLEN ... MITBRINGEN.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "rica",
+            "Warten Sie bitte hier.",
+            "Lütfen burada bekleyin."
+          ],
+          [
+            "ayrılabilen fiil",
+            "Bringen Sie die Karte mit.",
+            "Kartı yanınızda getirin."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Kişi zamiri ile iyelik sözcüğünü ayır: Sie siz demektir; Ihre Karte sizin kartınız demektir. İkisi farklı görevler üstlenir. Almanca resmî hitapta bu sözcüklerin büyük yazılması anlamı netleştirir. Telaffuzda büyük harf duyulmasa da yazılı alıştırmalarda doğru biçimi kullanmaya çalış."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Bir yönlendirmeyi okuduğunda önce yapılacak eylemi bul, sonra nesneyi ve yeri ekle. Cümleleri gerçek talimatlar olarak değil, kurgusal konuşma parçaları olarak değerlendir. Görevlinin cümlesini aktarmayı dene: Ich soll hier warten. Böylece emir yapısı ile sollen arasındaki bağı kendin kurarsın."
+        }
+      ],
+      "id": "a2-02-teach-12"
+    },
+    {
+      "title": "13 · Belgeler ve yer bilgisi",
+      "introduction": "Praxis, Apotheke ve Wartezimmer aynı yerler değildir. Rezept bir belge, Untersuchung bir işlem, Versichertenkarte ise bir karttır. Metindeki nesnenin veya yerin görevini ayırt etmek, her sözcüğü tek tek çevirmekten daha yararlı olabilir. Bu derste verilen belgeler herhangi bir ülkenin zorunlu sağlık prosedürü olarak sunulmaz.",
+      "rule": "İsimleri artikel ve bağlamla öğren: die Praxis, das Wartezimmer, das Rezept. Ein Rezept ve einen Termin biçimlerindeki farkı ismin cinsiyeti açıklar.",
+      "usage": "Randevu konuşmasında hangi yere gidileceğini veya hangi nesnenin anıldığını anlamak için kullan.",
+      "structure": "Ich warte im Wartezimmer. / Ich brauche ein Rezept.",
+      "mistake": "Im Wartezimmer bir bekleme yeri, in der Apotheke eczanedir; benzer sağlık bağlamları oldukları için eş anlamlı sayma.",
+      "memory": "KELİME → TÜRÜ → BAĞLAMDAKİ GÖREVİ.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "yer",
+            "die Praxis",
+            "muayenehane"
+          ],
+          [
+            "bekleme alanı",
+            "das Wartezimmer",
+            "bekleme odası"
+          ],
+          [
+            "belge",
+            "das Rezept",
+            "reçete"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Yeni bir kelime gördüğünde onu üç gruptan birine yerleştir: kişi, yer veya nesne. Ärztin kişi, Apotheke yer, Rezept nesnedir. Bu küçük ayrım ‘nerede bekliyor?’ sorusunda belgeyi cevap olarak seçmeni önler. Her isim için bir kısa örnek cümle okumak, kelimeyi işleviyle öğrenmeni sağlar."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "Okuma sorusunda özel bilgini değil metnin bilgisini kullan. Metin kart getirilmesini söylüyorsa başka belgelerin de gerekli olduğunu ekleme. Bir durumun gerçek hayatta farklı uygulamaları olabilir; burada ölçülen şey verilen Almanca cümleden doğru bilgiyi çıkarabilmektir."
+        }
+      ],
+      "id": "a2-02-teach-13"
+    },
+    {
+      "title": "14 · Randevu görüşmesini birleştir",
+      "introduction": "Şimdi önceki parçaları tek bir görüşmede birleştireceksin. İlk metni kim, neden, ne zaman ve nerede sorularıyla oku. Diyalogda randevunun eski ve yeni zamanını ayrı not et. Metindeki bir konuşma fiilini veya süreyi kaçırırsan geri dön; birinci okumada her şeyi anlamak zorunda değilsin.",
+      "rule": "Randevu özeti amaç, gün, saat ve açıkça söylenen hazırlıktan oluşur. Belirsiz bilgiyi kesinleştirme. Sorularda verilen metne dayan; kişisel sağlık bilgilerini paylaşma.",
+      "usage": "Kurgusal bir telefon konuşması yazarken veya verilen randevu metnini özetlerken kullan.",
+      "structure": "Guten Tag. Ich möchte ... / Passt ...? / Also ...? / Vielen Dank.",
+      "mistake": "İptal ile ertelemeyi ve eski saat ile yeni saati karıştırma. Diyalogdaki son doğrulanmış zamanı esas al.",
+      "memory": "AMAÇ + SON DOĞRULANAN ZAMAN + GEREKLİ BİLGİ.",
+      "table": {
+        "heading": "Biçimi anlamıyla birlikte keşfet",
+        "rows": [
+          [
+            "açılış",
+            "Ich möchte einen Termin vereinbaren.",
+            "Randevu almak istiyorum."
+          ],
+          [
+            "kapanış",
+            "Vielen Dank. Auf Wiederhören!",
+            "Teşekkürler. Telefonda görüşmek üzere!"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Öğretmeninle birlikte düşün",
+          "body": "Önce bir konuşmayı anlamayı, sonra üretmeyi dene. Metindeki kişilerin sözlerini renklerle ayırabilir, gün ve saatlerin altını çizebilirsin. Böylece aynı paragraftaki eski randevuyu yeni randevu sanma olasılığın azalır. Öğrenmede yavaşlamak çoğu zaman doğru bilgiyi daha güvenilir yakalamanı sağlar."
+        },
+        {
+          "title": "Kendi cümlene uygula",
+          "body": "İsteğe bağlı olarak iki kişi arasında sekiz kısa konuşma sırası yaz. Bir tekrar ricası, bir zaman doğrulaması ve bir randevu değişikliği ekle. Serbest yazın otomatik puanlanmaz; kontrol listesinden modal fiil, mastar, artikel ve zaman edatlarını incele. Burada amaç gerçek bir sağlık değerlendirmesi değil anlaşılır Almanca iletişimdir."
+        }
+      ],
+      "id": "a2-02-teach-14"
+    }
+  ],
+  "examples": [
+    {
+      "id": "a2-02-example-1",
+      "de": "Ich möchte einen Termin vereinbaren.",
+      "tr": "Randevu almak istiyorum.",
+      "explanation": "Möchte çekimli fiildir; Termin erkek cinsiyetli nesne olduğu için einen gelir. Vereinbaren mastarı cümlenin sonunda kalır.",
+      "highlights": [
+        "möchte",
+        "einen Termin",
+        "vereinbaren"
+      ]
+    },
+    {
+      "id": "a2-02-example-2",
+      "de": "Ich habe seit zwei Tagen Husten.",
+      "tr": "İki gündür öksürüğüm var.",
+      "explanation": "Hâlâ süren durum Präsens ile anlatılır. Seit Dativ ister; çoğul Tag burada Tagen olur. Husten artikelsiz şikâyet ismidir.",
+      "highlights": [
+        "seit zwei Tagen",
+        "Husten"
+      ]
+    },
+    {
+      "id": "a2-02-example-3",
+      "de": "Mein Rücken tut weh.",
+      "tr": "Sırtım ağrıyor.",
+      "explanation": "Rücken tekil öznedir; tut bu özneyle uyumludur. Wehtun ana cümlede ayrılır ve weh sona yerleşir.",
+      "highlights": [
+        "Mein Rücken",
+        "tut",
+        "weh"
+      ]
+    },
+    {
+      "id": "a2-02-example-4",
+      "de": "Meine Zähne tun weh.",
+      "tr": "Dişlerim ağrıyor.",
+      "explanation": "Zähne çoğul öznedir; bu yüzden tut yerine tun gerekir. Meine bir iyelik sözcüğüdür, kişi zamiri değildir.",
+      "highlights": [
+        "Meine Zähne",
+        "tun"
+      ]
+    },
+    {
+      "id": "a2-02-example-5",
+      "de": "Ich muss meinen Termin absagen.",
+      "tr": "Randevumu iptal etmeliyim.",
+      "explanation": "Muss zorunluluk bildirir. Absagen modal fiille birleşik mastar olarak sonda durur; meinen Termin Akkusativ nesnedir.",
+      "highlights": [
+        "muss",
+        "meinen Termin",
+        "absagen"
+      ]
+    },
+    {
+      "id": "a2-02-example-6",
+      "de": "Ich soll morgen wiederkommen.",
+      "tr": "Yarın yeniden gelmem söylendi.",
+      "explanation": "Soll bu bağlamda aktarılan talimatı gösterir. Wiederkommen mastarı kişi eki almaz ve cümlenin sonunda bulunur.",
+      "highlights": [
+        "soll",
+        "wiederkommen"
+      ]
+    },
+    {
+      "id": "a2-02-example-7",
+      "de": "Darf ich hier warten?",
+      "tr": "Burada bekleyebilir miyim?",
+      "explanation": "Darf izin sorusunu başlatır; ardından ich ve yer ifadesi gelir. Warten mastarı sona yerleşir. Bu soru beceriden çok izinle ilgilidir.",
+      "highlights": [
+        "Darf",
+        "warten"
+      ]
+    },
+    {
+      "id": "a2-02-example-8",
+      "de": "Sie müssen nicht warten.",
+      "tr": "Beklemek zorunda değilsiniz.",
+      "explanation": "Nicht müssen zorunluluğun olmadığını söyler. Bu ifade beklemenin yasak olduğu anlamına gelmez; dürfen nicht ile karıştırma.",
+      "highlights": [
+        "müssen nicht"
+      ]
+    },
+    {
+      "id": "a2-02-example-9",
+      "de": "Sie dürfen hier nicht rauchen.",
+      "tr": "Burada sigara içemezsiniz.",
+      "explanation": "Nicht dürfen izin olmadığını bildirir. Hier yer bilgisidir; rauchen mastarı cümle sonunda kalır. Nicht müssen ise farklı bir anlam taşır.",
+      "highlights": [
+        "dürfen",
+        "nicht",
+        "rauchen"
+      ]
+    },
+    {
+      "id": "a2-02-example-10",
+      "de": "Am Mittwoch habe ich einen Termin.",
+      "tr": "Çarşamba günü randevum var.",
+      "explanation": "Gün am ile verilir. Am Mittwoch bir öge olduğu için habe ikinci konumdadır; ich fiilden sonra gelir.",
+      "highlights": [
+        "Am Mittwoch",
+        "habe"
+      ]
+    },
+    {
+      "id": "a2-02-example-11",
+      "de": "Könnten Sie das bitte wiederholen?",
+      "tr": "Bunu lütfen tekrar edebilir misiniz?",
+      "explanation": "Könnten Sie kibar ve resmî ricayı açar. Wiederholen mastarı sonda yer alır. Büyük Sie resmî hitabı gösterir.",
+      "highlights": [
+        "Könnten Sie",
+        "wiederholen"
+      ]
+    },
+    {
+      "id": "a2-02-example-12",
+      "de": "Könnten Sie bitte langsamer sprechen?",
+      "tr": "Lütfen daha yavaş konuşabilir misiniz?",
+      "explanation": "Langsamer konuşma hızını niteler. Kibar rica kalıbında könnten çekilir, sprechen mastar kalır ve sona gider.",
+      "highlights": [
+        "langsamer",
+        "sprechen"
+      ]
+    },
+    {
+      "id": "a2-02-example-13",
+      "de": "Ich gehe zur Ärztin.",
+      "tr": "Kadın doktora gidiyorum.",
+      "explanation": "Zu Dativ ister. Die Ärztin, zu der Ärztin olur; zu der kısalarak zur biçimini alır. Yön var diye Akkusativ seçilmez.",
+      "highlights": [
+        "zur Ärztin"
+      ]
+    },
+    {
+      "id": "a2-02-example-14",
+      "de": "Ich bin beim Arzt.",
+      "tr": "Doktordayım.",
+      "explanation": "Bei bulunma bağlamında Dativ alır. Bei dem Arzt ifadesi beim Arzt biçiminde kısalır. Bin burada kişinin nerede olduğunu gösterir.",
+      "highlights": [
+        "beim Arzt"
+      ]
+    },
+    {
+      "id": "a2-02-example-15",
+      "de": "Ich möchte meinen Termin verschieben.",
+      "tr": "Randevumu başka zamana almak istiyorum.",
+      "explanation": "Verschieben başka bir zamana almak demektir. Meinen, der Termin için Akkusativ iyelik biçimidir; möchte ile mastar sona gider.",
+      "highlights": [
+        "meinen Termin",
+        "verschieben"
+      ]
+    },
+    {
+      "id": "a2-02-example-16",
+      "de": "Bringen Sie bitte Ihre Karte mit.",
+      "tr": "Lütfen kartınızı yanınızda getirin.",
+      "explanation": "Resmî emir/rica fiille başlar. Mitbringen ana cümlede ayrılır; mit sona gider. Ihre resmî hitapta büyük yazılır.",
+      "highlights": [
+        "Bringen Sie",
+        "Ihre Karte",
+        "mit"
+      ]
+    },
+    {
+      "id": "a2-02-example-17",
+      "de": "Warten Sie bitte im Wartezimmer.",
+      "tr": "Lütfen bekleme odasında bekleyin.",
+      "explanation": "Warten Sie resmî rica yapısıdır. Im, in dem kısaltmasıdır; beklemenin gerçekleştiği yeri bildirir.",
+      "highlights": [
+        "Warten Sie",
+        "im Wartezimmer"
+      ]
+    },
+    {
+      "id": "a2-02-example-18",
+      "de": "Haben Sie am Freitag noch einen Termin frei?",
+      "tr": "Cuma günü boş randevunuz var mı?",
+      "explanation": "Haben evet/hayır sorusunun başındadır. Frei uygun/boş zaman anlamını tamamlar. Einen Termin Akkusativ nesnedir.",
+      "highlights": [
+        "Haben Sie",
+        "einen Termin frei"
+      ]
+    },
+    {
+      "id": "a2-02-example-19",
+      "de": "Seit wann haben Sie Halsschmerzen?",
+      "tr": "Ne zamandan beri boğaz ağrınız var?",
+      "explanation": "Seit wann başlangıcı sorar. Haben çekimli fiil olarak soru ögesinin ardından gelir; Halsschmerzen bu kullanımdaki çoğul isimdir.",
+      "highlights": [
+        "Seit wann",
+        "Halsschmerzen"
+      ]
+    },
+    {
+      "id": "a2-02-example-20",
+      "de": "Ich habe seit gestern Fieber.",
+      "tr": "Dünden beri ateşim var.",
+      "explanation": "Seit gestern bir başlangıç noktası verir. Durum şimdi de sürdüğü için bu örnekte habe Präsens biçimiyle kullanılır.",
+      "highlights": [
+        "seit gestern",
+        "Fieber"
+      ]
+    },
+    {
+      "id": "a2-02-example-21",
+      "de": "Die Apotheke ist neben der Praxis.",
+      "tr": "Eczane muayenehanenin yanında.",
+      "explanation": "Yer bildirirken neben Dativ alır. Praxis dişil isimdir ve der Praxis olur. Cümlede eczanenin konumu anlatılır.",
+      "highlights": [
+        "neben der Praxis"
+      ]
+    },
+    {
+      "id": "a2-02-example-22",
+      "de": "Ich brauche ein Rezept.",
+      "tr": "Bir reçeteye ihtiyacım var.",
+      "explanation": "Brauchen doğrudan nesne alır. Rezept nötr olduğundan Akkusativ belirsiz artikel ein kalır; einen değildir.",
+      "highlights": [
+        "ein Rezept"
+      ]
+    },
+    {
+      "id": "a2-02-example-23",
+      "de": "Der Termin ist um elf Uhr.",
+      "tr": "Randevu saat on birde.",
+      "explanation": "Kesin saat um ile belirtilir. Gün için am kullanılması bu örnekteki saat edatını değiştirmez.",
+      "highlights": [
+        "um elf Uhr"
+      ]
+    },
+    {
+      "id": "a2-02-example-24",
+      "de": "Leider kann ich am Dienstag nicht kommen.",
+      "tr": "Ne yazık ki salı günü gelemiyorum.",
+      "explanation": "Leider ilk öge olduğunda kann ikinci konumdadır. Kommen mastarı sonda bulunur; nicht gelememe durumunu bildirir.",
+      "highlights": [
+        "Leider kann",
+        "nicht kommen"
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "title": "Okuma · Deniz’in telefon notu",
+      "de": "Deniz ruft am Montag in der Praxis an. Sie hat seit zwei Tagen Husten, aber kein Fieber. Sie möchte einen Termin vereinbaren. Am Dienstag ist kein Termin mehr frei. Die Mitarbeiterin bietet ihr Mittwoch um zehn Uhr an. Deniz kann am Mittwoch kommen. Sie soll ihre Versichertenkarte mitbringen. Die Praxis ist neben einer Apotheke. Deniz wiederholt den Tag und die Uhrzeit. Dann schreibt sie die Informationen auf. Sie fragt auch nach dem Wartezimmer. Die Mitarbeiterin sagt: Bitte warten Sie nach der Anmeldung im Wartezimmer.",
+      "tr": "Deniz pazartesi muayenehaneyi arar. İki gündür öksürüğü vardır ama ateşi yoktur. Randevu almak ister. Salı boş randevu kalmamıştır. Görevli çarşamba saat onu önerir. Deniz çarşamba gelebilir. Sigortalı kartını getirmesi söylenir. Muayenehane bir eczanenin yanındadır. Deniz günü ve saati tekrarlar. Sonra bilgileri yazar. Bekleme odasını da sorar. Görevli, kayıttan sonra bekleme odasında beklemesini söyler.",
+      "notes": "Arama günü pazartesi, randevu günü çarşambadır. Seit iki günlük süreyi belirtir. Metin yalnızca dil çalışmasıdır; kurgusal belirtilerden sağlık sonucu çıkarmıyoruz.",
+      "id": "a2-02-text-1"
+    },
+    {
+      "title": "Diyalog · Mert randevusunu değiştiriyor",
+      "de": "Mert: Guten Tag. Ich habe am Donnerstag um elf Uhr einen Termin. Leider kann ich nicht kommen.\nMitarbeiterin: Möchten Sie den Termin absagen oder verschieben?\nMert: Ich möchte ihn verschieben. Haben Sie am Freitag etwas frei?\nMitarbeiterin: Ja, am Freitag um neun Uhr.\nMert: Könnten Sie die Uhrzeit bitte wiederholen?\nMitarbeiterin: Um neun Uhr. Bringen Sie bitte Ihre Karte mit.\nMert: Also am Freitag um neun Uhr. Muss ich vorher anrufen?\nMitarbeiterin: Nein, Sie müssen nicht vorher anrufen.\nMert: Vielen Dank. Auf Wiederhören!",
+      "tr": "Mert: İyi günler. Perşembe saat on birde randevum var. Ne yazık ki gelemiyorum.\nGörevli: Randevuyu iptal mi etmek, başka zamana mı almak istiyorsunuz?\nMert: Başka zamana almak istiyorum. Cuma boş zamanınız var mı?\nGörevli: Evet, cuma saat dokuzda.\nMert: Saati lütfen tekrar edebilir misiniz?\nGörevli: Saat dokuzda. Lütfen kartınızı getirin.\nMert: Yani cuma saat dokuzda. Önceden aramam gerekiyor mu?\nGörevli: Hayır, önceden aramak zorunda değilsiniz.\nMert: Teşekkürler. Telefonda görüşmek üzere!",
+      "notes": "İlk saat eski randevudur. Son onay cuma dokuzdur. Nicht müssen önceden aramanın yasak olduğunu değil zorunlu olmadığını anlatır.",
+      "id": "a2-02-text-2"
+    }
+  ],
+  "guided": [
+    {
+      "id": "a2-02-guided-01",
+      "type": "choice",
+      "prompt": "Randevu almak istediğini kibarca hangi cümleyle söylersin?",
+      "accepted": [
+        "Ich möchte einen Termin vereinbaren."
+      ],
+      "explanation": "Möchte çekimli fiildir; Termin erkek cinsiyetli nesne olduğu için einen gelir. Vereinbaren mastarı cümlenin sonunda kalır.",
+      "rule": "Möchte + einen Termin + vereinbaren.",
+      "hints": [
+        "Möchte + einen Termin + vereinbaren.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-25"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-25"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich möchte einen Termin vereinbaren.",
+        "Ich bin einen Termin.",
+        "Ich möchte einen Termin vereinbare."
+      ],
+      "optionNotes": {
+        "Ich möchte einen Termin vereinbaren.": "Möchte çekimli fiildir; Termin erkek cinsiyetli nesne olduğu için einen gelir. Vereinbaren mastarı cümlenin sonunda kalır.",
+        "Ich bin einen Termin.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Möchte çekimli fiildir; Termin erkek cinsiyetli nesne olduğu için einen gelir. Vereinbaren mastarı cümlenin sonunda kalır.",
+        "Ich möchte einen Termin vereinbare.": "Cümleyi şu ölçütle yeniden incele: Möchte + einen Termin + vereinbaren. Möchte çekimli fiildir; Termin erkek cinsiyetli nesne olduğu için einen gelir. Vereinbaren mastarı cümlenin sonunda kalır."
+      }
+    },
+    {
+      "id": "a2-02-guided-02",
+      "type": "choice",
+      "prompt": "Hâlâ süren iki günlük öksürüğü hangi cümle anlatır?",
+      "accepted": [
+        "Ich habe seit zwei Tagen Husten."
+      ],
+      "explanation": "Hâlâ süren durum Präsens ile anlatılır. Seit Dativ ister; çoğul Tag burada Tagen olur. Husten artikelsiz şikâyet ismidir.",
+      "rule": "Seit zwei Tagen + Präsens.",
+      "hints": [
+        "Seit zwei Tagen + Präsens.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-13"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-13"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich bin seit zwei Tage Husten.",
+        "Ich habe morgen Husten.",
+        "Ich habe seit zwei Tagen Husten."
+      ],
+      "optionNotes": {
+        "Ich habe seit zwei Tagen Husten.": "Hâlâ süren durum Präsens ile anlatılır. Seit Dativ ister; çoğul Tag burada Tagen olur. Husten artikelsiz şikâyet ismidir.",
+        "Ich bin seit zwei Tage Husten.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Hâlâ süren durum Präsens ile anlatılır. Seit Dativ ister; çoğul Tag burada Tagen olur. Husten artikelsiz şikâyet ismidir.",
+        "Ich habe morgen Husten.": "Cümleyi şu ölçütle yeniden incele: Seit zwei Tagen + Präsens. Hâlâ süren durum Präsens ile anlatılır. Seit Dativ ister; çoğul Tag burada Tagen olur. Husten artikelsiz şikâyet ismidir."
+      }
+    },
+    {
+      "id": "a2-02-guided-03",
+      "type": "choice",
+      "prompt": "Sırtım ağrıyor anlamını seç.",
+      "accepted": [
+        "Mein Rücken tut weh."
+      ],
+      "explanation": "Rücken tekil öznedir; tut bu özneyle uyumludur. Wehtun ana cümlede ayrılır ve weh sona yerleşir.",
+      "rule": "Tekil Rücken + tut weh.",
+      "hints": [
+        "Tekil Rücken + tut weh.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-17"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-17"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich tut Rücken weh.",
+        "Mein Rücken tut weh.",
+        "Mein Rücken tun weh."
+      ],
+      "optionNotes": {
+        "Mein Rücken tut weh.": "Rücken tekil öznedir; tut bu özneyle uyumludur. Wehtun ana cümlede ayrılır ve weh sona yerleşir.",
+        "Mein Rücken tun weh.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Rücken tekil öznedir; tut bu özneyle uyumludur. Wehtun ana cümlede ayrılır ve weh sona yerleşir.",
+        "Ich tut Rücken weh.": "Cümleyi şu ölçütle yeniden incele: Tekil Rücken + tut weh. Rücken tekil öznedir; tut bu özneyle uyumludur. Wehtun ana cümlede ayrılır ve weh sona yerleşir."
+      }
+    },
+    {
+      "id": "a2-02-guided-04",
+      "type": "choice",
+      "prompt": "Dişlerim ağrıyor anlamını seç.",
+      "accepted": [
+        "Meine Zähne tun weh."
+      ],
+      "explanation": "Zähne çoğul öznedir; bu yüzden tut yerine tun gerekir. Meine bir iyelik sözcüğüdür, kişi zamiri değildir.",
+      "rule": "Çoğul Zähne + tun weh.",
+      "hints": [
+        "Çoğul Zähne + tun weh.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-18"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-18"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Meine Zähne tun weh.",
+        "Meine Zähne tut weh.",
+        "Mein Zahn tun weh."
+      ],
+      "optionNotes": {
+        "Meine Zähne tun weh.": "Zähne çoğul öznedir; bu yüzden tut yerine tun gerekir. Meine bir iyelik sözcüğüdür, kişi zamiri değildir.",
+        "Meine Zähne tut weh.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Zähne çoğul öznedir; bu yüzden tut yerine tun gerekir. Meine bir iyelik sözcüğüdür, kişi zamiri değildir.",
+        "Mein Zahn tun weh.": "Cümleyi şu ölçütle yeniden incele: Çoğul Zähne + tun weh. Zähne çoğul öznedir; bu yüzden tut yerine tun gerekir. Meine bir iyelik sözcüğüdür, kişi zamiri değildir."
+      }
+    },
+    {
+      "id": "a2-02-guided-05",
+      "type": "choice",
+      "prompt": "Hangisi iptal etme zorunluluğunu anlatır?",
+      "accepted": [
+        "Ich muss meinen Termin absagen."
+      ],
+      "explanation": "Muss zorunluluk bildirir. Absagen modal fiille birleşik mastar olarak sonda durur; meinen Termin Akkusativ nesnedir.",
+      "rule": "Muss zorunluluk; absagen sonda mastar.",
+      "hints": [
+        "Muss zorunluluk; absagen sonda mastar.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-23"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-23"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich darf meinen Termin absagen.",
+        "Ich muss meinen Termin sage ab.",
+        "Ich muss meinen Termin absagen."
+      ],
+      "optionNotes": {
+        "Ich muss meinen Termin absagen.": "Muss zorunluluk bildirir. Absagen modal fiille birleşik mastar olarak sonda durur; meinen Termin Akkusativ nesnedir.",
+        "Ich darf meinen Termin absagen.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Muss zorunluluk bildirir. Absagen modal fiille birleşik mastar olarak sonda durur; meinen Termin Akkusativ nesnedir.",
+        "Ich muss meinen Termin sage ab.": "Cümleyi şu ölçütle yeniden incele: Muss zorunluluk; absagen sonda mastar. Muss zorunluluk bildirir. Absagen modal fiille birleşik mastar olarak sonda durur; meinen Termin Akkusativ nesnedir."
+      }
+    },
+    {
+      "id": "a2-02-guided-06",
+      "type": "choice",
+      "prompt": "Bir başkasının talimatını aktar: ‘Yarın yeniden gelmem söylendi.’",
+      "accepted": [
+        "Ich soll morgen wiederkommen."
+      ],
+      "explanation": "Soll bu bağlamda aktarılan talimatı gösterir. Wiederkommen mastarı kişi eki almaz ve cümlenin sonunda bulunur.",
+      "rule": "Soll aktarılan talimatı anlatır.",
+      "hints": [
+        "Soll aktarılan talimatı anlatır.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-27"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-27"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich soll morgen komme wieder.",
+        "Ich soll morgen wiederkommen.",
+        "Ich will morgen wiederkommen."
+      ],
+      "optionNotes": {
+        "Ich soll morgen wiederkommen.": "Soll bu bağlamda aktarılan talimatı gösterir. Wiederkommen mastarı kişi eki almaz ve cümlenin sonunda bulunur.",
+        "Ich will morgen wiederkommen.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Soll bu bağlamda aktarılan talimatı gösterir. Wiederkommen mastarı kişi eki almaz ve cümlenin sonunda bulunur.",
+        "Ich soll morgen komme wieder.": "Cümleyi şu ölçütle yeniden incele: Soll aktarılan talimatı anlatır. Soll bu bağlamda aktarılan talimatı gösterir. Wiederkommen mastarı kişi eki almaz ve cümlenin sonunda bulunur."
+      }
+    },
+    {
+      "id": "a2-02-guided-07",
+      "type": "choice",
+      "prompt": "Bulunduğun yerde beklemek için izin iste.",
+      "accepted": [
+        "Darf ich hier warten?"
+      ],
+      "explanation": "Darf izin sorusunu başlatır; ardından ich ve yer ifadesi gelir. Warten mastarı sona yerleşir. Bu soru beceriden çok izinle ilgilidir.",
+      "rule": "İzin sorusu: Darf ich ...?",
+      "hints": [
+        "İzin sorusu: Darf ich ...?",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-28"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-28"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Darf ich hier warten?",
+        "Ich muss hier warten.",
+        "Ich darfst hier warten?"
+      ],
+      "optionNotes": {
+        "Darf ich hier warten?": "Darf izin sorusunu başlatır; ardından ich ve yer ifadesi gelir. Warten mastarı sona yerleşir. Bu soru beceriden çok izinle ilgilidir.",
+        "Ich muss hier warten.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Darf izin sorusunu başlatır; ardından ich ve yer ifadesi gelir. Warten mastarı sona yerleşir. Bu soru beceriden çok izinle ilgilidir.",
+        "Ich darfst hier warten?": "Cümleyi şu ölçütle yeniden incele: İzin sorusu: Darf ich ...? Darf izin sorusunu başlatır; ardından ich ve yer ifadesi gelir. Warten mastarı sona yerleşir. Bu soru beceriden çok izinle ilgilidir."
+      }
+    },
+    {
+      "id": "a2-02-guided-08",
+      "type": "choice",
+      "prompt": "‘Sie müssen nicht warten.’ ne demektir?",
+      "accepted": [
+        "Beklemek zorunda değilsiniz."
+      ],
+      "explanation": "Nicht müssen zorunluluğun olmadığını söyler. Bu ifade beklemenin yasak olduğu anlamına gelmez; dürfen nicht ile karıştırma.",
+      "rule": "Nicht müssen = zorunluluk yok.",
+      "hints": [
+        "Nicht müssen = zorunluluk yok.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-28"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-28"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Beklemeniz yasak.",
+        "Mutlaka beklemelisiniz.",
+        "Beklemek zorunda değilsiniz."
+      ],
+      "optionNotes": {
+        "Beklemek zorunda değilsiniz.": "Nicht müssen zorunluluğun olmadığını söyler. Bu ifade beklemenin yasak olduğu anlamına gelmez; dürfen nicht ile karıştırma.",
+        "Beklemeniz yasak.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Nicht müssen zorunluluğun olmadığını söyler. Bu ifade beklemenin yasak olduğu anlamına gelmez; dürfen nicht ile karıştırma.",
+        "Mutlaka beklemelisiniz.": "Cümleyi şu ölçütle yeniden incele: Nicht müssen = zorunluluk yok. Nicht müssen zorunluluğun olmadığını söyler. Bu ifade beklemenin yasak olduğu anlamına gelmez; dürfen nicht ile karıştırma."
+      }
+    },
+    {
+      "id": "a2-02-guided-09",
+      "type": "choice",
+      "prompt": "‘Burada sigara içmeye izin yok’ anlamını seç.",
+      "accepted": [
+        "Sie dürfen hier nicht rauchen."
+      ],
+      "explanation": "Nicht dürfen izin olmadığını bildirir. Hier yer bilgisidir; rauchen mastarı cümle sonunda kalır. Nicht müssen ise farklı bir anlam taşır.",
+      "rule": "Nicht dürfen = izin yok.",
+      "hints": [
+        "Nicht dürfen = izin yok.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-28"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-28"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Sie dürfen hier rauchen.",
+        "Sie dürfen hier nicht rauchen.",
+        "Sie müssen hier nicht rauchen."
+      ],
+      "optionNotes": {
+        "Sie dürfen hier nicht rauchen.": "Nicht dürfen izin olmadığını bildirir. Hier yer bilgisidir; rauchen mastarı cümle sonunda kalır. Nicht müssen ise farklı bir anlam taşır.",
+        "Sie müssen hier nicht rauchen.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Nicht dürfen izin olmadığını bildirir. Hier yer bilgisidir; rauchen mastarı cümle sonunda kalır. Nicht müssen ise farklı bir anlam taşır.",
+        "Sie dürfen hier rauchen.": "Cümleyi şu ölçütle yeniden incele: Nicht dürfen = izin yok. Nicht dürfen izin olmadığını bildirir. Hier yer bilgisidir; rauchen mastarı cümle sonunda kalır. Nicht müssen ise farklı bir anlam taşır."
+      }
+    },
+    {
+      "id": "a2-02-guided-10",
+      "type": "choice",
+      "prompt": "Çarşamba günü randevum var: doğru dizilişi seç.",
+      "accepted": [
+        "Am Mittwoch habe ich einen Termin."
+      ],
+      "explanation": "Gün am ile verilir. Am Mittwoch bir öge olduğu için habe ikinci konumdadır; ich fiilden sonra gelir.",
+      "rule": "Am günle kullanılır; fiil ikinci ögedir.",
+      "hints": [
+        "Am günle kullanılır; fiil ikinci ögedir.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Am Mittwoch habe ich einen Termin.",
+        "Am Mittwoch ich habe einen Termin.",
+        "Um Mittwoch habe ich einen Termin."
+      ],
+      "optionNotes": {
+        "Am Mittwoch habe ich einen Termin.": "Gün am ile verilir. Am Mittwoch bir öge olduğu için habe ikinci konumdadır; ich fiilden sonra gelir.",
+        "Am Mittwoch ich habe einen Termin.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Gün am ile verilir. Am Mittwoch bir öge olduğu için habe ikinci konumdadır; ich fiilden sonra gelir.",
+        "Um Mittwoch habe ich einen Termin.": "Cümleyi şu ölçütle yeniden incele: Am günle kullanılır; fiil ikinci ögedir. Gün am ile verilir. Am Mittwoch bir öge olduğu için habe ikinci konumdadır; ich fiilden sonra gelir."
+      }
+    },
+    {
+      "id": "a2-02-guided-11",
+      "type": "blank",
+      "prompt": "Ich ___ Kopfschmerzen. (haben; ich)",
+      "accepted": [
+        "habe"
+      ],
+      "explanation": "Ich için haben çekimi habe olur. Kopfschmerzen bir isimdir; burada sein kullanılmaz.",
+      "rule": "Ich habe + şikâyet ismi.",
+      "hints": [
+        "Ich habe + şikâyet ismi.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-12"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-12"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-guided-12",
+      "type": "blank",
+      "prompt": "Sie ___ Husten. (haben; o kadın)",
+      "accepted": [
+        "hat"
+      ],
+      "explanation": "O kadın anlamındaki sie tekildir ve hat alır. Resmî Sie ile haben biçimini karıştırma.",
+      "rule": "Sie tekil → hat.",
+      "hints": [
+        "Sie tekil → hat.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-13"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-13"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-guided-13",
+      "type": "blank",
+      "prompt": "Mein Zahn ___ weh. (wehtun)",
+      "accepted": [
+        "tut"
+      ],
+      "explanation": "Zahn tekil öznedir. Ayrılabilen wehtun fiilinde çekimli biçim tut, ön ek weh olur.",
+      "rule": "Tekil + tut weh.",
+      "hints": [
+        "Tekil + tut weh.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-18"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-18"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-guided-14",
+      "type": "blank",
+      "prompt": "Meine Zähne ___ weh. (wehtun)",
+      "accepted": [
+        "tun"
+      ],
+      "explanation": "Zähne çoğuldur; fiil tun olur. Meine bir özne zamiri değildir, Zähne ismini niteler.",
+      "rule": "Çoğul + tun weh.",
+      "hints": [
+        "Çoğul + tun weh.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-18"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-18"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-guided-15",
+      "type": "blank",
+      "prompt": "Ich habe seit zwei ___ Husten. (Tag; çoğul Dativ)",
+      "accepted": [
+        "Tagen"
+      ],
+      "explanation": "Seit Dativ ister; Tage çoğulu burada Tagen olur. İki günlük süre devam eden durumla birlikte anlatılır.",
+      "rule": "Seit zwei Tagen.",
+      "hints": [
+        "Seit zwei Tagen.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-30"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-30"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-guided-16",
+      "type": "blank",
+      "prompt": "Ich ___ den Termin absagen. (müssen; ich)",
+      "accepted": [
+        "muss"
+      ],
+      "explanation": "Ich için müssen biçimi muss olur. Asıl eylem absagen mastar olarak sona yerleşmiştir.",
+      "rule": "Ich muss + mastar.",
+      "hints": [
+        "Ich muss + mastar.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-23"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-23"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-guided-17",
+      "type": "blank",
+      "prompt": "Du ___ die Karte mitbringen. (sollen)",
+      "accepted": [
+        "sollst"
+      ],
+      "explanation": "Du öznesi sollen için sollst alır. Mitbringen modal yapıda birleşik mastar olarak kalır.",
+      "rule": "Du sollst + mastar.",
+      "hints": [
+        "Du sollst + mastar.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-27"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-27"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-guided-18",
+      "type": "blank",
+      "prompt": "___ ich hier warten? (dürfen; izin sorusu)",
+      "accepted": [
+        "Darf"
+      ],
+      "explanation": "İzin sorusunda ich için darf çekimi başa gelir. Mastar warten en sonda bulunur.",
+      "rule": "Darf ich ...?",
+      "hints": [
+        "Darf ich ...?",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-28"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-28"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-guided-19",
+      "type": "blank",
+      "prompt": "___ Mittwoch habe ich einen Termin. (gün edatı)",
+      "accepted": [
+        "Am"
+      ],
+      "explanation": "Haftanın günü am ile verilir. Am Mittwoch bir zaman ögesidir; habe ikinci konumdadır.",
+      "rule": "Am + haftanın günü.",
+      "hints": [
+        "Am + haftanın günü.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-guided-20",
+      "type": "blank",
+      "prompt": "Der Termin ist ___ zehn Uhr. (saat edatı)",
+      "accepted": [
+        "um"
+      ],
+      "explanation": "Kesin saat um ile belirtilir; am günler içindir. On rakamını değil yalnızca edatı tamamlıyoruz.",
+      "rule": "Um + saat.",
+      "hints": [
+        "Um + saat.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    }
+  ],
+  "independent": [
+    {
+      "id": "a2-02-independent-01",
+      "type": "choice",
+      "prompt": "Anlamadığın cümlenin tekrarını kibarca iste.",
+      "accepted": [
+        "Könnten Sie das bitte wiederholen?"
+      ],
+      "explanation": "Könnten Sie kibar ve resmî ricayı açar. Wiederholen mastarı sonda yer alır. Büyük Sie resmî hitabı gösterir.",
+      "rule": "Könnten Sie ... wiederholen?",
+      "hints": [
+        "Könnten Sie ... wiederholen?",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Könnten Sie das bitte wiederholen?",
+        "Könnten Sie das bitte wiederholt?",
+        "Sie könntest das wiederholen?"
+      ],
+      "optionNotes": {
+        "Könnten Sie das bitte wiederholen?": "Könnten Sie kibar ve resmî ricayı açar. Wiederholen mastarı sonda yer alır. Büyük Sie resmî hitabı gösterir.",
+        "Könnten Sie das bitte wiederholt?": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Könnten Sie kibar ve resmî ricayı açar. Wiederholen mastarı sonda yer alır. Büyük Sie resmî hitabı gösterir.",
+        "Sie könntest das wiederholen?": "Cümleyi şu ölçütle yeniden incele: Könnten Sie ... wiederholen? Könnten Sie kibar ve resmî ricayı açar. Wiederholen mastarı sonda yer alır. Büyük Sie resmî hitabı gösterir."
+      }
+    },
+    {
+      "id": "a2-02-independent-02",
+      "type": "choice",
+      "prompt": "Daha yavaş konuşulmasını istediğin cümleyi seç.",
+      "accepted": [
+        "Könnten Sie bitte langsamer sprechen?"
+      ],
+      "explanation": "Langsamer konuşma hızını niteler. Kibar rica kalıbında könnten çekilir, sprechen mastar kalır ve sona gider.",
+      "rule": "Langsamer daha yavaş; sprechen mastardır.",
+      "hints": [
+        "Langsamer daha yavaş; sprechen mastardır.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-04"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-04"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Könnten Sie bitte schneller sprechen?",
+        "Könnten Sie bitte langsamer sprecht?",
+        "Könnten Sie bitte langsamer sprechen?"
+      ],
+      "optionNotes": {
+        "Könnten Sie bitte langsamer sprechen?": "Langsamer konuşma hızını niteler. Kibar rica kalıbında könnten çekilir, sprechen mastar kalır ve sona gider.",
+        "Könnten Sie bitte schneller sprechen?": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Langsamer konuşma hızını niteler. Kibar rica kalıbında könnten çekilir, sprechen mastar kalır ve sona gider.",
+        "Könnten Sie bitte langsamer sprecht?": "Cümleyi şu ölçütle yeniden incele: Langsamer daha yavaş; sprechen mastardır. Langsamer konuşma hızını niteler. Kibar rica kalıbında könnten çekilir, sprechen mastar kalır ve sona gider."
+      }
+    },
+    {
+      "id": "a2-02-independent-03",
+      "type": "choice",
+      "prompt": "Kadın doktora gittiğini söyle.",
+      "accepted": [
+        "Ich gehe zur Ärztin."
+      ],
+      "explanation": "Zu Dativ ister. Die Ärztin, zu der Ärztin olur; zu der kısalarak zur biçimini alır. Yön var diye Akkusativ seçilmez.",
+      "rule": "Zu der Ärztin → zur Ärztin.",
+      "hints": [
+        "Zu der Ärztin → zur Ärztin.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-03"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-03"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich gehe zur Arzt.",
+        "Ich gehe zur Ärztin.",
+        "Ich gehe zu die Ärztin."
+      ],
+      "optionNotes": {
+        "Ich gehe zur Ärztin.": "Zu Dativ ister. Die Ärztin, zu der Ärztin olur; zu der kısalarak zur biçimini alır. Yön var diye Akkusativ seçilmez.",
+        "Ich gehe zu die Ärztin.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Zu Dativ ister. Die Ärztin, zu der Ärztin olur; zu der kısalarak zur biçimini alır. Yön var diye Akkusativ seçilmez.",
+        "Ich gehe zur Arzt.": "Cümleyi şu ölçütle yeniden incele: Zu der Ärztin → zur Ärztin. Zu Dativ ister. Die Ärztin, zu der Ärztin olur; zu der kısalarak zur biçimini alır. Yön var diye Akkusativ seçilmez."
+      }
+    },
+    {
+      "id": "a2-02-independent-04",
+      "type": "choice",
+      "prompt": "Doktorda bulunduğunu hangi cümle söyler?",
+      "accepted": [
+        "Ich bin beim Arzt."
+      ],
+      "explanation": "Bei bulunma bağlamında Dativ alır. Bei dem Arzt ifadesi beim Arzt biçiminde kısalır. Bin burada kişinin nerede olduğunu gösterir.",
+      "rule": "Bei dem Arzt → beim Arzt.",
+      "hints": [
+        "Bei dem Arzt → beim Arzt.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-02"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-02"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich bin beim Arzt.",
+        "Ich bin zu den Arzt.",
+        "Ich gehe zum Arzt."
+      ],
+      "optionNotes": {
+        "Ich bin beim Arzt.": "Bei bulunma bağlamında Dativ alır. Bei dem Arzt ifadesi beim Arzt biçiminde kısalır. Bin burada kişinin nerede olduğunu gösterir.",
+        "Ich bin zu den Arzt.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Bei bulunma bağlamında Dativ alır. Bei dem Arzt ifadesi beim Arzt biçiminde kısalır. Bin burada kişinin nerede olduğunu gösterir.",
+        "Ich gehe zum Arzt.": "Cümleyi şu ölçütle yeniden incele: Bei dem Arzt → beim Arzt. Bei bulunma bağlamında Dativ alır. Bei dem Arzt ifadesi beim Arzt biçiminde kısalır. Bin burada kişinin nerede olduğunu gösterir."
+      }
+    },
+    {
+      "id": "a2-02-independent-05",
+      "type": "choice",
+      "prompt": "Randevuyu iptal etmek yerine başka zamana almak istiyorsun.",
+      "accepted": [
+        "Ich möchte meinen Termin verschieben."
+      ],
+      "explanation": "Verschieben başka bir zamana almak demektir. Meinen, der Termin için Akkusativ iyelik biçimidir; möchte ile mastar sona gider.",
+      "rule": "Verschieben başka zamana almak demektir.",
+      "hints": [
+        "Verschieben başka zamana almak demektir.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-24"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-24"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich möchte meinen Termin absagen.",
+        "Ich möchte meinen Termin verschiebe.",
+        "Ich möchte meinen Termin verschieben."
+      ],
+      "optionNotes": {
+        "Ich möchte meinen Termin verschieben.": "Verschieben başka bir zamana almak demektir. Meinen, der Termin için Akkusativ iyelik biçimidir; möchte ile mastar sona gider.",
+        "Ich möchte meinen Termin absagen.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Verschieben başka bir zamana almak demektir. Meinen, der Termin için Akkusativ iyelik biçimidir; möchte ile mastar sona gider.",
+        "Ich möchte meinen Termin verschiebe.": "Cümleyi şu ölçütle yeniden incele: Verschieben başka zamana almak demektir. Verschieben başka bir zamana almak demektir. Meinen, der Termin için Akkusativ iyelik biçimidir; möchte ile mastar sona gider."
+      }
+    },
+    {
+      "id": "a2-02-independent-06",
+      "type": "choice",
+      "prompt": "Kart getirmeyi isteyen resmî ricayı seç.",
+      "accepted": [
+        "Bringen Sie bitte Ihre Karte mit."
+      ],
+      "explanation": "Resmî emir/rica fiille başlar. Mitbringen ana cümlede ayrılır; mit sona gider. Ihre resmî hitapta büyük yazılır.",
+      "rule": "Bringen Sie ... mit.",
+      "hints": [
+        "Bringen Sie ... mit.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-09"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-09"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Bringen Sie bitte Ihre Karte mitbringen.",
+        "Bringen Sie bitte Ihre Karte mit.",
+        "Bringen du bitte Ihre Karte mit."
+      ],
+      "optionNotes": {
+        "Bringen Sie bitte Ihre Karte mit.": "Resmî emir/rica fiille başlar. Mitbringen ana cümlede ayrılır; mit sona gider. Ihre resmî hitapta büyük yazılır.",
+        "Bringen du bitte Ihre Karte mit.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Resmî emir/rica fiille başlar. Mitbringen ana cümlede ayrılır; mit sona gider. Ihre resmî hitapta büyük yazılır.",
+        "Bringen Sie bitte Ihre Karte mitbringen.": "Cümleyi şu ölçütle yeniden incele: Bringen Sie ... mit. Resmî emir/rica fiille başlar. Mitbringen ana cümlede ayrılır; mit sona gider. Ihre resmî hitapta büyük yazılır."
+      }
+    },
+    {
+      "id": "a2-02-independent-07",
+      "type": "choice",
+      "prompt": "‘Bekleme odasında bekleyin’ ifadesini seç.",
+      "accepted": [
+        "Warten Sie bitte im Wartezimmer."
+      ],
+      "explanation": "Warten Sie resmî rica yapısıdır. Im, in dem kısaltmasıdır; beklemenin gerçekleştiği yeri bildirir.",
+      "rule": "Wartezimmer bekleme odasıdır.",
+      "hints": [
+        "Wartezimmer bekleme odasıdır.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-06"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-06"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Warten Sie bitte im Wartezimmer.",
+        "Warten Sie bitte in der Apotheke.",
+        "Warten Sie bitte im Rezept."
+      ],
+      "optionNotes": {
+        "Warten Sie bitte im Wartezimmer.": "Warten Sie resmî rica yapısıdır. Im, in dem kısaltmasıdır; beklemenin gerçekleştiği yeri bildirir.",
+        "Warten Sie bitte in der Apotheke.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Warten Sie resmî rica yapısıdır. Im, in dem kısaltmasıdır; beklemenin gerçekleştiği yeri bildirir.",
+        "Warten Sie bitte im Rezept.": "Cümleyi şu ölçütle yeniden incele: Wartezimmer bekleme odasıdır. Warten Sie resmî rica yapısıdır. Im, in dem kısaltmasıdır; beklemenin gerçekleştiği yeri bildirir."
+      }
+    },
+    {
+      "id": "a2-02-independent-08",
+      "type": "choice",
+      "prompt": "Boş randevu olup olmadığını hangi soru sorar?",
+      "accepted": [
+        "Haben Sie am Freitag noch einen Termin frei?"
+      ],
+      "explanation": "Haben evet/hayır sorusunun başındadır. Frei uygun/boş zaman anlamını tamamlar. Einen Termin Akkusativ nesnedir.",
+      "rule": "Evet/hayır sorusu haben ile başlar.",
+      "hints": [
+        "Evet/hayır sorusu haben ile başlar.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Sie haben am Freitag einen Termin frei.",
+        "Haben Sie am Freitag noch einen Termin freier?",
+        "Haben Sie am Freitag noch einen Termin frei?"
+      ],
+      "optionNotes": {
+        "Haben Sie am Freitag noch einen Termin frei?": "Haben evet/hayır sorusunun başındadır. Frei uygun/boş zaman anlamını tamamlar. Einen Termin Akkusativ nesnedir.",
+        "Sie haben am Freitag einen Termin frei.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Haben evet/hayır sorusunun başındadır. Frei uygun/boş zaman anlamını tamamlar. Einen Termin Akkusativ nesnedir.",
+        "Haben Sie am Freitag noch einen Termin freier?": "Cümleyi şu ölçütle yeniden incele: Evet/hayır sorusu haben ile başlar. Haben evet/hayır sorusunun başındadır. Frei uygun/boş zaman anlamını tamamlar. Einen Termin Akkusativ nesnedir."
+      }
+    },
+    {
+      "id": "a2-02-independent-09",
+      "type": "choice",
+      "prompt": "‘Ne zamandan beri?’ sorusunu bul.",
+      "accepted": [
+        "Seit wann haben Sie Halsschmerzen?"
+      ],
+      "explanation": "Seit wann başlangıcı sorar. Haben çekimli fiil olarak soru ögesinin ardından gelir; Halsschmerzen bu kullanımdaki çoğul isimdir.",
+      "rule": "Seit wann başlangıç zamanını sorar.",
+      "hints": [
+        "Seit wann başlangıç zamanını sorar.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-16"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-16"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Wer haben Sie Halsschmerzen?",
+        "Seit wann haben Sie Halsschmerzen?",
+        "Wohin haben Sie Halsschmerzen?"
+      ],
+      "optionNotes": {
+        "Seit wann haben Sie Halsschmerzen?": "Seit wann başlangıcı sorar. Haben çekimli fiil olarak soru ögesinin ardından gelir; Halsschmerzen bu kullanımdaki çoğul isimdir.",
+        "Wohin haben Sie Halsschmerzen?": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Seit wann başlangıcı sorar. Haben çekimli fiil olarak soru ögesinin ardından gelir; Halsschmerzen bu kullanımdaki çoğul isimdir.",
+        "Wer haben Sie Halsschmerzen?": "Cümleyi şu ölçütle yeniden incele: Seit wann başlangıç zamanını sorar. Seit wann başlangıcı sorar. Haben çekimli fiil olarak soru ögesinin ardından gelir; Halsschmerzen bu kullanımdaki çoğul isimdir."
+      }
+    },
+    {
+      "id": "a2-02-independent-10",
+      "type": "choice",
+      "prompt": "‘Dünden beri ateşim var.’ anlamını seç.",
+      "accepted": [
+        "Ich habe seit gestern Fieber."
+      ],
+      "explanation": "Seit gestern bir başlangıç noktası verir. Durum şimdi de sürdüğü için bu örnekte habe Präsens biçimiyle kullanılır.",
+      "rule": "Seit gestern dünden beri demektir.",
+      "hints": [
+        "Seit gestern dünden beri demektir.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-15"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-15"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich habe seit gestern Fieber.",
+        "Ich habe seit morgen Fieber.",
+        "Ich bin gestern Fieber."
+      ],
+      "optionNotes": {
+        "Ich habe seit gestern Fieber.": "Seit gestern bir başlangıç noktası verir. Durum şimdi de sürdüğü için bu örnekte habe Präsens biçimiyle kullanılır.",
+        "Ich habe seit morgen Fieber.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Seit gestern bir başlangıç noktası verir. Durum şimdi de sürdüğü için bu örnekte habe Präsens biçimiyle kullanılır.",
+        "Ich bin gestern Fieber.": "Cümleyi şu ölçütle yeniden incele: Seit gestern dünden beri demektir. Seit gestern bir başlangıç noktası verir. Durum şimdi de sürdüğü için bu örnekte habe Präsens biçimiyle kullanılır."
+      }
+    },
+    {
+      "id": "a2-02-independent-11",
+      "type": "choice",
+      "prompt": "Nötr isimle doğru nesne biçimini seç.",
+      "accepted": [
+        "Ich brauche ein Rezept."
+      ],
+      "explanation": "Brauchen doğrudan nesne alır. Rezept nötr olduğundan Akkusativ belirsiz artikel ein kalır; einen değildir.",
+      "rule": "Das Rezept → ein Rezept.",
+      "hints": [
+        "Das Rezept → ein Rezept.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-07"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-07"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Ich brauche einen Rezept.",
+        "Ich brauche eine Rezept.",
+        "Ich brauche ein Rezept."
+      ],
+      "optionNotes": {
+        "Ich brauche ein Rezept.": "Brauchen doğrudan nesne alır. Rezept nötr olduğundan Akkusativ belirsiz artikel ein kalır; einen değildir.",
+        "Ich brauche einen Rezept.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Brauchen doğrudan nesne alır. Rezept nötr olduğundan Akkusativ belirsiz artikel ein kalır; einen değildir.",
+        "Ich brauche eine Rezept.": "Cümleyi şu ölçütle yeniden incele: Das Rezept → ein Rezept. Brauchen doğrudan nesne alır. Rezept nötr olduğundan Akkusativ belirsiz artikel ein kalır; einen değildir."
+      }
+    },
+    {
+      "id": "a2-02-independent-12",
+      "type": "choice",
+      "prompt": "Kesin saat için doğru edat hangisidir?",
+      "accepted": [
+        "Der Termin ist um elf Uhr."
+      ],
+      "explanation": "Kesin saat um ile belirtilir. Gün için am kullanılması bu örnekteki saat edatını değiştirmez.",
+      "rule": "Um saat; am gün bildirir.",
+      "hints": [
+        "Um saat; am gün bildirir.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Bağlamı ve yapıyı seç",
+      "options": [
+        "Der Termin ist seit elf Uhr morgen.",
+        "Der Termin ist um elf Uhr.",
+        "Der Termin ist am elf Uhr."
+      ],
+      "optionNotes": {
+        "Der Termin ist um elf Uhr.": "Kesin saat um ile belirtilir. Gün için am kullanılması bu örnekteki saat edatını değiştirmez.",
+        "Der Termin ist am elf Uhr.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Kesin saat um ile belirtilir. Gün için am kullanılması bu örnekteki saat edatını değiştirmez.",
+        "Der Termin ist seit elf Uhr morgen.": "Cümleyi şu ölçütle yeniden incele: Um saat; am gün bildirir. Kesin saat um ile belirtilir. Gün için am kullanılması bu örnekteki saat edatını değiştirmez."
+      }
+    },
+    {
+      "id": "a2-02-independent-13",
+      "type": "blank",
+      "prompt": "Ich möchte einen Termin ___. (vereinbaren; mastar)",
+      "accepted": [
+        "vereinbaren"
+      ],
+      "explanation": "Möchte çekimli fiildir; Termin erkek cinsiyetli nesne olduğu için einen gelir. Vereinbaren mastarı cümlenin sonunda kalır.",
+      "rule": "Möchte + mastar sonda.",
+      "hints": [
+        "Möchte + mastar sonda.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-25"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-25"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-14",
+      "type": "blank",
+      "prompt": "Ich muss den Termin ___. (absagen; mastar)",
+      "accepted": [
+        "absagen"
+      ],
+      "explanation": "Muss zorunluluk bildirir. Absagen modal fiille birleşik mastar olarak sonda durur; meinen Termin Akkusativ nesnedir.",
+      "rule": "Modal fiille absagen ayrılmaz.",
+      "hints": [
+        "Modal fiille absagen ayrılmaz.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-23"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-23"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-15",
+      "type": "blank",
+      "prompt": "Könnten Sie das bitte ___? (wiederholen)",
+      "accepted": [
+        "wiederholen"
+      ],
+      "explanation": "Könnten Sie kibar ve resmî ricayı açar. Wiederholen mastarı sonda yer alır. Büyük Sie resmî hitabı gösterir.",
+      "rule": "Könnten Sie ... + mastar?",
+      "hints": [
+        "Könnten Sie ... + mastar?",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-16",
+      "type": "blank",
+      "prompt": "Könnten Sie bitte langsamer ___? (sprechen)",
+      "accepted": [
+        "sprechen"
+      ],
+      "explanation": "Langsamer konuşma hızını niteler. Kibar rica kalıbında könnten çekilir, sprechen mastar kalır ve sona gider.",
+      "rule": "Kibar rica + sprechen mastarı.",
+      "hints": [
+        "Kibar rica + sprechen mastarı.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-04"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-04"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-17",
+      "type": "blank",
+      "prompt": "Ich gehe ___ Ärztin. (zu + der; kısaltma)",
+      "accepted": [
+        "zur"
+      ],
+      "explanation": "Zu Dativ ister. Die Ärztin, zu der Ärztin olur; zu der kısalarak zur biçimini alır. Yön var diye Akkusativ seçilmez.",
+      "rule": "Zu der → zur.",
+      "hints": [
+        "Zu der → zur.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-03"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-03"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-18",
+      "type": "blank",
+      "prompt": "Ich bin ___ Arzt. (bei + dem; kısaltma)",
+      "accepted": [
+        "beim"
+      ],
+      "explanation": "Bei bulunma bağlamında Dativ alır. Bei dem Arzt ifadesi beim Arzt biçiminde kısalır. Bin burada kişinin nerede olduğunu gösterir.",
+      "rule": "Bei dem → beim.",
+      "hints": [
+        "Bei dem → beim.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-02"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-02"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-19",
+      "type": "blank",
+      "prompt": "Ich möchte meinen Termin ___. (verschieben)",
+      "accepted": [
+        "verschieben"
+      ],
+      "explanation": "Verschieben başka bir zamana almak demektir. Meinen, der Termin için Akkusativ iyelik biçimidir; möchte ile mastar sona gider.",
+      "rule": "Möchte + verschieben.",
+      "hints": [
+        "Möchte + verschieben.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-24"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-24"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-20",
+      "type": "blank",
+      "prompt": "Bringen Sie bitte Ihre Karte ___. (mitbringen)",
+      "accepted": [
+        "mit"
+      ],
+      "explanation": "Resmî emir/rica fiille başlar. Mitbringen ana cümlede ayrılır; mit sona gider. Ihre resmî hitapta büyük yazılır.",
+      "rule": "Resmî rica: Bringen Sie ... mit.",
+      "hints": [
+        "Resmî rica: Bringen Sie ... mit.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-09"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-09"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-21",
+      "type": "blank",
+      "prompt": "Warten Sie bitte ___ Wartezimmer. (in + dem; kısaltma)",
+      "accepted": [
+        "im"
+      ],
+      "explanation": "Warten Sie resmî rica yapısıdır. Im, in dem kısaltmasıdır; beklemenin gerçekleştiği yeri bildirir.",
+      "rule": "In dem → im.",
+      "hints": [
+        "In dem → im.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-06"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-06"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-22",
+      "type": "blank",
+      "prompt": "Ich brauche ___ Rezept. (ein; nötr Akkusativ)",
+      "accepted": [
+        "ein"
+      ],
+      "explanation": "Brauchen doğrudan nesne alır. Rezept nötr olduğundan Akkusativ belirsiz artikel ein kalır; einen değildir.",
+      "rule": "Das Rezept → ein Rezept.",
+      "hints": [
+        "Das Rezept → ein Rezept.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-07"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-07"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-23",
+      "type": "blank",
+      "prompt": "Ich habe seit ___ Woche Schnupfen. (ein; die Woche)",
+      "accepted": [
+        "einer"
+      ],
+      "explanation": "Seit Dativ alır; dişil Woche ile einer gerekir. Bir haftadır süren durumu Präsens ile anlatıyoruz.",
+      "rule": "Seit einer Woche.",
+      "hints": [
+        "Seit einer Woche.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-14"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-14"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-24",
+      "type": "blank",
+      "prompt": "Ich habe seit ___ Tag Halsschmerzen. (ein; der Tag)",
+      "accepted": [
+        "einem"
+      ],
+      "explanation": "Seit Dativ alır; erkek Tag için einem kullanılır. Einem Tag tekil süre grubudur.",
+      "rule": "Seit einem Tag.",
+      "hints": [
+        "Seit einem Tag.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-16"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-16"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-25",
+      "type": "blank",
+      "prompt": "Sie ___ hier nicht rauchen. (dürfen; resmî Sie)",
+      "accepted": [
+        "dürfen"
+      ],
+      "explanation": "Nicht dürfen izin olmadığını bildirir. Hier yer bilgisidir; rauchen mastarı cümle sonunda kalır. Nicht müssen ise farklı bir anlam taşır.",
+      "rule": "Resmî Sie + dürfen.",
+      "hints": [
+        "Resmî Sie + dürfen.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-28"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-28"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-26",
+      "type": "blank",
+      "prompt": "Ihr ___ den Termin absagen. (müssen)",
+      "accepted": [
+        "müsst"
+      ],
+      "explanation": "Ihr için müssen çekimi müsst olur. Umlautu ve -t ekini koru; müssen wir ve sie ile kullanılır.",
+      "rule": "Ihr müsst + mastar.",
+      "hints": [
+        "Ihr müsst + mastar.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-23"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-23"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-27",
+      "type": "blank",
+      "prompt": "Du ___ morgen wiederkommen. (sollen)",
+      "accepted": [
+        "sollst"
+      ],
+      "explanation": "Du ile sollst kullanılır; wiederkommen mastarı sonda değişmeden kalır. Bu cümle aktarılan talimatı gösterir.",
+      "rule": "Du sollst + mastar.",
+      "hints": [
+        "Du sollst + mastar.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-27"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-27"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-28",
+      "type": "blank",
+      "prompt": "Leider ___ ich am Dienstag nicht kommen. (können; ich)",
+      "accepted": [
+        "kann"
+      ],
+      "explanation": "Leider ilk öge olduğunda kann ikinci konumdadır. Kommen mastarı sonda bulunur; nicht gelememe durumunu bildirir.",
+      "rule": "Leider + kann + ich + ... + kommen.",
+      "hints": [
+        "Leider + kann + ich + ... + kommen.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Eksik biçimi tamamla",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-29",
+      "type": "sentence",
+      "prompt": "“Randevu almak istiyorum.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich möchte einen Termin vereinbaren."
+      ],
+      "explanation": "Möchte çekimli fiildir; Termin erkek cinsiyetli nesne olduğu için einen gelir. Vereinbaren mastarı cümlenin sonunda kalır.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-25"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-25"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "vereinbaren",
+        "Termin",
+        "einen",
+        "möchte",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-30",
+      "type": "sentence",
+      "prompt": "“İki gündür öksürüğüm var.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich habe seit zwei Tagen Husten."
+      ],
+      "explanation": "Hâlâ süren durum Präsens ile anlatılır. Seit Dativ ister; çoğul Tag burada Tagen olur. Husten artikelsiz şikâyet ismidir.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-13"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-13"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Husten",
+        "Tagen",
+        "zwei",
+        "seit",
+        "habe",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-31",
+      "type": "sentence",
+      "prompt": "“Sırtım ağrıyor.” anlamını verilen sözcüklerle kur. İlk sözcük: Mein.",
+      "accepted": [
+        "Mein Rücken tut weh."
+      ],
+      "explanation": "Rücken tekil öznedir; tut bu özneyle uyumludur. Wehtun ana cümlede ayrılır ve weh sona yerleşir.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-17"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-17"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "weh",
+        "tut",
+        "Rücken",
+        "Mein"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-32",
+      "type": "sentence",
+      "prompt": "“Dişlerim ağrıyor.” anlamını verilen sözcüklerle kur. İlk sözcük: Meine.",
+      "accepted": [
+        "Meine Zähne tun weh."
+      ],
+      "explanation": "Zähne çoğul öznedir; bu yüzden tut yerine tun gerekir. Meine bir iyelik sözcüğüdür, kişi zamiri değildir.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-18"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-18"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "weh",
+        "tun",
+        "Zähne",
+        "Meine"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-33",
+      "type": "sentence",
+      "prompt": "“Randevumu iptal etmeliyim.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich muss meinen Termin absagen."
+      ],
+      "explanation": "Muss zorunluluk bildirir. Absagen modal fiille birleşik mastar olarak sonda durur; meinen Termin Akkusativ nesnedir.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-23"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-23"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "absagen",
+        "Termin",
+        "meinen",
+        "muss",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-34",
+      "type": "sentence",
+      "prompt": "“Yarın yeniden gelmem söylendi.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich soll morgen wiederkommen."
+      ],
+      "explanation": "Soll bu bağlamda aktarılan talimatı gösterir. Wiederkommen mastarı kişi eki almaz ve cümlenin sonunda bulunur.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-27"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-27"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "wiederkommen",
+        "morgen",
+        "soll",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-35",
+      "type": "sentence",
+      "prompt": "“Burada bekleyebilir miyim?” anlamını verilen sözcüklerle kur. İlk sözcük: Darf.",
+      "accepted": [
+        "Darf ich hier warten?"
+      ],
+      "explanation": "Darf izin sorusunu başlatır; ardından ich ve yer ifadesi gelir. Warten mastarı sona yerleşir. Bu soru beceriden çok izinle ilgilidir.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-28"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-28"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "warten",
+        "hier",
+        "ich",
+        "Darf"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-36",
+      "type": "sentence",
+      "prompt": "“Beklemek zorunda değilsiniz.” anlamını verilen sözcüklerle kur. İlk sözcük: Sie.",
+      "accepted": [
+        "Sie müssen nicht warten."
+      ],
+      "explanation": "Nicht müssen zorunluluğun olmadığını söyler. Bu ifade beklemenin yasak olduğu anlamına gelmez; dürfen nicht ile karıştırma.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-28"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-28"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "warten",
+        "nicht",
+        "müssen",
+        "Sie"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-37",
+      "type": "sentence",
+      "prompt": "“Burada sigara içemezsiniz.” anlamını verilen sözcüklerle kur. İlk sözcük: Sie.",
+      "accepted": [
+        "Sie dürfen hier nicht rauchen."
+      ],
+      "explanation": "Nicht dürfen izin olmadığını bildirir. Hier yer bilgisidir; rauchen mastarı cümle sonunda kalır. Nicht müssen ise farklı bir anlam taşır.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-28"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-28"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "rauchen",
+        "nicht",
+        "hier",
+        "dürfen",
+        "Sie"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-38",
+      "type": "sentence",
+      "prompt": "“Çarşamba günü randevum var.” anlamını verilen sözcüklerle kur. İlk sözcük: Am.",
+      "accepted": [
+        "Am Mittwoch habe ich einen Termin."
+      ],
+      "explanation": "Gün am ile verilir. Am Mittwoch bir öge olduğu için habe ikinci konumdadır; ich fiilden sonra gelir.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Termin",
+        "einen",
+        "ich",
+        "habe",
+        "Mittwoch",
+        "Am"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-39",
+      "type": "sentence",
+      "prompt": "“Bunu lütfen tekrar edebilir misiniz?” anlamını verilen sözcüklerle kur. İlk sözcük: Könnten.",
+      "accepted": [
+        "Könnten Sie das bitte wiederholen?"
+      ],
+      "explanation": "Könnten Sie kibar ve resmî ricayı açar. Wiederholen mastarı sonda yer alır. Büyük Sie resmî hitabı gösterir.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "wiederholen",
+        "bitte",
+        "das",
+        "Sie",
+        "Könnten"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-40",
+      "type": "sentence",
+      "prompt": "“Lütfen daha yavaş konuşabilir misiniz?” anlamını verilen sözcüklerle kur. İlk sözcük: Könnten.",
+      "accepted": [
+        "Könnten Sie bitte langsamer sprechen?"
+      ],
+      "explanation": "Langsamer konuşma hızını niteler. Kibar rica kalıbında könnten çekilir, sprechen mastar kalır ve sona gider.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-04"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-04"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "sprechen",
+        "langsamer",
+        "bitte",
+        "Sie",
+        "Könnten"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-41",
+      "type": "sentence",
+      "prompt": "“Kadın doktora gidiyorum.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich gehe zur Ärztin."
+      ],
+      "explanation": "Zu Dativ ister. Die Ärztin, zu der Ärztin olur; zu der kısalarak zur biçimini alır. Yön var diye Akkusativ seçilmez.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-03"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-03"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Ärztin",
+        "zur",
+        "gehe",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-42",
+      "type": "sentence",
+      "prompt": "“Doktordayım.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich bin beim Arzt."
+      ],
+      "explanation": "Bei bulunma bağlamında Dativ alır. Bei dem Arzt ifadesi beim Arzt biçiminde kısalır. Bin burada kişinin nerede olduğunu gösterir.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-02"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-02"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "Arzt",
+        "beim",
+        "bin",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-43",
+      "type": "sentence",
+      "prompt": "“Randevumu başka zamana almak istiyorum.” anlamını verilen sözcüklerle kur. İlk sözcük: Ich.",
+      "accepted": [
+        "Ich möchte meinen Termin verschieben."
+      ],
+      "explanation": "Verschieben başka bir zamana almak demektir. Meinen, der Termin için Akkusativ iyelik biçimidir; möchte ile mastar sona gider.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-24"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-24"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "verschieben",
+        "Termin",
+        "meinen",
+        "möchte",
+        "Ich"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-44",
+      "type": "sentence",
+      "prompt": "“Lütfen kartınızı yanınızda getirin.” anlamını verilen sözcüklerle kur. İlk sözcük: Bringen.",
+      "accepted": [
+        "Bringen Sie bitte Ihre Karte mit."
+      ],
+      "explanation": "Resmî emir/rica fiille başlar. Mitbringen ana cümlede ayrılır; mit sona gider. Ihre resmî hitapta büyük yazılır.",
+      "rule": "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+      "hints": [
+        "Verilen ilk sözcüğü koru; tüm taşları kullan. Çekimli fiilin ve varsa mastarın yerini kontrol et.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-09"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-09"
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "mit",
+        "Karte",
+        "Ihre",
+        "bitte",
+        "Sie",
+        "Bringen"
+      ],
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-45",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Ich habe seit zwei Tage Husten. (yalnızca Tage)",
+      "accepted": [
+        "Ich habe seit zwei Tagen Husten."
+      ],
+      "explanation": "Hâlâ süren durum Präsens ile anlatılır. Seit Dativ ister; çoğul Tag burada Tagen olur. Husten artikelsiz şikâyet ismidir.",
+      "rule": "Seit iki günlük süreyi Dativ yapar: Tagen.",
+      "hints": [
+        "Seit iki günlük süreyi Dativ yapar: Tagen.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-13"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-13"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-46",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Mein Rücken tun weh. (yalnızca tun)",
+      "accepted": [
+        "Mein Rücken tut weh."
+      ],
+      "explanation": "Rücken tekil öznedir; tut bu özneyle uyumludur. Wehtun ana cümlede ayrılır ve weh sona yerleşir.",
+      "rule": "Tekil Rücken için tut gerekir.",
+      "hints": [
+        "Tekil Rücken için tut gerekir.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-17"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-17"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-47",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Meine Zähne tut weh. (yalnızca tut)",
+      "accepted": [
+        "Meine Zähne tun weh."
+      ],
+      "explanation": "Zähne çoğul öznedir; bu yüzden tut yerine tun gerekir. Meine bir iyelik sözcüğüdür, kişi zamiri değildir.",
+      "rule": "Çoğul Zähne için tun gerekir.",
+      "hints": [
+        "Çoğul Zähne için tun gerekir.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-18"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-18"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-48",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Ich möchte einen Termin vereinbare. (yalnızca vereinbare)",
+      "accepted": [
+        "Ich möchte einen Termin vereinbaren."
+      ],
+      "explanation": "Möchte çekimli fiildir; Termin erkek cinsiyetli nesne olduğu için einen gelir. Vereinbaren mastarı cümlenin sonunda kalır.",
+      "rule": "Möchte ardından mastar vereinbaren kullan.",
+      "hints": [
+        "Möchte ardından mastar vereinbaren kullan.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-25"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-25"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-49",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Am Mittwoch ich habe einen Termin. (yalnızca ich ve habe yer değiştirsin)",
+      "accepted": [
+        "Am Mittwoch habe ich einen Termin."
+      ],
+      "explanation": "Gün am ile verilir. Am Mittwoch bir öge olduğu için habe ikinci konumdadır; ich fiilden sonra gelir.",
+      "rule": "Zaman başta olduğunda fiil ikinci ögede kalır.",
+      "hints": [
+        "Zaman başta olduğunda fiil ikinci ögede kalır.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-50",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Ich gehe zu die Ärztin. (zu die yerine tek kısaltma)",
+      "accepted": [
+        "Ich gehe zur Ärztin."
+      ],
+      "explanation": "Zu Dativ ister. Die Ärztin, zu der Ärztin olur; zu der kısalarak zur biçimini alır. Yön var diye Akkusativ seçilmez.",
+      "rule": "Zu der birleşimi zur olur.",
+      "hints": [
+        "Zu der birleşimi zur olur.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-03"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-03"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-51",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Der Termin ist am elf Uhr. (yalnızca am)",
+      "accepted": [
+        "Der Termin ist um elf Uhr."
+      ],
+      "explanation": "Kesin saat um ile belirtilir. Gün için am kullanılması bu örnekteki saat edatını değiştirmez.",
+      "rule": "Saat için um kullanılır.",
+      "hints": [
+        "Saat için um kullanılır.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-52",
+      "type": "tr-de",
+      "prompt": "Hatalı cümleyi düzelt; yalnızca belirtilen hatayı değiştir, diğer sözcüklerin sırasını koru: Ich brauche einen Rezept. (yalnızca einen)",
+      "accepted": [
+        "Ich brauche ein Rezept."
+      ],
+      "explanation": "Brauchen doğrudan nesne alır. Rezept nötr olduğundan Akkusativ belirsiz artikel ein kalır; einen değildir.",
+      "rule": "Rezept nötrdür; Akkusativ ein olur.",
+      "hints": [
+        "Rezept nötrdür; Akkusativ ein olur.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-07"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-07"
+      ],
+      "kindLabel": "Hata dedektifi",
+      "options": []
+    },
+    {
+      "id": "a2-02-independent-53",
+      "type": "choice",
+      "prompt": "Deniz muayenehaneyi hangi gün arıyor?",
+      "accepted": [
+        "Pazartesi."
+      ],
+      "explanation": "İlk cümlede am Montag aramanın günüdür. Randevu ise başka bir gün için belirlenir; bu iki bilgiyi ayır.",
+      "rule": "Arama: am Montag.",
+      "hints": [
+        "Arama: am Montag.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-04"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-04"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Salı.",
+        "Çarşamba.",
+        "Pazartesi."
+      ],
+      "optionNotes": {
+        "Pazartesi.": "İlk cümlede am Montag aramanın günüdür. Randevu ise başka bir gün için belirlenir; bu iki bilgiyi ayır.",
+        "Salı.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. İlk cümlede am Montag aramanın günüdür. Randevu ise başka bir gün için belirlenir; bu iki bilgiyi ayır.",
+        "Çarşamba.": "Cümleyi şu ölçütle yeniden incele: Arama: am Montag. İlk cümlede am Montag aramanın günüdür. Randevu ise başka bir gün için belirlenir; bu iki bilgiyi ayır."
+      },
+      "contextId": "a2-02-text-1"
+    },
+    {
+      "id": "a2-02-independent-54",
+      "type": "choice",
+      "prompt": "Deniz’in öksürüğü ne kadar süredir var?",
+      "accepted": [
+        "İki gündür."
+      ],
+      "explanation": "Seit zwei Tagen ifadesi iki gündür anlamındadır. Metinde iki hafta veya gelecek başlangıç söylenmez.",
+      "rule": "Seit zwei Tagen = iki gündür.",
+      "hints": [
+        "Seit zwei Tagen = iki gündür.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-13"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-13"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Sadece yarından itibaren.",
+        "İki gündür.",
+        "İki haftadır."
+      ],
+      "optionNotes": {
+        "İki gündür.": "Seit zwei Tagen ifadesi iki gündür anlamındadır. Metinde iki hafta veya gelecek başlangıç söylenmez.",
+        "İki haftadır.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Seit zwei Tagen ifadesi iki gündür anlamındadır. Metinde iki hafta veya gelecek başlangıç söylenmez.",
+        "Sadece yarından itibaren.": "Cümleyi şu ölçütle yeniden incele: Seit zwei Tagen = iki gündür. Seit zwei Tagen ifadesi iki gündür anlamındadır. Metinde iki hafta veya gelecek başlangıç söylenmez."
+      },
+      "contextId": "a2-02-text-1"
+    },
+    {
+      "id": "a2-02-independent-55",
+      "type": "choice",
+      "prompt": "Deniz’in kabul ettiği randevu ne zaman?",
+      "accepted": [
+        "Çarşamba saat onda."
+      ],
+      "explanation": "Görevli Mittwoch um zehn Uhr önerir ve Deniz kabul eder. Salı boş randevu olmadığı açıkça belirtilir.",
+      "rule": "Son kabul: Mittwoch um zehn Uhr.",
+      "hints": [
+        "Son kabul: Mittwoch um zehn Uhr.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Çarşamba saat onda.",
+        "Salı saat onda.",
+        "Pazartesi saat on birde."
+      ],
+      "optionNotes": {
+        "Çarşamba saat onda.": "Görevli Mittwoch um zehn Uhr önerir ve Deniz kabul eder. Salı boş randevu olmadığı açıkça belirtilir.",
+        "Salı saat onda.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Görevli Mittwoch um zehn Uhr önerir ve Deniz kabul eder. Salı boş randevu olmadığı açıkça belirtilir.",
+        "Pazartesi saat on birde.": "Cümleyi şu ölçütle yeniden incele: Son kabul: Mittwoch um zehn Uhr. Görevli Mittwoch um zehn Uhr önerir ve Deniz kabul eder. Salı boş randevu olmadığı açıkça belirtilir."
+      },
+      "contextId": "a2-02-text-1"
+    },
+    {
+      "id": "a2-02-independent-56",
+      "type": "choice",
+      "prompt": "Deniz’den ne getirmesi isteniyor?",
+      "accepted": [
+        "Sigortalı kartı."
+      ],
+      "explanation": "Sie soll ihre Versichertenkarte mitbringen cümlesi talimatı açıkça verir. Başka belge veya nesne eklemiyoruz.",
+      "rule": "Mitbringen istenen nesne: Versichertenkarte.",
+      "hints": [
+        "Mitbringen istenen nesne: Versichertenkarte.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-09"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-09"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Yeni bir masa.",
+        "Tren bileti.",
+        "Sigortalı kartı."
+      ],
+      "optionNotes": {
+        "Sigortalı kartı.": "Sie soll ihre Versichertenkarte mitbringen cümlesi talimatı açıkça verir. Başka belge veya nesne eklemiyoruz.",
+        "Yeni bir masa.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Sie soll ihre Versichertenkarte mitbringen cümlesi talimatı açıkça verir. Başka belge veya nesne eklemiyoruz.",
+        "Tren bileti.": "Cümleyi şu ölçütle yeniden incele: Mitbringen istenen nesne: Versichertenkarte. Sie soll ihre Versichertenkarte mitbringen cümlesi talimatı açıkça verir. Başka belge veya nesne eklemiyoruz."
+      },
+      "contextId": "a2-02-text-1"
+    },
+    {
+      "id": "a2-02-independent-57",
+      "type": "choice",
+      "prompt": "Mert’in eski randevusu hangi gündü?",
+      "accepted": [
+        "Perşembe."
+      ],
+      "explanation": "Mert ilk cümlede am Donnerstag der. Cuma sonraki değişikliktir; soru eski randevuyu soruyor.",
+      "rule": "Eski randevu: Donnerstag.",
+      "hints": [
+        "Eski randevu: Donnerstag.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-24"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-24"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Pazartesi.",
+        "Perşembe.",
+        "Cuma."
+      ],
+      "optionNotes": {
+        "Perşembe.": "Mert ilk cümlede am Donnerstag der. Cuma sonraki değişikliktir; soru eski randevuyu soruyor.",
+        "Cuma.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Mert ilk cümlede am Donnerstag der. Cuma sonraki değişikliktir; soru eski randevuyu soruyor.",
+        "Pazartesi.": "Cümleyi şu ölçütle yeniden incele: Eski randevu: Donnerstag. Mert ilk cümlede am Donnerstag der. Cuma sonraki değişikliktir; soru eski randevuyu soruyor."
+      },
+      "contextId": "a2-02-text-2"
+    },
+    {
+      "id": "a2-02-independent-58",
+      "type": "choice",
+      "prompt": "Yeni randevunun saati kaç?",
+      "accepted": [
+        "Dokuz."
+      ],
+      "explanation": "Görevli um neun Uhr der ve Mert bunu tekrarlar. Elf eski randevunun saatidir.",
+      "rule": "Yeni randevu: um neun Uhr.",
+      "hints": [
+        "Yeni randevu: um neun Uhr.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Dokuz.",
+        "On bir.",
+        "On iki."
+      ],
+      "optionNotes": {
+        "Dokuz.": "Görevli um neun Uhr der ve Mert bunu tekrarlar. Elf eski randevunun saatidir.",
+        "On bir.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Görevli um neun Uhr der ve Mert bunu tekrarlar. Elf eski randevunun saatidir.",
+        "On iki.": "Cümleyi şu ölçütle yeniden incele: Yeni randevu: um neun Uhr. Görevli um neun Uhr der ve Mert bunu tekrarlar. Elf eski randevunun saatidir."
+      },
+      "contextId": "a2-02-text-2"
+    },
+    {
+      "id": "a2-02-independent-59",
+      "type": "choice",
+      "prompt": "Mert neden ‘Könnten Sie ... wiederholen?’ diyor?",
+      "accepted": [
+        "Saati yeniden duymak için."
+      ],
+      "explanation": "Rica die Uhrzeit sözcüğüyle saatin tekrarını ister. Diyalogda kabul edilen yeni randevuyu iptal etmez.",
+      "rule": "Wiederholen = tekrar etmek.",
+      "hints": [
+        "Wiederholen = tekrar etmek.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-01"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Randevuyu tamamen iptal etmek için.",
+        "Doktor olmak istediğini anlatmak için.",
+        "Saati yeniden duymak için."
+      ],
+      "optionNotes": {
+        "Saati yeniden duymak için.": "Rica die Uhrzeit sözcüğüyle saatin tekrarını ister. Diyalogda kabul edilen yeni randevuyu iptal etmez.",
+        "Randevuyu tamamen iptal etmek için.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Rica die Uhrzeit sözcüğüyle saatin tekrarını ister. Diyalogda kabul edilen yeni randevuyu iptal etmez.",
+        "Doktor olmak istediğini anlatmak için.": "Cümleyi şu ölçütle yeniden incele: Wiederholen = tekrar etmek. Rica die Uhrzeit sözcüğüyle saatin tekrarını ister. Diyalogda kabul edilen yeni randevuyu iptal etmez."
+      },
+      "contextId": "a2-02-text-2"
+    },
+    {
+      "id": "a2-02-independent-60",
+      "type": "choice",
+      "prompt": "Önceden arama hakkında son söylenen nedir?",
+      "accepted": [
+        "Araması zorunlu değil."
+      ],
+      "explanation": "Sie müssen nicht vorher anrufen ifadesi zorunluluğu kaldırır. İzin yasağı olsaydı nicht dürfen kullanılırdı.",
+      "rule": "Nicht müssen = zorunlu değil.",
+      "hints": [
+        "Nicht müssen = zorunlu değil.",
+        "Önce bağlamı, sonra kişi çekimini, isim hâlini ve sözcük sırasını kontrol et."
+      ],
+      "wordIds": [
+        "dg-a2-02-28"
+      ],
+      "reviewWordIds": [
+        "dg-a2-02-28"
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "options": [
+        "Mutlaka araması gerekiyor.",
+        "Araması zorunlu değil.",
+        "Araması yasak."
+      ],
+      "optionNotes": {
+        "Araması zorunlu değil.": "Sie müssen nicht vorher anrufen ifadesi zorunluluğu kaldırır. İzin yasağı olsaydı nicht dürfen kullanılırdı.",
+        "Araması yasak.": "Bu seçenek hedeflenen anlamı veya yapıyı karşılamıyor. Sie müssen nicht vorher anrufen ifadesi zorunluluğu kaldırır. İzin yasağı olsaydı nicht dürfen kullanılırdı.",
+        "Mutlaka araması gerekiyor.": "Cümleyi şu ölçütle yeniden incele: Nicht müssen = zorunlu değil. Sie müssen nicht vorher anrufen ifadesi zorunluluğu kaldırır. İzin yasağı olsaydı nicht dürfen kullanılırdı."
+      },
+      "contextId": "a2-02-text-2"
+    }
+  ],
+  "studyPlan": {
+    "prerequisites": [
+      "A1 haben/sein ve kişi zamirleri",
+      "Basit soru yapısı, günler ve saatler",
+      "A2 ilk ünitedeki fiil çerçevesi ve zaman ögeleri"
+    ],
+    "objectives": [
+      "30 kelime ve ifadeyi randevu bağlamında tanımak",
+      "Haben ve wehtun ile kısa şikâyet cümleleri kurmak",
+      "Seit ile devam eden süreyi anlatmak",
+      "Müssen, sollen ve dürfen anlamlarını ayırmak",
+      "İptal ve erteleme konuşmasını anlayıp gün ve saati doğrulamak"
+    ],
+    "sessions": [
+      {
+        "title": "1. oturum · Konuyu adım adım öğren",
+        "description": "1–7. açıklamaları ve tabloları incele. Örnek cümlelerin Türkçe karşılığını kendi sözlerinle açıkla. İlerlemen kaydedilir; aynı gün bitirmek zorunda değilsin."
+      },
+      {
+        "title": "2. oturum · Bağlam içinde uygula",
+        "description": "8–14. açıklamaları ve iki metni çalış. Ardından 24 açıklamalı örneği inceleyip 20 yönlendirmeli soruyu çöz. Hatalı denemede açıklamayı okuyarak yeniden deneyebilirsin."
+      },
+      {
+        "title": "3. oturum · Bağımsız çalış ve tekrar et",
+        "description": "60 bağımsız soruyu çöz. Hatalarını ayrı tekrar bölümünde düzelt, özeti oku ve isteğe bağlı yazma kontrol listesini uygula. Serbest yazma otomatik notlandırılmaz."
+      }
+    ]
+  },
+  "summary": {
+    "takeaways": [
+      "Şikâyet ismiyle haben, krank sıfatıyla sein kullan.",
+      "Tekil bölge tut weh; çoğul bölge tun weh alır.",
+      "Seit Dativ ister; devam eden örneklerde Präsens kullanılır.",
+      "Müssen zorunluluk, sollen aktarılan talimat, dürfen izin bildirir.",
+      "Nicht müssen zorunluluk yokluğudur; nicht dürfen izin yokluğudur.",
+      "Modal fiil çekilir, asıl eylem mastarı sona gider.",
+      "Am gün; um saat içindir. Son doğrulanan zamanı not et.",
+      "Zu Dativ alır: zum Arzt, zur Ärztin. Bei dem → beim.",
+      "Absagen iptal, verschieben başka zamana almaktır.",
+      "Könnten Sie ...? ile tekrar veya daha yavaş konuşma iste."
+    ],
+    "vocabulary": [
+      {
+        "de": "der Termin",
+        "tr": "randevu"
+      },
+      {
+        "de": "der Arzt",
+        "tr": "erkek doktor; doktor"
+      },
+      {
+        "de": "die Ärztin",
+        "tr": "kadın doktor"
+      },
+      {
+        "de": "die Praxis",
+        "tr": "muayenehane"
+      },
+      {
+        "de": "die Sprechstunde",
+        "tr": "muayene saatleri; görüşme saati"
+      },
+      {
+        "de": "das Wartezimmer",
+        "tr": "bekleme odası"
+      },
+      {
+        "de": "das Rezept",
+        "tr": "reçete"
+      },
+      {
+        "de": "die Apotheke",
+        "tr": "eczane"
+      },
+      {
+        "de": "die Versichertenkarte",
+        "tr": "sigortalı kartı"
+      },
+      {
+        "de": "die Untersuchung",
+        "tr": "muayene; inceleme"
+      },
+      {
+        "de": "die Beschwerde",
+        "tr": "şikâyet; rahatsızlık belirtisi"
+      },
+      {
+        "de": "die Kopfschmerzen",
+        "tr": "baş ağrısı"
+      },
+      {
+        "de": "der Husten",
+        "tr": "öksürük"
+      },
+      {
+        "de": "der Schnupfen",
+        "tr": "nezle; burun akıntısı"
+      },
+      {
+        "de": "das Fieber",
+        "tr": "ateş"
+      },
+      {
+        "de": "die Halsschmerzen",
+        "tr": "boğaz ağrısı"
+      },
+      {
+        "de": "der Rücken",
+        "tr": "sırt"
+      },
+      {
+        "de": "der Zahn",
+        "tr": "diş"
+      },
+      {
+        "de": "die Tablette",
+        "tr": "tablet; hap"
+      },
+      {
+        "de": "der Tropfen",
+        "tr": "damla"
+      },
+      {
+        "de": "die Überweisung",
+        "tr": "sevk belgesi; yönlendirme"
+      },
+      {
+        "de": "die Krankschreibung",
+        "tr": "hastalık raporu"
+      },
+      {
+        "de": "absagen",
+        "tr": "iptal etmek"
+      },
+      {
+        "de": "verschieben",
+        "tr": "başka zamana almak; ertelemek"
+      },
+      {
+        "de": "vereinbaren",
+        "tr": "kararlaştırmak; randevu ayarlamak"
+      },
+      {
+        "de": "einnehmen",
+        "tr": "almak; ilaç almak"
+      },
+      {
+        "de": "sollen",
+        "tr": "talimat veya beklenti bildirmek; yapması söylenmek"
+      },
+      {
+        "de": "dürfen",
+        "tr": "izinli olmak"
+      },
+      {
+        "de": "wehtun",
+        "tr": "ağrımak; acıtmak"
+      },
+      {
+        "de": "seit",
+        "tr": "-den beri; -dir"
+      }
+    ],
+    "mistakes": [
+      "Seit iki günlük süreyi Dativ yapar: Tagen.",
+      "Tekil Rücken için tut gerekir.",
+      "Çoğul Zähne için tun gerekir.",
+      "Möchte ardından mastar vereinbaren kullan.",
+      "Zaman başta olduğunda fiil ikinci ögede kalır.",
+      "Zu der birleşimi zur olur.",
+      "Saat için um kullanılır.",
+      "Rezept nötrdür; Akkusativ ein olur."
+    ],
+    "examples": [
+      "Ich möchte einen Termin vereinbaren.",
+      "Ich habe seit zwei Tagen Husten.",
+      "Mein Rücken tut weh."
+    ],
+    "writingChecklist": [
+      "Hayalî kişilerle sekiz kısa konuşma sırası yaz; özel sağlık bilgisi paylaşman gerekmez.",
+      "Bir randevu isteği, bir zaman doğrulaması ve bir değişiklik ekle.",
+      "Seit içeren bir kurgusal cümlede süre hâlini kontrol et.",
+      "Bir izin sorusu ve bir kibar tekrar ricası kullan.",
+      "Her modal fiilin çekimini ve sona gelen mastarı denetle.",
+      "Serbest yazı otomatik puanlanmaz; ders bir sağlık değerlendirmesi sunmaz."
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "a1-01-words-example-1": {
+    "url": "/audio/courses/a1-01-words-example-1.wav",
+    "duration": 1.497687074829932,
+    "sha256": "aa537409f50721cfa02befc253d16c4b0699135ac24096304f3305c54b65e422"
+  },
+  "a1-01-words-example-2": {
+    "url": "/audio/courses/a1-01-words-example-2.wav",
+    "duration": 1.7066666666666668,
+    "sha256": "61d67f8978b59fdb595f194d97f1441dd46b5c8f1ea26a2499641a0e1b13d85f"
+  },
+  "a1-01-words-example-3": {
+    "url": "/audio/courses/a1-01-words-example-3.wav",
+    "duration": 1.1261678004535147,
+    "sha256": "d6e95bb3ab998cc87ef9f873bcca49ea44febb638d2da668389bf3e57ad1ab20"
+  },
+  "a1-01-words-example-4": {
+    "url": "/audio/courses/a1-01-words-example-4.wav",
+    "duration": 0.8359183673469388,
+    "sha256": "6761e02ab748bb423d24776c37f14aae996e9c214cbb71a4bc6f6b4eb4da8622"
+  },
+  "a1-01-words-example-5": {
+    "url": "/audio/courses/a1-01-words-example-5.wav",
+    "duration": 1.6834467120181407,
+    "sha256": "915183868c817572c9fc6811fae1dc1bb6f53b314025734384be1541008b9ff7"
+  },
+  "a1-01-words-example-6": {
+    "url": "/audio/courses/a1-01-words-example-6.wav",
+    "duration": 1.7647165532879818,
+    "sha256": "c586cfded2b330ed476abe5a370666496cc33a3d3766971cf8324ddc06d66163"
+  },
+  "a1-01-words-example-7": {
+    "url": "/audio/courses/a1-01-words-example-7.wav",
+    "duration": 1.0332879818594105,
+    "sha256": "7566512da1a4cd6ad7b83bcf4cb89951123737f857c1a6ed0ec53a00ac4de8bf"
+  },
+  "a1-01-words-example-8": {
+    "url": "/audio/courses/a1-01-words-example-8.wav",
+    "duration": 1.1145578231292517,
+    "sha256": "6d56cc024c4a53418947716291676116a1bb036a926033188b5c4277d62f0f47"
+  },
+  "a1-01-words-example-9": {
+    "url": "/audio/courses/a1-01-words-example-9.wav",
+    "duration": 0.9868480725623583,
+    "sha256": "87db12b814286814f13934aa5f067d4cc65cadb9dff9f71016919fc605d47e7f"
+  },
+  "a1-01-words-example-10": {
+    "url": "/audio/courses/a1-01-words-example-10.wav",
+    "duration": 1.242267573696145,
+    "sha256": "1b263293a6702f018b4acd1cc8236a9c57b0048cfd36fcdc8223d7b72244536f"
+  },
+  "a1-01-words-example-11": {
+    "url": "/audio/courses/a1-01-words-example-11.wav",
+    "duration": 2.10140589569161,
+    "sha256": "ad886bbf99ca2a0d74b0228e288a337babdab90308da9bf7ce7434585d6540cc"
+  },
+  "a1-01-words-example-12": {
+    "url": "/audio/courses/a1-01-words-example-12.wav",
+    "duration": 2.48453514739229,
+    "sha256": "9eadf6be9ac32df5d658a5060235e1376f4deabd457fe87a3bab5d356c8dc10a"
+  },
+  "a1-01-words-example-13": {
+    "url": "/audio/courses/a1-01-words-example-13.wav",
+    "duration": 1.474467120181406,
+    "sha256": "161d3a5a2a8ae6a4fc9417b172103b384dcf00933f45b1bc809cd6eb5ac04e7b"
+  },
+  "a1-01-words-example-14": {
+    "url": "/audio/courses/a1-01-words-example-14.wav",
+    "duration": 1.6253968253968254,
+    "sha256": "545dc26c376d7fc4a8d5c22cb4a82fa4ee8caac5e0ac1b688d2d961ad4378370"
+  },
+  "a1-02-words-example-1": {
+    "url": "/audio/courses/a1-02-words-example-1.wav",
+    "duration": 1.0565079365079366,
+    "sha256": "d35e778d3fb12d3e1b10f966fe103cca5bb84087d6ad71e7f5ca15aae7d44015"
+  },
+  "a1-02-words-example-2": {
+    "url": "/audio/courses/a1-02-words-example-2.wav",
+    "duration": 0.9752380952380952,
+    "sha256": "2056a0049b372c6dc008eebc14e19d32f5c6894de660e81835b9453318c2a62c"
+  },
+  "a1-02-words-example-3": {
+    "url": "/audio/courses/a1-02-words-example-3.wav",
+    "duration": 1.3003174603174603,
+    "sha256": "239dc9b2ac32e22dba781a7b985a555d329fd1f8178606970c51dacf7238dd89"
+  },
+  "a1-02-words-example-4": {
+    "url": "/audio/courses/a1-02-words-example-4.wav",
+    "duration": 1.6253968253968254,
+    "sha256": "f86dd6185aa6c357ebfbfaf08a4bafd71df4ed3a872df9c6508f2ec1f22914d0"
+  },
+  "a1-02-words-example-5": {
+    "url": "/audio/courses/a1-02-words-example-5.wav",
+    "duration": 1.2654875283446712,
+    "sha256": "efa1916ee00fde9a6c173c2737e98a9b9b69d0740f3f8cdd2580bfb60702157d"
+  },
+  "a1-02-words-example-6": {
+    "url": "/audio/courses/a1-02-words-example-6.wav",
+    "duration": 1.787936507936508,
+    "sha256": "5877a86d045a5fe1589bf4724c95a562d55a4b6c635614ce32aada2a11e51441"
+  },
+  "a1-02-words-example-7": {
+    "url": "/audio/courses/a1-02-words-example-7.wav",
+    "duration": 1.1145578231292517,
+    "sha256": "782ef27149d899981d213139b691e689e9d687e700930dccbae97f55299b3dd3"
+  },
+  "a1-02-words-example-8": {
+    "url": "/audio/courses/a1-02-words-example-8.wav",
+    "duration": 1.6021768707482993,
+    "sha256": "3cff0dd08666255ee4acef7b71fe08081a7f294f4291e9f6d64aa0fd7d6cf946"
+  },
+  "a1-02-words-example-9": {
+    "url": "/audio/courses/a1-02-words-example-9.wav",
+    "duration": 1.5325170068027212,
+    "sha256": "5626862d3c3ad7f7a8fb020cc93b59c01607a72974bb071b0e9d7668face4882"
+  },
+  "a1-02-words-example-10": {
+    "url": "/audio/courses/a1-02-words-example-10.wav",
+    "duration": 1.4396371882086167,
+    "sha256": "6c6468508a7030067ec30de8c2429ec3afcb553ccd6c9dddb12ce64ea00fcf7e"
+  },
+  "a1-02-words-example-11": {
+    "url": "/audio/courses/a1-02-words-example-11.wav",
+    "duration": 1.2654875283446712,
+    "sha256": "c6d3b075d3b81794781e748b66fe826b8dab19f3ce66344b85446fad517c3725"
+  },
+  "a1-02-words-example-12": {
+    "url": "/audio/courses/a1-02-words-example-12.wav",
+    "duration": 1.1261678004535147,
+    "sha256": "9fa2300f786cfc86d38db82e89de2dad6396b44e2bc179e33146cace5bd31f40"
+  },
+  "a1-02-words-example-13": {
+    "url": "/audio/courses/a1-02-words-example-13.wav",
+    "duration": 1.3815873015873017,
+    "sha256": "bda2610fe26d7a9efd1ad4d5b22397eaad2f8f6c04a111f597659194238811ea"
+  }
+}

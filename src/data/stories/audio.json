@@ -1,0 +1,958 @@
+{
+  "version": 1,
+  "engine": "piper-tts 1.8.0",
+  "voice": "de_DE-thorsten-medium",
+  "modelSha256": "7e64762d8e5118bb578f2eea6207e1a35a8e0c30595010b666f983fc87bb7819",
+  "scenes": {
+    "story-cafe:start": {
+      "full": {
+        "url": "/audio/stories/story-cafe-start.wav",
+        "duration": 4.721541950113378,
+        "sha256": "f15e37289c26ecb597d3b9f3d0c6cb1105db1bf9c7051923e6a776603913cfbf"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-cafe-start-0.wav",
+          "duration": 2.7631746031746034,
+          "sha256": "074d68bdc122c8e360e50941f667dc6a7d2bd8f035d07d7787b8c45cf1cc29b5"
+        },
+        {
+          "url": "/audio/stories/story-cafe-start-1.wav",
+          "duration": 1.3583673469387756,
+          "sha256": "322e2f3a533124ed6a1cc57894eb2d5398fba6e23304ecbc77830779061a1ff0"
+        }
+      ]
+    },
+    "story-cafe:tea": {
+      "full": {
+        "url": "/audio/stories/story-cafe-tea.wav",
+        "duration": 5.766439909297052,
+        "sha256": "59c8d04d8d9f6c65bee7d481dfc63efadc1cff2668aa873eba1ef39f44f6b826"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-cafe-tea-0.wav",
+          "duration": 2.9257142857142857,
+          "sha256": "d47737f85c3c2962a4818e4d63737442b0935d8a6c3f3062453677bce150a066"
+        },
+        {
+          "url": "/audio/stories/story-cafe-tea-1.wav",
+          "duration": 2.2407256235827666,
+          "sha256": "b4f04d73146c7dccfd3bc6089572fe4b03084c8891022b735f9801bad1933014"
+        }
+      ]
+    },
+    "story-cafe:coffee": {
+      "full": {
+        "url": "/audio/stories/story-cafe-coffee.wav",
+        "duration": 6.648798185941043,
+        "sha256": "769b8e2a45092b0f74c405c86130142361c3c75c9f5b980b4115fe34f4ab2ba9"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-cafe-coffee-0.wav",
+          "duration": 3.274013605442177,
+          "sha256": "a5f791923c8969d5a340358850d8d3905d721fda7729234f32559ff1bdc06f35"
+        },
+        {
+          "url": "/audio/stories/story-cafe-coffee-1.wav",
+          "duration": 2.7747845804988662,
+          "sha256": "0459b9bfb420cda01e644f4558ba68a702efac649197142764c75d934fc0b599"
+        }
+      ]
+    },
+    "story-cafe:friends": {
+      "full": {
+        "url": "/audio/stories/story-cafe-friends.wav",
+        "duration": 4.767981859410431,
+        "sha256": "6ba57fbfdfa9831ac75735215605f3d6147b0f019195b9752126d5e583f4555a"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-cafe-friends-0.wav",
+          "duration": 2.9837641723356008,
+          "sha256": "11a3b223c16e87cd614e172c5ded9a3f4d014f0c8d590e02c11cf46770bb675f"
+        },
+        {
+          "url": "/audio/stories/story-cafe-friends-1.wav",
+          "duration": 1.18421768707483,
+          "sha256": "a186b0d65c54d5ac499a2f7aa220e6d9a3e930279b24051bc41fc35a62f35aca"
+        }
+      ]
+    },
+    "story-cafe:book": {
+      "full": {
+        "url": "/audio/stories/story-cafe-book.wav",
+        "duration": 6.63718820861678,
+        "sha256": "35d61c3461967024fcc1545654ddf071b242778ccc3422f7e02b36ed90282fad"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-cafe-book-0.wav",
+          "duration": 3.250793650793651,
+          "sha256": "a5c629e9dd4c80fbef03aed2e66b079999d45b4603d12bf9d63280cb7a18ca85"
+        },
+        {
+          "url": "/audio/stories/story-cafe-book-1.wav",
+          "duration": 2.786394557823129,
+          "sha256": "c7789283bab1e8d10254f6775f37b89c1d7f5a993099db831c88049f191086bd"
+        }
+      ]
+    },
+    "story-cafe:music": {
+      "full": {
+        "url": "/audio/stories/story-cafe-music.wav",
+        "duration": 6.196009070294784,
+        "sha256": "b0799ff6b9f6f900393cfcb21bca4aa4f63ac44d5f6dc8304957d0eacb9545bd"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-cafe-music-0.wav",
+          "duration": 2.8444444444444446,
+          "sha256": "5c49e957a79e2c4ec21a0ae8c3cc6ea94d69403a4296ef06e7287321bcded030"
+        },
+        {
+          "url": "/audio/stories/story-cafe-music-1.wav",
+          "duration": 2.75156462585034,
+          "sha256": "3f2872e6e98cfe5c7297fefcf2418c2b28f34ec3cb7157a33a80bcea13d9f661"
+        }
+      ]
+    },
+    "story-cafe:drawing": {
+      "full": {
+        "url": "/audio/stories/story-cafe-drawing.wav",
+        "duration": 7.449886621315192,
+        "sha256": "89e8af63fa36f67b47a497e654861f378518de469a97f6daeca3a2b63e8d9ca7"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-cafe-drawing-0.wav",
+          "duration": 3.7151927437641725,
+          "sha256": "03a098901569bca3e2ad994446e32594e15ceb785bfc3ee2b67de7143fdf5478"
+        },
+        {
+          "url": "/audio/stories/story-cafe-drawing-1.wav",
+          "duration": 3.1346938775510202,
+          "sha256": "e4dec1fd6cd6c5461dbf8035fb71ea34dc65804243977e6792775a22308ed440"
+        }
+      ]
+    },
+    "story-geschenk:start": {
+      "full": {
+        "url": "/audio/stories/story-geschenk-start.wav",
+        "duration": 6.288888888888889,
+        "sha256": "49dc31bea319631d5f91811ce1684a15fffe19f77db78398121e1a03d0d37c0e"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-geschenk-start-0.wav",
+          "duration": 3.1579138321995464,
+          "sha256": "9ddefe08be83c628f5fa307e245d58e7a67fb6b266a0fb1f957a237ebabd9902"
+        },
+        {
+          "url": "/audio/stories/story-geschenk-start-1.wav",
+          "duration": 2.5309750566893423,
+          "sha256": "d4c9101b31d7571f950ac127ded776177dc6092139b65b328be25d0459a649aa"
+        }
+      ]
+    },
+    "story-geschenk:bag": {
+      "full": {
+        "url": "/audio/stories/story-geschenk-bag.wav",
+        "duration": 7.461496598639456,
+        "sha256": "0021e4c3a391b33bd5b40add0f9f1e610aa2af91e5a297a63f1475496fbb11a9"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-geschenk-bag-0.wav",
+          "duration": 3.982222222222222,
+          "sha256": "1b4acc3024c3133b14a7e537d8800a2393137b5c97a35d1818354112a16ea555"
+        },
+        {
+          "url": "/audio/stories/story-geschenk-bag-1.wav",
+          "duration": 2.8792743764172335,
+          "sha256": "6455ee5dcad6d1759e2f956d323808a13246716cb2410ec66a156a79f36902b6"
+        }
+      ]
+    },
+    "story-geschenk:bakery": {
+      "full": {
+        "url": "/audio/stories/story-geschenk-bakery.wav",
+        "duration": 6.9622675736961455,
+        "sha256": "97dbcc174143a3823af450d3803092212555809200edb132e85c3f122eaff806"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-geschenk-bakery-0.wav",
+          "duration": 3.4597732426303853,
+          "sha256": "40a63619fe929733d58d3b459318881593e46bf414bdce7158029783e28ea4d8"
+        },
+        {
+          "url": "/audio/stories/story-geschenk-bakery-1.wav",
+          "duration": 2.9024943310657596,
+          "sha256": "73cfdcfcd1ea51065beafc44e550bbc3288ef680668ec810ca0556df52c7fac7"
+        }
+      ]
+    },
+    "story-geschenk:call": {
+      "full": {
+        "url": "/audio/stories/story-geschenk-call.wav",
+        "duration": 6.126349206349206,
+        "sha256": "86318f57345ac12b66bacd1f97ac24e85e6706eebce343444bae035bdec703b1"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-geschenk-call-0.wav",
+          "duration": 2.345215419501134,
+          "sha256": "d38acd66f616ed18ad3af8d9337147c5116201a761de2197a98a3820d0e9bb91"
+        },
+        {
+          "url": "/audio/stories/story-geschenk-call-1.wav",
+          "duration": 3.1811337868480725,
+          "sha256": "8dc8f5b3b433dbd1bcd0f07c3a79973846f636e3a01d75d283dabc0fbf8a16de"
+        }
+      ]
+    },
+    "story-geschenk:wait": {
+      "full": {
+        "url": "/audio/stories/story-geschenk-wait.wav",
+        "duration": 6.776507936507937,
+        "sha256": "c3cd265251e411fd3b03331137a38cf09847b468effb051b66eee131eaccec9d"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-geschenk-wait-0.wav",
+          "duration": 3.1695238095238096,
+          "sha256": "f7b9024e06907de30d23f3a6dc34d2a474316d8524ca4a56bea600680b32c97b"
+        },
+        {
+          "url": "/audio/stories/story-geschenk-wait-1.wav",
+          "duration": 3.006984126984127,
+          "sha256": "cf292bca4653f9bd653f42870e2039f3a66f02787124d1f3e2bf54c6648d1036"
+        }
+      ]
+    },
+    "story-geschenk:name": {
+      "full": {
+        "url": "/audio/stories/story-geschenk-name.wav",
+        "duration": 6.463038548752834,
+        "sha256": "40f238cc2363efb37ecc9e47205d806495bfa1c9b3ac26055cb919e19c84ddb5"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-geschenk-name-0.wav",
+          "duration": 3.0418140589569163,
+          "sha256": "6eb947cfffce44f87405c12bfc2571280565a415e6b10737f321ebbaeef9b778"
+        },
+        {
+          "url": "/audio/stories/story-geschenk-name-1.wav",
+          "duration": 2.8212244897959184,
+          "sha256": "f93a77396076b9ce55fba446187076721d17e0c23eba81db1f6ee3d4627dc52e"
+        }
+      ]
+    },
+    "story-geschenk:boy": {
+      "full": {
+        "url": "/audio/stories/story-geschenk-boy.wav",
+        "duration": 7.484716553287982,
+        "sha256": "9ede80697cc2b158dd0f863b18b000332b5920990f74f87a4fba56a8da5431f6"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-geschenk-boy-0.wav",
+          "duration": 4.562721088435374,
+          "sha256": "8fa8a1e8c0775e8a808320897c6a091a025b3e92466f55b081b0f99f79c18038"
+        },
+        {
+          "url": "/audio/stories/story-geschenk-boy-1.wav",
+          "duration": 2.3219954648526078,
+          "sha256": "bf8be8abf4a9cd262d0c51e59b8ef5c331280589b013192b0d0ae20831487766"
+        }
+      ]
+    },
+    "story-freund:start": {
+      "full": {
+        "url": "/audio/stories/story-freund-start.wav",
+        "duration": 6.207619047619048,
+        "sha256": "a775e0f678e8edf0f3e16944fe4c9a0c7ade9aebee0bf074120cefc4bc976eb7"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-freund-start-0.wav",
+          "duration": 3.3901133786848074,
+          "sha256": "d9c3ef03e77922d6b19a3f709e87f219bed309911b1f00e0bff6fccb458b3e2e"
+        },
+        {
+          "url": "/audio/stories/story-freund-start-1.wav",
+          "duration": 2.2175056689342405,
+          "sha256": "42eb8b7906dca0cf3a0d643ab9b0fbe34d2c7fda41fd48a1890950c6c8a40f7c"
+        }
+      ]
+    },
+    "story-freund:play": {
+      "full": {
+        "url": "/audio/stories/story-freund-play.wav",
+        "duration": 6.346938775510204,
+        "sha256": "84135a5e974c27734b4e30f7eddff887ff8bb24ff0d6837ebe7ca653923a70a8"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-freund-play-0.wav",
+          "duration": 2.8212244897959184,
+          "sha256": "fb87ea92074ad00cfcc08503de0b61e1c748056840e4a7edf7e003e6eb2ea432"
+        },
+        {
+          "url": "/audio/stories/story-freund-play-1.wav",
+          "duration": 2.9257142857142857,
+          "sha256": "cd3eddd76807842bfb9e439cb7d7a7c5ae9dbacad1e2657cea06558362865d05"
+        }
+      ]
+    },
+    "story-freund:art": {
+      "full": {
+        "url": "/audio/stories/story-freund-art.wav",
+        "duration": 6.126349206349206,
+        "sha256": "9e89c0759f2edfac05c94beb758cc8275b778c813b2a35ef861446035f58e322"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-freund-art-0.wav",
+          "duration": 3.030204081632653,
+          "sha256": "b39f6547a5960d225c341d503889b11e9e1e33cc1a37a7349fb53d29a555f083"
+        },
+        {
+          "url": "/audio/stories/story-freund-art-1.wav",
+          "duration": 2.4961451247165534,
+          "sha256": "5974bc5c01460ce89c1d856391f25520ad273c96d7b953d96e916d9e55e21f28"
+        }
+      ]
+    },
+    "story-freund:team": {
+      "full": {
+        "url": "/audio/stories/story-freund-team.wav",
+        "duration": 6.0566893424036286,
+        "sha256": "72e4dc8247920682f446ce0feb27c2662b7a42895d4a34a49a2e8a7b80e1500c"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-freund-team-0.wav",
+          "duration": 2.8676643990929707,
+          "sha256": "fd97ac284bc1d9d240622e208ab42f527740cf4954db32b82df859b95b6e10b0"
+        },
+        {
+          "url": "/audio/stories/story-freund-team-1.wav",
+          "duration": 2.589024943310658,
+          "sha256": "4861c36d68c0f6cf439a46ce7ab1e7b8f98c5414641c10ae21cebaecb38e9904"
+        }
+      ]
+    },
+    "story-freund:walk": {
+      "full": {
+        "url": "/audio/stories/story-freund-walk.wav",
+        "duration": 7.43827664399093,
+        "sha256": "34442feb60d27e246e74fcefc4a52df6ed0ab01f5fba0dda9e2b78fad271710b"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-freund-walk-0.wav",
+          "duration": 3.4133333333333336,
+          "sha256": "414a23bbe57cd0b72ba70b16d097e2651e39c018e16ebbc18d8496919ee7d03c"
+        },
+        {
+          "url": "/audio/stories/story-freund-walk-1.wav",
+          "duration": 3.4249433106575964,
+          "sha256": "ddcf71733f403c3c8377963b4fb24911ca07d7a207a9be97e69fb5d1ea6f3941"
+        }
+      ]
+    },
+    "story-freund:flower": {
+      "full": {
+        "url": "/audio/stories/story-freund-flower.wav",
+        "duration": 7.565986394557823,
+        "sha256": "8e031a074bb68390cce45efd6b0e659a8c014bab7f80550464bfd11e3d42319d"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-freund-flower-0.wav",
+          "duration": 3.7500226757369615,
+          "sha256": "cd1fc9f32b8db0b6d1a5b66b64017d048e88faa0143049a6bf1bac2412eb65f6"
+        },
+        {
+          "url": "/audio/stories/story-freund-flower-1.wav",
+          "duration": 3.215963718820862,
+          "sha256": "5baaf0828a0a9f428964b1af0fe4bacccb6a5e19154531a1fe7b3870f7a32fd1"
+        }
+      ]
+    },
+    "story-freund:dog": {
+      "full": {
+        "url": "/audio/stories/story-freund-dog.wav",
+        "duration": 6.90421768707483,
+        "sha256": "3e2d025f500b50e4868fbb857b71bff517458651d314029ac54aed8de96a9128"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-freund-dog-0.wav",
+          "duration": 2.995374149659864,
+          "sha256": "b117a9576e315c62533ecec7a9e2c4a167dbf5c8150ebbab7f16c381e0d887f8"
+        },
+        {
+          "url": "/audio/stories/story-freund-dog-1.wav",
+          "duration": 3.308843537414966,
+          "sha256": "919a903b294e786affadba77919d18725dad0b82f49216f2ea508e99dca12770"
+        }
+      ]
+    },
+    "story-garten:start": {
+      "full": {
+        "url": "/audio/stories/story-garten-start.wav",
+        "duration": 6.927437641723356,
+        "sha256": "8793d640218d3c0dc7adb821334e6b7a9f7d37426e6d0c3fcec199d9ddfdac07"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-garten-start-0.wav",
+          "duration": 3.657142857142857,
+          "sha256": "71df2361d73f3528ed55ccbeedc0b4a3e267b21646b7dad1ff002aae3969c683"
+        },
+        {
+          "url": "/audio/stories/story-garten-start-1.wav",
+          "duration": 2.670294784580499,
+          "sha256": "f37eac2cdd9cc018506c655f237506c931b2aa425e8defad02c3d3d926b5866f"
+        }
+      ]
+    },
+    "story-garten:key": {
+      "full": {
+        "url": "/audio/stories/story-garten-key.wav",
+        "duration": 8.35546485260771,
+        "sha256": "018f5d690dba1a684f80b9cb3c9565ea9559cd1d292008a721cdf9fcb8afa273"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-garten-key-0.wav",
+          "duration": 4.771700680272109,
+          "sha256": "da82df1e3bc36ef88ab92b35ed5b031715e6c262a9d1c73beed22d7c2d7f05c4"
+        },
+        {
+          "url": "/audio/stories/story-garten-key-1.wav",
+          "duration": 2.9837641723356008,
+          "sha256": "763489658912c2467ff28a593d7f53f92fb43422032b7804be3e18708b8fbd6b"
+        }
+      ]
+    },
+    "story-garten:voice": {
+      "full": {
+        "url": "/audio/stories/story-garten-voice.wav",
+        "duration": 5.87092970521542,
+        "sha256": "43ddd24653dface50b2ef63b1e305871f98480c0ebccf3f0f770f6c084879e7d"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-garten-voice-0.wav",
+          "duration": 2.9024943310657596,
+          "sha256": "0e0a4dee914c07cf84a051c3349edb069a2c38dcb369dbda4dd047641924fe15"
+        },
+        {
+          "url": "/audio/stories/story-garten-voice-1.wav",
+          "duration": 2.36843537414966,
+          "sha256": "8e208a1072bfe25d2d6bf2fb6a77a3bb70dd042abe7067ece46aac0bde80d674"
+        }
+      ]
+    },
+    "story-garten:blue": {
+      "full": {
+        "url": "/audio/stories/story-garten-blue.wav",
+        "duration": 7.9491156462585035,
+        "sha256": "d57fc0c188d9c652538d01aeef7f158648fac9eecb60843a0e48b5b3e0909197"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-garten-blue-0.wav",
+          "duration": 4.051882086167801,
+          "sha256": "48ae1fa2971a54713da2b6a3df46dd826bfa4060d0e2dde52c98e052defbb84a"
+        },
+        {
+          "url": "/audio/stories/story-garten-blue-1.wav",
+          "duration": 3.297233560090703,
+          "sha256": "c292f0b0a125fc57b10ef856bf606ae49b859d22f4b3b54d9afc9901a39ee0c0"
+        }
+      ]
+    },
+    "story-garten:green": {
+      "full": {
+        "url": "/audio/stories/story-garten-green.wav",
+        "duration": 7.693696145124717,
+        "sha256": "0418ff676ad84bc362a0ecdf594a3ed5350919dca8803de64788a4011d50245a"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-garten-green-0.wav",
+          "duration": 4.005442176870749,
+          "sha256": "bb6686dfe996acae887fee3f3f8eaba40115cc1c24ae0fdbb2a33123aca88b33"
+        },
+        {
+          "url": "/audio/stories/story-garten-green-1.wav",
+          "duration": 3.0882539682539685,
+          "sha256": "a8f1ea79f58451a9d2ceb8dc0a250da232b291f4bc629cd5d34ba3b0cc362d4e"
+        }
+      ]
+    },
+    "story-garten:water": {
+      "full": {
+        "url": "/audio/stories/story-garten-water.wav",
+        "duration": 7.310566893424037,
+        "sha256": "ddac07c557e812fe71e7a1175f84f1b23c7a9cea2f50befd62883c6ace1c1b49"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-garten-water-0.wav",
+          "duration": 3.3901133786848074,
+          "sha256": "73607f199181ec12ff884eed85109c65890c039cf9e9dcfeb2c281a69e3ead39"
+        },
+        {
+          "url": "/audio/stories/story-garten-water-1.wav",
+          "duration": 3.320453514739229,
+          "sha256": "3a986d2417587bc7d265fe96b275dd780d342ed5a9e060eac6fa6978f69f2043"
+        }
+      ]
+    },
+    "story-garten:song": {
+      "full": {
+        "url": "/audio/stories/story-garten-song.wav",
+        "duration": 6.52108843537415,
+        "sha256": "6e4a9a247514c335f9231121a05704725b2242c0bddf0b720365f7f5f420b5ff"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-garten-song-0.wav",
+          "duration": 3.215963718820862,
+          "sha256": "fe7da1bb967e837206cd71fe24d3c04e850fdb154b5920cd69eb576353ae5f64"
+        },
+        {
+          "url": "/audio/stories/story-garten-song-1.wav",
+          "duration": 2.705124716553288,
+          "sha256": "2877b74e852a4beda28fe942ee5ec45c2977772f6907d3917ebc1699737add24"
+        }
+      ]
+    },
+    "story-zug:start": {
+      "full": {
+        "url": "/audio/stories/story-zug-start.wav",
+        "duration": 10.340770975056689,
+        "sha256": "64ef1d970841e064c697e3102e72ac646e2d4931030abb284a5b400a3a04b123"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-zug-start-0.wav",
+          "duration": 4.35374149659864,
+          "sha256": "3ed1ba6ce6178698778d4e0bdaa39bec5750d4f8ed96b126d509bf16c0d97875"
+        },
+        {
+          "url": "/audio/stories/story-zug-start-1.wav",
+          "duration": 5.38702947845805,
+          "sha256": "42a8375bf22b33e5236529263b9de5848d14148639e23630ecf8712fd956ddae"
+        }
+      ]
+    },
+    "story-zug:help": {
+      "full": {
+        "url": "/audio/stories/story-zug-help.wav",
+        "duration": 7.565986394557823,
+        "sha256": "849bdc8a81895717e3968daa1e7577f21e6bf859b00ddbf56d8798f1ff91ed8b"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-zug-help-0.wav",
+          "duration": 3.657142857142857,
+          "sha256": "bb6fe429e4b328b356008d26a26934ba9760630a4953f4c0e6a1e0b371442322"
+        },
+        {
+          "url": "/audio/stories/story-zug-help-1.wav",
+          "duration": 3.308843537414966,
+          "sha256": "e3efb2e652c337b81f4f789f11e177b92b613ca72d4de1377c2ecf01163893a9"
+        }
+      ]
+    },
+    "story-zug:route": {
+      "full": {
+        "url": "/audio/stories/story-zug-route.wav",
+        "duration": 9.017233560090704,
+        "sha256": "e2e247376cd0544d487e9a860b3bbfac18bc4a8f3ca805ae299302447b7c20c1"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-zug-route-0.wav",
+          "duration": 5.23609977324263,
+          "sha256": "2fda81c16237ec43a9387cb5f3da0dc55bce8f2305540e897376a47c86939bf8"
+        },
+        {
+          "url": "/audio/stories/story-zug-route-1.wav",
+          "duration": 3.1811337868480725,
+          "sha256": "08cb937e0e367c66b7b3aaef7eea36c280b3498883181976a98f8bc420af8e49"
+        }
+      ]
+    },
+    "story-zug:platform": {
+      "full": {
+        "url": "/audio/stories/story-zug-platform.wav",
+        "duration": 9.319092970521542,
+        "sha256": "3f66ffd0dfc0eed452d9f7330b48d1ba4759094f36c84bb789903b97a214044e"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-zug-platform-0.wav",
+          "duration": 4.85297052154195,
+          "sha256": "26d69d68d01fd5db0cb5f06697088b118e220dbbf5e18764ad20c71c9abdd605"
+        },
+        {
+          "url": "/audio/stories/story-zug-platform-1.wav",
+          "duration": 3.866122448979592,
+          "sha256": "5d86ae8f6ebdb38f225fbfc7c81d2c66a8da06cdc821b9fda981cacbf9c4eb87"
+        }
+      ]
+    },
+    "story-zug:note": {
+      "full": {
+        "url": "/audio/stories/story-zug-note.wav",
+        "duration": 8.761814058956917,
+        "sha256": "56b8e1a67a7d5ea5101f71b53a3e21ea622530b73afe210a892242cad3a262b3"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-zug-note-0.wav",
+          "duration": 4.702040816326531,
+          "sha256": "68b7cf864bf9fa703f4066dd6aef06b215e4c8981c5e2a9500b476e3eae1c390"
+        },
+        {
+          "url": "/audio/stories/story-zug-note-1.wav",
+          "duration": 3.4597732426303853,
+          "sha256": "98f47959db8cd96b725df52b0fef835bb2d0ef05ea1c84c46276a14de64fd811"
+        }
+      ]
+    },
+    "story-zug:river": {
+      "full": {
+        "url": "/audio/stories/story-zug-river.wav",
+        "duration": 9.179773242630386,
+        "sha256": "774c7d3dffcab86d8f36a7fc792a06a1cd077250144585ce41f86bd8f71414e0"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-zug-river-0.wav",
+          "duration": 5.108390022675737,
+          "sha256": "b2004492b7ac05cfd00241c803374cea3629a123f12363a2a29f57a1112939be"
+        },
+        {
+          "url": "/audio/stories/story-zug-river-1.wav",
+          "duration": 3.4713832199546486,
+          "sha256": "0b9e245bcdebab02135dbc77e83fe63d608f0136b7aa6a90e051e079aa690caa"
+        }
+      ]
+    },
+    "story-zug:fast": {
+      "full": {
+        "url": "/audio/stories/story-zug-fast.wav",
+        "duration": 8.85469387755102,
+        "sha256": "8435973827399b039c41109bbb954bb819a87bd748ee905693b449b78276c53d"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-zug-fast-0.wav",
+          "duration": 3.564263038548753,
+          "sha256": "81bda2192854abf8217f8daf23526972d22a91ea469bbbb29db5c54296aa7a81"
+        },
+        {
+          "url": "/audio/stories/story-zug-fast-1.wav",
+          "duration": 4.690430839002268,
+          "sha256": "f0fe8a247b3654cc74781945b4fbb6fb8e207b110ba66a8cd66763bfc4257257"
+        }
+      ]
+    },
+    "story-nachbarn:start": {
+      "full": {
+        "url": "/audio/stories/story-nachbarn-start.wav",
+        "duration": 9.516462585034013,
+        "sha256": "688c156a3eceb6df0e20ea8a19e0876ef5adc8ea4480c97a0754bd39d710f8f1"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-nachbarn-start-0.wav",
+          "duration": 5.282539682539682,
+          "sha256": "1f798ec790cad221725a0fd4f2474d873f0403c347d2ed505c20ff9fe900f1c1"
+        },
+        {
+          "url": "/audio/stories/story-nachbarn-start-1.wav",
+          "duration": 3.633922902494331,
+          "sha256": "3293e49d66cb9d3900671dc2a8a0409fd623393939732ae3ce00db9e604f4ec1"
+        }
+      ]
+    },
+    "story-nachbarn:help": {
+      "full": {
+        "url": "/audio/stories/story-nachbarn-help.wav",
+        "duration": 9.53968253968254,
+        "sha256": "2ff86f8cae649cc69c1e8f478be54a2a968e97a41c90f6064b363d1899de9448"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-nachbarn-help-0.wav",
+          "duration": 5.131609977324263,
+          "sha256": "cd801dd0e4d3279358fd394cfa69d3c16a57285a45cd2a4f0cfa0d17d8f4b3a7"
+        },
+        {
+          "url": "/audio/stories/story-nachbarn-help-1.wav",
+          "duration": 3.8080725623582765,
+          "sha256": "ff21b6eca07a8284e6044f0c6d5ab4c5e50bd628f7f4ec840bbedd6347dde4d0"
+        }
+      ]
+    },
+    "story-nachbarn:party": {
+      "full": {
+        "url": "/audio/stories/story-nachbarn-party.wav",
+        "duration": 9.470022675736962,
+        "sha256": "2b500bf774862a154dd203d486050c0ca9b828e4c117edaefd4076178cac1206"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-nachbarn-party-0.wav",
+          "duration": 5.5147392290249435,
+          "sha256": "7ac259efa9552cf762e59738d4e81b32126f0fc3dc953f9c7a4f26211a02afc2"
+        },
+        {
+          "url": "/audio/stories/story-nachbarn-party-1.wav",
+          "duration": 3.355283446712018,
+          "sha256": "1045b4ed25082cb902ae7ba6c4479d07956210cff0539c6e3c87747a24e6e290"
+        }
+      ]
+    },
+    "story-nachbarn:book": {
+      "full": {
+        "url": "/audio/stories/story-nachbarn-book.wav",
+        "duration": 8.982403628117915,
+        "sha256": "98700aa56e38e5fa5136657c89f6715f3008884241875a4d7153f4d54b05f814"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-nachbarn-book-0.wav",
+          "duration": 4.493061224489796,
+          "sha256": "eb0b2f2bb90a148715ab4ccf19db1a6bd38e9568538a436b0059ee66d24ac807"
+        },
+        {
+          "url": "/audio/stories/story-nachbarn-book-1.wav",
+          "duration": 3.889342403628118,
+          "sha256": "4c08b8c0abf450c73c2218a48b21627f7d15484a66b41fbab191f9a0be2e6f01"
+        }
+      ]
+    },
+    "story-nachbarn:together": {
+      "full": {
+        "url": "/audio/stories/story-nachbarn-together.wav",
+        "duration": 9.35392290249433,
+        "sha256": "7edda6953dca2aabebada5186290a2de0a56255d3433d17ba54bf6ae809a3b84"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-nachbarn-together-0.wav",
+          "duration": 4.295691609977324,
+          "sha256": "713ea4ce528f54dc15ed5d4e86b30ecadac67c1ec56c94d53d67914134fcf6b2"
+        },
+        {
+          "url": "/audio/stories/story-nachbarn-together-1.wav",
+          "duration": 4.458231292517007,
+          "sha256": "e43a7b40129b229ae723a51b73f7cb858fcb081df04598f417ba56bf8b17c556"
+        }
+      ]
+    },
+    "story-nachbarn:cook": {
+      "full": {
+        "url": "/audio/stories/story-nachbarn-cook.wav",
+        "duration": 9.528072562358277,
+        "sha256": "f63c8adc17420dc2d767e78b27b85abd053a47fd072b8b19543c118f0f2a755e"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-nachbarn-cook-0.wav",
+          "duration": 4.702040816326531,
+          "sha256": "0ce2b889fca084ca6701ab76372a0d133b55d3076ef55fd74d31853234d5a490"
+        },
+        {
+          "url": "/audio/stories/story-nachbarn-cook-1.wav",
+          "duration": 4.2260317460317465,
+          "sha256": "ab4ea259e8195f919e04539b3f51bc1b462f452390528e703c400e960eeb6921"
+        }
+      ]
+    },
+    "story-nachbarn:game": {
+      "full": {
+        "url": "/audio/stories/story-nachbarn-game.wav",
+        "duration": 10.538140589569162,
+        "sha256": "3d17288fd93eb881d040b91a592bbc28a04db1cd3802a40a5622b3431510eacb"
+      },
+      "lines": [
+        {
+          "url": "/audio/stories/story-nachbarn-game-0.wav",
+          "duration": 5.224489795918367,
+          "sha256": "a7c96072eba1301ddf1920e20ea2765c19d52313730f314e7244156742198b81"
+        },
+        {
+          "url": "/audio/stories/story-nachbarn-game-1.wav",
+          "duration": 4.713650793650793,
+          "sha256": "2875820813094d680ef8287dcf60b2ebeb7283ef87311c9800946edc3218210b"
+        }
+      ]
+    }
+  },
+  "glossary": {
+    "glossary:Tee": {
+      "url": "/audio/stories/glossary-1.wav",
+      "duration": 0.7082086167800453,
+      "sha256": "f01b64763f42d1656e0b9815c030e7c038b7ecccca163772673e8f6bf1f1e3aa"
+    },
+    "glossary:Kaffee": {
+      "url": "/audio/stories/glossary-2.wav",
+      "duration": 0.8359183673469388,
+      "sha256": "f1216f96fd511c9922c1c0937e81df92abf06c253a08573008e714057c62c2c5"
+    },
+    "glossary:Sonne": {
+      "url": "/audio/stories/glossary-3.wav",
+      "duration": 0.8707482993197279,
+      "sha256": "ff10544744ea661a935472f7854ccd9673186918740389d843cca963cfdc6740"
+    },
+    "glossary:warm": {
+      "url": "/audio/stories/glossary-4.wav",
+      "duration": 0.6617687074829932,
+      "sha256": "0b307c3ca186b4d85fa46e18a12a4ff80e02cfdc70db128cd35e7e13146bbdab"
+    },
+    "glossary:gut": {
+      "url": "/audio/stories/glossary-5.wav",
+      "duration": 0.4527891156462585,
+      "sha256": "aacd6a7cef5c32134aec3a002bfa67907c849ea4432cb70cc6f973fecb45dec1"
+    },
+    "glossary:Frau": {
+      "url": "/audio/stories/glossary-6.wav",
+      "duration": 0.8823582766439909,
+      "sha256": "e3b0c7b3c4b032d3bf92688a6178e15ae6a88f657344cefc152c9e13a49ef7d8"
+    },
+    "glossary:Geschenk": {
+      "url": "/audio/stories/glossary-7.wav",
+      "duration": 1.0797278911564625,
+      "sha256": "5e8cc74430b13105fb0315ad38ea3de39f73e019d08376afb0e92756b90ea913"
+    },
+    "glossary:Tür": {
+      "url": "/audio/stories/glossary-8.wav",
+      "duration": 0.615328798185941,
+      "sha256": "a6daa77b484d25d3c17d10e27be6dd7b40e037bd681140475daa95460e6c44f7"
+    },
+    "glossary:rot": {
+      "url": "/audio/stories/glossary-9.wav",
+      "duration": 0.4179591836734694,
+      "sha256": "e44ccd43a4152b43fde443a3795deac4e444afab82fbd9317ae9dc3c47e8f1f6"
+    },
+    "glossary:Junge": {
+      "url": "/audio/stories/glossary-10.wav",
+      "duration": 0.6501587301587302,
+      "sha256": "e3b235d65d1071a9f51038fde325c6feefc1911c3fabc1036e69e6fa92067435"
+    },
+    "glossary:Kuchen": {
+      "url": "/audio/stories/glossary-11.wav",
+      "duration": 0.8243083900226758,
+      "sha256": "2a56d2fbeb213f09cdbd425eed4f54352f81977d4126f028c2775ca3336037b4"
+    },
+    "glossary:Heft": {
+      "url": "/audio/stories/glossary-12.wav",
+      "duration": 0.8707482993197279,
+      "sha256": "db75de6e31995a57cb65de898a89c082f75fe21986c18f74bf2bd0cdd6f18e91"
+    },
+    "glossary:Mädchen": {
+      "url": "/audio/stories/glossary-13.wav",
+      "duration": 1.1377777777777778,
+      "sha256": "4056f4e2eabafe8253c08e2ab3e38384bac61b925688e3093c8c29044b603aaf"
+    },
+    "glossary:Baum": {
+      "url": "/audio/stories/glossary-14.wav",
+      "duration": 0.7546485260770975,
+      "sha256": "98e90ac69c9be8d6e248a3e08e7ee4dff3ba09d88f6e9b6c4b5eb3f92e9d64ae"
+    },
+    "glossary:Hund": {
+      "url": "/audio/stories/glossary-15.wav",
+      "duration": 0.46439909297052157,
+      "sha256": "ccd11b26d1d2055010ee17e4820b2361701d68fd7fedb12a0256058897ebcc85"
+    },
+    "glossary:Stift": {
+      "url": "/audio/stories/glossary-16.wav",
+      "duration": 0.9404081632653061,
+      "sha256": "a703136b61de15880f1e57d22254e40e59aeaf67ada18fa13cf813b4103361ca"
+    },
+    "glossary:Abend": {
+      "url": "/audio/stories/glossary-17.wav",
+      "duration": 0.7314285714285714,
+      "sha256": "6a8e2470f0910acc41ba5f608737a5ded380aa064b24b73bb64d030ad5ae2b61"
+    },
+    "glossary:Fisch": {
+      "url": "/audio/stories/glossary-18.wav",
+      "duration": 0.626938775510204,
+      "sha256": "69041da77fcc9b9ca690615115bd6eea636142352072f32ad56d2bb9709d4218"
+    },
+    "glossary:gelb": {
+      "url": "/audio/stories/glossary-19.wav",
+      "duration": 0.5804988662131519,
+      "sha256": "290e4e4110e7e185b48c09ed9076d68d8bd16a253e81b3f9553aee71d88382be"
+    },
+    "glossary:blau": {
+      "url": "/audio/stories/glossary-20.wav",
+      "duration": 0.6617687074829932,
+      "sha256": "0ef8c4fd399bfedbe3dd7453406d49b9d7047b8f8720de5e355c838edf0f0dde"
+    },
+    "glossary:grün": {
+      "url": "/audio/stories/glossary-21.wav",
+      "duration": 0.7662585034013606,
+      "sha256": "5b9314cefa92bdda5b2504f7ca0bfc558b4fb2b2a29c77634758306fa06b160a"
+    },
+    "glossary:Hand": {
+      "url": "/audio/stories/glossary-22.wav",
+      "duration": 0.5456689342403628,
+      "sha256": "39507e5d1cf9f0a7c1174783df5fbb901e06f240b97419c3e29ea5680a4673f9"
+    },
+    "glossary:sehen": {
+      "url": "/audio/stories/glossary-23.wav",
+      "duration": 0.603718820861678,
+      "sha256": "7f401cc6724a7064d23fadb245e46e74adb9ef2ff8db6c62a84618bc0b7f5532"
+    },
+    "glossary:Freundin": {
+      "url": "/audio/stories/glossary-24.wav",
+      "duration": 1.0565079365079366,
+      "sha256": "a94d74b9aecdad49a4c637a6ba8b26232e70ea73fbf688ab7f1a2a51f79d9fc1"
+    },
+    "glossary:Zeit": {
+      "url": "/audio/stories/glossary-25.wav",
+      "duration": 0.7662585034013606,
+      "sha256": "d270d09edfba96929eb08ad1b59ee5d876855c585e750eefd3467d6239c616c9"
+    },
+    "glossary:Nachbar": {
+      "url": "/audio/stories/glossary-26.wav",
+      "duration": 1.0100680272108844,
+      "sha256": "a2d47233e2b3a4bedeaf24752fa680e37f68969d557b8e8a45bef8fd866e51a6"
+    },
+    "glossary:Stadt": {
+      "url": "/audio/stories/glossary-27.wav",
+      "duration": 0.626938775510204,
+      "sha256": "0f4e43d72d6eefa86265876ba67b902f7c3ba793444f4caf376f3882e24af928"
+    },
+    "glossary:Gemüse": {
+      "url": "/audio/stories/glossary-28.wav",
+      "duration": 1.0565079365079366,
+      "sha256": "dd8f57c2bc8e6275814452a039cd19f9127f120f41fda558b0da41d663fb1694"
+    },
+    "glossary:Suppe": {
+      "url": "/audio/stories/glossary-29.wav",
+      "duration": 0.615328798185941,
+      "sha256": "8645839b115613ad2df13a5ad321dc7e4683a357f5a306694d30c3f0efaefbb5"
+    },
+    "glossary:Essen": {
+      "url": "/audio/stories/glossary-30.wav",
+      "duration": 1.0565079365079366,
+      "sha256": "154bbe2a12ad15e6ac2c35b996ca791a744e72e78f99b3b996c24c71f2e9ed19"
+    }
+  }
+}

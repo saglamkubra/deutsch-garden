@@ -1,0 +1,3300 @@
+{
+  "id": "a2-01-words",
+  "unitId": "a2-01",
+  "level": "A2",
+  "title": "Günlük Deneyimler · Dün Neler Yaptım?",
+  "goal": "Yaşadığın bir günü Perfekt ile anlat; yardımcı fiil seçimini açıkla, geçmiş deneyimler hakkında soru sor ve olayları sıraya koy.",
+  "steps": [
+    {
+      "id": "a2-01-teach-1",
+      "title": "1 · Bildiğin cümleden yeni bir deneyime",
+      "introduction": "A1’de Ich lerne Deutsch diyerek şu anki çalışmanı veya genel alışkanlığını anlattın. Şimdi bir arkadaşın dününün nasıl geçtiğini soruyor. Aynı kelimeyi bilmek yetmez; olayın geçmişte olduğunu da göstermen gerekir. Bildiğin özne ve fiilleri, tamamlanan deneyimleri anlatacak biçimde yeniden birleştireceğiz.",
+      "rule": "Perfekt, gündelik konuşmada geçmişte gerçekleşen olayları anlatmak için sık kullanılır. Çekimli haben veya sein ile Partizip II birlikte anlam oluşturur. Almancadaki zamanlar Türkçedeki eklerle birebir örtüşmez; önce olayın bağlamını, sonra Almanca yapıyı düşün.",
+      "usage": "Dün ne yaptığını, geçen hafta kimlerle görüştüğünü veya hafta sonunda nereye gittiğini söylerken kullanırsın. Bu ünitede kısa ana cümlelerle çalışıyoruz; weil/dass yan cümleleri ve ayrıntılı zaman karşılaştırmaları başka derslerin konusudur.",
+      "structure": "Ich lerne Deutsch. → Ich habe Deutsch gelernt.",
+      "mistake": "Sadece gestern ekleyip Ich lerne gestern Deutsch demek, burada anlatmak istediğimiz tamamlanmış geçmiş deneyimi kurmaz. Buradaki hedef, açık bir Perfekt ana cümlesidir; her bağlamı tek bir zaman kuralına indirgemiyoruz.",
+      "memory": "Önce “Ne oldu?” de: öğrenmek. Sonra iki parçayı bul: habe + gelernt.",
+      "table": {
+        "heading": "Biçimi, görevini ve anlamını birlikte gör",
+        "rows": [
+          [
+            "şimdi / genel",
+            "Ich lerne Deutsch.",
+            "Almanca öğreniyorum."
+          ],
+          [
+            "dün",
+            "Ich habe Deutsch gelernt.",
+            "Almanca çalıştım / öğrendim."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "İki parçayı birlikte gör",
+          "body": "Ich sözcüğü iki cümlede de aynı kişiyi gösteriyor. İkinci cümlede lerne yerine habe ve gelernt var. Habe kişiye göre çekiliyor; gelernt asıl eylemi taşıyor. Perfekt’i tek bir yeni fiil sanma: arada başka bilgiler bulunabilen iki parçalı bir yapı olarak gör."
+        },
+        {
+          "title": "Bu derste başarı ne demek?",
+          "body": "Başarı bütün biçimleri bir anda ezberlemek değildir. Yardımcı fiili ve Partizip II’yi bulabiliyor, bir seçimde nedenini açıklayabiliyor ve kısa bir deneyim anlatabiliyorsan hedefe yaklaşıyorsun. Yanlış yapınca açıklamaya dön; uygulama ilk hatanı silmeden düzeltmeni sağlar."
+        }
+      ]
+    },
+    {
+      "id": "a2-01-teach-2",
+      "title": "2 · Zamanı kur: gestern ve letzte Woche",
+      "introduction": "Anlatıya dinleyicinin zihninde yer açarak başla: bugün mü, dün mü, geçen hafta mı? Gestern “dün”, vorgestern “dünden önceki gün”, letzte Woche “geçen hafta” demektir. Am Wochenende bağlama göre geçmiş veya gelecek hafta sonunu gösterebilir; bu ifade tek başına zamanı kesinleştirmez.",
+      "rule": "Zaman ifadesi başa geldiğinde bir öge sayılır; çekimli yardımcı fiil ikinci konumda kalır. İkinci konum, ikinci sözcük demek değildir: Letzte Woche iki sözcükten oluşsa da tek zaman ögesidir.",
+      "usage": "Gestern habe ich ... diye başlayabilir veya zamanı ortada verebilirsin. Türkçedeki “Dün ben ...” sırasını aynen taşımak yerine ikinci konumdaki yardımcıyı koru.",
+      "structure": "Ich habe gestern gelernt. ↔ Gestern habe ich gelernt.",
+      "mistake": "Gestern ich habe gelernt dizilişinde yardımcı üçüncü ögeye kayar. Doğru sıralama Gestern habe ich gelernt. Zaman başa gelince özne, yardımcıdan sonraya geçer.",
+      "memory": "ZAMAN | YARDIMCI FİİL | ÖZNE | ... | PARTİZİP.",
+      "table": {
+        "heading": "Biçimi, görevini ve anlamını birlikte gör",
+        "rows": [
+          [
+            "dün",
+            "gestern",
+            "bir gün önce"
+          ],
+          [
+            "dünden önceki gün",
+            "vorgestern",
+            "iki gün önce"
+          ],
+          [
+            "geçen hafta",
+            "letzte Woche",
+            "önceki hafta"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "İki doğru başlangıç",
+          "body": "Ich habe gestern einen Film gesehen ve Gestern habe ich einen Film gesehen aynı temel olayı anlatır. İlkinde kişiyi, ikincisinde zamanı öne çıkarırsın. Her ikisinde de habe ikinci ögedir, gesehen sonda kalır. İki cümlede değişen yerleri parmağınla takip et."
+        },
+        {
+          "title": "Eve mi, evde mi?",
+          "body": "Nach Hause yönelmeyi, zu Hause bir yerde bulunmayı anlatır. Ich bin nach Hause gegangen: Eve gittim. Ich bin zu Hause geblieben: Evde kaldım. Yalnızca “ev” sözcüğünü bilmek yetmez; ifadeyi hareket veya konum bağlamıyla öğren."
+        }
+      ]
+    },
+    {
+      "id": "a2-01-teach-3",
+      "title": "3 · İki fiil arasında cümle çerçevesi",
+      "introduction": "Ich habe gestern einen Film gesehen cümlesinde habe ve gesehen arasında zaman ve nesne var. Bu bölgeyi bilgiyle doldurabilirsin; iki fiili yan yana yazmak zorunda değilsin. Dinlerken sondaki Partizip II gelene kadar anlamın tamamlanmasını beklemeyi öğrenmek önemlidir.",
+      "rule": "Çekimli yardımcı ana cümlenin ikinci konumunda, asıl fiilin Partizip II biçimi sonda bulunur. Özne değişince yardımcı değişir; Partizip II bu kullanımda kişiye göre çekilmez.",
+      "usage": "Önce kısa bir çekirdek cümle kur; sonra zaman, yer veya nesne ekle. Her eklemeden sonra yardımcı ile Partizip II’nin konumunu yeniden kontrol et.",
+      "structure": "Ich | habe | gestern einen Film | gesehen. / Wir | haben | einen Film | gesehen.",
+      "mistake": "Wir haben einen Film gesehent değil, gesehen. Partizip II’ye ayrıca kişi eki eklenmez. Bu derste standart ana cümle çerçevesini çalışıyoruz; konuşmadaki sonradan eklenmiş bilgiler ayrı bir konudur.",
+      "memory": "İki fiilin arasına köprü çiz: habe ______ gesehen.",
+      "table": {
+        "heading": "Biçimi, görevini ve anlamını birlikte gör",
+        "rows": [
+          [
+            "ich",
+            "habe ... gesehen",
+            "ben ... gördüm"
+          ],
+          [
+            "du",
+            "hast ... gesehen",
+            "sen ... gördün"
+          ],
+          [
+            "wir",
+            "haben ... gesehen",
+            "biz ... gördük"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Cümleyi üç aşamada büyüt",
+          "body": "Ich habe gelernt: Çalıştım. Ich habe Deutsch gelernt: Almanca çalıştım. Ich habe gestern zu Hause Deutsch gelernt: Dün evde Almanca çalıştım. Bir anda uzun cümle yazmak yerine bu genişletme yöntemini kullan. Her eklemede temel yapının korunduğunu gör."
+        },
+        {
+          "title": "Habe her zaman “sahibim” değildir",
+          "body": "Ich habe ein Buch: Bir kitabım var. Ich habe ein Buch gelesen: Bir kitap okudum. İkinci cümlede habe yardımcıdır; asıl eylem gelesen içindedir. Kelime kelime “sahibim okunmuş” demiyoruz; iki parçayı birlikte geçmiş anlamıyla anlıyoruz."
+        }
+      ]
+    },
+    {
+      "id": "a2-01-teach-4",
+      "title": "4 · Haben: kişiye uygun yardımcı",
+      "introduction": "Çoğu günlük fiil Perfekt’te haben kullanır. Önce haben çekimini sağlamlaştıralım: ich habe, du hast ve er hat birbirinin yerine geçmez. Partizip II’yi doğru yazsan bile yanlış yardımcı çekimi özne-fiil uyumunu bozar.",
+      "rule": "Haben şimdiki zaman biçimiyle çekilir: ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie/Sie haben. Geçmiş anlamı yapının tamamından doğar; yardımcının biçimi seni şaşırtmasın.",
+      "usage": "Machen, lernen, arbeiten, hören, sehen ve essen gibi sık fiillerle kullan. Önce özneyi bul, yardımcıyı söyle, ardından Partizip II’yi ekle.",
+      "structure": "Özne + habe/hast/hat/haben/habt/haben + ... + Partizip II.",
+      "mistake": "Ihr haben gelernt yanlış; ihr habt gelernt doğru. Sie hat ile sie haben arasındaki fark, sie’nin “o kadın” mı “onlar” mı olduğuna bağlıdır. Resmî Sie büyük harfle yazılır ve haben alır.",
+      "memory": "Du → hast; ihr → habt. Kısa biçimleri özellikle sesli tekrar et.",
+      "table": {
+        "heading": "Biçimi, görevini ve anlamını birlikte gör",
+        "rows": [
+          [
+            "ich",
+            "habe gelernt",
+            "çalıştım"
+          ],
+          [
+            "du",
+            "hast gelernt",
+            "çalıştın"
+          ],
+          [
+            "er / sie / es",
+            "hat gelernt",
+            "çalıştı"
+          ],
+          [
+            "wir",
+            "haben gelernt",
+            "çalıştık"
+          ],
+          [
+            "ihr",
+            "habt gelernt",
+            "çalıştınız"
+          ],
+          [
+            "sie / Sie",
+            "haben gelernt",
+            "çalıştılar / çalıştınız"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Türkçeden aktarım tuzağı",
+          "body": "Türkçede “Ben çalıştım” dediğinde kişi bilgisi fiilin ekinde görünür. Almancada ich yazman, yardımcıyı doğru çekme gereğini kaldırmaz. Ich haben ... yazıp kişi bilgisini yalnızca özneye bırakma. Denetlerken özne ve çekimli fiili bir çift olarak oku."
+        },
+        {
+          "title": "Anlamı kaybetmeden dönüştür",
+          "body": "Ich habe gelernt cümlesini önce wir öznesiyle kur: Wir haben gelernt. Sonra du ile söyle: Du hast gelernt. Gelernt aynı kaldı; değişen parça yardımcıdır. Bu küçük dönüşümleri hızlı ezber testi olarak değil, yapının hangi bölümünün ne işe yaradığını anlamak için yap."
+        }
+      ]
+    },
+    {
+      "id": "a2-01-teach-5",
+      "title": "5 · Düzenli Partizip II: ge- + kök + -t",
+      "introduction": "Machen fiilinden -en bölümünü çıkarınca mach- kökü kalır. Başına ge-, sonuna -t ekleyince gemacht olur. Lernen → gelernt ve spielen → gespielt aynı örüntüyü izler. Ancak bu formülü bütün Almanca fiillere uygulamayacağız; düzensizleri ayrıca öğreneceğiz.",
+      "rule": "Birçok düzenli fiilde ge- + kök + -t kullanılır. Kökü -t veya -d ile biten sık düzenli fiillerde söyleyişi kolaylaştıran -et görülür: arbeiten → gearbeitet, warten → gewartet.",
+      "usage": "Yaptığın işi veya çalıştığın dersi anlatabilirsin. Yardımcıyı eklemeden yalnızca Partizip II yazmak, tam bir Perfekt ana cümlesi oluşturmaz.",
+      "structure": "Machen → gemacht → Ich habe das Frühstück gemacht.",
+      "mistake": "Gearbeitet yerine gearbeitt yazma. Ich gemacht değil, Ich habe ... gemacht gerekir. Düzenli örüntüyü öğrendikten sonra her fiili mekanik biçimde bu örüntüye zorlama.",
+      "memory": "Bir paket gibi gör: ge-[kök]-t; gearbeitet içinde araya e girer.",
+      "table": {
+        "heading": "Biçimi, görevini ve anlamını birlikte gör",
+        "rows": [
+          [
+            "machen",
+            "hat gemacht",
+            "yaptı"
+          ],
+          [
+            "lernen",
+            "hat gelernt",
+            "öğrendi"
+          ],
+          [
+            "spielen",
+            "hat gespielt",
+            "oynadı"
+          ],
+          [
+            "arbeiten",
+            "hat gearbeitet",
+            "çalıştı"
+          ],
+          [
+            "warten",
+            "hat gewartet",
+            "bekledi"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Kökü gerçekten bul",
+          "body": "Lernen içindeki kök lern- olduğu için gelernt yazarız; gelernen değil. Kartına yalnızca gelernt değil, lernen – hat gelernt çiftini yaz. Böylece mastarı, yardımcıyı ve geçmiş biçimi birlikte hatırlarsın. Bu yöntem düzensiz fiillerde de işine yarar."
+        },
+        {
+          "title": "Kısa cümleden kullanıma geç",
+          "body": "Ich habe Musik gehört cümlesini oku. Ich yerine wir getir: Wir haben Musik gehört. Nesneyi değiştir: Wir haben einen Podcast gehört. Partizip II aynı kaldı, yardımcı özneye uydu. Kuralı yalnızca tanımaktan kullanmaya geçmek için benzer küçük değişiklikler yap."
+        }
+      ]
+    },
+    {
+      "id": "a2-01-teach-6",
+      "title": "6 · Düzensizleri anlamlı gruplarla öğren",
+      "introduction": "Günlük deneyimler yalnızca düzenli fiillerden oluşmaz: yersin, içersin, birini görürsün, kitap okursun. Essen → gegessen, trinken → getrunken, sehen → gesehen ve lesen → gelesen biçimlerini ayrı tanımalısın. Kökün sesi veya yazımı değişebilir.",
+      "rule": "Sık güçlü fiillerin Partizip II biçimi çoğunlukla -en ile biter; fakat kök değişimlerini tek bir tahmin kuralı açıklamaz. Karışık fiiller de vardır: bringen → gebracht. Fiili yardımcı ve kısa örnekle birlikte öğren.",
+      "usage": "Ne yediğini, ne izlediğini veya kiminle buluştuğunu anlat. Her oturumda birkaç biçimi tekrar etmek, uzun bir listeyi aynı anda ezberlemekten daha yönetilebilirdir.",
+      "structure": "Essen – hat gegessen; trinken – hat getrunken; treffen – hat getroffen.",
+      "mistake": "Geesst, getrinkt veya gelest yazmak, düzenli örüntüyü düzensize taşımaktır. Hatanı düzeltirken yalnızca doğru biçimi kopyalama; mastar ve Partizip II’yi yan yana söyle.",
+      "memory": "Bir küçük sahne: Ich habe gegessen, Wasser getrunken und ein Buch gelesen.",
+      "table": {
+        "heading": "Biçimi, görevini ve anlamını birlikte gör",
+        "rows": [
+          [
+            "essen",
+            "hat gegessen",
+            "yedi"
+          ],
+          [
+            "trinken",
+            "hat getrunken",
+            "içti"
+          ],
+          [
+            "lesen",
+            "hat gelesen",
+            "okudu"
+          ],
+          [
+            "sehen",
+            "hat gesehen",
+            "gördü / izledi"
+          ],
+          [
+            "treffen",
+            "hat getroffen",
+            "buluştu"
+          ],
+          [
+            "schlafen",
+            "hat geschlafen",
+            "uyudu"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Ezber listesini bir güne dönüştür",
+          "body": "Sabah için Ich habe Brot gegessen, öğle için Ich habe Wasser getrunken, akşam için Ich habe ein Buch gelesen de. Gerçekçi bir zaman çizgisi kurduğunda biçimler arasında bağ oluşur. Örnekleri hayalî bir güne uyarlayabilirsin; özel bilgi yazmak zorunda değilsin."
+        },
+        {
+          "title": "Aşırı genelleme yapma",
+          "body": "Sehen → gesehen örneğinde -en korunurken trinken → getrunken içinde kök de değişir. Bringen → gebracht ise -t ile biter ama kökü değişmiştir. “Sonu -t ise kök asla değişmez” gibi kestirmeler doğru değildir. Burada verilen sık biçimleri, kullanımlarıyla öğreniyoruz."
+        }
+      ]
+    },
+    {
+      "id": "a2-01-teach-7",
+      "title": "7 · Ne zaman sein? Hareketi doğru yorumla",
+      "introduction": "Ich bin nach Hause gegangen içinde bin, haben yerine sein seçildiğini gösterir. Bir yerden başka bir yere gitmek gibi, nesne almayan yer değiştirmelerde sein yaygındır. Fakat “hareket varsa her zaman sein” doğru değildir: Ich habe getanzt gibi cümleler de vardır.",
+      "rule": "Bu derste gehen, kommen, ankommen, aufstehen ve bir yere yolculuk anlamındaki fahren ile sein kullanacağız. Bleiben yer değiştirme anlatmasa da sein alan önemli bir istisnadır. Seçim, fiilin bu cümledeki kullanımına bağlıdır.",
+      "usage": "Bir yere gittiğini, vardığını, ayağa kalktığını veya evde kaldığını anlat. Fahren, bir aracı sürmek gibi geçişli başka kullanımlarda haben alabilir; burada bir yere yolculuğu çalışıyoruz.",
+      "structure": "Gehen – ist gegangen; ankommen – ist angekommen; bleiben – ist geblieben.",
+      "mistake": "Ich habe nach Hause gegangen değil, Ich bin nach Hause gegangen. Ich bin Deutsch gelernt de yanlış: lernen bu kullanımda haben alır. Sadece Türkçe “hareket” sözcüğüne dayanarak seçim yapma.",
+      "memory": "Bu örneklerde gitmek, gelmek, varmak → sein. Bleiben’i ayrı istisna kartına yaz.",
+      "table": {
+        "heading": "Biçimi, görevini ve anlamını birlikte gör",
+        "rows": [
+          [
+            "gehen",
+            "ist gegangen",
+            "gitti"
+          ],
+          [
+            "kommen",
+            "ist gekommen",
+            "geldi"
+          ],
+          [
+            "ankommen",
+            "ist angekommen",
+            "vardı"
+          ],
+          [
+            "aufstehen",
+            "ist aufgestanden",
+            "kalktı"
+          ],
+          [
+            "bleiben",
+            "ist geblieben",
+            "kaldı"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "İki soruyla karar ver",
+          "body": "Önce fiili belirle: lernen mi, gehen mi? Sonra ne anlattığını düşün. Ich habe Deutsch gelernt öğrenme etkinliğidir; Ich bin nach Hause gegangen yer değiştirmedir. Yardımcıyı seçerken yalnızca gestern sözcüğüne bakamazsın: zaman ifadesi, hangi yardımcıyı kullanacağını söylemez."
+        },
+        {
+          "title": "İstisnayı görünür kıl",
+          "body": "Ich bin zu Hause geblieben, “yer değiştirme yoksa mutlaka haben” varsayımını bozar. Almancayı gerçek örneklerle öğrenmenin nedeni budur. Bleiben’i sein ile birlikte öğren; yardımcı seçiminin daha ayrıntılı kullanımlarını sonraki derslerde genişleteceğiz."
+        }
+      ]
+    },
+    {
+      "id": "a2-01-teach-8",
+      "title": "8 · Sein çekimi: bin, bist, ist, sind, seid",
+      "introduction": "Yardımcıyı sein olarak seçmek yeterli değildir; özneyle uyumlu biçimi de bulmalısın. Ich bin ile du bist farklıdır. Türkçede özne düşebilse de bu alıştırmalarda özneyi açık yazıp iki parçalı yapıyı sağlam kuracağız.",
+      "rule": "Ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind. Gegangen gibi Partizip II biçimi özneye göre değişmez. Yalnızca yardımcıyı kişiye uygun çekersin.",
+      "usage": "Bir yolculuğu yalnız mı, arkadaşlarınla mı yaptığını anlatırken aynı fiili farklı kişilerle kullanabilirsin. Özellikle ihr seid biçimini sind ile karıştırmadan çalış.",
+      "structure": "Ich bin gegangen. → Du bist gegangen. → Wir sind gegangen.",
+      "mistake": "Ihr sind angekommen değil, Ihr seid angekommen. Sie ist angekommen “o kadın geldi”; sie sind angekommen “onlar geldi”; Sie sind angekommen ise resmî “siz geldiniz” olabilir.",
+      "memory": "İkili gruplar halinde söyle: ich bin – du bist; wir sind – ihr seid.",
+      "table": {
+        "heading": "Biçimi, görevini ve anlamını birlikte gör",
+        "rows": [
+          [
+            "ich",
+            "bin gegangen",
+            "gittim"
+          ],
+          [
+            "du",
+            "bist gegangen",
+            "gittin"
+          ],
+          [
+            "er / sie / es",
+            "ist gegangen",
+            "gitti"
+          ],
+          [
+            "wir",
+            "sind gegangen",
+            "gittik"
+          ],
+          [
+            "ihr",
+            "seid gegangen",
+            "gittiniz"
+          ],
+          [
+            "sie / Sie",
+            "sind gegangen",
+            "gittiler / gittiniz"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Aynı olayı başka kişi anlatsın",
+          "body": "Ich bin mit dem Zug gefahren cümlesini arkadaşınla birlikte kur: Wir sind mit dem Zug gefahren. Burada mit dem Zug araç bilgisidir; yardımcıyı seçtiren, fahren fiilinin bir yere yolculuk anlamındaki kullanımıdır. Sadece Zug sözcüğü geçti diye sein seçmiyoruz."
+        },
+        {
+          "title": "Üç parçalı kontrol",
+          "body": "Uzun bir cümleyi bitirince özne, yardımcı ve son fiile bak. Wir / sind / angekommen uyumlu; wir / ist / angekommen uyumsuzdur. Bu üç parçayı parmağınla takip etmek, araya zaman ve yer bilgileri girdiğinde hatanın yerini bulmanı kolaylaştırır."
+        }
+      ]
+    },
+    {
+      "id": "a2-01-teach-9",
+      "title": "9 · Ön ekler: eingekauft ama besucht",
+      "introduction": "Ayrılabilen fiiller A1’den tanıdık: Ich stehe auf. Perfekt’te ön ek kaybolmaz; Partizip II’nin içinde yer alır: aufgestanden. Besuchen gibi ayrılamayan ön ekli fiilde ise ge- eklemeyiz. Ön eki tanımak, kulağa benzer yanlış biçimleri ayırmanı sağlar.",
+      "rule": "Ayrılabilen ön eklerde ge- genellikle ön ekin ardından gelir: einkaufen → eingekauft, anrufen → angerufen. Be-, ver-, er- gibi ayrılamayan ön eklerde ge- kullanılmaz: besuchen → besucht, verstehen → verstanden.",
+      "usage": "Alışveriş, arama, oda toplama ve ziyaret anlat. Ön ek, yardımcıyı tek başına belirlemez: eingekauft haben, angekommen sein ile kurulur.",
+      "structure": "Einkaufen → ein-ge-kauft; aufräumen → auf-ge-räumt; besuchen → besucht.",
+      "mistake": "Geeinkauft veya gebesucht yazma. Ich habe ein gekauft diyerek Partizip II’yi ayırma; eingekauft bu kullanımda tek sözcüktür. Anrufen → angerufen içindeki kök değişimini unutma.",
+      "memory": "Ön ek ayrılabiliyorsa ge- araya girer; be- ve ver- ile ge- görünmez.",
+      "table": {
+        "heading": "Biçimi, görevini ve anlamını birlikte gör",
+        "rows": [
+          [
+            "einkaufen",
+            "hat eingekauft",
+            "alışveriş yaptı"
+          ],
+          [
+            "aufräumen",
+            "hat aufgeräumt",
+            "topladı"
+          ],
+          [
+            "anrufen",
+            "hat angerufen",
+            "aradı"
+          ],
+          [
+            "besuchen",
+            "hat besucht",
+            "ziyaret etti"
+          ],
+          [
+            "verstehen",
+            "hat verstanden",
+            "anladı"
+          ],
+          [
+            "ankommen",
+            "ist angekommen",
+            "vardı"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "İki kararı ayır",
+          "body": "Einkaufen için önce Partizip II’yi kur: eingekauft. Sonra yardımcıyı seç: haben. Ankommen için biçim angekommen, yardımcı sein olur. Bütün parçaları aynı anda tahmin etmek yerine bu iki kararı ayrı düşünmek hatanın nerede olduğunu bulmana yardım eder."
+        },
+        {
+          "title": "A1 ile köprü",
+          "body": "Ich rufe meine Schwester an, dün için Ich habe meine Schwester angerufen olur. Ön ek an- ayrı bir sona atılmış parça olarak değil, angerufen içinde görünür. İki cümleyi yüksek sesle oku ve değişen biçimlerin aynı eylemi anlattığını fark et."
+        }
+      ]
+    },
+    {
+      "id": "a2-01-teach-10",
+      "title": "10 · -ieren fiilleri: telefoniert ve passiert",
+      "introduction": "Telefonieren uzun görünse de Partizip II biçimi kolay tanınır: telefoniert. -ieren ile biten bu grupta ge- kullanılmaz. Her ge- eksikliğini hata sanmak yerine fiilin hangi örüntüye ait olduğuna bakmalısın.",
+      "rule": "-ieren fiilleri genellikle -iert ile Partizip II kurar ve ge- almaz: telefonieren → telefoniert, studieren → studiert. Bu örüntü yardımcıyı belirlemez: telefonieren haben alırken “meydana gelmek” anlamındaki passieren sein alır.",
+      "usage": "Telefon görüşmesi veya gerçekleşen bir olay anlatırken kullan. Passieren burada “olmak / meydana gelmek” anlamındadır; farklı geçişli anlamları bu ünitede çalışmıyoruz.",
+      "structure": "Ich habe telefoniert. / Was ist passiert?",
+      "mistake": "Getelefoniert yazma. Bütün -ieren fiilleri haben alır diye düşünme: Was ist passiert? bunun karşı örneğidir. Partizip biçimini ve yardımcı seçimini ayrı denetle.",
+      "memory": "-ieren gördüğünde “ge- yok” de; yardımcı eşini ayrıca hatırla.",
+      "table": {
+        "heading": "Biçimi, görevini ve anlamını birlikte gör",
+        "rows": [
+          [
+            "telefonieren",
+            "hat telefoniert",
+            "telefonda konuştu"
+          ],
+          [
+            "studieren",
+            "hat studiert",
+            "üniversitede öğrenim gördü"
+          ],
+          [
+            "passieren",
+            "ist passiert",
+            "oldu / meydana geldi"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "İşe yarayan soru kalıbı",
+          "body": "Was ist passiert? “Ne oldu?” demektir ve konuşmada bütün bir kalıp olarak öğrenilebilir. Ist, burada olayın gerçekleşmesini anlatan passieren fiilinin yardımcısıdır. “Sonu -ieren, mutlaka habe kullanmalıyım” yaklaşımı doğru değildir."
+        },
+        {
+          "title": "Aramak ile konuşmak",
+          "body": "Ich habe meine Mutter angerufen: Annemi aradım. Ich habe mit meiner Mutter telefoniert: Annemle telefonda konuştum. İkisi bağlantılı ama farklı yapılardır. Anrufen doğrudan kimi aradığını belirtir; telefonieren örneğindeki mit + kişi kalıbını da bütün olarak öğren."
+        }
+      ]
+    },
+    {
+      "id": "a2-01-teach-11",
+      "title": "11 · Olumsuzluk: nicht mi, kein mi?",
+      "introduction": "“Dün çalıştım” kadar “Dün çalışmadım” demek de önemlidir. Bir şeyi hiç almadığını söylemekle bir işi yapmadığını söylemek aynı yapı değildir. Türkçede bir olumsuz fiil eki kullanabildiğin yerlerde Almancada nicht ve kein arasında seçim gerekebilir.",
+      "rule": "Belirsiz veya artikelsiz bir ismi olumsuzlarken kein/keine kullanılır. Bu basit örneklerde eylemi olumsuzlayan nicht, Partizip II’den önce gelir: Ich habe nicht gearbeitet. Daha ayrıntılı cümlelerde konumu olumsuzlanan ögeye göre değişebilir.",
+      "usage": "Çalışmadığını, kahve içmediğini veya ekmek almadığını söyle. Burada bütün olumsuzluk konusunu bitirmiyoruz; sık iki kullanımı sağlamlaştırıyoruz.",
+      "structure": "Ich habe nicht gearbeitet. / Ich habe keinen Kaffee getrunken. / Ich habe kein Brot gekauft.",
+      "mistake": "Kahve içmediğini nötr biçimde anlatırken burada hedeflenen kullanım keinen Kaffee’dir. Kaffee eril olduğu için nesne hâlinde keinen olur. Brot nötrdür; kein Brot kullanılır.",
+      "memory": "Eylem: nicht gearbeitet. Belirsiz isim: kein Brot, keinen Kaffee.",
+      "table": {
+        "heading": "Biçimi, görevini ve anlamını birlikte gör",
+        "rows": [
+          [
+            "çalışmadım",
+            "Ich habe nicht gearbeitet.",
+            "Eylem olumsuz."
+          ],
+          [
+            "ekmek almadım",
+            "Ich habe kein Brot gekauft.",
+            "Brot nötr isim."
+          ],
+          [
+            "kahve içmedim",
+            "Ich habe keinen Kaffee getrunken.",
+            "Kaffee eril, nesne hâli."
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Akkusativ’i neden görüyoruz?",
+          "body": "Ein Kaffee → einen Kaffee, kein Kaffee → keinen Kaffee dönüşümü trinken fiilinin nesnesinde olur. Bu çekim Perfekt yüzünden oluşmaz: Ich trinke keinen Kaffee cümlesinde de aynıdır. Yeni zamanı öğrenirken bildiğin isim çekimlerini de korumalısın."
+        },
+        {
+          "title": "Anlamı değiştirmeden düzelt",
+          "body": "Ich habe gestern gearbeitet nicht cümlesinde bu dersin nötr anlatımı için nicht’i Partizip II’den önce yerleştir: Ich habe gestern nicht gearbeitet. Sonra cümleyi anlamıyla oku. Sadece sözcüğün yerini değiştirmek değil, neyin olumsuzlandığını anlamak önemlidir."
+        }
+      ]
+    },
+    {
+      "id": "a2-01-teach-12",
+      "title": "12 · Sorular: Hast du …? Wohin bist du …?",
+      "introduction": "Bir deneyimi anlatmak iletişimin yarısıdır; diğer yarısı karşındakini dinleyip soru sormaktır. Cevabı evet/hayır olan sorularla, ne veya nereye gibi bilgi isteyen soruların dizilişi farklıdır. Yardımcı fiil bu ayrımı görmeni kolaylaştırır.",
+      "rule": "Evet/hayır sorusunda yardımcı başa gelir: Hast du gelernt? Soru sözcüklü soruda soru ögesi başta, yardımcı ikinci konumdadır: Was hast du gemacht? Partizip II her ikisinde de sonda kalır.",
+      "usage": "Hafta sonunda alışveriş yapılıp yapılmadığını, dün nereye gidildiğini veya kimin ziyaret edildiğini sor. Was eylem/şey, wohin yön, wann zaman bilgisi ister.",
+      "structure": "Hast du gestern gelernt? / Was hast du gemacht? / Wohin bist du gegangen?",
+      "mistake": "Was du hast gemacht? yanlış; Was hast du gemacht? doğru. Soru kurmak yardımcı seçimini değiştirmez: bist du gearbeitet değil, hast du gearbeitet gerekir.",
+      "memory": "Bilgi sorusu: SORU | YARDIMCI | ÖZNE | ... | PARTİZİP.",
+      "table": {
+        "heading": "Biçimi, görevini ve anlamını birlikte gör",
+        "rows": [
+          [
+            "evet / hayır",
+            "Hast du eingekauft?",
+            "Alışveriş yaptın mı?"
+          ],
+          [
+            "ne",
+            "Was hast du gemacht?",
+            "Ne yaptın?"
+          ],
+          [
+            "nereye",
+            "Wohin bist du gegangen?",
+            "Nereye gittin?"
+          ],
+          [
+            "ne zaman",
+            "Wann bist du angekommen?",
+            "Ne zaman vardın?"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Cevabı sorudan kur",
+          "body": "Was hast du gemacht? sorusundaki du’yu cevabında ich yap: Ich habe gelernt. Wohin bist du gegangen? sorusuna yer ekle: Ich bin nach Hause gegangen. Yardımcıyı sorudan otomatik kopyalama; konuşan kişi değişince çekim de değişir."
+        },
+        {
+          "title": "Sohbeti soru listesine çevirme",
+          "body": "Schön!, Wirklich? veya Und danach? gibi kısa tepkiler dinlediğini gösterir. Her tepkiyi karmaşık bir cümleye çevirmek zorunda değilsin. Diyalog çalışmasında önce olayı anla; sonra karşı tarafın söylediği bilgiyle bağlantılı tek bir takip sorusu seç."
+        }
+      ]
+    },
+    {
+      "id": "a2-01-teach-13",
+      "title": "13 · Olayları anlaşılır sıraya koy",
+      "introduction": "Beş doğru cümle kurup hepsine gestern ile başlamak anlaşılır ama biraz liste gibi duyulur. Zuerst, dann, danach ve zum Schluss olay sırasını gösterir. Önce, sonra, ondan sonra, en son bağlantılarıyla basit bir anlatıyı daha kolay takip edilir yapabilirsin.",
+      "rule": "Bu ifadeler başta kullanılırsa ilk öge sayılır; yardımcı ikinci konumda kalır. İki tam ana cümleyi und ile bağladığında her cümlenin kendi çekimli fiilini koruyabilirsin.",
+      "usage": "Sabah, öğle ve akşam yaptıklarını sırayla anlat. Her cümleye çok sayıda ayrıntı sıkıştırmak yerine önce olay sırasını açık tut; sonra gerekli bilgiyi ekle.",
+      "structure": "Zuerst habe ich gefrühstückt. Dann bin ich in den Park gegangen. Danach habe ich gelesen.",
+      "mistake": "Danach ich habe gelesen değil, Danach habe ich gelesen. Sein alan yeni bir fiile geçerken önceki cümlenin habe yardımcısını yanlışlıkla sürdürme.",
+      "memory": "Önce bağlayıcıyı söyle; ardından yardımcıyı hemen yerleştir.",
+      "table": {
+        "heading": "Biçimi, görevini ve anlamını birlikte gör",
+        "rows": [
+          [
+            "önce",
+            "zuerst",
+            "ilk olay"
+          ],
+          [
+            "sonra",
+            "dann",
+            "bir sonraki olay"
+          ],
+          [
+            "ondan sonra",
+            "danach",
+            "önceki olayın ardından"
+          ],
+          [
+            "en son",
+            "zum Schluss",
+            "son olay"
+          ]
+        ]
+      },
+      "details": [
+        {
+          "title": "Listeden kısa anlatıya",
+          "body": "Ich habe gefrühstückt. Ich bin in den Park gegangen. Ich habe gelesen. cümlelerini ayrı ayrı denetle. Sonra başlangıçları değiştir: Zuerst habe ich gefrühstückt. Dann bin ich in den Park gegangen. Danach habe ich gelesen. Bağlantı eklerken fiilin ikinci konumunu koruduğuna dikkat et."
+        },
+        {
+          "title": "Gerçek konuşmada war da var",
+          "body": "Am Abend war ich müde, “Akşam yorgundum” demektir. War, sein fiilinin sık kullanılan Präteritum biçimidir. Bu örneği tanıman yeterli; bütün Präteritum çekimlerinden henüz sorumlu değilsin. Bu ünitenin üretim sorularında odağımız Perfekt olarak kalır."
+        }
+      ]
+    },
+    {
+      "id": "a2-01-teach-14",
+      "title": "14 · Metni çöz, kendi gününü anlat",
+      "introduction": "Öğrendiğin parçaları birleştirelim. Okuma metnini önce yardımcıları bulmak, ikinci kez olay sırasını anlamak için oku. Diyalogda hangi soruya hangi cevabın verildiğine bak. Tek bir bilinmeyen sözcük bütün metni anlamanı engellemek zorunda değildir.",
+      "rule": "Zaman işaretini, özneyi, yardımcıyı ve Partizip II’yi sırayla bul. Okuduğunu anlama sorusunda kendi hayatına göre değil metne göre cevap ver. Metnin söylemediği bilgiyi tahmin edip kesinleştirme.",
+      "usage": "Kısa günlük notu, hafta sonu mesajı veya arkadaş sohbetinde kullan. Gerçek hayatın yerine hayalî bir gün seçebilirsin; özel bilgilerini uygulamaya veya Lumi’ye yazman gerekmez.",
+      "structure": "6–8 kısa cümle: zaman + iki haben cümlesi + iki sein cümlesi + bir olumsuzluk + olay sırası + bir soru.",
+      "mistake": "Yardımcıyı unutmak, bütün fiillere ge- eklemek veya metnin söylemediği bilgiyi cevaba katmak yaygın hatalardır. Önce kısa cümlelerin doğruluğunu kur; ayrıntıyı sonra artır.",
+      "memory": "Son kontrol: zaman açık mı, yardımcı doğru mu, özneyle uyumlu mu, Partizip II sonda mı?",
+      "details": [
+        {
+          "title": "İsteğe bağlı üretim görevin",
+          "body": "Not defterine “Mein gestriger Tag” başlığıyla 6–8 cümle yaz. En az iki haben, iki sein cümlesi ve bir olumsuzluk kullan. Zuerst, dann ve danach ile sırayı kur. Sonunda bir arkadaşına sorabileceğin soru ekle. Bu serbest metin otomatik puanlanmaz; kendi kontrol listeni kullan."
+        },
+        {
+          "title": "Kendi öğretmenin ol",
+          "body": "Her cümlede yardımcı ve Partizip II’nin altını çiz. Seçimini bir cümleyle Türkçe açıkla. “Neden bin?” sorusuna “burada gehen bir yere gitmeyi anlatıyor” diyebilmeye çalış. Emin olmadığın cümleyi kısaltıp örneklerle karşılaştır; uzunluk tek başına başarı değildir."
+        }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "a2-01-example-1",
+      "de": "Ich habe gestern Deutsch gelernt.",
+      "tr": "Dün Almanca çalıştım.",
+      "explanation": "Lernen düzenlidir: gelernt. Ich için habe seçilir. Zaman bilgisi arada durabilir; gelernt ana cümlenin sonunda kalır.",
+      "highlights": [
+        "habe",
+        "gelernt"
+      ]
+    },
+    {
+      "id": "a2-01-example-2",
+      "de": "Gestern habe ich das Frühstück gemacht.",
+      "tr": "Dün kahvaltıyı hazırladım.",
+      "explanation": "Zaman ilk öge olduğundan habe ikinci konumdadır ve ich onun ardından gelir. Frühstück isim olduğu için büyük harfle yazılır.",
+      "highlights": [
+        "Gestern",
+        "habe",
+        "gemacht"
+      ]
+    },
+    {
+      "id": "a2-01-example-3",
+      "de": "Du hast am Wochenende viel gearbeitet.",
+      "tr": "Hafta sonunda çok çalıştın.",
+      "explanation": "Du öznesi hast ister. Arbeiten kökü -t ile bittiği için Partizip II içinde ek e görülür: gearbeitet.",
+      "highlights": [
+        "hast",
+        "gearbeitet"
+      ]
+    },
+    {
+      "id": "a2-01-example-4",
+      "de": "Wir haben einen Film gesehen.",
+      "tr": "Bir film izledik.",
+      "explanation": "Sehen düzensizdir: gesehen. Film eril isimdir; nesne olduğu için einen Film olur. Wir ile yardımcı haben kullanılır.",
+      "highlights": [
+        "haben",
+        "einen Film",
+        "gesehen"
+      ]
+    },
+    {
+      "id": "a2-01-example-5",
+      "de": "Sie hat Brot gegessen und Wasser getrunken.",
+      "tr": "O, ekmek yedi ve su içti.",
+      "explanation": "Sie burada tekil kadın öznesidir. Essen ve trinken düzensizdir. Aynı özne ve yardımcıya bağlanan ikinci eylemde hat tekrar edilmeyebilir.",
+      "highlights": [
+        "hat",
+        "gegessen",
+        "getrunken"
+      ]
+    },
+    {
+      "id": "a2-01-example-6",
+      "de": "Ihr habt eine Nachricht geschrieben.",
+      "tr": "Bir mesaj yazdınız.",
+      "explanation": "Ihr ile habt gerekir. Schreiben → geschrieben güçlü fiildir. Nachricht dişildir; bu örnekte nesne olsa da eine biçimi değişmez.",
+      "highlights": [
+        "habt",
+        "geschrieben"
+      ]
+    },
+    {
+      "id": "a2-01-example-7",
+      "de": "Ich bin gestern nach Hause gegangen.",
+      "tr": "Dün eve gittim.",
+      "explanation": "Gehen burada yer değiştirmeyi anlatır ve sein alır. Ich için bin seçilir. Nach Hause yönü, gegangen geçmiş eylemi gösterir.",
+      "highlights": [
+        "bin",
+        "nach Hause",
+        "gegangen"
+      ]
+    },
+    {
+      "id": "a2-01-example-8",
+      "de": "Wir sind mit dem Zug gefahren.",
+      "tr": "Trenle yolculuk yaptık.",
+      "explanation": "Fahren burada bir araçla yolculuk anlamındadır ve sein alır. Wir için sind gerekir. Mit dem Zug araç bildiren bir kalıptır.",
+      "highlights": [
+        "sind",
+        "gefahren"
+      ]
+    },
+    {
+      "id": "a2-01-example-9",
+      "de": "Meine Freundin ist um neun angekommen.",
+      "tr": "Arkadaşım saat dokuzda vardı.",
+      "explanation": "Ankommen → angekommen ayrılabilen ön ek örneğidir. Varış eylemi sein ile kurulur; tekil özne için ist kullanılır.",
+      "highlights": [
+        "ist",
+        "angekommen"
+      ]
+    },
+    {
+      "id": "a2-01-example-10",
+      "de": "Wir sind am Sonntag zu Hause geblieben.",
+      "tr": "Pazar günü evde kaldık.",
+      "explanation": "Bleiben, yer değiştirme olmamasına rağmen sein alır. Zu Hause bulunulan yeri gösterir; nach Hause ile aynı değildir.",
+      "highlights": [
+        "sind",
+        "zu Hause",
+        "geblieben"
+      ]
+    },
+    {
+      "id": "a2-01-example-11",
+      "de": "Ich bin heute früh aufgestanden.",
+      "tr": "Bugün erken kalktım.",
+      "explanation": "Bugün sözcüğü Perfekt’i engellemez: bugün tamamlanmış bir olay anlatılabilir. Aufstehen → aufgestanden ve bu kullanımda sein gerekir.",
+      "highlights": [
+        "bin",
+        "aufgestanden"
+      ]
+    },
+    {
+      "id": "a2-01-example-12",
+      "de": "Am Nachmittag habe ich eingekauft.",
+      "tr": "Öğleden sonra alışveriş yaptım.",
+      "explanation": "Einkaufen → eingekauft ayrılabilen ön ek örneğidir. Zaman ilk öge olduğu için habe ikinci konuma gelir. Ön ekli her fiil sein almaz.",
+      "highlights": [
+        "habe",
+        "eingekauft"
+      ]
+    },
+    {
+      "id": "a2-01-example-13",
+      "de": "Danach habe ich mein Zimmer aufgeräumt.",
+      "tr": "Ondan sonra odamı topladım.",
+      "explanation": "Aufräumen → aufgeräumt biçiminde ge- ön ekten sonra gelir. Danach ilk ögedir, habe ikinci konumdadır. Zimmer nötrdür: mein Zimmer.",
+      "highlights": [
+        "Danach",
+        "habe",
+        "aufgeräumt"
+      ]
+    },
+    {
+      "id": "a2-01-example-14",
+      "de": "Ich habe meine Schwester angerufen.",
+      "tr": "Kız kardeşimi / ablamı aradım.",
+      "explanation": "Anrufen → angerufen hem ayrılabilen hem kök değişimi olan bir fiildir. Kimi aradığını doğrudan nesneyle söylersin.",
+      "highlights": [
+        "habe",
+        "angerufen"
+      ]
+    },
+    {
+      "id": "a2-01-example-15",
+      "de": "Wir haben unsere Nachbarn besucht.",
+      "tr": "Komşularımızı ziyaret ettik.",
+      "explanation": "Besuchen, ayrılamayan be- ön ekiyle başlar: besucht, gebesucht değil. Wir için haben gerekir; unsere Nachbarn çoğul nesnedir.",
+      "highlights": [
+        "haben",
+        "besucht"
+      ]
+    },
+    {
+      "id": "a2-01-example-16",
+      "de": "Ich habe lange mit meiner Freundin telefoniert.",
+      "tr": "Arkadaşımla uzun süre telefonda konuştum.",
+      "explanation": "Telefonieren -ieren ile biter ve ge- almaz. Mit meiner Freundin görüştüğün kişiyi gösteren kalıptır. Aramak ile telefonda konuşmak farklı yapılardır.",
+      "highlights": [
+        "habe",
+        "telefoniert"
+      ]
+    },
+    {
+      "id": "a2-01-example-17",
+      "de": "Was ist gestern passiert?",
+      "tr": "Dün ne oldu?",
+      "explanation": "Passieren burada olayın meydana gelmesini anlatır ve sein alır. Soru sözcüğü ilk, ist ikinci konumdadır; passiert ge- almaz.",
+      "highlights": [
+        "Was",
+        "ist",
+        "passiert"
+      ]
+    },
+    {
+      "id": "a2-01-example-18",
+      "de": "Ich habe gestern nicht gearbeitet.",
+      "tr": "Dün çalışmadım.",
+      "explanation": "Bu nötr cümlede nicht eylemi olumsuzlar ve gearbeitet biçiminden önce durur. Olumsuzluk yardımcı fiili ortadan kaldırmaz.",
+      "highlights": [
+        "habe",
+        "nicht",
+        "gearbeitet"
+      ]
+    },
+    {
+      "id": "a2-01-example-19",
+      "de": "Ich habe keinen Kaffee getrunken.",
+      "tr": "Kahve içmedim.",
+      "explanation": "Kaffee eril isimdir ve trinken fiilinin nesnesidir. Bu yüzden kein, keinen olur. Belirsiz ismi olumsuzlarken burada kein ailesi kullanılır.",
+      "highlights": [
+        "keinen Kaffee",
+        "getrunken"
+      ]
+    },
+    {
+      "id": "a2-01-example-20",
+      "de": "Hast du deine Freundin getroffen?",
+      "tr": "Arkadaşınla buluştun mu?",
+      "explanation": "Evet/hayır sorusunda hast ilk konumdadır. Treffen → getroffen düzensizdir; du için yardımcı çekimi hast olarak kalır.",
+      "highlights": [
+        "Hast",
+        "getroffen"
+      ]
+    },
+    {
+      "id": "a2-01-example-21",
+      "de": "Was hast du am Wochenende gemacht?",
+      "tr": "Hafta sonunda ne yaptın?",
+      "explanation": "Bilgi sorusunda was ilk, hast ikinci ögedir. Cevapta özne du’dan ich’e geçince yardımcı da habe olur.",
+      "highlights": [
+        "Was",
+        "hast",
+        "gemacht"
+      ]
+    },
+    {
+      "id": "a2-01-example-22",
+      "de": "Wohin seid ihr gestern gegangen?",
+      "tr": "Dün nereye gittiniz?",
+      "explanation": "Wohin yön sorar. Gehen bu kullanımda sein alır ve ihr için seid gerekir. Hem yardımcı ailesini hem kişi çekimini denetle.",
+      "highlights": [
+        "Wohin",
+        "seid",
+        "gegangen"
+      ]
+    },
+    {
+      "id": "a2-01-example-23",
+      "de": "Zuerst habe ich gelesen, dann habe ich gekocht.",
+      "tr": "Önce okudum, sonra yemek pişirdim.",
+      "explanation": "İki ana cümlede de yardımcı ikinci konumda durur. Lesen → gelesen düzensiz; kochen → gekocht düzenlidir. Bağlayıcılar olay sırasını gösterir.",
+      "highlights": [
+        "Zuerst",
+        "habe",
+        "gelesen",
+        "dann",
+        "gekocht"
+      ]
+    },
+    {
+      "id": "a2-01-example-24",
+      "de": "Am Abend war ich müde, aber ich habe noch eine Nachricht geschrieben.",
+      "tr": "Akşam yorgundum ama yine de bir mesaj yazdım.",
+      "explanation": "War, sein fiilinin sık kullanılan Präteritum biçimidir. Aynı anlatıdaki ikinci cümlenin Perfekt olması doğaldır; bütün fiiller tek biçimde olmak zorunda değildir.",
+      "highlights": [
+        "war",
+        "habe",
+        "geschrieben"
+      ]
+    }
+  ],
+  "guided": [
+    {
+      "id": "a2-01-guided-01",
+      "type": "choice",
+      "prompt": "“Dün Almanca çalıştım.” anlamını hangi cümle verir?",
+      "accepted": [
+        "Ich habe gestern Deutsch gelernt."
+      ],
+      "explanation": "Habe + gelernt tamamlanan öğrenme eylemini anlatır. Morgen “yarın” demektir; lernen burada sein almaz.",
+      "rule": "Lernen, Perfekt’te haben ile kullanılır.",
+      "options": [
+        "Ich habe gestern Deutsch gelernt.",
+        "Ich lerne morgen Deutsch.",
+        "Ich bin gestern Deutsch gelernt."
+      ],
+      "wordIds": [
+        "dg-a1-05-4"
+      ],
+      "reviewWordIds": [
+        "dg-a1-05-4"
+      ],
+      "hints": [
+        "Lernen, Perfekt’te haben ile kullanılır.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "Ich habe gestern Deutsch gelernt.": "Habe + gelernt tamamlanan öğrenme eylemini anlatır. Morgen “yarın” demektir; lernen burada sein almaz.",
+        "Ich lerne morgen Deutsch.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Lernen, Perfekt’te haben ile kullanılır.",
+        "Ich bin gestern Deutsch gelernt.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Lernen, Perfekt’te haben ile kullanılır."
+      }
+    },
+    {
+      "id": "a2-01-guided-02",
+      "type": "blank",
+      "prompt": "Yalnızca yardımcıyı yaz: Ich ___ einen Spaziergang gemacht.",
+      "accepted": [
+        "habe"
+      ],
+      "explanation": "Özne ich olduğu için haben fiili habe olur. Gemacht asıl eylemi taşır; Spaziergang ile “yürüyüş yapmak” kalıbı kurulur.",
+      "rule": "Ich ile haben → habe.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-11",
+        "dg-a2-01-33"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-11",
+        "dg-a2-01-33"
+      ],
+      "hints": [
+        "Ich ile haben → habe.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-guided-03",
+      "type": "blank",
+      "prompt": "Yalnızca yardımcıyı yaz: Nora ___ einen Film gesehen.",
+      "accepted": [
+        "hat"
+      ],
+      "explanation": "Nora tekil özne olduğu için hat gerekir. Sehen fiilinin geçmiş biçimi gesehen; bu kullanımın yardımcısı haben’dir.",
+      "rule": "Tekil üçüncü kişi → hat.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-14"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-14"
+      ],
+      "hints": [
+        "Tekil üçüncü kişi → hat.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-guided-04",
+      "type": "blank",
+      "prompt": "Yalnızca yardımcıyı yaz: Ihr ___ Musik gehört.",
+      "accepted": [
+        "habt"
+      ],
+      "explanation": "Ihr için haben çekimi habt olur. Haben, wir ve sie çoğuluyla kullanılır; ihr ile aynı biçimi kopyalayamazsın.",
+      "rule": "Ihr + habt; hören → gehört.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-15"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-15"
+      ],
+      "hints": [
+        "Ihr + habt; hören → gehört.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-guided-05",
+      "type": "blank",
+      "prompt": "machen fiilinin Partizip II biçimini yaz: Ich habe eine Pause ___.",
+      "accepted": [
+        "gemacht"
+      ],
+      "explanation": "Mach- köküne ge- ve -t eklenir: gemacht. Pause yapmak için eine Pause machen kalıbı kullanılır.",
+      "rule": "Düzenli temel örüntü ge- + kök + -t.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-11",
+        "dg-a2-01-34"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-11",
+        "dg-a2-01-34"
+      ],
+      "hints": [
+        "Düzenli temel örüntü ge- + kök + -t.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-guided-06",
+      "type": "blank",
+      "prompt": "arbeiten fiilini tamamla: Wir haben lange ___.",
+      "accepted": [
+        "gearbeitet"
+      ],
+      "explanation": "Arbeit- kökü -t ile bittiği için gearbeitet biçiminde e bulunur. Gearbeitt biçimi bu fiilin doğru geçmiş biçimi değildir.",
+      "rule": "Arbeiten → gearbeitet.",
+      "options": [],
+      "wordIds": [
+        "dg-a1-05-2"
+      ],
+      "reviewWordIds": [
+        "dg-a1-05-2"
+      ],
+      "hints": [
+        "Arbeiten → gearbeitet.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-guided-07",
+      "type": "blank",
+      "prompt": "sehen fiilini tamamla: Ich habe einen Film ___.",
+      "accepted": [
+        "gesehen"
+      ],
+      "explanation": "Sehen güçlü bir fiildir; geçmiş biçimini düzenli bir -t ekiyle kurmayız. Doğru biçim gesehen olarak öğrenilir.",
+      "rule": "Sehen – hat gesehen.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-14"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-14"
+      ],
+      "hints": [
+        "Sehen – hat gesehen.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-guided-08",
+      "type": "blank",
+      "prompt": "trinken fiilini tamamla: Du hast Wasser ___.",
+      "accepted": [
+        "getrunken"
+      ],
+      "explanation": "Trinken fiilinde kök değişir: getrunken. Getrinkt biçimi düzenli fiil kuralını yanlış yere uygulamaktır.",
+      "rule": "Trinken – hat getrunken.",
+      "options": [],
+      "wordIds": [
+        "dg-a1-04-4"
+      ],
+      "reviewWordIds": [
+        "dg-a1-04-4"
+      ],
+      "hints": [
+        "Trinken – hat getrunken.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-guided-09",
+      "type": "choice",
+      "prompt": "Boşluğu tamamla: Ich ___ nach Hause gegangen.",
+      "accepted": [
+        "bin"
+      ],
+      "explanation": "Gehen burada bir yere gitmeyi anlatır; sein alır. Ich için sein çekimi bin olur. Habe farklı yardımcı, hat ise ayrıca yanlış kişidir.",
+      "rule": "Ich bin ... gegangen.",
+      "options": [
+        "hat",
+        "bin",
+        "habe"
+      ],
+      "wordIds": [
+        "dg-a2-01-12",
+        "dg-a2-01-09"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-12",
+        "dg-a2-01-09"
+      ],
+      "hints": [
+        "Ich bin ... gegangen.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "bin": "Gehen burada bir yere gitmeyi anlatır; sein alır. Ich için sein çekimi bin olur. Habe farklı yardımcı, hat ise ayrıca yanlış kişidir.",
+        "habe": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Ich bin ... gegangen.",
+        "hat": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Ich bin ... gegangen."
+      }
+    },
+    {
+      "id": "a2-01-guided-10",
+      "type": "blank",
+      "prompt": "Yalnızca yardımcıyı yaz: Ich ___ zu Hause geblieben.",
+      "accepted": [
+        "bin"
+      ],
+      "explanation": "Bleiben yer değiştirme olmasa da sein alan önemli bir fiildir. Ich öznesiyle bin kullanılır; ist üçüncü kişidir.",
+      "rule": "Bleiben – ist geblieben; ich bin geblieben.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-13",
+        "dg-a2-01-10"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-13",
+        "dg-a2-01-10"
+      ],
+      "hints": [
+        "Bleiben – ist geblieben; ich bin geblieben.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-guided-11",
+      "type": "blank",
+      "prompt": "Yalnızca yardımcıyı yaz: Wir ___ um neun angekommen.",
+      "accepted": [
+        "sind"
+      ],
+      "explanation": "Ankommen varış anlatır ve sein alır. Wir çoğul özne olduğundan sind kullanılır; Partizip II angekommen değişmez.",
+      "rule": "Wir + sind; ankommen → angekommen.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-18"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-18"
+      ],
+      "hints": [
+        "Wir + sind; ankommen → angekommen.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-guided-12",
+      "type": "blank",
+      "prompt": "Yalnızca yardımcıyı yaz: Ihr ___ mit dem Zug gefahren.",
+      "accepted": [
+        "seid"
+      ],
+      "explanation": "Yolculuk anlamındaki fahren bu örnekte sein alır. Ihr için sein çekimi seid’dir; sind, wir ve sie içindir.",
+      "rule": "Ihr seid ... gefahren.",
+      "options": [],
+      "wordIds": [
+        "dg-a1-08-6"
+      ],
+      "reviewWordIds": [
+        "dg-a1-08-6"
+      ],
+      "hints": [
+        "Ihr seid ... gefahren.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-guided-13",
+      "type": "blank",
+      "prompt": "einkaufen fiilini tamamla: Ich habe gestern ___.",
+      "accepted": [
+        "eingekauft"
+      ],
+      "explanation": "Ein- ayrılabilen ön ektir. Ge-, ön ekten sonra gelir: ein-ge-kauft. Partizip II’yi ayrı sözcüklere bölmeyiz.",
+      "rule": "Einkaufen → eingekauft.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-19"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-19"
+      ],
+      "hints": [
+        "Einkaufen → eingekauft.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-guided-14",
+      "type": "blank",
+      "prompt": "besuchen fiilini tamamla: Wir haben Nora ___.",
+      "accepted": [
+        "besucht"
+      ],
+      "explanation": "Be- ayrılamayan ön ektir. Besuchen fiilinde Partizip II besucht olur; gebesucht biçimi kullanılmaz.",
+      "rule": "Be- ön ekli bu fiilde ge- yok.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-17"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-17"
+      ],
+      "hints": [
+        "Be- ön ekli bu fiilde ge- yok.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-guided-15",
+      "type": "blank",
+      "prompt": "telefonieren fiilini tamamla: Ich habe mit Nora ___.",
+      "accepted": [
+        "telefoniert"
+      ],
+      "explanation": "-ieren ile biten telefonieren, Partizip II’de ge- almaz. Bu yüzden telefoniert doğrudur; getelefoniert değildir.",
+      "rule": "Telefonieren – hat telefoniert.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-24"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-24"
+      ],
+      "hints": [
+        "Telefonieren – hat telefoniert.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-guided-16",
+      "type": "choice",
+      "prompt": "“Dün çalışmadım.” için nötr ve doğru cümleyi seç.",
+      "accepted": [
+        "Ich habe gestern nicht gearbeitet."
+      ],
+      "explanation": "Olumsuzlukta habe ikinci konumda, gearbeitet sonda kalır. Bu nötr cümlede nicht, Partizip II’den önce kullanılır.",
+      "rule": "Nicht’i burada son fiilden önce yerleştir.",
+      "options": [
+        "Ich habe gestern nicht gearbeitet.",
+        "Ich nicht habe gestern gearbeitet.",
+        "Ich habe gestern gearbeitet nicht."
+      ],
+      "wordIds": [
+        "dg-a1-05-2"
+      ],
+      "reviewWordIds": [
+        "dg-a1-05-2"
+      ],
+      "hints": [
+        "Nicht’i burada son fiilden önce yerleştir.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "Ich habe gestern nicht gearbeitet.": "Olumsuzlukta habe ikinci konumda, gearbeitet sonda kalır. Bu nötr cümlede nicht, Partizip II’den önce kullanılır.",
+        "Ich nicht habe gestern gearbeitet.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Nicht’i burada son fiilden önce yerleştir.",
+        "Ich habe gestern gearbeitet nicht.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Nicht’i burada son fiilden önce yerleştir."
+      }
+    },
+    {
+      "id": "a2-01-guided-17",
+      "type": "choice",
+      "prompt": "“Dün ne yaptın?” sorusunu seç.",
+      "accepted": [
+        "Was hast du gestern gemacht?"
+      ],
+      "explanation": "Was birinci öge, hast ikinci ögedir. Özne ardından gelir; gemacht sonda durur. Yardımcıyı düşüremeyiz.",
+      "rule": "Soru ögesi + yardımcı + özne + ... + Partizip II.",
+      "options": [
+        "Was du hast gestern gemacht?",
+        "Was gestern du gemacht?",
+        "Was hast du gestern gemacht?"
+      ],
+      "wordIds": [
+        "dg-a2-01-11",
+        "dg-a2-01-01"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-11",
+        "dg-a2-01-01"
+      ],
+      "hints": [
+        "Soru ögesi + yardımcı + özne + ... + Partizip II.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "Was hast du gestern gemacht?": "Was birinci öge, hast ikinci ögedir. Özne ardından gelir; gemacht sonda durur. Yardımcıyı düşüremeyiz.",
+        "Was du hast gestern gemacht?": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Soru ögesi + yardımcı + özne + ... + Partizip II.",
+        "Was gestern du gemacht?": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Soru ögesi + yardımcı + özne + ... + Partizip II."
+      }
+    },
+    {
+      "id": "a2-01-guided-18",
+      "type": "sentence",
+      "prompt": "Dün mola verdim. İlk sözcük: Gestern. Verilen bütün sözcükleri kullan.",
+      "accepted": [
+        "Gestern habe ich eine Pause gemacht."
+      ],
+      "explanation": "Gestern başa gelince habe ikinci konumdadır. Eine Pause yapmak için kullanılan isim kalıbıdır; gemacht sonda kalır.",
+      "rule": "Zaman başta olsa da yardımcı ikinci konumda.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-34",
+        "dg-a2-01-11"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-34",
+        "dg-a2-01-11"
+      ],
+      "hints": [
+        "Zaman başta olsa da yardımcı ikinci konumda.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "gemacht",
+        "Pause",
+        "eine",
+        "ich",
+        "habe",
+        "Gestern"
+      ]
+    },
+    {
+      "id": "a2-01-guided-19",
+      "type": "sentence",
+      "prompt": "Sonra eve gittim. İlk sözcük: Dann. Verilen bütün sözcükleri kullan.",
+      "accepted": [
+        "Dann bin ich nach Hause gegangen."
+      ],
+      "explanation": "Dann ilk ögedir. Gehen, yönelme anlatan bu kullanımda sein alır; ich için bin seçilir ve gegangen sona gelir.",
+      "rule": "Dann + bin + ich + ... + gegangen.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-05",
+        "dg-a2-01-12",
+        "dg-a2-01-09"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-05",
+        "dg-a2-01-12",
+        "dg-a2-01-09"
+      ],
+      "hints": [
+        "Dann + bin + ich + ... + gegangen.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "gegangen",
+        "Hause",
+        "nach",
+        "ich",
+        "bin",
+        "Dann"
+      ]
+    },
+    {
+      "id": "a2-01-guided-20",
+      "type": "choice",
+      "prompt": "Metne göre Leyla ve kız kardeşi Köln’e hangi araçla gitti?",
+      "accepted": [
+        "Trenle."
+      ],
+      "explanation": "Metindeki “mit dem Zug nach Köln gefahren” ifadesi trenle yolculuk yapıldığını açıkça söyler. Cevabı metindeki kanıttan çıkarıyoruz.",
+      "rule": "Mit dem Zug = trenle.",
+      "options": [
+        "Otobüsle.",
+        "Araç belirtilmiyor.",
+        "Trenle."
+      ],
+      "wordIds": [
+        "dg-a1-08-6"
+      ],
+      "reviewWordIds": [
+        "dg-a1-08-6"
+      ],
+      "hints": [
+        "Mit dem Zug = trenle.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "Trenle.": "Metindeki “mit dem Zug nach Köln gefahren” ifadesi trenle yolculuk yapıldığını açıkça söyler. Cevabı metindeki kanıttan çıkarıyoruz.",
+        "Otobüsle.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Mit dem Zug = trenle.",
+        "Araç belirtilmiyor.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Mit dem Zug = trenle."
+      },
+      "contextId": "a2-01-reading"
+    }
+  ],
+  "independent": [
+    {
+      "id": "a2-01-independent-01",
+      "type": "choice",
+      "prompt": "“Vorgestern habe ich Nora besucht.” ne zaman gerçekleşti?",
+      "accepted": [
+        "Dünden önceki gün."
+      ],
+      "explanation": "Vorgestern, bugünden iki gün önceyi gösterir. Morgen yarın, letzten Monat geçen ay demektir; metindeki zaman ifadesini değiştiremeyiz.",
+      "rule": "Vorgestern = dünden önceki gün.",
+      "options": [
+        "Dünden önceki gün.",
+        "Yarın.",
+        "Geçen ay."
+      ],
+      "wordIds": [
+        "dg-a2-01-02",
+        "dg-a2-01-17"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-02",
+        "dg-a2-01-17"
+      ],
+      "hints": [
+        "Vorgestern = dünden önceki gün.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "Dünden önceki gün.": "Vorgestern, bugünden iki gün önceyi gösterir. Morgen yarın, letzten Monat geçen ay demektir; metindeki zaman ifadesini değiştiremeyiz.",
+        "Yarın.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Vorgestern = dünden önceki gün.",
+        "Geçen ay.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Vorgestern = dünden önceki gün."
+      }
+    },
+    {
+      "id": "a2-01-independent-02",
+      "type": "choice",
+      "prompt": "“Evde kaldım.” için doğru cümleyi seç.",
+      "accepted": [
+        "Ich bin zu Hause geblieben."
+      ],
+      "explanation": "Bleiben sein alır; zu Hause bulunulan yerdir. Son seçenek eve gitmeyi anlatır, evde kalmayı değil.",
+      "rule": "Bleiben – ist geblieben; zu Hause = evde.",
+      "options": [
+        "Ich habe zu Hause geblieben.",
+        "Ich bin nach Hause gegangen.",
+        "Ich bin zu Hause geblieben."
+      ],
+      "wordIds": [
+        "dg-a2-01-13",
+        "dg-a2-01-10"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-13",
+        "dg-a2-01-10"
+      ],
+      "hints": [
+        "Bleiben – ist geblieben; zu Hause = evde.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "Ich bin zu Hause geblieben.": "Bleiben sein alır; zu Hause bulunulan yerdir. Son seçenek eve gitmeyi anlatır, evde kalmayı değil.",
+        "Ich habe zu Hause geblieben.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Bleiben – ist geblieben; zu Hause = evde.",
+        "Ich bin nach Hause gegangen.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Bleiben – ist geblieben; zu Hause = evde."
+      }
+    },
+    {
+      "id": "a2-01-independent-03",
+      "type": "choice",
+      "prompt": "“Dün bir film izledik.” için doğru yardımcı ve biçimi seç.",
+      "accepted": [
+        "Wir haben gestern einen Film gesehen."
+      ],
+      "explanation": "Sehen bu kullanımda haben alır ve düzensiz Partizip II gesehen olur. Geseht, düzenli eki yanlış biçimde taşır.",
+      "rule": "Wir haben ... gesehen.",
+      "options": [
+        "Wir haben gestern einen Film geseht.",
+        "Wir haben gestern einen Film gesehen.",
+        "Wir sind gestern einen Film gesehen."
+      ],
+      "wordIds": [
+        "dg-a2-01-14"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-14"
+      ],
+      "hints": [
+        "Wir haben ... gesehen.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "Wir haben gestern einen Film gesehen.": "Sehen bu kullanımda haben alır ve düzensiz Partizip II gesehen olur. Geseht, düzenli eki yanlış biçimde taşır.",
+        "Wir sind gestern einen Film gesehen.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Wir haben ... gesehen.",
+        "Wir haben gestern einen Film geseht.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Wir haben ... gesehen."
+      }
+    },
+    {
+      "id": "a2-01-independent-04",
+      "type": "choice",
+      "prompt": "“Ihr ___ gestern angekommen.” boşluğuna ne gelir?",
+      "accepted": [
+        "seid"
+      ],
+      "explanation": "Ankommen sein ile kurulur. Ihr için doğru çekim seid’dir; sind başka kişi biçimi, habt ise haben ailesidir.",
+      "rule": "Ihr seid ... angekommen.",
+      "options": [
+        "seid",
+        "sind",
+        "habt"
+      ],
+      "wordIds": [
+        "dg-a2-01-18"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-18"
+      ],
+      "hints": [
+        "Ihr seid ... angekommen.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "seid": "Ankommen sein ile kurulur. Ihr için doğru çekim seid’dir; sind başka kişi biçimi, habt ise haben ailesidir.",
+        "sind": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Ihr seid ... angekommen.",
+        "habt": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Ihr seid ... angekommen."
+      }
+    },
+    {
+      "id": "a2-01-independent-05",
+      "type": "choice",
+      "prompt": "Telefonieren fiilinin doğru geçmiş biçimi hangisidir?",
+      "accepted": [
+        "telefoniert"
+      ],
+      "explanation": "-ieren fiilinde ge- kullanılmaz ve geçmiş biçimi telefoniert olur. Telefonieren mastardır; bu cümle konumunda Partizip II gerekir.",
+      "rule": "-ieren → -iert, ge- yok.",
+      "options": [
+        "getelefoniert",
+        "telefonieren",
+        "telefoniert"
+      ],
+      "wordIds": [
+        "dg-a2-01-24"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-24"
+      ],
+      "hints": [
+        "-ieren → -iert, ge- yok.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "telefoniert": "-ieren fiilinde ge- kullanılmaz ve geçmiş biçimi telefoniert olur. Telefonieren mastardır; bu cümle konumunda Partizip II gerekir.",
+        "getelefoniert": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. -ieren → -iert, ge- yok.",
+        "telefonieren": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. -ieren → -iert, ge- yok."
+      }
+    },
+    {
+      "id": "a2-01-independent-06",
+      "type": "choice",
+      "prompt": "Besuchen fiilinin doğru Partizip II biçimi hangisidir?",
+      "accepted": [
+        "besucht"
+      ],
+      "explanation": "Be- ayrılamayan ön ektir; Partizip II besucht olur. Gebesucht fazladan ge- içerir, besuchen ise mastardır.",
+      "rule": "Besuchen – hat besucht.",
+      "options": [
+        "besuchen",
+        "besucht",
+        "gebesucht"
+      ],
+      "wordIds": [
+        "dg-a2-01-17"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-17"
+      ],
+      "hints": [
+        "Besuchen – hat besucht.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "besucht": "Be- ayrılamayan ön ektir; Partizip II besucht olur. Gebesucht fazladan ge- içerir, besuchen ise mastardır.",
+        "gebesucht": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Besuchen – hat besucht.",
+        "besuchen": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Besuchen – hat besucht."
+      }
+    },
+    {
+      "id": "a2-01-independent-07",
+      "type": "choice",
+      "prompt": "“Annemle telefonda konuştum.” anlamındaki doğru cümleyi seç.",
+      "accepted": [
+        "Ich habe mit meiner Mutter telefoniert."
+      ],
+      "explanation": "Telefonieren haben alır ve -ieren kuralıyla telefoniert olur. Mit meiner Mutter konuştuğun kişiyi gösterir.",
+      "rule": "Ich habe mit ... telefoniert.",
+      "options": [
+        "Ich habe mit meiner Mutter telefoniert.",
+        "Ich bin mit meiner Mutter telefoniert.",
+        "Ich habe mit meiner Mutter getelefoniert."
+      ],
+      "wordIds": [
+        "dg-a2-01-24"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-24"
+      ],
+      "hints": [
+        "Ich habe mit ... telefoniert.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "Ich habe mit meiner Mutter telefoniert.": "Telefonieren haben alır ve -ieren kuralıyla telefoniert olur. Mit meiner Mutter konuştuğun kişiyi gösterir.",
+        "Ich bin mit meiner Mutter telefoniert.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Ich habe mit ... telefoniert.",
+        "Ich habe mit meiner Mutter getelefoniert.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Ich habe mit ... telefoniert."
+      }
+    },
+    {
+      "id": "a2-01-independent-08",
+      "type": "choice",
+      "prompt": "“Dün kahve içmedim.” için doğru nötr cümleyi seç.",
+      "accepted": [
+        "Ich habe gestern keinen Kaffee getrunken."
+      ],
+      "explanation": "Kaffee eril nesne olduğu için keinen gerekir. Trinken bu kullanımda haben alır; getrunken düzensiz Partizip II’dir.",
+      "rule": "Kein → keinen, eril Akkusativ nesnede.",
+      "options": [
+        "Ich habe gestern kein Kaffee getrunken.",
+        "Ich bin gestern keinen Kaffee getrunken.",
+        "Ich habe gestern keinen Kaffee getrunken."
+      ],
+      "wordIds": [
+        "dg-a1-04-4"
+      ],
+      "reviewWordIds": [
+        "dg-a1-04-4"
+      ],
+      "hints": [
+        "Kein → keinen, eril Akkusativ nesnede.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "Ich habe gestern keinen Kaffee getrunken.": "Kaffee eril nesne olduğu için keinen gerekir. Trinken bu kullanımda haben alır; getrunken düzensiz Partizip II’dir.",
+        "Ich habe gestern kein Kaffee getrunken.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Kein → keinen, eril Akkusativ nesnede.",
+        "Ich bin gestern keinen Kaffee getrunken.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Kein → keinen, eril Akkusativ nesnede."
+      }
+    },
+    {
+      "id": "a2-01-independent-09",
+      "type": "choice",
+      "prompt": "“Sonra kitap okudum.” cümlesinde hangi sıra doğrudur?",
+      "accepted": [
+        "Danach habe ich ein Buch gelesen."
+      ],
+      "explanation": "Danach ilk ögedir, habe ikinci konuma gelir; gelesen standart ana cümlenin sonundadır. Zaman ögesi öznenin önüne geçebilir.",
+      "rule": "Danach + yardımcı + özne + ... + Partizip II.",
+      "options": [
+        "Danach habe ich gelesen ein Buch.",
+        "Danach habe ich ein Buch gelesen.",
+        "Danach ich habe ein Buch gelesen."
+      ],
+      "wordIds": [
+        "dg-a2-01-06",
+        "dg-a1-09-5"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-06",
+        "dg-a1-09-5"
+      ],
+      "hints": [
+        "Danach + yardımcı + özne + ... + Partizip II.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "Danach habe ich ein Buch gelesen.": "Danach ilk ögedir, habe ikinci konuma gelir; gelesen standart ana cümlenin sonundadır. Zaman ögesi öznenin önüne geçebilir.",
+        "Danach ich habe ein Buch gelesen.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Danach + yardımcı + özne + ... + Partizip II.",
+        "Danach habe ich gelesen ein Buch.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Danach + yardımcı + özne + ... + Partizip II."
+      }
+    },
+    {
+      "id": "a2-01-independent-10",
+      "type": "choice",
+      "prompt": "“Ne oldu?” sorusunun doğru biçimini seç.",
+      "accepted": [
+        "Was ist passiert?"
+      ],
+      "explanation": "Passieren “meydana gelmek” anlamında sein alır. -ieren ile bittiğinden Partizip II’de ge- bulunmaz.",
+      "rule": "Passieren – ist passiert.",
+      "options": [
+        "Was ist passiert?",
+        "Was hat passiert?",
+        "Was ist gepassiert?"
+      ],
+      "wordIds": [
+        "dg-a2-01-25"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-25"
+      ],
+      "hints": [
+        "Passieren – ist passiert.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "Was ist passiert?": "Passieren “meydana gelmek” anlamında sein alır. -ieren ile bittiğinden Partizip II’de ge- bulunmaz.",
+        "Was hat passiert?": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Passieren – ist passiert.",
+        "Was ist gepassiert?": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Passieren – ist passiert."
+      }
+    },
+    {
+      "id": "a2-01-independent-11",
+      "type": "choice",
+      "prompt": "“Bir mesaj yazdınız.” (ihr) cümlesini seç.",
+      "accepted": [
+        "Ihr habt eine Nachricht geschrieben."
+      ],
+      "explanation": "Ihr için haben çekimi habt’tır. Schreiben bu kullanımda haben ile kurulur; geschrieben Partizip II’dir.",
+      "rule": "Ihr habt ... geschrieben.",
+      "options": [
+        "Ihr haben eine Nachricht geschrieben.",
+        "Ihr seid eine Nachricht geschrieben.",
+        "Ihr habt eine Nachricht geschrieben."
+      ],
+      "wordIds": [
+        "dg-a2-01-36"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-36"
+      ],
+      "hints": [
+        "Ihr habt ... geschrieben.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "Ihr habt eine Nachricht geschrieben.": "Ihr için haben çekimi habt’tır. Schreiben bu kullanımda haben ile kurulur; geschrieben Partizip II’dir.",
+        "Ihr haben eine Nachricht geschrieben.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Ihr habt ... geschrieben.",
+        "Ihr seid eine Nachricht geschrieben.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Ihr habt ... geschrieben."
+      }
+    },
+    {
+      "id": "a2-01-independent-12",
+      "type": "choice",
+      "prompt": "Hangi ifade “eve” yönelmeyi bildirir?",
+      "accepted": [
+        "nach Hause"
+      ],
+      "explanation": "Nach Hause yönelmeyi, zu Hause bulunulan yeri, gestern ise zamanı gösterir. Eve gitmek ve evde kalmak aynı yapı değildir.",
+      "rule": "Yön: nach Hause; konum: zu Hause.",
+      "options": [
+        "gestern",
+        "nach Hause",
+        "zu Hause"
+      ],
+      "wordIds": [
+        "dg-a2-01-09",
+        "dg-a2-01-10"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-09",
+        "dg-a2-01-10"
+      ],
+      "hints": [
+        "Yön: nach Hause; konum: zu Hause.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Bağlamdan seç",
+      "optionNotes": {
+        "nach Hause": "Nach Hause yönelmeyi, zu Hause bulunulan yeri, gestern ise zamanı gösterir. Eve gitmek ve evde kalmak aynı yapı değildir.",
+        "zu Hause": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Yön: nach Hause; konum: zu Hause.",
+        "gestern": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Yön: nach Hause; konum: zu Hause."
+      }
+    },
+    {
+      "id": "a2-01-independent-13",
+      "type": "blank",
+      "prompt": "Yalnızca yardımcıyı yaz: Du ___ deine Freundin getroffen.",
+      "accepted": [
+        "hast"
+      ],
+      "explanation": "Treffen burada haben alır. Özne du olduğu için hast gerekir; getroffen değişmeden sona yerleşir.",
+      "rule": "Du hast ... getroffen.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-16"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-16"
+      ],
+      "hints": [
+        "Du hast ... getroffen.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-independent-14",
+      "type": "blank",
+      "prompt": "Yalnızca yardımcıyı yaz: Er ___ nach Köln gefahren.",
+      "accepted": [
+        "ist"
+      ],
+      "explanation": "Fahren bu örnekte bir yere yolculuk anlatır ve sein alır. Tekil er için doğru biçim ist’tir.",
+      "rule": "Er ist ... gefahren.",
+      "options": [],
+      "wordIds": [
+        "dg-a1-08-6"
+      ],
+      "reviewWordIds": [
+        "dg-a1-08-6"
+      ],
+      "hints": [
+        "Er ist ... gefahren.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-independent-15",
+      "type": "blank",
+      "prompt": "Yalnızca yardımcıyı yaz: Wir ___ das Frühstück gemacht.",
+      "accepted": [
+        "haben"
+      ],
+      "explanation": "Machen haben ile kurulur. Wir öznesi için haben kullanılır; Frühstück hazırlanmış nesnedir, yardımcıyı değiştirmez.",
+      "rule": "Wir haben ... gemacht.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-11",
+        "dg-a2-01-32"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-11",
+        "dg-a2-01-32"
+      ],
+      "hints": [
+        "Wir haben ... gemacht.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-independent-16",
+      "type": "blank",
+      "prompt": "Yalnızca yardımcıyı yaz: Ich ___ um acht aufgestanden.",
+      "accepted": [
+        "bin"
+      ],
+      "explanation": "Aufstehen bu kullanımda sein alır. Ich için bin seçilir; ayrılabilen fiilin geçmiş biçimi aufgestanden olur.",
+      "rule": "Ich bin ... aufgestanden.",
+      "options": [],
+      "wordIds": [
+        "dg-a1-05-1"
+      ],
+      "reviewWordIds": [
+        "dg-a1-05-1"
+      ],
+      "hints": [
+        "Ich bin ... aufgestanden.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-independent-17",
+      "type": "blank",
+      "prompt": "aufräumen fiilini tamamla: Ich habe mein Zimmer ___.",
+      "accepted": [
+        "aufgeräumt"
+      ],
+      "explanation": "Auf- ön ekinden sonra ge- gelir; räum- kökü ve -t ile aufgeräumt oluşur. Bu fiil haben ile kullanılır.",
+      "rule": "Aufräumen – hat aufgeräumt.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-20"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-20"
+      ],
+      "hints": [
+        "Aufräumen – hat aufgeräumt.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-independent-18",
+      "type": "blank",
+      "prompt": "anrufen fiilini tamamla: Nora hat ihre Mutter ___.",
+      "accepted": [
+        "angerufen"
+      ],
+      "explanation": "Anrufen ayrılabilen ve düzensiz bir fiildir. An-ge-rufen birleşerek angerufen olur; annenin aranması anlatılır.",
+      "rule": "Anrufen – hat angerufen.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-21"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-21"
+      ],
+      "hints": [
+        "Anrufen – hat angerufen.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-independent-19",
+      "type": "blank",
+      "prompt": "mitbringen fiilini tamamla: Ich habe einen Kuchen ___.",
+      "accepted": [
+        "mitgebracht"
+      ],
+      "explanation": "Bringen → gebracht karışık fiildir. Ayrılabilen mit- ön ekiyle mitgebracht olur; mitgebringt doğru biçim değildir.",
+      "rule": "Mitbringen – hat mitgebracht.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-22"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-22"
+      ],
+      "hints": [
+        "Mitbringen – hat mitgebracht.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-independent-20",
+      "type": "blank",
+      "prompt": "erzählen fiilini tamamla: Ada hat von ihrem Wochenende ___.",
+      "accepted": [
+        "erzählt"
+      ],
+      "explanation": "Er- ayrılamayan ön ektir, bu yüzden ge- eklenmez. Erzähl- köküne -t gelerek erzählt oluşur.",
+      "rule": "Erzählen – hat erzählt.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-23",
+        "dg-a2-01-31"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-23",
+        "dg-a2-01-31"
+      ],
+      "hints": [
+        "Erzählen – hat erzählt.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-independent-21",
+      "type": "blank",
+      "prompt": "vergessen fiilini tamamla: Ich habe meinen Schlüssel ___.",
+      "accepted": [
+        "vergessen"
+      ],
+      "explanation": "Bu fiilin mastarı ve Partizip II biçimi aynı görünür: vergessen. Ver- ayrılamayan ön ektir, ge- eklemeyiz.",
+      "rule": "Vergessen – hat vergessen.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-26"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-26"
+      ],
+      "hints": [
+        "Vergessen – hat vergessen.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-independent-22",
+      "type": "blank",
+      "prompt": "verstehen fiilini tamamla: Wir haben die Nachricht ___.",
+      "accepted": [
+        "verstanden"
+      ],
+      "explanation": "Verstehen düzensizdir ve ver- ön eki nedeniyle ge- almaz. Doğru Partizip II verstanden olarak öğrenilir.",
+      "rule": "Verstehen – hat verstanden.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-27",
+        "dg-a2-01-36"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-27",
+        "dg-a2-01-36"
+      ],
+      "hints": [
+        "Verstehen – hat verstanden.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-independent-23",
+      "type": "blank",
+      "prompt": "finden fiilini tamamla: Ich habe meine Tasche ___.",
+      "accepted": [
+        "gefunden"
+      ],
+      "explanation": "Finden güçlü fiildir; kök değişimiyle gefunden olur. Gefindet gibi düzenli tahminler bu fiilde kullanılmaz.",
+      "rule": "Finden – hat gefunden.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-28"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-28"
+      ],
+      "hints": [
+        "Finden – hat gefunden.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-independent-24",
+      "type": "blank",
+      "prompt": "bleiben fiilini tamamla: Wir sind zu Hause ___.",
+      "accepted": [
+        "geblieben"
+      ],
+      "explanation": "Bleiben → geblieben düzensiz biçimdir. Sein alması nedeniyle yardımcı zaten sind olarak verilmiştir; mastarı tekrar yazma.",
+      "rule": "Bleiben – ist geblieben.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-13"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-13"
+      ],
+      "hints": [
+        "Bleiben – ist geblieben.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Eksik biçimi tamamla"
+    },
+    {
+      "id": "a2-01-independent-25",
+      "type": "sentence",
+      "prompt": "Dün bir gezi yaptım. İlk sözcük: Gestern. Verilen bütün sözcükleri kullan.",
+      "accepted": [
+        "Gestern habe ich einen Ausflug gemacht."
+      ],
+      "explanation": "Gestern ilk öge, habe ikinci ögedir. Ausflug eril nesne olduğu için einen kullanılır; gemacht sonda kalır.",
+      "rule": "Zaman + yardımcı + özne + nesne + Partizip II.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-30",
+        "dg-a2-01-11"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-30",
+        "dg-a2-01-11"
+      ],
+      "hints": [
+        "Zaman + yardımcı + özne + nesne + Partizip II.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "gemacht",
+        "Ausflug",
+        "einen",
+        "ich",
+        "habe",
+        "Gestern"
+      ]
+    },
+    {
+      "id": "a2-01-independent-26",
+      "type": "sentence",
+      "prompt": "Pazar günü evde kaldık. İlk sözcük: Wir. Verilen bütün sözcükleri kullan.",
+      "accepted": [
+        "Wir sind am Sonntag zu Hause geblieben."
+      ],
+      "explanation": "Wir öznesi sind ister. Bleiben sein alır, zu Hause konumu belirtir. Geçmiş biçimi geblieben ana cümlenin sonundadır.",
+      "rule": "Wir sind ... geblieben.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-13",
+        "dg-a2-01-10"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-13",
+        "dg-a2-01-10"
+      ],
+      "hints": [
+        "Wir sind ... geblieben.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "geblieben",
+        "Hause",
+        "zu",
+        "Sonntag",
+        "am",
+        "sind",
+        "Wir"
+      ]
+    },
+    {
+      "id": "a2-01-independent-27",
+      "type": "sentence",
+      "prompt": "Ondan sonra Nora annesini aradı. İlk sözcük: Danach. Verilen bütün sözcükleri kullan.",
+      "accepted": [
+        "Danach hat Nora ihre Mutter angerufen."
+      ],
+      "explanation": "Danach ilk ögedir; hat ikinci konuma gelir. Nora üçüncü kişi tekildir. Anrufen geçmişte tek sözcükle angerufen olur.",
+      "rule": "Danach + hat + tekil özne + ... + angerufen.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-06",
+        "dg-a2-01-21"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-06",
+        "dg-a2-01-21"
+      ],
+      "hints": [
+        "Danach + hat + tekil özne + ... + angerufen.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "angerufen",
+        "Mutter",
+        "ihre",
+        "Nora",
+        "hat",
+        "Danach"
+      ]
+    },
+    {
+      "id": "a2-01-independent-28",
+      "type": "sentence",
+      "prompt": "Dün kahve içmedim. İlk sözcük: Ich. Verilen bütün sözcükleri kullan.",
+      "accepted": [
+        "Ich habe gestern keinen Kaffee getrunken."
+      ],
+      "explanation": "Ich ile habe kullanılır. Kaffee eril nesnedir, bu yüzden keinen gerekir; getrunken sonda kalır.",
+      "rule": "Ich habe ... keinen Kaffee getrunken.",
+      "options": [],
+      "wordIds": [
+        "dg-a1-04-4"
+      ],
+      "reviewWordIds": [
+        "dg-a1-04-4"
+      ],
+      "hints": [
+        "Ich habe ... keinen Kaffee getrunken.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "getrunken",
+        "Kaffee",
+        "keinen",
+        "gestern",
+        "habe",
+        "Ich"
+      ]
+    },
+    {
+      "id": "a2-01-independent-29",
+      "type": "sentence",
+      "prompt": "Hafta sonunda alışveriş yaptın mı? İlk sözcük: Hast. Verilen bütün sözcükleri kullan.",
+      "accepted": [
+        "Hast du am Wochenende eingekauft?"
+      ],
+      "explanation": "Evet/hayır sorusu yardımcıyla başlar. Du ikinci konumdadır; eingekauft sonda bulunur.",
+      "rule": "Yardımcı + özne + ... + Partizip II?",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-19",
+        "dg-a2-01-31"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-19",
+        "dg-a2-01-31"
+      ],
+      "hints": [
+        "Yardımcı + özne + ... + Partizip II?",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "eingekauft",
+        "Wochenende",
+        "am",
+        "du",
+        "Hast"
+      ]
+    },
+    {
+      "id": "a2-01-independent-30",
+      "type": "sentence",
+      "prompt": "Dün ne yaptınız? İlk sözcük: Was. Verilen bütün sözcükleri kullan.",
+      "accepted": [
+        "Was habt ihr gestern gemacht?"
+      ],
+      "explanation": "Was ilk öge, habt ikinci ögedir. Ihr için habt gerekir; standart bilgi sorusunda gemacht sonda kalır.",
+      "rule": "Was + habt + ihr + ... + gemacht?",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-11"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-11"
+      ],
+      "hints": [
+        "Was + habt + ihr + ... + gemacht?",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "gemacht",
+        "gestern",
+        "ihr",
+        "habt",
+        "Was"
+      ]
+    },
+    {
+      "id": "a2-01-independent-31",
+      "type": "sentence",
+      "prompt": "Cumartesi nereye gittin? İlk sözcük: Wohin. Verilen bütün sözcükleri kullan.",
+      "accepted": [
+        "Wohin bist du am Samstag gegangen?"
+      ],
+      "explanation": "Wohin yön sorar. Gehen için sein, du için bist seçilir. Am Samstag zaman bilgisi olarak iki fiilin arasında durur.",
+      "rule": "Wohin + bist + du + ... + gegangen?",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-12"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-12"
+      ],
+      "hints": [
+        "Wohin + bist + du + ... + gegangen?",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "gegangen",
+        "Samstag",
+        "am",
+        "du",
+        "bist",
+        "Wohin"
+      ]
+    },
+    {
+      "id": "a2-01-independent-32",
+      "type": "sentence",
+      "prompt": "Önce kahvaltıyı hazırladık. İlk sözcük: Zuerst. Verilen bütün sözcükleri kullan.",
+      "accepted": [
+        "Zuerst haben wir das Frühstück gemacht."
+      ],
+      "explanation": "Zuerst başa geldiği için haben ikinci konumdadır. Wir yardımcıdan sonra gelir; gemacht cümleyi kapatır.",
+      "rule": "Zuerst + haben + wir + ... + gemacht.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-04",
+        "dg-a2-01-32"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-04",
+        "dg-a2-01-32"
+      ],
+      "hints": [
+        "Zuerst + haben + wir + ... + gemacht.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "gemacht",
+        "Frühstück",
+        "das",
+        "wir",
+        "haben",
+        "Zuerst"
+      ]
+    },
+    {
+      "id": "a2-01-independent-33",
+      "type": "sentence",
+      "prompt": "Akşam bir mesaj yazdım. İlk sözcük: Am. Verilen bütün sözcükleri kullan.",
+      "accepted": [
+        "Am Abend habe ich eine Nachricht geschrieben."
+      ],
+      "explanation": "Am Abend tek zaman ögesidir. Habe ikinci ögedir; Nachricht dişil nesne olduğu için eine kullanılır.",
+      "rule": "Zaman ögesi + habe + ich + ... + geschrieben.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-36"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-36"
+      ],
+      "hints": [
+        "Zaman ögesi + habe + ich + ... + geschrieben.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "geschrieben",
+        "Nachricht",
+        "eine",
+        "ich",
+        "habe",
+        "Abend",
+        "Am"
+      ]
+    },
+    {
+      "id": "a2-01-independent-34",
+      "type": "sentence",
+      "prompt": "Trenle Köln’e gittiniz. İlk sözcük: Ihr. Verilen bütün sözcükleri kullan.",
+      "accepted": [
+        "Ihr seid mit dem Zug nach Köln gefahren."
+      ],
+      "explanation": "Ihr için sein çekimi seid’dir. Yolculuğu anlatan gefahren sonda; mit dem Zug araç, nach Köln yön bilgisidir.",
+      "rule": "Ihr seid ... gefahren.",
+      "options": [],
+      "wordIds": [
+        "dg-a1-08-6"
+      ],
+      "reviewWordIds": [
+        "dg-a1-08-6"
+      ],
+      "hints": [
+        "Ihr seid ... gefahren.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Sözcüklerle cümle kur",
+      "tiles": [
+        "gefahren",
+        "Köln",
+        "nach",
+        "Zug",
+        "dem",
+        "mit",
+        "seid",
+        "Ihr"
+      ]
+    },
+    {
+      "id": "a2-01-independent-35",
+      "type": "blank",
+      "prompt": "Yalnızca hatalı biçimi veya sırayı düzelt; diğer sözcükleri koru. Cümlenin tamamını yaz: Ich habe nach Hause gegangen.",
+      "accepted": [
+        "Ich bin nach Hause gegangen."
+      ],
+      "explanation": "Gehen burada sein alır. Yalnızca habe → bin düzeltmesi gerekir; yer ve Partizip II zaten doğrudur.",
+      "rule": "Gehen – ist gegangen.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-12"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-12"
+      ],
+      "hints": [
+        "Gehen – ist gegangen.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Hata dedektifi"
+    },
+    {
+      "id": "a2-01-independent-36",
+      "type": "blank",
+      "prompt": "Yalnızca hatalı biçimi veya sırayı düzelt; diğer sözcükleri koru. Cümlenin tamamını yaz: Ihr haben gestern gelernt.",
+      "accepted": [
+        "Ihr habt gestern gelernt."
+      ],
+      "explanation": "Ihr öznesi için yardımcı habt olur. Haben çekimini wir veya sie ile karıştırma; gelernt biçimi değişmez.",
+      "rule": "Ihr + habt.",
+      "options": [],
+      "wordIds": [
+        "dg-a1-05-4"
+      ],
+      "reviewWordIds": [
+        "dg-a1-05-4"
+      ],
+      "hints": [
+        "Ihr + habt.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Hata dedektifi"
+    },
+    {
+      "id": "a2-01-independent-37",
+      "type": "blank",
+      "prompt": "Yalnızca hatalı biçimi veya sırayı düzelt; diğer sözcükleri koru. Cümlenin tamamını yaz: Ich habe Nora gebesucht.",
+      "accepted": [
+        "Ich habe Nora besucht."
+      ],
+      "explanation": "Besuchen fiilindeki be- ayrılamaz; Partizip II ge- almaz. Yardımcı ve nesne doğru, yalnızca gebesucht düzeltilir.",
+      "rule": "Besuchen → besucht.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-17"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-17"
+      ],
+      "hints": [
+        "Besuchen → besucht.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Hata dedektifi"
+    },
+    {
+      "id": "a2-01-independent-38",
+      "type": "blank",
+      "prompt": "Yalnızca hatalı biçimi veya sırayı düzelt; diğer sözcükleri koru. Cümlenin tamamını yaz: Wir sind zu Hause gebleibt.",
+      "accepted": [
+        "Wir sind zu Hause geblieben."
+      ],
+      "explanation": "Yardımcı sind doğrudur; yanlış olan Partizip II’dir. Bleiben fiilinin düzensiz geçmiş biçimi geblieben olur.",
+      "rule": "Bleiben → geblieben.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-13"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-13"
+      ],
+      "hints": [
+        "Bleiben → geblieben.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Hata dedektifi"
+    },
+    {
+      "id": "a2-01-independent-39",
+      "type": "blank",
+      "prompt": "Yalnızca hatalı biçimi veya sırayı düzelt; diğer sözcükleri koru. Cümlenin tamamını yaz: Ich habe lange getelefoniert.",
+      "accepted": [
+        "Ich habe lange telefoniert."
+      ],
+      "explanation": "Telefonieren -ieren ile biter ve ge- almaz. Diğer ögeler korunur; getelefoniert yerine telefoniert yazılır.",
+      "rule": "-ieren → -iert; ge- yok.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-24"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-24"
+      ],
+      "hints": [
+        "-ieren → -iert; ge- yok.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Hata dedektifi"
+    },
+    {
+      "id": "a2-01-independent-40",
+      "type": "blank",
+      "prompt": "Yalnızca hatalı biçimi veya sırayı düzelt; diğer sözcükleri koru. Cümlenin tamamını yaz: Du hast Wasser getrinkt.",
+      "accepted": [
+        "Du hast Wasser getrunken."
+      ],
+      "explanation": "Trinken düzensizdir, kök değişir ve getrunken olur. Hast yardımcı çekimi zaten doğru olduğu için onu değiştirmiyoruz.",
+      "rule": "Trinken → getrunken.",
+      "options": [],
+      "wordIds": [
+        "dg-a1-04-4"
+      ],
+      "reviewWordIds": [
+        "dg-a1-04-4"
+      ],
+      "hints": [
+        "Trinken → getrunken.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Hata dedektifi"
+    },
+    {
+      "id": "a2-01-independent-41",
+      "type": "blank",
+      "prompt": "Yalnızca hatalı biçimi veya sırayı düzelt; diğer sözcükleri koru. Cümlenin tamamını yaz: Gestern ich habe eingekauft.",
+      "accepted": [
+        "Gestern habe ich eingekauft."
+      ],
+      "explanation": "Gestern ilk ögedir; habe ikinci konuma gelmelidir. Özne ich, yardımcıdan sonra yer alır ve eingekauft sonda kalır.",
+      "rule": "Zaman başta → yardımcı ikinci konumda.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-19"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-19"
+      ],
+      "hints": [
+        "Zaman başta → yardımcı ikinci konumda.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Hata dedektifi"
+    },
+    {
+      "id": "a2-01-independent-42",
+      "type": "blank",
+      "prompt": "Yalnızca hatalı biçimi veya sırayı düzelt; diğer sözcükleri koru. Cümlenin tamamını yaz: Was du hast gemacht?",
+      "accepted": [
+        "Was hast du gemacht?"
+      ],
+      "explanation": "Soru sözcüğü was ilk ögedir. Yardımcı hast hemen ardından gelmeli; özne du sonra, gemacht en sonda olmalıdır.",
+      "rule": "Soru ögesi + yardımcı + özne + Partizip II.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-11"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-11"
+      ],
+      "hints": [
+        "Soru ögesi + yardımcı + özne + Partizip II.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Hata dedektifi"
+    },
+    {
+      "id": "a2-01-independent-43",
+      "type": "choice",
+      "prompt": "Leyla cumartesi kaçta kalktı?",
+      "accepted": [
+        "Saat sekizde."
+      ],
+      "explanation": "İlk cümlede “um acht aufgestanden” yazıyor. Metindeki açık saat sekizdir; başka bir cümlenin saatini buraya taşımıyoruz.",
+      "rule": "Um acht = saat sekizde.",
+      "options": [
+        "Saat sekizde.",
+        "Saat dokuzda.",
+        "Metin söylemiyor."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "Um acht = saat sekizde.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "optionNotes": {
+        "Saat sekizde.": "İlk cümlede “um acht aufgestanden” yazıyor. Metindeki açık saat sekizdir; başka bir cümlenin saatini buraya taşımıyoruz.",
+        "Saat dokuzda.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Um acht = saat sekizde.",
+        "Metin söylemiyor.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Um acht = saat sekizde."
+      },
+      "contextId": "a2-01-reading"
+    },
+    {
+      "id": "a2-01-independent-44",
+      "type": "choice",
+      "prompt": "Leyla ilk olarak kiminle kahvaltı yaptı?",
+      "accepted": [
+        "Kız kardeşiyle."
+      ],
+      "explanation": "“Mit meiner Schwester gefrühstückt” ifadesi kahvaltıdaki kişiyi belirtir. Nora ile daha sonra Köln’de buluşuluyor.",
+      "rule": "Mit meiner Schwester = kız kardeşimle.",
+      "options": [
+        "Nora ile.",
+        "Erkek kardeşiyle.",
+        "Kız kardeşiyle."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "Mit meiner Schwester = kız kardeşimle.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "optionNotes": {
+        "Kız kardeşiyle.": "“Mit meiner Schwester gefrühstückt” ifadesi kahvaltıdaki kişiyi belirtir. Nora ile daha sonra Köln’de buluşuluyor.",
+        "Nora ile.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Mit meiner Schwester = kız kardeşimle.",
+        "Erkek kardeşiyle.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Mit meiner Schwester = kız kardeşimle."
+      },
+      "contextId": "a2-01-reading"
+    },
+    {
+      "id": "a2-01-independent-45",
+      "type": "choice",
+      "prompt": "Nora ile nerede buluşuldu?",
+      "accepted": [
+        "Köln’de."
+      ],
+      "explanation": "Önce Köln’e gittikleri söyleniyor, sonraki cümlede “Dort” bu yere dönüyor. Trende buluştukları yazmıyor.",
+      "rule": "Dort, önceki cümlede söylenen yere gönderme yapar.",
+      "options": [
+        "Trende olduğu kesin.",
+        "Köln’de.",
+        "Leyla’nın evinde."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "Dort, önceki cümlede söylenen yere gönderme yapar.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "optionNotes": {
+        "Köln’de.": "Önce Köln’e gittikleri söyleniyor, sonraki cümlede “Dort” bu yere dönüyor. Trende buluştukları yazmıyor.",
+        "Leyla’nın evinde.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Dort, önceki cümlede söylenen yere gönderme yapar.",
+        "Trende olduğu kesin.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Dort, önceki cümlede söylenen yere gönderme yapar."
+      },
+      "contextId": "a2-01-reading"
+    },
+    {
+      "id": "a2-01-independent-46",
+      "type": "choice",
+      "prompt": "Kafeye neden gittiler?",
+      "accepted": [
+        "Öğleden sonra yağmur yağdığı için."
+      ],
+      "explanation": "“Am Nachmittag hat es geregnet. Deshalb ...” iki cümleyi sebep-sonuç ilişkisiyle bağlar. Deshalb bu nedenle demektir.",
+      "rule": "Geregnet = yağmur yağdı; deshalb = bu nedenle.",
+      "options": [
+        "Öğleden sonra yağmur yağdığı için.",
+        "Film izlemek için.",
+        "Bilet almak için."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "Geregnet = yağmur yağdı; deshalb = bu nedenle.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "optionNotes": {
+        "Öğleden sonra yağmur yağdığı için.": "“Am Nachmittag hat es geregnet. Deshalb ...” iki cümleyi sebep-sonuç ilişkisiyle bağlar. Deshalb bu nedenle demektir.",
+        "Film izlemek için.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Geregnet = yağmur yağdı; deshalb = bu nedenle.",
+        "Bilet almak için.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Geregnet = yağmur yağdı; deshalb = bu nedenle."
+      },
+      "contextId": "a2-01-reading"
+    },
+    {
+      "id": "a2-01-independent-47",
+      "type": "choice",
+      "prompt": "Leyla kafede ne içti?",
+      "accepted": [
+        "Çay."
+      ],
+      "explanation": "“Ich habe Tee getrunken” ifadesi çay içildiğini açıkça söyler. Metnin başka bir içecek söylemediği yerde varsayım yapma.",
+      "rule": "Tee = çay.",
+      "options": [
+        "Kahve.",
+        "Su olduğu kesin.",
+        "Çay."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "Tee = çay.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "optionNotes": {
+        "Çay.": "“Ich habe Tee getrunken” ifadesi çay içildiğini açıkça söyler. Metnin başka bir içecek söylemediği yerde varsayım yapma.",
+        "Kahve.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Tee = çay.",
+        "Su olduğu kesin.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Tee = çay."
+      },
+      "contextId": "a2-01-reading"
+    },
+    {
+      "id": "a2-01-independent-48",
+      "type": "choice",
+      "prompt": "Leyla mesajı kime yazdı?",
+      "accepted": [
+        "Erkek kardeşine."
+      ],
+      "explanation": "“Eine Nachricht an meinen Bruder” mesajın yöneldiği kişiyi gösterir. Nora ise annesini telefonla arar; iki olayı karıştırma.",
+      "rule": "An meinen Bruder = erkek kardeşime.",
+      "options": [
+        "Komşularına.",
+        "Erkek kardeşine.",
+        "Nora’nın annesine."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "An meinen Bruder = erkek kardeşime.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "optionNotes": {
+        "Erkek kardeşine.": "“Eine Nachricht an meinen Bruder” mesajın yöneldiği kişiyi gösterir. Nora ise annesini telefonla arar; iki olayı karıştırma.",
+        "Nora’nın annesine.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. An meinen Bruder = erkek kardeşime.",
+        "Komşularına.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. An meinen Bruder = erkek kardeşime."
+      },
+      "contextId": "a2-01-reading"
+    },
+    {
+      "id": "a2-01-independent-49",
+      "type": "choice",
+      "prompt": "Nora telefonla kimi aradı?",
+      "accepted": [
+        "Annesini."
+      ],
+      "explanation": "“Nora hat ihre Mutter angerufen” cümlesinde özne Nora, aranan kişi annesidir. Leyla’nın mesajı başka bir olaydır.",
+      "rule": "Ihre Mutter = onun annesi.",
+      "options": [
+        "Annesini.",
+        "Leyla’yı.",
+        "Mert’i."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "Ihre Mutter = onun annesi.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "optionNotes": {
+        "Annesini.": "“Nora hat ihre Mutter angerufen” cümlesinde özne Nora, aranan kişi annesidir. Leyla’nın mesajı başka bir olaydır.",
+        "Leyla’yı.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Ihre Mutter = onun annesi.",
+        "Mert’i.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Ihre Mutter = onun annesi."
+      },
+      "contextId": "a2-01-reading"
+    },
+    {
+      "id": "a2-01-independent-50",
+      "type": "choice",
+      "prompt": "Leyla akşam eve döndükten sonra ders çalıştı mı?",
+      "accepted": [
+        "Hayır; artık ders çalışmadığını söylüyor."
+      ],
+      "explanation": "“Ich habe nicht mehr gelernt” artık ders çalışmadığını belirtir. Nicht mehr olumsuzluğunu görmezden gelirsen anlam tersine döner.",
+      "rule": "Nicht mehr = artık ... değil / artık ... yapmamak.",
+      "options": [
+        "Evet, iki saat.",
+        "Metin bu konuda hiç bilgi vermiyor.",
+        "Hayır; artık ders çalışmadığını söylüyor."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "Nicht mehr = artık ... değil / artık ... yapmamak.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Metinden kanıt bul",
+      "optionNotes": {
+        "Hayır; artık ders çalışmadığını söylüyor.": "“Ich habe nicht mehr gelernt” artık ders çalışmadığını belirtir. Nicht mehr olumsuzluğunu görmezden gelirsen anlam tersine döner.",
+        "Evet, iki saat.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Nicht mehr = artık ... değil / artık ... yapmamak.",
+        "Metin bu konuda hiç bilgi vermiyor.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Nicht mehr = artık ... değil / artık ... yapmamak."
+      },
+      "contextId": "a2-01-reading"
+    },
+    {
+      "id": "a2-01-independent-51",
+      "type": "choice",
+      "prompt": "Ada cumartesi kimi ziyaret etti?",
+      "accepted": [
+        "Komşularını."
+      ],
+      "explanation": "Ada “meine Nachbarn besucht” diyor. Kız kardeşiyle görüşmesi telefonla ve pazar günü; ziyaret edilen kişiler komşularıdır.",
+      "rule": "Nachbarn = komşular.",
+      "options": [
+        "Mert’in erkek kardeşini.",
+        "Komşularını.",
+        "Kız kardeşini."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "Nachbarn = komşular.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Diyaloğu takip et",
+      "optionNotes": {
+        "Komşularını.": "Ada “meine Nachbarn besucht” diyor. Kız kardeşiyle görüşmesi telefonla ve pazar günü; ziyaret edilen kişiler komşularıdır.",
+        "Kız kardeşini.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Nachbarn = komşular.",
+        "Mert’in erkek kardeşini.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Nachbarn = komşular."
+      },
+      "contextId": "a2-01-dialogue"
+    },
+    {
+      "id": "a2-01-independent-52",
+      "type": "choice",
+      "prompt": "Ada ve komşuları filmi ne zaman izledi?",
+      "accepted": [
+        "Yemek pişirdikten sonra."
+      ],
+      "explanation": "“Wir haben gekocht und danach einen Film gesehen.” içindeki danach, filmden önce yemek pişirildiğini gösterir. Diğer ayrıntılar belirtilmiyor.",
+      "rule": "Danach, önce söylenen olayın ardından demektir.",
+      "options": [
+        "Yemek pişirdikten sonra.",
+        "Parka gittikten sonra.",
+        "Telefon görüşmesinden önce olduğu söyleniyor."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "Danach, önce söylenen olayın ardından demektir.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Diyaloğu takip et",
+      "optionNotes": {
+        "Yemek pişirdikten sonra.": "“Wir haben gekocht und danach einen Film gesehen.” içindeki danach, filmden önce yemek pişirildiğini gösterir. Diğer ayrıntılar belirtilmiyor.",
+        "Parka gittikten sonra.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Danach, önce söylenen olayın ardından demektir.",
+        "Telefon görüşmesinden önce olduğu söyleniyor.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Danach, önce söylenen olayın ardından demektir."
+      },
+      "contextId": "a2-01-dialogue"
+    },
+    {
+      "id": "a2-01-independent-53",
+      "type": "choice",
+      "prompt": "Ada pazar günü dışarı çıktı mı?",
+      "accepted": [
+        "Hayır, evde kaldı."
+      ],
+      "explanation": "Ada “Nein, ich bin zu Hause geblieben” cevabını verir. Parka giden kişi diyaloğun sonunda Mert’tir.",
+      "rule": "Konuşmacının kim olduğunu izle.",
+      "options": [
+        "Evet, parka gitti.",
+        "Evet, Köln’e gitti.",
+        "Hayır, evde kaldı."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "Konuşmacının kim olduğunu izle.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Diyaloğu takip et",
+      "optionNotes": {
+        "Hayır, evde kaldı.": "Ada “Nein, ich bin zu Hause geblieben” cevabını verir. Parka giden kişi diyaloğun sonunda Mert’tir.",
+        "Evet, parka gitti.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Konuşmacının kim olduğunu izle.",
+        "Evet, Köln’e gitti.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Konuşmacının kim olduğunu izle."
+      },
+      "contextId": "a2-01-dialogue"
+    },
+    {
+      "id": "a2-01-independent-54",
+      "type": "choice",
+      "prompt": "Ada kız kardeşiyle nasıl görüştü?",
+      "accepted": [
+        "Telefonda konuştu."
+      ],
+      "explanation": "“Mit meiner Schwester telefoniert” telefonda konuşmayı anlatır. Anrufen ve telefonieren benzer konuya ait ama farklı kalıplardır.",
+      "rule": "Telefonieren = telefonda konuşmak.",
+      "options": [
+        "Bir mektup yolladı.",
+        "Telefonda konuştu.",
+        "Evine gidip ziyaret etti."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "Telefonieren = telefonda konuşmak.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Diyaloğu takip et",
+      "optionNotes": {
+        "Telefonda konuştu.": "“Mit meiner Schwester telefoniert” telefonda konuşmayı anlatır. Anrufen ve telefonieren benzer konuya ait ama farklı kalıplardır.",
+        "Evine gidip ziyaret etti.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Telefonieren = telefonda konuşmak.",
+        "Bir mektup yolladı.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Telefonieren = telefonda konuşmak."
+      },
+      "contextId": "a2-01-dialogue"
+    },
+    {
+      "id": "a2-01-independent-55",
+      "type": "choice",
+      "prompt": "Ada Almanca için ne kadar okudu?",
+      "accepted": [
+        "Yirmi dakika."
+      ],
+      "explanation": "Ada “zwanzig Minuten gelesen” diyor. Bu süreyi günün tamamıyla veya başka bir kişinin yaptığı işle karıştırma.",
+      "rule": "Zwanzig Minuten = yirmi dakika.",
+      "options": [
+        "Yirmi dakika.",
+        "İki saat.",
+        "Hiç okumadı."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "Zwanzig Minuten = yirmi dakika.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Diyaloğu takip et",
+      "optionNotes": {
+        "Yirmi dakika.": "Ada “zwanzig Minuten gelesen” diyor. Bu süreyi günün tamamıyla veya başka bir kişinin yaptığı işle karıştırma.",
+        "İki saat.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Zwanzig Minuten = yirmi dakika.",
+        "Hiç okumadı.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Zwanzig Minuten = yirmi dakika."
+      },
+      "contextId": "a2-01-dialogue"
+    },
+    {
+      "id": "a2-01-independent-56",
+      "type": "choice",
+      "prompt": "Mert parka kiminle gitti?",
+      "accepted": [
+        "Erkek kardeşiyle."
+      ],
+      "explanation": "Son konuşmada Mert “mit meinem Bruder in den Park gegangen” der. Ada’nın ziyaretinden farklı bir deneyim anlatılır.",
+      "rule": "Mit meinem Bruder = erkek kardeşimle.",
+      "options": [
+        "Nora ile.",
+        "Komşularıyla.",
+        "Erkek kardeşiyle."
+      ],
+      "wordIds": [
+        "a2-01-words"
+      ],
+      "reviewWordIds": [],
+      "hints": [
+        "Mit meinem Bruder = erkek kardeşimle.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Diyaloğu takip et",
+      "optionNotes": {
+        "Erkek kardeşiyle.": "Son konuşmada Mert “mit meinem Bruder in den Park gegangen” der. Ada’nın ziyaretinden farklı bir deneyim anlatılır.",
+        "Nora ile.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Mit meinem Bruder = erkek kardeşimle.",
+        "Komşularıyla.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Mit meinem Bruder = erkek kardeşimle."
+      },
+      "contextId": "a2-01-dialogue"
+    },
+    {
+      "id": "a2-01-independent-57",
+      "type": "tr-de",
+      "prompt": "“Dün alışveriş yaptım.” cümlesini Ich habe ... kalıbıyla yaz. gestern ve einkaufen kullan.",
+      "accepted": [
+        "Ich habe gestern eingekauft."
+      ],
+      "explanation": "Ich ile habe, einkaufen için eingekauft gerekir. Verilen kalıpta gestern yardımcıyla Partizip II arasına yerleşir.",
+      "rule": "Ich habe + gestern + eingekauft.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-19"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-19"
+      ],
+      "hints": [
+        "Ich habe + gestern + eingekauft.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Kontrollü çeviri"
+    },
+    {
+      "id": "a2-01-independent-58",
+      "type": "tr-de",
+      "prompt": "“Biz evde kaldık.” cümlesini Wir sind ... kalıbıyla yaz. zu Hause ve bleiben kullan.",
+      "accepted": [
+        "Wir sind zu Hause geblieben."
+      ],
+      "explanation": "Bleiben bu anlamda sein alır ve geçmiş biçimi geblieben olur. Wir için sind, bulunulan yer için zu Hause gerekir.",
+      "rule": "Wir sind + zu Hause + geblieben.",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-13",
+        "dg-a2-01-10"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-13",
+        "dg-a2-01-10"
+      ],
+      "hints": [
+        "Wir sind + zu Hause + geblieben.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Kontrollü çeviri"
+    },
+    {
+      "id": "a2-01-independent-59",
+      "type": "tr-de",
+      "prompt": "“Hafta sonunda ne yaptın?” sorusunu Was hast du ... kalıbıyla yaz. am Wochenende ve machen kullan.",
+      "accepted": [
+        "Was hast du am Wochenende gemacht?"
+      ],
+      "explanation": "Was ilk, hast ikinci ögedir. Am Wochenende zaman ögesi, gemacht ise en sonda bulunan Partizip II’dir.",
+      "rule": "Was hast du + am Wochenende + gemacht?",
+      "options": [],
+      "wordIds": [
+        "dg-a2-01-11",
+        "dg-a2-01-31"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-11",
+        "dg-a2-01-31"
+      ],
+      "hints": [
+        "Was hast du + am Wochenende + gemacht?",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Kontrollü çeviri"
+    },
+    {
+      "id": "a2-01-independent-60",
+      "type": "de-tr",
+      "prompt": "“Ich habe meinen Schlüssel vergessen.” cümlesinin anlamını seç.",
+      "accepted": [
+        "Anahtarımı unuttum."
+      ],
+      "explanation": "Vergessen unutmak demektir ve bu fiilin mastarı ile Partizip II biçimi aynı görünür. Gefunden olsaydı bulmak anlamı verirdi.",
+      "rule": "Vergessen – hat vergessen; finden – hat gefunden.",
+      "options": [
+        "Anahtarımı satın aldım.",
+        "Anahtarımı buldum.",
+        "Anahtarımı unuttum."
+      ],
+      "wordIds": [
+        "dg-a2-01-26",
+        "dg-a2-01-28"
+      ],
+      "reviewWordIds": [
+        "dg-a2-01-26",
+        "dg-a2-01-28"
+      ],
+      "hints": [
+        "Vergessen – hat vergessen; finden – hat gefunden.",
+        "Önce özneyi ve asıl fiili bul; ardından çekimi ve cümle sonunu kontrol et."
+      ],
+      "kindLabel": "Anlamı ayırt et",
+      "optionNotes": {
+        "Anahtarımı buldum.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Vergessen – hat vergessen; finden – hat gefunden.",
+        "Anahtarımı unuttum.": "Vergessen unutmak demektir ve bu fiilin mastarı ile Partizip II biçimi aynı görünür. Gefunden olsaydı bulmak anlamı verirdi.",
+        "Anahtarımı satın aldım.": "Bu seçenek istenen yapıyı veya bağlamı karşılamıyor. Vergessen – hat vergessen; finden – hat gefunden."
+      }
+    }
+  ],
+  "texts": [
+    {
+      "id": "a2-01-reading",
+      "title": "Okuma · Leyla’nın küçük hafta sonu",
+      "de": "Am Samstag bin ich um acht aufgestanden. Zuerst habe ich mit meiner Schwester gefrühstückt. Danach sind wir mit dem Zug nach Köln gefahren. Dort haben wir unsere Freundin Nora getroffen. Wir haben einen Spaziergang gemacht und im Park Brot gegessen. Am Nachmittag hat es geregnet. Deshalb sind wir in ein Café gegangen. Ich habe Tee getrunken und eine Nachricht an meinen Bruder geschrieben. Nora hat ihre Mutter angerufen. Am Abend sind wir nach Hause gefahren. Ich habe nicht mehr gelernt. Der Tag war schön, aber ich war müde.",
+      "tr": "Cumartesi saat sekizde kalktım. Önce kız kardeşimle kahvaltı yaptım. Ardından trenle Köln’e gittik. Orada arkadaşımız Nora ile buluştuk. Yürüyüş yaptık ve parkta ekmek yedik. Öğleden sonra yağmur yağdı. Bu nedenle bir kafeye gittik. Çay içtim ve erkek kardeşime bir mesaj yazdım. Nora annesini aradı. Akşam eve döndük. Artık ders çalışmadım. Gün güzeldi ama yorgundum.",
+      "notes": "Önce zaman ifadelerini, sonra yardımcı fiil çiftlerini işaretle. Deshalb “bu nedenle” demektir. Metin yaş, meslek veya yolculuk ücretini söylemiyor; bunları tahmin ederek cevaplama."
+    },
+    {
+      "id": "a2-01-dialogue",
+      "title": "Diyalog · Pazartesi kısa bir sohbet",
+      "de": "Mert: Hallo Ada! Wie war dein Wochenende?\nAda: Schön! Ich habe am Samstag meine Nachbarn besucht.\nMert: Was habt ihr zusammen gemacht?\nAda: Wir haben gekocht und danach einen Film gesehen.\nMert: Bist du am Sonntag auch ausgegangen?\nAda: Nein, ich bin zu Hause geblieben. Ich habe mein Zimmer aufgeräumt und mit meiner Schwester telefoniert.\nMert: Hast du auch Deutsch gelernt?\nAda: Ja, am Abend habe ich zwanzig Minuten gelesen. Und du?\nMert: Ich bin mit meinem Bruder in den Park gegangen. Wir haben Musik gehört.",
+      "tr": "Mert: Merhaba Ada! Hafta sonun nasıldı?\nAda: Güzeldi! Cumartesi komşularımı ziyaret ettim.\nMert: Birlikte ne yaptınız?\nAda: Yemek pişirdik ve sonra bir film izledik.\nMert: Pazar günü de dışarı çıktın mı?\nAda: Hayır, evde kaldım. Odamı topladım ve kız kardeşimle telefonda konuştum.\nMert: Almanca da çalıştın mı?\nAda: Evet, akşam yirmi dakika okudum. Ya sen?\nMert: Erkek kardeşimle parka gittim. Müzik dinledik.",
+      "notes": "Sorudaki hast/bist ile cevaptaki habe/bin biçimlerini karşılaştır. Ausgegangen, ausgehen fiilinin “dışarı çıkmak” anlamındaki geçmiş biçimidir. Und du? aynı soruyu doğal biçimde karşı tarafa verir."
+    }
+  ],
+  "summary": {
+    "takeaways": [
+      "Perfekt, yardımcı fiil ve Partizip II’nin birlikte kurduğu yapıdır.",
+      "Haben/sein özneye göre çekilir; Partizip II aynı kalır.",
+      "Düzenli temel biçim ge- + kök + -t; düzensizleri kalıp halinde öğren.",
+      "Gehen ve burada yolculuk anlamındaki fahren sein alır; bleiben de sein alan bir istisnadır.",
+      "Ayrılabilen ön eklerde ge- araya gelir; besuchen ve telefonieren ge- almaz.",
+      "Ana cümlede yardımcı ikinci, Partizip II son konumdadır.",
+      "Evet/hayır sorusu yardımcıyla başlar; bilgi sorusunda soru ögesinden sonra yardımcı gelir.",
+      "Nicht eylemi, kein ailesi uygun isim grubunu olumsuzlar; isim hâlini koru.",
+      "Zuerst, dann ve danach ile olayları sıraya koy; yardımcıyı ikinci konumda tut.",
+      "Metinde söylenmeyen bilgi için tahminini kesin cevap yapma."
+    ],
+    "vocabulary": [
+      {
+        "de": "gestern",
+        "tr": "dün"
+      },
+      {
+        "de": "vorgestern",
+        "tr": "dünden önceki gün"
+      },
+      {
+        "de": "damals",
+        "tr": "o zamanlar"
+      },
+      {
+        "de": "zuerst",
+        "tr": "önce; ilk olarak"
+      },
+      {
+        "de": "dann",
+        "tr": "sonra"
+      },
+      {
+        "de": "danach",
+        "tr": "ondan sonra"
+      },
+      {
+        "de": "schließlich",
+        "tr": "sonunda; en sonunda"
+      },
+      {
+        "de": "plötzlich",
+        "tr": "aniden"
+      },
+      {
+        "de": "nach Hause",
+        "tr": "eve"
+      },
+      {
+        "de": "zu Hause",
+        "tr": "evde"
+      },
+      {
+        "de": "machen",
+        "tr": "yapmak"
+      },
+      {
+        "de": "gehen",
+        "tr": "gitmek; yürüyerek gitmek"
+      },
+      {
+        "de": "bleiben",
+        "tr": "kalmak"
+      },
+      {
+        "de": "sehen",
+        "tr": "görmek; izlemek"
+      },
+      {
+        "de": "hören",
+        "tr": "duymak; dinlemek"
+      },
+      {
+        "de": "treffen",
+        "tr": "buluşmak; karşılaşmak"
+      },
+      {
+        "de": "besuchen",
+        "tr": "ziyaret etmek"
+      },
+      {
+        "de": "ankommen",
+        "tr": "varmak"
+      },
+      {
+        "de": "einkaufen",
+        "tr": "alışveriş yapmak"
+      },
+      {
+        "de": "aufräumen",
+        "tr": "toplamak; düzenlemek"
+      },
+      {
+        "de": "anrufen",
+        "tr": "telefonla aramak"
+      },
+      {
+        "de": "mitbringen",
+        "tr": "yanında getirmek"
+      },
+      {
+        "de": "erzählen",
+        "tr": "anlatmak"
+      },
+      {
+        "de": "telefonieren",
+        "tr": "telefonda konuşmak"
+      },
+      {
+        "de": "passieren",
+        "tr": "olmak; meydana gelmek"
+      },
+      {
+        "de": "vergessen",
+        "tr": "unutmak"
+      },
+      {
+        "de": "verstehen",
+        "tr": "anlamak"
+      },
+      {
+        "de": "finden",
+        "tr": "bulmak"
+      },
+      {
+        "de": "das Erlebnis",
+        "tr": "deneyim; yaşantı"
+      },
+      {
+        "de": "der Ausflug",
+        "tr": "gezi; günübirlik gezi"
+      },
+      {
+        "de": "das Wochenende",
+        "tr": "hafta sonu"
+      },
+      {
+        "de": "das Frühstück",
+        "tr": "kahvaltı"
+      },
+      {
+        "de": "der Spaziergang",
+        "tr": "yürüyüş; gezinti"
+      },
+      {
+        "de": "die Pause",
+        "tr": "mola"
+      },
+      {
+        "de": "der Besuch",
+        "tr": "ziyaret"
+      },
+      {
+        "de": "die Nachricht",
+        "tr": "mesaj; haber"
+      }
+    ],
+    "mistakes": [
+      "Yardımcıyı düşürme: Ich habe gelernt.",
+      "Hareket var diye her fiile sein seçme; fiilin kullanımını kontrol et.",
+      "Ge- her fiilde yok: besucht, telefoniert.",
+      "Ihr habt ve ihr seid biçimlerini wir ile karıştırma.",
+      "Partizip II’ye kişi eki ekleme.",
+      "Gestern ich habe yerine Gestern habe ich yaz.",
+      "Nach Hause yön, zu Hause konum bildirir.",
+      "Serbest bir çevirinin farklı doğru karşılıkları olabilir; kontrollü soruda verilen kalıbı izle."
+    ],
+    "examples": [
+      "Gestern habe ich einen Spaziergang gemacht.",
+      "Danach bin ich nach Hause gegangen.",
+      "Hast du am Wochenende deine Freundin getroffen?"
+    ],
+    "writingChecklist": [
+      "Hayalî bir gün seçebilir ve özel bilgi vermeyebilirsin.",
+      "6–8 cümlede en az iki haben ve iki sein yapısı kullan.",
+      "En az bir olumsuz cümle ve bir soru kur.",
+      "Zuerst, dann, danach ile zaman sırasını belirt.",
+      "Her yardımcıyı özneyle, her Partizip II’yi örneklerle kontrol et.",
+      "Serbest yazı bu derste otomatik değerlendirilmez veya puanlanmaz."
+    ]
+  },
+  "studyPlan": {
+    "prerequisites": [
+      "A1 kişi zamirleri ve haben/sein çekimi",
+      "Ana cümlede çekimli fiilin ikinci konumu",
+      "Temel günlük rutinler ve isimlerin artikelleri"
+    ],
+    "objectives": [
+      "36 yeni kelime ve ifadeyi bağlam içinde kullanmak",
+      "Düzenli, sık düzensiz ve ön ekli Partizip II biçimlerini ayırmak",
+      "haben/sein seçimini gerekçelendirmek",
+      "Geçmiş hakkında olumlu, olumsuz ve soru cümleleri kurmak",
+      "Bir okuma metni ve diyaloğu anlayıp 6–8 cümlelik bir gün anlatısı oluşturmak"
+    ],
+    "sessions": [
+      {
+        "title": "1. oturum · Temeli kur",
+        "description": "1–6. açıklamalarla temeli kur. Tabloları aç, yardımcı fiili ve Partizip II biçimini kendi cümlelerinde ayır. Örnekler bölümü tüm açıklamalardan sonra açılır."
+      },
+      {
+        "title": "2. oturum · Anlatımı genişlet",
+        "description": "7–14. açıklamaları, okuma ve diyaloğu incele; ardından 24 açıklamalı örneği ve 20 yönlendirmeli soruyu çalış. Gerektiğinde bu oturumu birkaç güne böl."
+      },
+      {
+        "title": "3. oturum · Kendi başına uygula",
+        "description": "60 bağımsız soru, açıklamalı hata tekrarı ve ders özeti. İlerlemen kaldığın soruda saklanır; hepsini aynı gün bitirmen gerekmez."
+      }
+    ]
+  }
+}

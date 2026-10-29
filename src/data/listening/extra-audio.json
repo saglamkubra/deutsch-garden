@@ -1,0 +1,298 @@
+{
+  "version": 1,
+  "engine": "piper-tts 1.8.0",
+  "voice": "de_DE-thorsten-medium",
+  "modelSha256": "7e64762d8e5118bb578f2eea6207e1a35a8e0c30595010b666f983fc87bb7819",
+  "episodes": {
+    "listen-a2-plan-1": {
+      "url": "/audio/extensions/listen-a2-plan-1.wav",
+      "duration": 48.7665306122449,
+      "sha256": "e2c02cb7a422a76e0f3c3114f496eb995bc8fa66c88e0d1f118c10e2ef5558d0",
+      "sampleRate": 22050,
+      "segments": [
+        {
+          "id": "listen-a2-plan-1:s1",
+          "start": 0,
+          "end": 4.4117913832199545
+        },
+        {
+          "id": "listen-a2-plan-1:s2",
+          "start": 4.711791383219954,
+          "end": 9.228072562358276
+        },
+        {
+          "id": "listen-a2-plan-1:s3",
+          "start": 9.528072562358277,
+          "end": 14.079183673469387
+        },
+        {
+          "id": "listen-a2-plan-1:s4",
+          "start": 14.379183673469388,
+          "end": 18.84902494331066
+        },
+        {
+          "id": "listen-a2-plan-1:s5",
+          "start": 19.14902494331066,
+          "end": 23.746575963718826
+        },
+        {
+          "id": "listen-a2-plan-1:s6",
+          "start": 24.046575963718826,
+          "end": 28.57446712018141
+        },
+        {
+          "id": "listen-a2-plan-1:s7",
+          "start": 28.87446712018141,
+          "end": 32.89151927437642
+        },
+        {
+          "id": "listen-a2-plan-1:s8",
+          "start": 33.19151927437642,
+          "end": 38.71786848072563
+        },
+        {
+          "id": "listen-a2-plan-1:s9",
+          "start": 39.017868480725625,
+          "end": 43.95210884353742
+        },
+        {
+          "id": "listen-a2-plan-1:s10",
+          "start": 44.252108843537414,
+          "end": 48.466530612244895
+        }
+      ]
+    },
+    "listen-b1-plan-1": {
+      "url": "/audio/extensions/listen-b1-plan-1.wav",
+      "duration": 58.00807256235828,
+      "sha256": "010988df65c06d9a6fc041610a1302ef56d6a8241d9320833217f9290d2425b9",
+      "sampleRate": 22050,
+      "segments": [
+        {
+          "id": "listen-b1-plan-1:s1",
+          "start": 0,
+          "end": 6.455147392290249
+        },
+        {
+          "id": "listen-b1-plan-1:s2",
+          "start": 6.755147392290249,
+          "end": 10.481950113378684
+        },
+        {
+          "id": "listen-b1-plan-1:s3",
+          "start": 10.781950113378684,
+          "end": 17.21387755102041
+        },
+        {
+          "id": "listen-b1-plan-1:s4",
+          "start": 17.51387755102041,
+          "end": 23.562675736961452
+        },
+        {
+          "id": "listen-b1-plan-1:s5",
+          "start": 23.862675736961453,
+          "end": 29.330975056689343
+        },
+        {
+          "id": "listen-b1-plan-1:s6",
+          "start": 29.630975056689344,
+          "end": 34.20530612244898
+        },
+        {
+          "id": "listen-b1-plan-1:s7",
+          "start": 34.50530612244898,
+          "end": 38.88226757369614
+        },
+        {
+          "id": "listen-b1-plan-1:s8",
+          "start": 39.18226757369614,
+          "end": 45.98571428571428
+        },
+        {
+          "id": "listen-b1-plan-1:s9",
+          "start": 46.28571428571428,
+          "end": 51.846893424036274
+        },
+        {
+          "id": "listen-b1-plan-1:s10",
+          "start": 52.14689342403627,
+          "end": 57.70807256235827
+        }
+      ]
+    },
+    "listen-b2-plan-1": {
+      "url": "/audio/extensions/listen-b2-plan-1.wav",
+      "duration": 61.72326530612245,
+      "sha256": "439b27af7074ddcaf1d9fc1b73a97a7205140b11606b10706d8ccc4c9865639a",
+      "sampleRate": 22050,
+      "segments": [
+        {
+          "id": "listen-b2-plan-1:s1",
+          "start": 0,
+          "end": 5.596009070294785
+        },
+        {
+          "id": "listen-b2-plan-1:s2",
+          "start": 5.8960090702947845,
+          "end": 10.911519274376417
+        },
+        {
+          "id": "listen-b2-plan-1:s3",
+          "start": 11.211519274376418,
+          "end": 16.261859410430837
+        },
+        {
+          "id": "listen-b2-plan-1:s4",
+          "start": 16.561859410430838,
+          "end": 22.14625850340136
+        },
+        {
+          "id": "listen-b2-plan-1:s5",
+          "start": 22.44625850340136,
+          "end": 28.448616780045352
+        },
+        {
+          "id": "listen-b2-plan-1:s6",
+          "start": 28.748616780045353,
+          "end": 33.40421768707483
+        },
+        {
+          "id": "listen-b2-plan-1:s7",
+          "start": 33.70421768707483,
+          "end": 40.25224489795919
+        },
+        {
+          "id": "listen-b2-plan-1:s8",
+          "start": 40.552244897959184,
+          "end": 47.18154195011338
+        },
+        {
+          "id": "listen-b2-plan-1:s9",
+          "start": 47.481541950113375,
+          "end": 54.77260770975056
+        },
+        {
+          "id": "listen-b2-plan-1:s10",
+          "start": 55.07260770975056,
+          "end": 61.42326530612244
+        }
+      ]
+    },
+    "listen-c1-plan-1": {
+      "url": "/audio/extensions/listen-c1-plan-1.wav",
+      "duration": 72.88045351473923,
+      "sha256": "59ac61bf3f98b0d01d6e7932266a97c2cdd41ccb6fc21de107a080dccca59b97",
+      "sampleRate": 22050,
+      "segments": [
+        {
+          "id": "listen-c1-plan-1:s1",
+          "start": 0,
+          "end": 6.5364172335600905
+        },
+        {
+          "id": "listen-c1-plan-1:s2",
+          "start": 6.83641723356009,
+          "end": 12.79233560090703
+        },
+        {
+          "id": "listen-c1-plan-1:s3",
+          "start": 13.092335600907031,
+          "end": 19.953832199546486
+        },
+        {
+          "id": "listen-c1-plan-1:s4",
+          "start": 20.253832199546487,
+          "end": 27.811927437641724
+        },
+        {
+          "id": "listen-c1-plan-1:s5",
+          "start": 28.111927437641725,
+          "end": 35.47265306122449
+        },
+        {
+          "id": "listen-c1-plan-1:s6",
+          "start": 35.77265306122449,
+          "end": 42.912789115646255
+        },
+        {
+          "id": "listen-c1-plan-1:s7",
+          "start": 43.21278911564625,
+          "end": 50.38775510204081
+        },
+        {
+          "id": "listen-c1-plan-1:s8",
+          "start": 50.68775510204081,
+          "end": 56.70172335600906
+        },
+        {
+          "id": "listen-c1-plan-1:s9",
+          "start": 57.00172335600906,
+          "end": 64.16507936507935
+        },
+        {
+          "id": "listen-c1-plan-1:s10",
+          "start": 64.46507936507935,
+          "end": 72.58045351473922
+        }
+      ]
+    },
+    "listen-c2-plan-1": {
+      "url": "/audio/extensions/listen-c2-plan-1.wav",
+      "duration": 70.41913832199546,
+      "sha256": "dbe6a4755461331ebcd27d9400ff84375f374fd6a02926cb47380a7e1df0d43a",
+      "sampleRate": 22050,
+      "segments": [
+        {
+          "id": "listen-c2-plan-1:s1",
+          "start": 0,
+          "end": 6.048798185941043
+        },
+        {
+          "id": "listen-c2-plan-1:s2",
+          "start": 6.3487981859410425,
+          "end": 13.233514739229024
+        },
+        {
+          "id": "listen-c2-plan-1:s3",
+          "start": 13.533514739229025,
+          "end": 18.688344671201815
+        },
+        {
+          "id": "listen-c2-plan-1:s4",
+          "start": 18.988344671201816,
+          "end": 25.339002267573697
+        },
+        {
+          "id": "listen-c2-plan-1:s5",
+          "start": 25.639002267573698,
+          "end": 31.548480725623584
+        },
+        {
+          "id": "listen-c2-plan-1:s6",
+          "start": 31.848480725623585,
+          "end": 39.40657596371882
+        },
+        {
+          "id": "listen-c2-plan-1:s7",
+          "start": 39.70657596371882,
+          "end": 47.009251700680274
+        },
+        {
+          "id": "listen-c2-plan-1:s8",
+          "start": 47.30925170068027,
+          "end": 55.11115646258503
+        },
+        {
+          "id": "listen-c2-plan-1:s9",
+          "start": 55.411156462585026,
+          "end": 63.24789115646258
+        },
+        {
+          "id": "listen-c2-plan-1:s10",
+          "start": 63.547891156462576,
+          "end": 70.11913832199545
+        }
+      ]
+    }
+  }
+}

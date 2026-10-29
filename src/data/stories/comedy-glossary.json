@@ -1,0 +1,52 @@
+[
+  {
+    "id": "story-comedy-word-1",
+    "word": "Koffer",
+    "article": "der",
+    "meaning": "bavul",
+    "plural": "Koffer",
+    "de": "Mein Koffer hat ein gelbes Band.",
+    "tr": "Bavulumun sarı bir kurdelesi var.",
+    "repository": false
+  },
+  {
+    "id": "story-comedy-word-2",
+    "word": "Probe",
+    "article": "die",
+    "meaning": "prova; deneme",
+    "plural": "Proben",
+    "de": "Die Probe beginnt um zehn Uhr.",
+    "tr": "Prova saat onda başlıyor.",
+    "repository": false
+  },
+  {
+    "id": "story-comedy-word-3",
+    "word": "Rolle",
+    "article": "die",
+    "meaning": "rol; rulo",
+    "plural": "Rollen",
+    "de": "Diese Rolle ist aus Papier.",
+    "tr": "Bu rulo kâğıttan.",
+    "repository": false
+  },
+  {
+    "id": "story-comedy-word-4",
+    "word": "Schild",
+    "article": "das",
+    "meaning": "levha; tabela",
+    "plural": "Schilder",
+    "de": "Auf dem Schild steht eine Bitte.",
+    "tr": "Levhada bir rica yazıyor.",
+    "repository": false
+  },
+  {
+    "id": "story-comedy-word-5",
+    "word": "Teekanne",
+    "article": "die",
+    "meaning": "çaydanlık; çay demliği",
+    "plural": "Teekannen",
+    "de": "Die Teekanne steht auf dem Tisch.",
+    "tr": "Çaydanlık masanın üzerinde duruyor.",
+    "repository": false
+  }
+]

@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "dg-a2-01-01",
+    "german_word": "gestern",
+    "turkish_meaning": "dün",
+    "word_type": "adverb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-01",
+    "example_sentence_de": "Gestern habe ich einen Spaziergang gemacht.",
+    "example_sentence_tr": "Dün yürüyüş yaptım.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-02",
+    "german_word": "vorgestern",
+    "turkish_meaning": "dünden önceki gün",
+    "word_type": "adverb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-02",
+    "example_sentence_de": "Vorgestern habe ich Nora besucht.",
+    "example_sentence_tr": "Dünden önceki gün Nora’yı ziyaret ettim.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-03",
+    "german_word": "damals",
+    "turkish_meaning": "o zamanlar",
+    "word_type": "adverb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-03",
+    "example_sentence_de": "Damals habe ich in Köln gewohnt.",
+    "example_sentence_tr": "O zamanlar Köln’de yaşıyordum.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-04",
+    "german_word": "zuerst",
+    "turkish_meaning": "önce; ilk olarak",
+    "word_type": "adverb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-04",
+    "example_sentence_de": "Zuerst habe ich gefrühstückt.",
+    "example_sentence_tr": "Önce kahvaltı yaptım.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-05",
+    "german_word": "dann",
+    "turkish_meaning": "sonra",
+    "word_type": "adverb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-05",
+    "example_sentence_de": "Dann bin ich nach Hause gegangen.",
+    "example_sentence_tr": "Sonra eve gittim.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-06",
+    "german_word": "danach",
+    "turkish_meaning": "ondan sonra",
+    "word_type": "adverb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-06",
+    "example_sentence_de": "Danach habe ich ein Buch gelesen.",
+    "example_sentence_tr": "Ondan sonra bir kitap okudum.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-07",
+    "german_word": "schließlich",
+    "turkish_meaning": "sonunda; en sonunda",
+    "word_type": "adverb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-07",
+    "example_sentence_de": "Schließlich sind wir angekommen.",
+    "example_sentence_tr": "Sonunda vardık.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-08",
+    "german_word": "plötzlich",
+    "turkish_meaning": "aniden",
+    "word_type": "adverb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-08",
+    "example_sentence_de": "Plötzlich hat es geregnet.",
+    "example_sentence_tr": "Aniden yağmur yağdı.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-09",
+    "german_word": "nach Hause",
+    "turkish_meaning": "eve",
+    "word_type": "expression",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-09",
+    "example_sentence_de": "Ich bin nach Hause gefahren.",
+    "example_sentence_tr": "Eve gittim / döndüm.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-10",
+    "german_word": "zu Hause",
+    "turkish_meaning": "evde",
+    "word_type": "expression",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-10",
+    "example_sentence_de": "Ich bin zu Hause geblieben.",
+    "example_sentence_tr": "Evde kaldım.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-11",
+    "german_word": "machen",
+    "turkish_meaning": "yapmak",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-11",
+    "example_sentence_de": "Ich habe das Frühstück gemacht.",
+    "example_sentence_tr": "Kahvaltıyı hazırladım.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-12",
+    "german_word": "gehen",
+    "turkish_meaning": "gitmek; yürüyerek gitmek",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-12",
+    "example_sentence_de": "Wir sind in den Park gegangen.",
+    "example_sentence_tr": "Parka gittik.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-13",
+    "german_word": "bleiben",
+    "turkish_meaning": "kalmak",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-13",
+    "example_sentence_de": "Ich bin zu Hause geblieben.",
+    "example_sentence_tr": "Evde kaldım.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-14",
+    "german_word": "sehen",
+    "turkish_meaning": "görmek; izlemek",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-14",
+    "example_sentence_de": "Ich habe einen Film gesehen.",
+    "example_sentence_tr": "Bir film izledim.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-15",
+    "german_word": "hören",
+    "turkish_meaning": "duymak; dinlemek",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-15",
+    "example_sentence_de": "Wir haben Musik gehört.",
+    "example_sentence_tr": "Müzik dinledik.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-16",
+    "german_word": "treffen",
+    "turkish_meaning": "buluşmak; karşılaşmak",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-16",
+    "example_sentence_de": "Ich habe meine Freundin getroffen.",
+    "example_sentence_tr": "Arkadaşımla buluştum.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-17",
+    "german_word": "besuchen",
+    "turkish_meaning": "ziyaret etmek",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-17",
+    "example_sentence_de": "Wir haben unsere Nachbarn besucht.",
+    "example_sentence_tr": "Komşularımızı ziyaret ettik.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-18",
+    "german_word": "ankommen",
+    "turkish_meaning": "varmak",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-18",
+    "example_sentence_de": "Wir sind um neun angekommen.",
+    "example_sentence_tr": "Saat dokuzda vardık.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-19",
+    "german_word": "einkaufen",
+    "turkish_meaning": "alışveriş yapmak",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-19",
+    "example_sentence_de": "Ich habe am Samstag eingekauft.",
+    "example_sentence_tr": "Cumartesi alışveriş yaptım.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-20",
+    "german_word": "aufräumen",
+    "turkish_meaning": "toplamak; düzenlemek",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-20",
+    "example_sentence_de": "Ich habe mein Zimmer aufgeräumt.",
+    "example_sentence_tr": "Odamı topladım.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-21",
+    "german_word": "anrufen",
+    "turkish_meaning": "telefonla aramak",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-21",
+    "example_sentence_de": "Ich habe meine Schwester angerufen.",
+    "example_sentence_tr": "Kız kardeşimi aradım.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-22",
+    "german_word": "mitbringen",
+    "turkish_meaning": "yanında getirmek",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-22",
+    "example_sentence_de": "Ich habe einen Kuchen mitgebracht.",
+    "example_sentence_tr": "Yanımda bir kek getirdim.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-23",
+    "german_word": "erzählen",
+    "turkish_meaning": "anlatmak",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-23",
+    "example_sentence_de": "Nora hat von ihrem Wochenende erzählt.",
+    "example_sentence_tr": "Nora hafta sonunu anlattı.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-24",
+    "german_word": "telefonieren",
+    "turkish_meaning": "telefonda konuşmak",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-24",
+    "example_sentence_de": "Ich habe mit Nora telefoniert.",
+    "example_sentence_tr": "Nora ile telefonda konuştum.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-25",
+    "german_word": "passieren",
+    "turkish_meaning": "olmak; meydana gelmek",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-25",
+    "example_sentence_de": "Was ist gestern passiert?",
+    "example_sentence_tr": "Dün ne oldu?",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-26",
+    "german_word": "vergessen",
+    "turkish_meaning": "unutmak",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-26",
+    "example_sentence_de": "Ich habe meinen Schlüssel vergessen.",
+    "example_sentence_tr": "Anahtarımı unuttum.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-27",
+    "german_word": "verstehen",
+    "turkish_meaning": "anlamak",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-27",
+    "example_sentence_de": "Ich habe die Nachricht verstanden.",
+    "example_sentence_tr": "Mesajı anladım.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-28",
+    "german_word": "finden",
+    "turkish_meaning": "bulmak",
+    "word_type": "verb",
+    "article": null,
+    "plural_form": null,
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-28",
+    "example_sentence_de": "Ich habe meinen Schlüssel gefunden.",
+    "example_sentence_tr": "Anahtarımı buldum.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-29",
+    "german_word": "Erlebnis",
+    "turkish_meaning": "deneyim; yaşantı",
+    "word_type": "noun",
+    "article": "das",
+    "plural_form": "Erlebnisse",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-29",
+    "example_sentence_de": "Das war ein schönes Erlebnis.",
+    "example_sentence_tr": "Bu güzel bir deneyimdi.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-30",
+    "german_word": "Ausflug",
+    "turkish_meaning": "gezi; günübirlik gezi",
+    "word_type": "noun",
+    "article": "der",
+    "plural_form": "Ausflüge",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-30",
+    "example_sentence_de": "Wir haben einen Ausflug gemacht.",
+    "example_sentence_tr": "Bir gezi yaptık.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-31",
+    "german_word": "Wochenende",
+    "turkish_meaning": "hafta sonu",
+    "word_type": "noun",
+    "article": "das",
+    "plural_form": "Wochenenden",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-31",
+    "example_sentence_de": "Am Wochenende habe ich gelesen.",
+    "example_sentence_tr": "Hafta sonunda kitap okudum.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-32",
+    "german_word": "Frühstück",
+    "turkish_meaning": "kahvaltı",
+    "word_type": "noun",
+    "article": "das",
+    "plural_form": "Frühstücke",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-32",
+    "example_sentence_de": "Ich habe das Frühstück gemacht.",
+    "example_sentence_tr": "Kahvaltıyı hazırladım.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-33",
+    "german_word": "Spaziergang",
+    "turkish_meaning": "yürüyüş; gezinti",
+    "word_type": "noun",
+    "article": "der",
+    "plural_form": "Spaziergänge",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-33",
+    "example_sentence_de": "Wir haben einen Spaziergang gemacht.",
+    "example_sentence_tr": "Yürüyüş yaptık.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-34",
+    "german_word": "Pause",
+    "turkish_meaning": "mola",
+    "word_type": "noun",
+    "article": "die",
+    "plural_form": "Pausen",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-34",
+    "example_sentence_de": "Ich habe eine Pause gemacht.",
+    "example_sentence_tr": "Mola verdim.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-35",
+    "german_word": "Besuch",
+    "turkish_meaning": "ziyaret",
+    "word_type": "noun",
+    "article": "der",
+    "plural_form": "Besuche",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-35",
+    "example_sentence_de": "Der Besuch war schön.",
+    "example_sentence_tr": "Ziyaret güzeldi.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "id": "dg-a2-01-36",
+    "german_word": "Nachricht",
+    "turkish_meaning": "mesaj; haber",
+    "word_type": "noun",
+    "article": "die",
+    "plural_form": "Nachrichten",
+    "plural_note": null,
+    "cefr_level": "A2",
+    "levels": [
+      "A2"
+    ],
+    "category": "routines",
+    "topics": [
+      "routines"
+    ],
+    "unit_ids": [
+      "a2-01"
+    ],
+    "sense_key": "daily-experience-36",
+    "example_sentence_de": "Ich habe eine Nachricht geschrieben.",
+    "example_sentence_tr": "Bir mesaj yazdım.",
+    "pronunciation_hint": null,
+    "audio_url": null,
+    "difficulty": 2,
+    "source_name": "Deutsch Garden · özgün içerik",
+    "source_url": null,
+    "license": "LicenseRef-DeutschGarden-Original",
+    "created_at": "2026-10-28T00:00:00.000Z",
+    "updated_at": "2026-10-28T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "story-extra-1",
+    "word": "Hinweis",
+    "article": "der",
+    "meaning": "ipucu; uyarı",
+    "plural": "Hinweise",
+    "de": "Der Hinweis führt uns zum Archiv.",
+    "tr": "İpucu bizi arşive götürüyor.",
+    "repository": false
+  },
+  {
+    "id": "story-extra-2",
+    "word": "Abwägung",
+    "article": "die",
+    "meaning": "seçenekleri tartma; değerlendirme",
+    "plural": "Abwägungen",
+    "de": "Die Abwägung braucht Zeit.",
+    "tr": "Seçenekleri tartmak zaman gerektirir.",
+    "repository": false
+  },
+  {
+    "id": "story-extra-3",
+    "word": "Zeugnis",
+    "article": "das",
+    "meaning": "tanıklık; belge",
+    "plural": "Zeugnisse",
+    "de": "Dieses Zeugnis ergänzt die Akte.",
+    "tr": "Bu tanıklık dosyayı tamamlıyor.",
+    "repository": false
+  },
+  {
+    "id": "story-extra-4",
+    "word": "Deutung",
+    "article": "die",
+    "meaning": "yorum; anlamlandırma",
+    "plural": "Deutungen",
+    "de": "Diese Deutung bleibt vorläufig.",
+    "tr": "Bu yorum geçici kalıyor.",
+    "repository": false
+  }
+]
