@@ -895,6 +895,58 @@ test("Next dev loopback normalization accepts only exact Host, port and browser 
     h.ledger.close();
   }
 });
+
+test("Render standalone internal URL accepts exact public Host while rejecting forged origins and forwarded hosts", async () => {
+  const h = await harness({
+    production: true,
+    origin: "https://garden.example",
+    password: "long-household-password",
+  });
+  try {
+    const make = (
+      url = "http://0.0.0.0:10000/api/lumi/chat",
+      host = "garden.example",
+      origin = "https://garden.example",
+      extra: Record<string, string> = {},
+    ) =>
+      new Request(url, { method: "POST", headers: { host, origin, ...extra } });
+    for (const url of [
+      "http://0.0.0.0:10000/api/lumi/chat",
+      "https://0.0.0.0:3000/api/lumi/chat",
+      "http://localhost:3000/api/lumi/chat",
+      "http://127.0.0.1:3000/api/lumi/chat",
+    ]) {
+      assert.doesNotThrow(() => h.service.origin(make(url), true));
+      assert.equal(
+        (
+          await h.service.status(
+            new Request(url, { headers: { host: "garden.example" } }),
+          )
+        ).status,
+        200,
+      );
+    }
+    for (const req of [
+      make(undefined, "evil.example"),
+      make(undefined, "garden.example", "https://evil.example"),
+      make(undefined, "garden.example", "null"),
+      make(undefined, "garden.example", ""),
+      make("http://untrusted.example/api/lumi/chat"),
+      make(undefined, "garden.example:444"),
+      make(undefined, "evil.example", "https://garden.example", {
+        "x-forwarded-host": "garden.example",
+        "x-forwarded-proto": "https",
+      }),
+      new Request("http://0.0.0.0:10000/api/lumi/chat", {
+        headers: { "x-forwarded-host": "garden.example" },
+      }),
+    ])
+      assert.throws(() => h.service.origin(req, true));
+    assert.equal(h.calls(), 0);
+  } finally {
+    h.ledger.close();
+  }
+});
 test("Development without configured origin supports exact loopback Host but rejects public hosts", async () => {
   const h = await harness();
   try {

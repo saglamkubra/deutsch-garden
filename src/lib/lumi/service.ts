@@ -130,9 +130,21 @@ export class LumiService {
       url.protocol === expectedUrl.protocol &&
       url.port === expectedUrl.port &&
       request.headers.get("host") === expectedUrl.host;
+    // Standalone Next builds Request.url from its listening hostname, even
+    // behind Render's HTTPS proxy. Accept only a local listening address with
+    // the exact configured public Host; POST Origin remains mandatory below.
+    const standaloneAlias =
+      this.config.production &&
+      !!this.config.origin &&
+      expectedUrl.protocol === "https:" &&
+      (loopback(url.hostname) ||
+        url.hostname === "0.0.0.0" ||
+        url.hostname === "[::]") &&
+      ["http:", "https:"].includes(url.protocol) &&
+      request.headers.get("host") === expectedUrl.host;
     if (
       (this.config.production && !this.config.origin) ||
-      (url.origin !== expected && !localAlias) ||
+      (url.origin !== expected && !localAlias && !standaloneAlias) ||
       (request.headers.has("host") &&
         request.headers.get("host") !== expectedUrl.host) ||
       (!this.config.production &&
