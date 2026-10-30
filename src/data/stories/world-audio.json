@@ -1,0 +1,1691 @@
+{
+  "version": 1,
+  "engine": "piper-tts 1.8.0",
+  "voice": "de_DE-thorsten-medium",
+  "encoder": "lameenc 1.8.1 / LAME",
+  "modelSha256": "7e64762d8e5118bb578f2eea6207e1a35a8e0c30595010b666f983fc87bb7819",
+  "scenes": {
+    "story-world-a1-ausflug:start": {
+      "full": {
+        "url": "/audio/stories-worlds/20f7963a489320488bea2dd5.mp3",
+        "duration": 18.80816326530629,
+        "sha256": "20f7963a489320488bea2dd517e4d7a6aab718a26f3601ccc66ffb0f23ddd291",
+        "textSha256": "c52c0785041595d6c71c94d949956eaeae81ca98a920c291dce590edf68db840",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/7f07682c91bf0a7e3e5daa7a.mp3",
+          "duration": 4.022857142857136,
+          "sha256": "7f07682c91bf0a7e3e5daa7accaece567398e9d47175f461671bccef368c9694",
+          "textSha256": "e38602d2cbf5c843bbd799cf483f21fa6c789ca786659c788e709278484c8462",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/abffd70ee5b1878071933a5a.mp3",
+          "duration": 3.63102040816326,
+          "sha256": "abffd70ee5b1878071933a5a7f25ce49b3be25f101aa72fdc7116fde3e7dab88",
+          "textSha256": "0c81f4653461d42805c769ecb2334e6ea9d6879230eb0a3bc58220f77c2d1013",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/96bf76eabb938cd981e907aa.mp3",
+          "duration": 4.963265306122453,
+          "sha256": "96bf76eabb938cd981e907aa1de32111c6f1d98bdd3763c3ec5f9a0ac8cb6d2a",
+          "textSha256": "70676933e955e0d6be5a8cef4b16aa3d03a62c4cd7147c1bf1986d09af37a882",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/98f4ad9150a9808a19248e39.mp3",
+          "duration": 5.198367346938783,
+          "sha256": "98f4ad9150a9808a19248e39c0b0bce247f6e2eb1699a6ad661251bd1ffb3641",
+          "textSha256": "adf1194f926f01b739ccf39f3f1c6b2e57e800e6e241882a64941ceb7a73d1ea",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-a1-ausflug:driver": {
+      "full": {
+        "url": "/audio/stories-worlds/672af5ea519ed9a16f94a68b.mp3",
+        "duration": 18.285714285714448,
+        "sha256": "672af5ea519ed9a16f94a68be6f2f998f1b013984756344b9c697744627d65da",
+        "textSha256": "4a38926bcd21ee82027a4d44e766a294d20e8ebaa4c107e98ec89626372c886a",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/9ab89d91345eee6f4cbe0019.mp3",
+          "duration": 3.9183673469387688,
+          "sha256": "9ab89d91345eee6f4cbe0019809a90c3e1504c4c7c33f1f45ba2067cd74956e9",
+          "textSha256": "0881096bf1fbcf88227439929e2d0ed793d9a93e9553dc5a14eb0f7be4b245bc",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/ea4fe250f9f0dce121c85e9e.mp3",
+          "duration": 4.571428571428571,
+          "sha256": "ea4fe250f9f0dce121c85e9ee7f70fdcb5f7bb6263ef3f6daa358c53347b6496",
+          "textSha256": "c07fb040a8a028fb308813967b9b3d8c188ffa8dc8d6f4f809bff5b6ab4ba571",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/ce996676185a49a5d8b88cc4.mp3",
+          "duration": 3.9444897959183605,
+          "sha256": "ce996676185a49a5d8b88cc4a07f7be6e87ded351031f09fed17c0fe14a29c22",
+          "textSha256": "381c4742a220aaf0160eb797d790662faf95f883ce243827c6042e22400f69a4",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/fec7cf5428e7ac368a297274.mp3",
+          "duration": 4.832653061224493,
+          "sha256": "fec7cf5428e7ac368a2972741316b11d4385307f31285af275b7654030e41d30",
+          "textSha256": "12023e6eae1d25ec21a750787b0f69a991e282235fc178fda84b3c602cea022a",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-a1-ausflug:map": {
+      "full": {
+        "url": "/audio/stories-worlds/ca9d49a4305e0cb0957ddaa1.mp3",
+        "duration": 17.554285714285868,
+        "sha256": "ca9d49a4305e0cb0957ddaa105309c7f1927e3c446a3077ee44a82aa6d0f6b89",
+        "textSha256": "0a64a6e48a54ee4a814b8977f0a437d0578cdf9fd11b9f1d4762364f62b84c87",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/0fc90e2d61406e6a41aa2d4e.mp3",
+          "duration": 4.31020408163265,
+          "sha256": "0fc90e2d61406e6a41aa2d4eea215f2db41bd786e3fa34b3ab5a607ae1ad9735",
+          "textSha256": "5b07099143e1045a3cb77ea5248591f9ffbe23e233504fe73b6f391cbfe9e070",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/31782d61069f801973acc4b9.mp3",
+          "duration": 4.754285714285716,
+          "sha256": "31782d61069f801973acc4b95918765c6e3d45dca796cb9e917372a9d11d9fa9",
+          "textSha256": "ab109142cde3bb165956f7a4c7dc68b87d719837fe6dc68dbc840071a4b46bd0",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/d464e315e59627ae9c3c6b9c.mp3",
+          "duration": 3.6571428571428517,
+          "sha256": "d464e315e59627ae9c3c6b9c4fb0b2fc60b76b165b2435b5bd653d3869e234ec",
+          "textSha256": "985db82e43a20bc4f744df8751db8a9a9db478a2176c3e6fa59e5c2de6a35285",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/b045aa4507b30a5247235ba2.mp3",
+          "duration": 3.813877551020402,
+          "sha256": "b045aa4507b30a5247235ba2b9679bdd4a75c7ae2dffec70ab66a3f40c1194e1",
+          "textSha256": "8f74b39508d91e4e2f524dd31c2454741964b3efd0a9c00842041b5cf33b2064",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-a1-ausflug:picnic": {
+      "full": {
+        "url": "/audio/stories-worlds/3a3766f533d501980ae09e77.mp3",
+        "duration": 16.901224489796064,
+        "sha256": "3a3766f533d501980ae09e77832e5aa3aeb9c1ab8356606af615791254dda380",
+        "textSha256": "e6a2cd46d79195d3c4d03155e70c052ec7ed3304a1a47ae3ca0edad6616c25ad",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/786c194c618d47def369c731.mp3",
+          "duration": 3.63102040816326,
+          "sha256": "786c194c618d47def369c7313e75eccf01dcfdfd80f72665e8e32365996d6fbf",
+          "textSha256": "484e06077c61fb5d30d8e17e0ae6702124d1cd4569356aaa2c030be4a938add5",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/8e833ae3cd6c6c7dd3978cc9.mp3",
+          "duration": 4.597551020408163,
+          "sha256": "8e833ae3cd6c6c7dd3978cc9935309c8c5f49243f10e81471e192a4795b85cb4",
+          "textSha256": "a2ececcb0cc59e6c298b95dfa520eba23eddf1254c7ca772abc75557ebc1674a",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/ad38c6ff9cdd1cf525a5620e.mp3",
+          "duration": 3.3959183673469346,
+          "sha256": "ad38c6ff9cdd1cf525a5620e74f035f9d1951e428abf05951f1a8677e221efdf",
+          "textSha256": "3bd384bf45b1c9dc7a7bd5500d99a0dd4e227de134563de81742ca4e48da1619",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/669283abdfb7fbb95b710cdb.mp3",
+          "duration": 4.2840816326530575,
+          "sha256": "669283abdfb7fbb95b710cdbcdb4a21da1c5de280eec80555120edce07d5501b",
+          "textSha256": "01521dd5202f70a46871d76531920f10a450f9d33769a61eaa745abd9b8a1420",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-a1-ausflug:museum": {
+      "full": {
+        "url": "/audio/stories-worlds/2b0b3ce0ef40444a86afab9f.mp3",
+        "duration": 18.155102040816487,
+        "sha256": "2b0b3ce0ef40444a86afab9fc7200d86f028cee7aaeef0b91db306d629e0ead8",
+        "textSha256": "22c332b7320403d1e9e789d5befae4fd1a0abd37bfb4f0d94b31433186f6ac67",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/66b51ea90d4f611ae8f294d8.mp3",
+          "duration": 4.07510204081632,
+          "sha256": "66b51ea90d4f611ae8f294d87547f27f49c3678ad618adb495d8c939ff85db7b",
+          "textSha256": "6d05d3d3ff400ec0ab853cb6faccfda5fb84cb6a217e4422574b7919042abfca",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/6db5f49ba965cdf6ef212845.mp3",
+          "duration": 4.44081632653061,
+          "sha256": "6db5f49ba965cdf6ef21284527290797ffe28bda7d54797944800d859d2c24e0",
+          "textSha256": "842bb52c51e98d9a1d93ee80f133da7cfcd79c03b357f40f6da2ca7554ca8ba3",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/274bb3ac9e9ac6700affba34.mp3",
+          "duration": 4.780408163265308,
+          "sha256": "274bb3ac9e9ac6700affba34492d24737f643d18f83c6ca6ac6f6bb52589cb93",
+          "textSha256": "3af36025eedf26c771b9e374987e179f8086e9f495e06ef3d05138085c5b1fe6",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/12db38debd6e1e2f511a3965.mp3",
+          "duration": 3.8399999999999936,
+          "sha256": "12db38debd6e1e2f511a3965f158e797ba080300201e97dfc97a02d80a65bd50",
+          "textSha256": "662b76f67cbdf5143e30ac59181ba20bc593af79937c855274d8027ef2b6a098",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-a1-ausflug:river": {
+      "full": {
+        "url": "/audio/stories-worlds/e8cf39a65a38e7217eef6488.mp3",
+        "duration": 16.326530612245037,
+        "sha256": "e8cf39a65a38e7217eef64882a6a203a0257f9596bdeca569d0ff42d82966acc",
+        "textSha256": "656d78098eaa7eeef62db5c4cebb6c710bb51cb63ddf39923281de23185caf4b",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/1d626e6e76f3e539eba87b16.mp3",
+          "duration": 3.709387755102035,
+          "sha256": "1d626e6e76f3e539eba87b1655e3de947a07cd05f906caa0f0fd5b9b71c45eb7",
+          "textSha256": "b7162f0485f9a78c9196684a23ecefce5bc547ca37e46852af8445f2973dfcb5",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/862ebc61eb829759a335c7f5.mp3",
+          "duration": 3.7616326530612185,
+          "sha256": "862ebc61eb829759a335c7f51c9af06e59779db16716eb6185ee22e3b51f38f1",
+          "textSha256": "2e99549b9c5e9019273c2c6c3aa20c4ff1a3c36138c3b1e60592b9f14cb7b63d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/e4ccbf5fed3d8a3e009c3295.mp3",
+          "duration": 4.257959183673465,
+          "sha256": "e4ccbf5fed3d8a3e009c329546f1e1ffc28d589549b2922a36c61a04b38cba63",
+          "textSha256": "9588bd7c3f98c35f30bf14bac395b0c53784bb634581c29d7eb6cdb406dc77fc",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/a098705e2daf84dd602ec49f.mp3",
+          "duration": 3.6048979591836683,
+          "sha256": "a098705e2daf84dd602ec49f0a6c41079a6d070dfa867f71688bcffa24c43fb6",
+          "textSha256": "ede373966b7f1a52c3c145362d4181b54ccda71659ea1af21f618462deb72fd2",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-a1-ausflug:market": {
+      "full": {
+        "url": "/audio/stories-worlds/d5e98dd9e8bd295e44848d34.mp3",
+        "duration": 18.938775510204252,
+        "sha256": "d5e98dd9e8bd295e44848d34686d8d980b09a20e408859cb46aee4e89968cd94",
+        "textSha256": "a84f5966ab9dc75f8c9d5aacd48f41083df8e64952963dd295b180236ba98b68",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/2cf8622eac269202c50a1b7d.mp3",
+          "duration": 4.388571428571426,
+          "sha256": "2cf8622eac269202c50a1b7d9960528d8ecf05d146dfaabd55603ef0ba445cfe",
+          "textSha256": "90194347b08e2405cc35e5dc8db6bc8da8b1630b08d037b85289edefb5b6d00d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/97442a99cc337908f6c1b758.mp3",
+          "duration": 5.067755102040822,
+          "sha256": "97442a99cc337908f6c1b758aee0ead3de918f8eecd14c9cf7d67c6f343aa770",
+          "textSha256": "f60a9806f556a6d6182c770765f485aba4cb5bd66321272e1f43439e46eb7991",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/6d40a7ebfbe5a4adcde21a53.mp3",
+          "duration": 3.7877551020408102,
+          "sha256": "6d40a7ebfbe5a4adcde21a53f7e6a27459acdbf735c49eee12a51cf3ce6cb354",
+          "textSha256": "1d97f5a190e0e36cf98285b321e58264cf41e1ddf4cff102043782cd1e140ad6",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/a15c3da5d3ef14c6c8429a77.mp3",
+          "duration": 4.67591836734694,
+          "sha256": "a15c3da5d3ef14c6c8429a779be1a99d16d42e795048681fce6d31211947666f",
+          "textSha256": "42acc2cbd86f33aa605574c07aad540d5c3d72dfc70bf646ade55f17184f688a",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-a2-lesezeichen:start": {
+      "full": {
+        "url": "/audio/stories-worlds/5930ea75deb11c63867f1be8.mp3",
+        "duration": 24.894693877551262,
+        "sha256": "5930ea75deb11c63867f1be89eaebb77117beb47efe923b8bea7f5d646933aaf",
+        "textSha256": "5c6ba44342c66a547c2eca45c7f3c88f2b476cfd48250bbd8e84f1fbfa749a64",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/f015408b959e81e784259ab7.mp3",
+          "duration": 5.955918367346955,
+          "sha256": "f015408b959e81e784259ab7a96cba671e56b7bd0a5d7827f1da214d3ef64db6",
+          "textSha256": "ea695829b5b5a347cb13f6deb03b772a574bb9d531617f98e37008bca8351337",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/07f7327b1548daf2e63233dc.mp3",
+          "duration": 5.381224489795928,
+          "sha256": "07f7327b1548daf2e63233dc0e771aeaf9dbaadeca85a7bcdd32f6d5b7fed5a3",
+          "textSha256": "7d75f23aeeb28fb113b7aafdf0c61aaae5a9c8894cb3fd48268c7a228f59a86d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/3d0e1e875723e1a755fbdfbc.mp3",
+          "duration": 5.1461224489795985,
+          "sha256": "3d0e1e875723e1a755fbdfbc4fc8456b8df82bae01a2fdfbc40ef8012fa4c183",
+          "textSha256": "41d422a745858b020497e0528ed296ec1198efdee407e15ba8715a6957135646",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/842bc25e37d7928978257261.mp3",
+          "duration": 7.4187755102041155,
+          "sha256": "842bc25e37d7928978257261be7aa1c6ff6663df2135c099db5bf2867f4e947c",
+          "textSha256": "0fd0a6d60e92658feb7a7cb5550d1416e4dd05782d4f688c904a6941d0c42b1b",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-a2-lesezeichen:cafe": {
+      "full": {
+        "url": "/audio/stories-worlds/1716a8ed15709f51533bcb97.mp3",
+        "duration": 23.875918367347168,
+        "sha256": "1716a8ed15709f51533bcb97b7b6254ff7825bbe5734ca79f2f410fbe0d36fb3",
+        "textSha256": "f68535561a503e61867a78bb4ecf8423ba2fb44903cdcddf64dab5a54bc4734f",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/7d47a469f4deb788694e2318.mp3",
+          "duration": 5.459591836734704,
+          "sha256": "7d47a469f4deb788694e2318fc58786c523834deeea9d07be1a5c26ca0d02278",
+          "textSha256": "eefa6a4fbbfcc5506461c1136b56d9cd921dac3298ab6c8e414cab552c739fb5",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/0ffa585e95edca002afffab0.mp3",
+          "duration": 6.7134693877551275,
+          "sha256": "0ffa585e95edca002afffab0cadf234528ae86ebba5e32e0abb034cf51836c67",
+          "textSha256": "d5a7b9fbd3f7fbe4345ceeffb3b71f6e9ddffd07bb7683081580ec030c03a633",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/0129454a5c319d1af5f6ea5a.mp3",
+          "duration": 5.564081632653073,
+          "sha256": "0129454a5c319d1af5f6ea5a657306e0f46a2f06f70411a4225e3dae471f7f1f",
+          "textSha256": "ad47d3542202aeb6acb381edd9ae72ce109c386bf6b357f92bb911104d4b875c",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/78770ae1ef1c1a59d4cf09d0.mp3",
+          "duration": 5.120000000000006,
+          "sha256": "78770ae1ef1c1a59d4cf09d0e0a44a0327aee0b659db242b2aa790cca0dc11b2",
+          "textSha256": "2207d77f9c23e3e11a56747d8db454dbaf2631df656cd6572e13841d4332a3f8",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-a2-lesezeichen:emir": {
+      "full": {
+        "url": "/audio/stories-worlds/92e5e3e5ec62285ddd2b603e.mp3",
+        "duration": 23.196734693877772,
+        "sha256": "92e5e3e5ec62285ddd2b603e455701cdd5579c6f23859dd0c5bd422b9eac0bbc",
+        "textSha256": "ac590b89fce4567322ff5f7ef824ac1af4f2e884a34adf379a52a70314b885ab",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/dd302d4cbfcccde8e2a80eb6.mp3",
+          "duration": 6.060408163265324,
+          "sha256": "dd302d4cbfcccde8e2a80eb6bddff2bf955b4ccc3fd7cd369ea3d10b3b6faa81",
+          "textSha256": "b7d33bf2c403c7dfc217f639a0742f71e84e79bbdfc7f5aa151a8c629b0eb97a",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/343a28074867a4eee22361d2.mp3",
+          "duration": 4.336326530612242,
+          "sha256": "343a28074867a4eee22361d2285bc637415f016001a8c70a713b0fe1494970df",
+          "textSha256": "fb9b99d8d782f9a1c5b4dc531337505e3d731fb05fb459d5e3406ae0d549c0e6",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/343ad6837fade05c35a2a012.mp3",
+          "duration": 6.87020408163268,
+          "sha256": "343ad6837fade05c35a2a0126073a9dfc106fc27a9c24a5988df950866ea334a",
+          "textSha256": "36f9f1e96b2faa92ef020e8e4fd026b6fba8de639b1ace6715447d5718e03f5d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/38a9da4357f11bfa6b21b666.mp3",
+          "duration": 4.884897959183677,
+          "sha256": "38a9da4357f11bfa6b21b666d331e69b33db1eccfcee9fcda57c758e9f55eaf4",
+          "textSha256": "aa58cf229a4937b002d863b25cb30defa2ce1bfa609368bdac806a7179287a94",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-a2-lesezeichen:reading": {
+      "full": {
+        "url": "/audio/stories-worlds/1e2717e75b812a4468190897.mp3",
+        "duration": 21.733877551020612,
+        "sha256": "1e2717e75b812a44681908972de02e7ad3ed32fb40f8c8a7ac9c42575f024fb3",
+        "textSha256": "976f9ab94a0f1d32bfbd7e79d0990aa3608f1ec00abe7405b0692c7c60499314",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/17510f544f7faf4638bf1466.mp3",
+          "duration": 6.217142857142877,
+          "sha256": "17510f544f7faf4638bf1466fd3a839ce0413d5893b6e4ff6b87e9d5e392f24c",
+          "textSha256": "a61c1d4f1096da0933d1b4a853f39118813c559092e6caf8ccf666aa68dc1b75",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/cde6ed1e6917514afae78aeb.mp3",
+          "duration": 5.1461224489795985,
+          "sha256": "cde6ed1e6917514afae78aebb9f4485017fc0d840b1a65ab5d90a8de5f058d12",
+          "textSha256": "82fe738e306d52820669449e9733597c1d7c8da5360e01d5f0aff3925662c759",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/b01e39dcc265762d94af4f30.mp3",
+          "duration": 5.093877551020414,
+          "sha256": "b01e39dcc265762d94af4f304c11c5b544ea13838df7f04a64340cbf0f13ff0c",
+          "textSha256": "ab5e723904b81cdc725a43219a62ffbdbc7bc9fc22fef879bf30691353e01e6d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/6c47d94ec6c0ef43bc064307.mp3",
+          "duration": 4.2840816326530575,
+          "sha256": "6c47d94ec6c0ef43bc064307c58936687e56e55b44712965658135ad5a8fb5d0",
+          "textSha256": "cadf9e5d7a81b58c3d60203664df382a2660ab72ecda62a4a81e9f8efa8cae4e",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-a2-lesezeichen:listening": {
+      "full": {
+        "url": "/audio/stories-worlds/6a1565bc51eec1fdebadcb68.mp3",
+        "duration": 23.745306122449207,
+        "sha256": "6a1565bc51eec1fdebadcb682416acf025406b58dbf049e79b0d8bbfab8ebc68",
+        "textSha256": "c6c36c50c2a7b3b22e6e597a6321f39a52a5da57c02a6cff0247d4519c17ffd4",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/2ea746c571a258f43d1926d1.mp3",
+          "duration": 5.903673469387771,
+          "sha256": "2ea746c571a258f43d1926d1b24569342b045ad7f545cd213425377528f8d74b",
+          "textSha256": "7cbc98fc6443b2015a7179b32f4c5df58c118e63edd0d7ed55e9e5cd4df4e0c7",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/fd7ebdd8a6dc3b91b6e99b8c.mp3",
+          "duration": 6.243265306122469,
+          "sha256": "fd7ebdd8a6dc3b91b6e99b8c8e60b6c446481990193802b4d8c2f844e99396fc",
+          "textSha256": "f5de5cbf894cdd3da009ee783133db9d6e05bdd42e5ee5cab729d0b7e6bc9feb",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/6a8b3a3d20498a2bcb111330.mp3",
+          "duration": 6.1387755102041,
+          "sha256": "6a8b3a3d20498a2bcb1113309960adce499463016111130d4cb4ef23c310b2d9",
+          "textSha256": "9652b7a3a907dbfa9700fc44fe6d1b8ab6f9dbd1d951769a2b1dee507efdde95",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/b6752e2e50cd251039ea5a59.mp3",
+          "duration": 4.44081632653061,
+          "sha256": "b6752e2e50cd251039ea5a59e24f0d786286b41d6f2d49ddd336d23573ab3d3f",
+          "textSha256": "02524094fc6624c17d3c9d948a20d386d77e7c055b19a96fdfc72f48670bbe89",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-a2-lesezeichen:late": {
+      "full": {
+        "url": "/audio/stories-worlds/11b343e5a81db0b460422e1f.mp3",
+        "duration": 23.719183673469615,
+        "sha256": "11b343e5a81db0b460422e1f21c9d0634d6953f8cd00ef3afdd32cdf1e15cce3",
+        "textSha256": "3914398205068fa86c3f0d7b9dd8c4770244c3269590655fd928e39549ff8169",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/18f5c2af2857114a07685f4b.mp3",
+          "duration": 6.73959183673472,
+          "sha256": "18f5c2af2857114a07685f4bc2f06834f6d121e85bb5eab77fc7f231a384583a",
+          "textSha256": "09781a46a512a10570145b88226379d51d3ff8c612db753ca0983e118d62abf7",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/b8ad7e0366c7875630a8179c.mp3",
+          "duration": 4.728163265306124,
+          "sha256": "b8ad7e0366c7875630a8179cc835fe997bdcd7ad2e5f271646bc99e6ddc33c70",
+          "textSha256": "8e2eefaeecd64e09edbefd9bf01029f4f3b8e2921dc9551f5c1780cc43bea954",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/4f1a2ea381fff8dedfc9537e.mp3",
+          "duration": 5.564081632653073,
+          "sha256": "4f1a2ea381fff8dedfc9537ef262df5a450a31247f27c33f6a80a6fecf6afe4f",
+          "textSha256": "0c7e56bc9f42d747f343d0ead9f290d120b6bfcbdea6c060d15fb7332fff7dc3",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/4edd3d1d2b0359464b1421b6.mp3",
+          "duration": 5.6685714285714415,
+          "sha256": "4edd3d1d2b0359464b1421b69379197a8a1298521e0023d9aba89fff517a2cca",
+          "textSha256": "218ab2186904053c679b8646654281d6df02bc9a6355d394124dbd5de442b548",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-a2-lesezeichen:home": {
+      "full": {
+        "url": "/audio/stories-worlds/dad1035b42996e727738aa4d.mp3",
+        "duration": 23.719183673469615,
+        "sha256": "dad1035b42996e727738aa4d9b517d5ca18a4a8c7feaa1dca7dbd1dbfa43d228",
+        "textSha256": "760cc78e5c700b9013ff856a88ff4c420e24f10aa9be9023b1947f9161d980f3",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/d53021bf7552be06644abcb5.mp3",
+          "duration": 6.426122448979614,
+          "sha256": "d53021bf7552be06644abcb5f584fb9668e85ac796ce2cb479986d18b0b17b47",
+          "textSha256": "d4e6bd12d26ffa09a9ca800e80d7ea17894210d988c2d017ec846f6f5c4bf2d1",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/6369adff7449a2d4ff377a43.mp3",
+          "duration": 5.590204081632665,
+          "sha256": "6369adff7449a2d4ff377a432f1a99c4683571ec2b138facf92a270c9ece58d6",
+          "textSha256": "3370bceb70f81f1abb2c9fa1febcf262318c2d8e2a195db59758e9d4c3572e64",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/679cd60707d96ac4c0973ab8.mp3",
+          "duration": 5.720816326530626,
+          "sha256": "679cd60707d96ac4c0973ab8721f65538bd37a0ddc175de1b1ad4208f11deb0d",
+          "textSha256": "5599fdbcb59e884834365fff7944b4d376ac966adce84279f0f734692c7ccd0a",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/65ff8b82fbeb4321587be6f9.mp3",
+          "duration": 4.937142857142861,
+          "sha256": "65ff8b82fbeb4321587be6f970cba984023ebb3913727a8ea41d7d46ed8aea1a",
+          "textSha256": "ba6161767db2c32b463f8d4c61c078deb473c8d73cbdf31d5c4a4a845730fc21",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b1-reparatur:start": {
+      "full": {
+        "url": "/audio/stories-worlds/21360cc04bff72853e49d8ca.mp3",
+        "duration": 29.59673469387785,
+        "sha256": "21360cc04bff72853e49d8ca3bacffde02e3d8b63f5599d697e6ab6aba7bdae9",
+        "textSha256": "6a6390002ca458391d8ebf7c6cc1af355849904a463bae032249982382b5c373",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/8821af5574d4b5bdc7a8cb86.mp3",
+          "duration": 7.131428571428602,
+          "sha256": "8821af5574d4b5bdc7a8cb865b820ca02602663e523594733b7cd9df3147d2f5",
+          "textSha256": "3559d3ff9f2347f8a7c9c5900bbaf686274e46e642407303fa313624e2835e54",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/c2e2f73dd136b09824a1a8ff.mp3",
+          "duration": 7.209795918367378,
+          "sha256": "c2e2f73dd136b09824a1a8ff1717a63f2deefc4c7dad9bb4743ed66101c825a3",
+          "textSha256": "8be740b6338f926d913ca1a6ec6b9fb8692a28380ce0b09570c1765a32498b65",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/4d47d32d3ea042ed8dadcad4.mp3",
+          "duration": 7.209795918367378,
+          "sha256": "4d47d32d3ea042ed8dadcad46be7973d7c6265a3356eb663bc70afb9016673de",
+          "textSha256": "f4a6055d87dc45c7c2efcd536d04f35aeac0aa9cfe7d6723518d60244679dbf7",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/0f2ca74ad918951a2363ad0b.mp3",
+          "duration": 7.053061224489825,
+          "sha256": "0f2ca74ad918951a2363ad0bb650a2091098fcf3476def238602e6e12247f43f",
+          "textSha256": "95aaad690a43e6a8f947b7b524059ca8dba5c92e9503221bc89ba645214e6a5a",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b1-reparatur:helper": {
+      "full": {
+        "url": "/audio/stories-worlds/b5b7ababa67ad1b3b23a7588.mp3",
+        "duration": 31.764897959183998,
+        "sha256": "b5b7ababa67ad1b3b23a7588706fa63d4b879c7e82d555bbe225363c0e2e2155",
+        "textSha256": "0541d2cb8d3d1925cd4e6cb4f659fe0b1477a92e44c095bf410a353b8be69632",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/7e135bcb8a6443141851d310.mp3",
+          "duration": 7.079183673469418,
+          "sha256": "7e135bcb8a6443141851d31016265530f428e85cecd2b14d2f118fc9eefc1894",
+          "textSha256": "2c54955e0c9491c3e8f751aa7de6e875ec632fbef527531aba184ac40490f401",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/39b969ef6186f40b852c5e80.mp3",
+          "duration": 8.045714285714327,
+          "sha256": "39b969ef6186f40b852c5e8023af89e9a040f58e1c04234e1e0771cefd89e44e",
+          "textSha256": "7b9227e47122d6c4bf679c59465d8670f4b809165e101c06cca6ee6f90e8ee15",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/019b5b343ef873b178cc19ae.mp3",
+          "duration": 7.314285714285747,
+          "sha256": "019b5b343ef873b178cc19aeeda0099593b04b3011d30b7576aa0d1d40a8be59",
+          "textSha256": "afa8fd8ac4c27d86febd9b58133b88bf985837704c0a97f3c0c92a9298597931",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/3cc898583d8bf8934779df09.mp3",
+          "duration": 8.306938775510249,
+          "sha256": "3cc898583d8bf8934779df09f8789b65fdcb832b74b6db59fbc3531043011b69",
+          "textSha256": "69819e609307cbc330b96c35b8d65c3d73cb7ebe7691779fcd517ee6899e615e",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b1-reparatur:parts": {
+      "full": {
+        "url": "/audio/stories-worlds/a7b4fe3f62ac3742b19091c6.mp3",
+        "duration": 28.52571428571457,
+        "sha256": "a7b4fe3f62ac3742b19091c680f1affc22ea610d50a0848df32ca867d40af43e",
+        "textSha256": "163aed8a84c99e45a5e7e10c241a02b60cee11a3199644e6e13fc069ad4a5d14",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/23f9f1796cdc1b6c0b25a0b2.mp3",
+          "duration": 8.097959183673511,
+          "sha256": "23f9f1796cdc1b6c0b25a0b20c9c57937a869723d097c12d8592334824f0c11c",
+          "textSha256": "051acb5fd14d8a1fd7bd9c5a2a05b59d1779db3ee2f1221b458f6a8587744f12",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/73da0be42de9657641175ff6.mp3",
+          "duration": 6.530612244897982,
+          "sha256": "73da0be42de9657641175ff67517b00193c1fe2917362630c695fd2ae82162c0",
+          "textSha256": "d41afe96ca66dcc96b87b7b0dd7ac40590d8a9a3eb6565062608973872719bb9",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/287d3b4b935cd379ab3eda30.mp3",
+          "duration": 6.7134693877551275,
+          "sha256": "287d3b4b935cd379ab3eda30b11326a2ce56443a51347fb63130a986d59b4d56",
+          "textSha256": "91777e4da01908ca40b6a301b1e81e0b1173fa3416ff517ae02a5c7c12c460df",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/95218dce0c566891dd663450.mp3",
+          "duration": 6.217142857142877,
+          "sha256": "95218dce0c566891dd663450812cf62bbbc9eadfb45fe3a7e58dbd28297dd599",
+          "textSha256": "1a7fcdc63677d650ed1c57a92ff5e3e4aea9154b5eae64494bef60f51ad6f3d6",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b1-reparatur:professional": {
+      "full": {
+        "url": "/audio/stories-worlds/d7fbd906cbd413c4c23994f0.mp3",
+        "duration": 31.137959183673786,
+        "sha256": "d7fbd906cbd413c4c23994f0caf246836d29c740b7c43b94ec94e73db5c16987",
+        "textSha256": "c85d827240bf1aa3d4533e2974cd8fc2add6877cf15557b75d90a0fed1b9bc4c",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/5d64d86c5241b340d50d3888.mp3",
+          "duration": 8.150204081632696,
+          "sha256": "5d64d86c5241b340d50d3888e4d26eda267b068b273963f28f1f801df576fe7d",
+          "textSha256": "2a7b2751efd464f9c0ac9137281a1593ce3920f89f2b4ec07036ced844dda8bb",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/c1aed4774597b07cc83e7360.mp3",
+          "duration": 7.392653061224523,
+          "sha256": "c1aed4774597b07cc83e73603e5a91e095e639f15f89c64b65ca56bd800ce99b",
+          "textSha256": "6eeea40cebe916b6f07b4e5f034b0daea012f0dc9303158f17eb56af92797033",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/c8f9fdb7448d52218996dca9.mp3",
+          "duration": 7.967346938775551,
+          "sha256": "c8f9fdb7448d52218996dca9a791e3f1c4d83b466107584e96c1d5446dd6c7a1",
+          "textSha256": "97ca9d68616eb25844fdefb738389c6792ef8767ee51b25733e8ca5a410f96be",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/e3f8f1a8c2ca66e0c6434b3a.mp3",
+          "duration": 6.635102040816351,
+          "sha256": "e3f8f1a8c2ca66e0c6434b3a86123cc90dba2a953344f413c72accc4dc57be9f",
+          "textSha256": "9ace266b1a58f7d0ccd768081b57d34af23764c6ebc81de5fcd055d1bcbcfe31",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b1-reparatur:alternative": {
+      "full": {
+        "url": "/audio/stories-worlds/7b3cc2fcbd25a411285ae131.mp3",
+        "duration": 28.577959183673755,
+        "sha256": "7b3cc2fcbd25a411285ae131327f23d9ebcb49a710da4cef5d1fa32d8087f6e8",
+        "textSha256": "0e3fe69e583fc24e78944ebfe0ca1c4646d553874746fd5a70ee96381c8716a1",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/c9206586060bd2e837a035b6.mp3",
+          "duration": 7.784489795918406,
+          "sha256": "c9206586060bd2e837a035b6a36781f33e89e3018c1527d1ffc90328c3b4f888",
+          "textSha256": "c166a4ec4b81ba5c68ba97debd299031479e842aa72f80b57eac993a0eb5eb0d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/47b5609ce8f1642de7571d66.mp3",
+          "duration": 7.157551020408194,
+          "sha256": "47b5609ce8f1642de7571d66e1c3aca16f576386bef3aaeba7b845c190ee8f4f",
+          "textSha256": "6a4dd2dd2f342d48ca554033996c5fa73872175bfc63ee203bf45f6600a29bbe",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/e697b54bc4199983fefab0b9.mp3",
+          "duration": 6.321632653061245,
+          "sha256": "e697b54bc4199983fefab0b9c92ee27d3aa99e470b7c5e70fc4723ce8dfd8ce5",
+          "textSha256": "384771e5f814a858adb80cba90ef6fc31a833ed4e9d8d901018cdaee04629cc8",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/43adbbcc6123dd51da1774c4.mp3",
+          "duration": 6.321632653061245,
+          "sha256": "43adbbcc6123dd51da1774c44962cf11d1bca6b85fd99d2b67c40b9dd3d33daa",
+          "textSha256": "01079ec26f37c703092c1617dbb402a1e3b890d68e1602d541aeec02e95e6cd2",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b1-reparatur:sewing": {
+      "full": {
+        "url": "/audio/stories-worlds/4ef5ad8206e47d785bdd34b3.mp3",
+        "duration": 28.186122448979873,
+        "sha256": "4ef5ad8206e47d785bdd34b34b1462ecd1f54a1c7011d375db327bb086fee275",
+        "textSha256": "263e6fd4b606fb70287121e88027fae45e37bde988124c29f53df54978c94ff4",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/fb5db5b88e665f7c66dab149.mp3",
+          "duration": 7.209795918367378,
+          "sha256": "fb5db5b88e665f7c66dab149c3066faee9228185c184ad8ed4d6254e3d9b67fa",
+          "textSha256": "5e44d545fb664aa801c0d4aae83ae2907f699e63610cb606efc55d8a12975f56",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/4107becdc0a03c32ae7b7043.mp3",
+          "duration": 6.112653061224508,
+          "sha256": "4107becdc0a03c32ae7b704357b35157d13d195b602549a6c78f0d073f6a4379",
+          "textSha256": "16eadcf9a244da58de14f7085ae395a433bfa4dbf363269a876a9adc530e9cee",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/bffc307f59fbc553310f94ab.mp3",
+          "duration": 8.045714285714327,
+          "sha256": "bffc307f59fbc553310f94ab2ecbb8d23bad6a41595ad2d6d6dc1e19610aa16a",
+          "textSha256": "5dfb3958b2d5dcf345a990678279fdf92ed95362976d4353c4bb3e80fc478524",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/b90c2174d5b8bf741785b230.mp3",
+          "duration": 5.799183673469402,
+          "sha256": "b90c2174d5b8bf741785b230d285c82349ca99b1883228ad4b19bc803b63a944",
+          "textSha256": "7c55117243ca39ac8adaaad350d74780684fd3e375cf0a6eb7f496d79c6da509",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b1-reparatur:sorting": {
+      "full": {
+        "url": "/audio/stories-worlds/5272b18e24a12aa8f35d8709.mp3",
+        "duration": 28.316734693877834,
+        "sha256": "5272b18e24a12aa8f35d87098c73c200144d0baed4d79b168ab26496163d5b32",
+        "textSha256": "52caf53d673dc9e2dbf74dd36ebf33a22babfcc86dbc11a361daaaa003bf5b1f",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/ce00c36cd9e8543315dae8a5.mp3",
+          "duration": 7.653877551020445,
+          "sha256": "ce00c36cd9e8543315dae8a5f9c6c8c1e295a34b52a8be0ee682fabd1885a0b1",
+          "textSha256": "20f09178f7219cf5f3de02fb5d84d95124f97c84556e61a710dc9d41e29e858e",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/f2c2c37abc8028fbd50a8874.mp3",
+          "duration": 6.1387755102041,
+          "sha256": "f2c2c37abc8028fbd50a8874801e5f58e101087e9c5170af114c6f168c6f8423",
+          "textSha256": "5ecec90934e0d9c28be84f0df88c536199dd783b4f008a0e392616fcec95870e",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/aee7b985c1004226ce6f0acc.mp3",
+          "duration": 6.922448979591865,
+          "sha256": "aee7b985c1004226ce6f0accec08ede37f9acb07ddf5e2f88e4d92de66482a2f",
+          "textSha256": "93482691b8bb924be93e8ad54f1f0587f38e3cde1ac0c0e0d3e0ec01cc8f6b8e",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/c8cd4d002704bc9d55b9cceb.mp3",
+          "duration": 6.608979591836759,
+          "sha256": "c8cd4d002704bc9d55b9cceba7ed18b68f6d66e78626c34bf115b0c8d3b6a7cc",
+          "textSha256": "ef138c4251828de77d3aa9885cd94644e3abf3e698ab13cbeb9af82a5422812d",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b2-vermerk:start": {
+      "full": {
+        "url": "/audio/stories-worlds/818819efb36300f5694a8159.mp3",
+        "duration": 30.667755102041127,
+        "sha256": "818819efb36300f5694a815963ee7ec8f2a57a3f3f6890956c0ff20aa5acedb7",
+        "textSha256": "43c83bfbf1531bc78291b95a013bd01f0582bbbe7614bcf948b3f09e41eb58df",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/77a06aec87f73c4358e4e493.mp3",
+          "duration": 7.4710204081633,
+          "sha256": "77a06aec87f73c4358e4e493d348c0e0777ecd75896032fe69c0151e59a31d44",
+          "textSha256": "733b32a176418f05667b37990564f6b8d210109fd722cb7552819148a132a8f0",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/bfff0d68f490f4d00b6e96a1.mp3",
+          "duration": 7.680000000000037,
+          "sha256": "bfff0d68f490f4d00b6e96a1befe1d98b4726d761aaa43ee2e46860eefb66190",
+          "textSha256": "03340200ed95972b8d7b9bdabdabe3da2e814988fed2adbd4e1a9e31caebbea5",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/9d9da8513a5e890d298d5148.mp3",
+          "duration": 7.7583673469388135,
+          "sha256": "9d9da8513a5e890d298d51486f278d4649279857fca3ca7980faac1d10470515",
+          "textSha256": "022b87eec45da143f47d657891cf6f68e1f5e46dd01714e1b2d821aa6321cd7b",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/3ade428f0e7ec14eb0526ac5.mp3",
+          "duration": 6.73959183673472,
+          "sha256": "3ade428f0e7ec14eb0526ac56974c7a27615a8a185b48b8f13c105249a3b135c",
+          "textSha256": "d33054d8c761e388288cee2b26a61e45697e3a247ec03b870c40195a93ae9cc9",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b2-vermerk:editions": {
+      "full": {
+        "url": "/audio/stories-worlds/96222e32ff7caa3c7f4c0899.mp3",
+        "duration": 31.529795918367668,
+        "sha256": "96222e32ff7caa3c7f4c08994d0e5a2b100c03b9ea6dbcc8afb318f3c217d529",
+        "textSha256": "e732a155f9e3df2ec4360a3024d6f316f787b79f278b8e041cc0e465a2d752b4",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/9a732795d1dc5e01c39c0eec.mp3",
+          "duration": 7.627755102040853,
+          "sha256": "9a732795d1dc5e01c39c0eec28000d17b9ce07b2d1494ae96b2669ce6c258e54",
+          "textSha256": "bc1f1420a10e97b8346bfa01b18f25f5cf8fb1ca45bc302c2841a1fc045ac5ae",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/07ebfe9f9cacf70694580087.mp3",
+          "duration": 6.269387755102061,
+          "sha256": "07ebfe9f9cacf706945800871c37b06d95874f3ee46f8ee01ac0287f623aabe2",
+          "textSha256": "3e61537f2ca0fc1159cf53c532a431e08a532e35f63bd102899e2f2760687855",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/fc40a68b0326b63079209baa.mp3",
+          "duration": 8.646530612244947,
+          "sha256": "fc40a68b0326b63079209baab81b36cc0819fd38f08f7232baf6536108a4b380",
+          "textSha256": "1d90206c7df0e3d6cfe418ade75267641dd7d74445fa5e72afd09e9f40207d41",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/5313aac10c011774bdac77f7.mp3",
+          "duration": 7.993469387755143,
+          "sha256": "5313aac10c011774bdac77f7193f77788afc48d87a77636edd08525592dda253",
+          "textSha256": "f807c486949183722b75b21ab43ddbff8b389e8fd1e05276129ada406dd84cf3",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b2-vermerk:origin": {
+      "full": {
+        "url": "/audio/stories-worlds/521fc39ca42bc065e3747fd0.mp3",
+        "duration": 33.567346938775856,
+        "sha256": "521fc39ca42bc065e3747fd0148c325a8b0aa42515111bcb51f16ad3552e4988",
+        "textSha256": "762d8d3a68062f811ddea8b202df8d72abe831b16b5f6c2ac8af690ee06fdb65",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/3470db38fff507bbfa550e13.mp3",
+          "duration": 8.254693877551064,
+          "sha256": "3470db38fff507bbfa550e137fff7802c806d2fc0f901f53bf8a896b6adc1bbd",
+          "textSha256": "a760463a5471700b45ba949e1a5bdb221d4b67c7551230f08ed33a07750e1b5b",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/354a2345be53761f2cf32b6c.mp3",
+          "duration": 8.646530612244947,
+          "sha256": "354a2345be53761f2cf32b6c2133b04f27548a5508bed8975179b82f108b3744",
+          "textSha256": "cde986a5c36da01a22f54acc2ac964b8bf96ace0976a2dc4e09c2b9dff2e4531",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/6a52e8a8c5e16465e041fb91.mp3",
+          "duration": 8.620408163265354,
+          "sha256": "6a52e8a8c5e16465e041fb91174a0ee9db21e67804b3a7a4f62eb31cce488c58",
+          "textSha256": "9a593ea1b3a74e47162be55e1ea88becd5096ec9b190bede4c209e5ea8b038dc",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/b127b41a413dfc46a6aebafa.mp3",
+          "duration": 7.053061224489825,
+          "sha256": "b127b41a413dfc46a6aebafaa67181d48e05a39e0ca99141705e20639508096c",
+          "textSha256": "2b7aa5bc9853c57e3ca2df5fb2daed29eca3678019120e3d61a4e1abb2391d4a",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b2-vermerk:letters": {
+      "full": {
+        "url": "/audio/stories-worlds/5848d3f28cc55025b634e9ff.mp3",
+        "duration": 34.24653061224525,
+        "sha256": "5848d3f28cc55025b634e9ff65271fd3cee1c4f61b68107218b837773436c95c",
+        "textSha256": "857f1785931bf4cf2301e2b505532f80578b231d1b626efa09032965307d5d9a",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/27b29918b4827fc3ce718d02.mp3",
+          "duration": 10.39673469387762,
+          "sha256": "27b29918b4827fc3ce718d028040508d8ea212dfa3817f31b9de5c2c4d42bde3",
+          "textSha256": "99d5664df2ca0032d60034badf878cd3b896e60598e3c0f97c48436c1eb36372",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/256ae6efa34ce8ba066d761c.mp3",
+          "duration": 6.530612244897982,
+          "sha256": "256ae6efa34ce8ba066d761cfdd2184c25d7412faa657021562a460a0991cd07",
+          "textSha256": "b3387026b919025013fbfc57cb7b2aa4bee0c2e451e5bc4268f7167989b895aa",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/1d9063b720ad401d2b47f13c.mp3",
+          "duration": 8.228571428571472,
+          "sha256": "1d9063b720ad401d2b47f13c3399c7cba80270dcd2b9c89a5b78bc03e6ee3bdb",
+          "textSha256": "44da9e3836b240ea414505987e9ccd889fbc47ac7c518135f4087d6dfa621edd",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/a457d9b98b1d1dbdcf78bf8b.mp3",
+          "duration": 8.045714285714327,
+          "sha256": "a457d9b98b1d1dbdcf78bf8b537847754f5d785ff2076e2fc800fe16644556e6",
+          "textSha256": "598a3c22213124e6e512a7c74752db0d575c83bdedef8c82cfd6fd3265b6c4f8",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b2-vermerk:cautious": {
+      "full": {
+        "url": "/audio/stories-worlds/1190e0f8014242452fb5cd83.mp3",
+        "duration": 34.06367346938811,
+        "sha256": "1190e0f8014242452fb5cd83b612582fa440392f6e249d3558140704ece994a9",
+        "textSha256": "07cab8e8091093f44d4d68f379ed329997bcce2923999340035c1a849c921105",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/2fdc8b725a07f206a67838ea.mp3",
+          "duration": 8.43755102040821,
+          "sha256": "2fdc8b725a07f206a67838eab4572a23949ec3e9bdbec14fc03dac21a06f64d0",
+          "textSha256": "eee3c772e31060ba2fe04144ebb2b4a564fd10f1a38cc5945711e1cc86e4283a",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/420e90865092119fff86fc18.mp3",
+          "duration": 7.862857142857182,
+          "sha256": "420e90865092119fff86fc18beef3374bd9b360403f6704d7b89a6e878409dcb",
+          "textSha256": "944036ea9932c8c24a2b685dad99d5fab89c11c492939860261d0533de94f2fd",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/4fcc0e054147aa47ad55eaff.mp3",
+          "duration": 9.142857142857197,
+          "sha256": "4fcc0e054147aa47ad55eaff4c5ee8314c9342e9ae0790eba1affd6ed9dc8052",
+          "textSha256": "efbb451522e44518556bd2618135b53bf8b165b1269cdcd23bee72bf7cf825e3",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/1c5df1cb8b673562d9a4cb9c.mp3",
+          "duration": 7.627755102040853,
+          "sha256": "1c5df1cb8b673562d9a4cb9cce2c6fba645e841aacab1ae05c89085620a35c9d",
+          "textSha256": "25f7c20549730ed412778b1d7f6be8a2484645405d2d9d81f506e827ff733a62",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b2-vermerk:corroborate": {
+      "full": {
+        "url": "/audio/stories-worlds/3255b9c61d529fe275ae89a2.mp3",
+        "duration": 36.85877551020447,
+        "sha256": "3255b9c61d529fe275ae89a215f664847563a17cadb880964eea0c9d95598f4a",
+        "textSha256": "4d5de4ed89012abe90c25494f7bd8d21c5fb8f19f02555852547f63e829e16bf",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/9eb932b46e972b7f0a95a63f.mp3",
+          "duration": 10.475102040816397,
+          "sha256": "9eb932b46e972b7f0a95a63f08f54d805b7472c66708a8d4a14b5c4fcaeaf60a",
+          "textSha256": "505fc985f304d50679c8dd543f8335ed37604a0ef1257197c7eecc26365cf487",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/da5023c2b3e125720a63e6fa.mp3",
+          "duration": 9.377959183673527,
+          "sha256": "da5023c2b3e125720a63e6fa1524f253e2e903b256dd1c503d795e7e7658e0ac",
+          "textSha256": "5ce62591d7c2004d5a990c83483bff90c0d1704e6aa32f352e981587458f8c0e",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/f39166155b083cca7fc6ec46.mp3",
+          "duration": 7.83673469387759,
+          "sha256": "f39166155b083cca7fc6ec4642947e85ba9c7ef52990886bb24ec94505103596",
+          "textSha256": "1b3aad864ec5eccb8293441cf38fe257eba3fde1992acbd8ae669040e9c93124",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/5ec49de3e52361c3892aefe6.mp3",
+          "duration": 8.176326530612288,
+          "sha256": "5ec49de3e52361c3892aefe6d8024e4513c885dfa83a0a49e0c2453ee6dd3092",
+          "textSha256": "7f3da7b66c4a4643b71c7d08529d326f19a11914b03d772bba6f8f3913054fe3",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-b2-vermerk:open": {
+      "full": {
+        "url": "/audio/stories-worlds/f59cca66e34452a110a3e9aa.mp3",
+        "duration": 36.02285714285752,
+        "sha256": "f59cca66e34452a110a3e9aa5d5642a2bcf27d9e96bc814114ecc184d1a3e0bd",
+        "textSha256": "12eada10e1e041c311633b099fc75c805128d44f61b82fe323438f4c4eed10dc",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/faac3af425fd0d17c1d501d1.mp3",
+          "duration": 8.672653061224539,
+          "sha256": "faac3af425fd0d17c1d501d1dec6331b188769ca91e411e6dd864e1e18dc42c9",
+          "textSha256": "cfc69fa5f54df92f85257dc72b3d74b11ca4c6bf6105929055b27835b5cd926f",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/1e474d1a3e14125963abb8c1.mp3",
+          "duration": 9.482448979591895,
+          "sha256": "1e474d1a3e14125963abb8c1b93e9fb0c65bc922a92efa4da25ed87c52263dc3",
+          "textSha256": "89f42fae1fc0c8052bda27b95ccb5b81a64e3591e9d1fd4013f97c2d50ecd382",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/02b225daa1a11dcb08d03bc6.mp3",
+          "duration": 8.855510204081684,
+          "sha256": "02b225daa1a11dcb08d03bc663767d89d92de80ef584a37074cc639e02b89143",
+          "textSha256": "3265db113bf1bcbf9495ee4d81aeae1755e3007d766c8e884f008c96cbbee62b",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/94384b6fc1971488dd0882ee.mp3",
+          "duration": 7.993469387755143,
+          "sha256": "94384b6fc1971488dd0882ee080b1f53e14037917bd3d4588eb0cb386821d670",
+          "textSha256": "67103109c28ed9aca4e4850fb754ffdca63269374783ccefe8fc57521753b49f",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c1-widerhall:start": {
+      "full": {
+        "url": "/audio/stories-worlds/ee9327dcdf2b1553fd583926.mp3",
+        "duration": 38.060408163265706,
+        "sha256": "ee9327dcdf2b1553fd583926076fdd18bc4d29f93662423b641e7f4e84ce867c",
+        "textSha256": "f3900d63e334585ae258f98816f10dfb4a0663c502ee24996ad0b6d8f5b3c0a5",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/6c1dbfbd2471ea3826b03085.mp3",
+          "duration": 10.318367346938844,
+          "sha256": "6c1dbfbd2471ea3826b03085527e876de12f7e02f543ff5a6d2d5750beacd026",
+          "textSha256": "457ccabf297a48ce5d501f6b530fdfecd2363c4a2d05f0a71fbe457bec4e4508",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/04a5a1cd599c3148afc67e58.mp3",
+          "duration": 9.012244897959237,
+          "sha256": "04a5a1cd599c3148afc67e5823a9cdc7ba9a2dc42ba8e3613134662e19f9b4e7",
+          "textSha256": "80339ec161ef09304877841ece8345af7dea43cb74587cda2234acdff44c69dd",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/aa1c205dcb40fa8b25a85bcf.mp3",
+          "duration": 10.710204081632726,
+          "sha256": "aa1c205dcb40fa8b25a85bcf3991c228f4fb0292d0997b0749afc1a05145aaff",
+          "textSha256": "3d77dcc1cb623339ea0c25177d45908f8e4e1cc0c849635542c3883b0c0f5a03",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/922d0b42171df3ecf46b1433.mp3",
+          "duration": 7.026938775510233,
+          "sha256": "922d0b42171df3ecf46b1433bf71445af57bcf8e14f7354200862e5b3b7aae30",
+          "textSha256": "200392ff47662b4c738fc50dfb402587fa1b81bc5a112eec86ec5d099d6f2f08",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c1-widerhall:voice": {
+      "full": {
+        "url": "/audio/stories-worlds/814276dc5b336f60dd66b1e0.mp3",
+        "duration": 36.38857142857181,
+        "sha256": "814276dc5b336f60dd66b1e0d2ce6f0dcc2a4e67ffbd3513a90bd009bf911ebb",
+        "textSha256": "e89c813d02dcb4ac38763f05813a341613e8db3814def827cfa948244b8a9e5a",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/d5ab144050333cdc212bf4d2.mp3",
+          "duration": 9.038367346938829,
+          "sha256": "d5ab144050333cdc212bf4d2e07c6cccadd068cdab3f39b11ba5fa81c15f580b",
+          "textSha256": "324ee40b6b82a85ebe6b3221f91e665c4e252f78ed7af61727c4520c23f194ce",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/23bc0a1841b0a1a4e261a56f.mp3",
+          "duration": 9.29959183673475,
+          "sha256": "23bc0a1841b0a1a4e261a56f4a7bbc54ae813afb06c638ba545f170f4f1f937d",
+          "textSha256": "f379de04d7bb75a5018a6971aa70249ad62552b0af6abbc31bc2463b21f9b4b3",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/dcad7ac18965ab0767b2b8f1.mp3",
+          "duration": 9.273469387755158,
+          "sha256": "dcad7ac18965ab0767b2b8f1057960a55f3dc57bc2454095376f9aff231189b7",
+          "textSha256": "88591d876dfc6f2d8aa2263b605d84fd7ec2355343d871437173d5215667a52e",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/c552feebff4bdbc24a0a81b1.mp3",
+          "duration": 7.7583673469388135,
+          "sha256": "c552feebff4bdbc24a0a81b1e7c7a6be63555f41d923569a42506f143ec2461f",
+          "textSha256": "a87f29a8a1e4e4f0139e24d116aadb17db0eae62ed4ef0bc4847fe4ef2901891",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c1-widerhall:others": {
+      "full": {
+        "url": "/audio/stories-worlds/ff6f022daefecf8238fb65be.mp3",
+        "duration": 32.104489795918695,
+        "sha256": "ff6f022daefecf8238fb65beb13c8d34de0b19fb33f5a38628d0a0b4621d2f8d",
+        "textSha256": "f3ef6c46e2d5c2774bc335dd79842506280797433a83ef78e11a51f370635a69",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/ca8d20f18eac7e77de75d388.mp3",
+          "duration": 7.366530612244931,
+          "sha256": "ca8d20f18eac7e77de75d38878546424c66af90ebcaa81aa5fba3eac91fcd7cd",
+          "textSha256": "c04f36eca4cd69a6a57da0215d99d7bdc56cf9f8f3b3c15afc21e09bbaab49ba",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/91909c7aa7c64cee622c5233.mp3",
+          "duration": 8.542040816326578,
+          "sha256": "91909c7aa7c64cee622c52333a0139490de213183ecbe405b8085ad4aa0ede30",
+          "textSha256": "263e0c379c505c223ce0901404618e3eba4939c987ab0c7b9d27a57521fc0980",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/833ba0cbaba77cd00748459f.mp3",
+          "duration": 7.4710204081633,
+          "sha256": "833ba0cbaba77cd00748459f4ae1d2acf856cd6db840a1fcc5132da62cda4bcc",
+          "textSha256": "a4df386ca177e0043969083cb30cd662b7bf2d60346d9ca744b0cfddf7321858",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/97e025a57fe86ac98d938e13.mp3",
+          "duration": 7.706122448979629,
+          "sha256": "97e025a57fe86ac98d938e13e96a099a79a087032fb6e3e39290d0092add84dd",
+          "textSha256": "19aeae0895d955598c7a1c8877d35102ee7e136ef28a5a03498f1fd3014f7341",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c1-widerhall:retell": {
+      "full": {
+        "url": "/audio/stories-worlds/4fd8c141a75d9b8db003ef66.mp3",
+        "duration": 37.433469387755494,
+        "sha256": "4fd8c141a75d9b8db003ef664a46cae3e1b09324eea7d085f5c104cbe37422c9",
+        "textSha256": "de9fd67e4ead84f1fa26ca99ad1486e14c04ded513f383fbc26e00d1632ea0b5",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/4463dd41f0b702f88586d0f8.mp3",
+          "duration": 8.829387755102092,
+          "sha256": "4463dd41f0b702f88586d0f87de3609339668b685b7246e5d42bdd597c0e0ad0",
+          "textSha256": "2a63c08662b344d8c78f2e6956075f2aa5dc63e748b8bb0df997787eeb343462",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/858b275ea0babedbb4f9671e.mp3",
+          "duration": 9.952653061224554,
+          "sha256": "858b275ea0babedbb4f9671e103e3a68107065d3208d7e72f70fd6f2b99f452d",
+          "textSha256": "7ddb23c214f71d3999f76424011e052ad3f4745d36680d2fc3b53b3c6f34a5e1",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/1a123797eb6d2f7405d05366.mp3",
+          "duration": 7.810612244897998,
+          "sha256": "1a123797eb6d2f7405d053663da6167426c95bf0a2f786c8c4a6270c35ccdcec",
+          "textSha256": "f98ee15a0b32a59b0019f3ac51543ef1c8e351c3e2e13a8383ca34c41a1d30db",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/5c4baa2a277412071b892462.mp3",
+          "duration": 9.822040816326593,
+          "sha256": "5c4baa2a277412071b892462acead71758fb80bb5423ee50fc04cbda97772ab9",
+          "textSha256": "ed6aad7fe9d3c2ae37d0cdb90e5eb10b2860d95d53ef45f9eab36426ae15e5b1",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c1-widerhall:farewell": {
+      "full": {
+        "url": "/audio/stories-worlds/880c3dfcb4233e482cc4a699.mp3",
+        "duration": 32.54857142857176,
+        "sha256": "880c3dfcb4233e482cc4a69988ae07da94dc9ea0aba9d07861b2cf2a5991ec6a",
+        "textSha256": "0144d805e3483d4ff227d03cbe2dd135dac2ea83790eef60c6e2a0f7403e7ef1",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/c49eb952a80ce0eb4593fb5e.mp3",
+          "duration": 7.444897959183708,
+          "sha256": "c49eb952a80ce0eb4593fb5e17894e7da360ac90accd4ca385fee46fdb318168",
+          "textSha256": "f1fb1b0ee888e6b4268a1a484fc6efcde3eb1e75a99dce44be8d06f8024822d1",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/f4ac915149510f97521bbd3a.mp3",
+          "duration": 8.515918367346986,
+          "sha256": "f4ac915149510f97521bbd3a95a723fc44a348e9073ec2eae51798108ad3232e",
+          "textSha256": "ebe968334a98d4b92c3aca1be9654a5ad65aa88fbc04ebd0c98f9b9500b6c1e6",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/164d76d5e16e01165b1c1f43.mp3",
+          "duration": 8.8032653061225,
+          "sha256": "164d76d5e16e01165b1c1f43cf84b417faf7efbc4ab253e9b5a29bd3587c0280",
+          "textSha256": "ae5d1f81961d67332e6aa2c288be87005fdf1911181d74eccc19c62f41becb06",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/1270f8c3a068532491322cd9.mp3",
+          "duration": 6.791836734693904,
+          "sha256": "1270f8c3a068532491322cd97da0a2629b4925ebd0995ececeb1604e163127a6",
+          "textSha256": "9e89654e46c5738920fb7d08e987750582956a171fe8230e766f256349804f7f",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c1-widerhall:rules": {
+      "full": {
+        "url": "/audio/stories-worlds/7f7163ac598bf65e22d190ed.mp3",
+        "duration": 36.91102040816365,
+        "sha256": "7f7163ac598bf65e22d190edb237c6171b87f334c16a66764a805b393c81a9e4",
+        "textSha256": "715e3e292af112150a786ead8d7b20ebb99ee3ba0259678d7b3771f418c87bc1",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/4630ce1489533af86405441d.mp3",
+          "duration": 10.684081632653134,
+          "sha256": "4630ce1489533af86405441d386acdc17d1ec88010954481ea34bfaf4aa11085",
+          "textSha256": "a880772a214b4f759608a998ac64ba2b40c7cb53595a43d0ee10223f5facd6dd",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/3aa893690ad84d4059ccf8f6.mp3",
+          "duration": 8.8032653061225,
+          "sha256": "3aa893690ad84d4059ccf8f60c11abe18709242af351469a11947a74b1bfd156",
+          "textSha256": "fb4ad55450eccdd624899c5d1cf97ca807f8dc9f5568fa7e7d5761a5dba37f8b",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/885ad1cf0087f664b8452d94.mp3",
+          "duration": 8.306938775510249,
+          "sha256": "885ad1cf0087f664b8452d94f585ef4031b68962b6764af87468e9579a209b71",
+          "textSha256": "540962132422906b72807216e1dc94d479ef4fd284c099454c29c6f3524cefe6",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/92b4df9d6f285e32328e75a2.mp3",
+          "duration": 8.124081632653104,
+          "sha256": "92b4df9d6f285e32328e75a21c870db4693fa317dce94cdc53654608c007b7e9",
+          "textSha256": "6dc359fc1c502191fa07c57c7a6f1162c5b8556fecb08c333fef904c3bb69284",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c1-widerhall:distance": {
+      "full": {
+        "url": "/audio/stories-worlds/7e4fa1d567373a12dbfaa3da.mp3",
+        "duration": 36.15346938775548,
+        "sha256": "7e4fa1d567373a12dbfaa3da2cd974559a124de1f75ad3643f25a88a7fa1b0c3",
+        "textSha256": "2ae0e3540135a6c5316e148b5fef51e8f6840c1279931bbf8c79a6140361f65c",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/c9efe63849e4d3c2995cf369.mp3",
+          "duration": 7.131428571428602,
+          "sha256": "c9efe63849e4d3c2995cf3690db68379e05fcb7b28ea98f54443ea00f8f4fd1d",
+          "textSha256": "b52b2dcb4f4eb5756f5ec5f6a46d8172d07d9c60b4daeed921dde15b65243c15",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/9f996101b1feae76d0430838.mp3",
+          "duration": 10.945306122449056,
+          "sha256": "9f996101b1feae76d04308387c2ccc806f0e3d7d5257db017beb4b18b8f5cd52",
+          "textSha256": "771e43866f584623c8181c557135077d7280f39e7657d887ad1db3534f220ccf",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/b9499806bbafffd853aae887.mp3",
+          "duration": 9.430204081632711,
+          "sha256": "b9499806bbafffd853aae88707234dd4edb091e87b88068ad2e86086db3116d4",
+          "textSha256": "6731794758376ea5fb412ed4097e56cabb8042ba4187aa5cece2ac2a3fb91cd8",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/8ed638d571e4cc9adc9bdce2.mp3",
+          "duration": 7.653877551020445,
+          "sha256": "8ed638d571e4cc9adc9bdce2437d4d7bccc0dbbfa4f58d059400d5cead0c65bc",
+          "textSha256": "3ffca79d0be9299cd0afe213b2c692391074ce8ab7c85a0f455ec55f350f3744",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c2-urheberschaft:start": {
+      "full": {
+        "url": "/audio/stories-worlds/b1e5e02260482909634c509d.mp3",
+        "duration": 43.10204081632699,
+        "sha256": "b1e5e02260482909634c509deb22c419130aa49f15332314f2e9f551f9eaa3d4",
+        "textSha256": "0a3a603093caaa690fd3c6c6b93a9f16f28ce34266aa22f7a7144b8bb0140df8",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/2c31f47a57c889a87900364f.mp3",
+          "duration": 10.945306122449056,
+          "sha256": "2c31f47a57c889a87900364f0d289d4855c3f8a56fe3e43b4fb7345294aeb0dc",
+          "textSha256": "c66986787b7e44173f91ca2661b88df4192b839b58311903011b254c2ca7985d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/798c7c7199ecf445f7063ecf.mp3",
+          "duration": 12.173061224489887,
+          "sha256": "798c7c7199ecf445f7063ecfd4e89fe83fed5ebca09811f342a73f25aebb102e",
+          "textSha256": "28a9ebd0afa52c943cc42d51a1a52a1bce563a8464d2d454a333938035160290",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/b5598204bee00cb9e7b1728d.mp3",
+          "duration": 10.840816326530687,
+          "sha256": "b5598204bee00cb9e7b1728db828daef9354c608c28c08449260027135779e25",
+          "textSha256": "57ce474a5e741b71fd96b4473613337b07b0313d8fd06a656995cd5084a21db8",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/d16e810cb87f09d0da279e3d.mp3",
+          "duration": 8.150204081632696,
+          "sha256": "d16e810cb87f09d0da279e3d58b12a510f7332593dea610a291d2f01ed6fa958",
+          "textSha256": "6892bf2767d8aaaba55d71e122475822c7f771df42386553b0d4dfab26720286",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c2-urheberschaft:versions": {
+      "full": {
+        "url": "/audio/stories-worlds/61d7d18a082c7b3a679258d8.mp3",
+        "duration": 44.69551020408211,
+        "sha256": "61d7d18a082c7b3a679258d8e5af61fc59fa035bc75cebcea3d11c787a864229",
+        "textSha256": "5046d88178f0f7b7dcd9cd9d0f6e5beafc91815afc7423d7cd6ce9b59726359d",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/09433164a04f7288207d1155.mp3",
+          "duration": 13.035102040816428,
+          "sha256": "09433164a04f7288207d11556cc39222040254ad4f328eb6e36c0debe51b7c10",
+          "textSha256": "4f98948b0747d4b92aae0550dc439927a2221c7fa10873578a53bcd4ef597e43",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/8d3d69aea13861d79cd73103.mp3",
+          "duration": 11.23265306122457,
+          "sha256": "8d3d69aea13861d79cd73103054f29a534082c103dde3fed94f2146ab2870fa1",
+          "textSha256": "578d44aa7e164b23ab1862a188ff346b1f8e560d7179c86748bbc63b90bb9237",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/a83c6e9b10041489adf42982.mp3",
+          "duration": 11.206530612244977,
+          "sha256": "a83c6e9b10041489adf4298204384c8943c9fc746e7291f8cbdaa2d6438dcf6d",
+          "textSha256": "a87d1ce457b355cb0080a3ba92e7f2db0d38bf92f9b5c7d341eecaa99ec91bd0",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/fb36b6699c96bfdff88485fb.mp3",
+          "duration": 8.228571428571472,
+          "sha256": "fb36b6699c96bfdff88485fb51a35d29450bb78d07b7ead142b5fff8e8174919",
+          "textSha256": "d43b770ef86c0859154d7de5be0f072d9ffd860de71ce2a8ad9f57afad4c068e",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c2-urheberschaft:meeting": {
+      "full": {
+        "url": "/audio/stories-worlds/0eb335d6284a910d996670d8.mp3",
+        "duration": 41.29959183673513,
+        "sha256": "0eb335d6284a910d996670d848df2db48a7525544a6784e37ebdebdfa96c9d9a",
+        "textSha256": "51902936fbfa750065961ac46479f369419ede11ee96e9e420a2edd39d706c24",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/7bcb027d6cb6aa8df8c20c4d.mp3",
+          "duration": 11.049795918367424,
+          "sha256": "7bcb027d6cb6aa8df8c20c4d7cec11aca0103f9f2ddbb37e4cea67db36f4a3bc",
+          "textSha256": "9db58dbca27595c19e13400e879ba69dd222a5d94c5334efcafece818fd9cdd3",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/c89cd1b11f8c09afdc9c6cd2.mp3",
+          "duration": 10.579591836734766,
+          "sha256": "c89cd1b11f8c09afdc9c6cd225a07568971c2d944fbd546b209b9b57519332b0",
+          "textSha256": "530ef71f4dff03179731f0b1695a267dd8f28d3b56f42a23f573278e9ce69f6a",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/1f6b93873aa6a0d21bc5a7c9.mp3",
+          "duration": 10.99755102040824,
+          "sha256": "1f6b93873aa6a0d21bc5a7c917069990be062c2e18fe15207c4180bb0f595336",
+          "textSha256": "2b997fd482a3d27f86eab438b6632e8ca710a9db8286c7f98317befe64c23fdc",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/0296105f2d536ae1fe46c21b.mp3",
+          "duration": 7.680000000000037,
+          "sha256": "0296105f2d536ae1fe46c21b4b03d69827e946113906fa95e8c7ef5d1989ca18",
+          "textSha256": "4bae7ae501dce5c21633518ee0a3dff0a03ebc0250cd51780bedebbed1aa2529",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c2-urheberschaft:credits": {
+      "full": {
+        "url": "/audio/stories-worlds/482b3e9473c995ebbb0adbf3.mp3",
+        "duration": 44.852244897959665,
+        "sha256": "482b3e9473c995ebbb0adbf382b3c8000fa75df8b9b7f532ca9e94e171a77b33",
+        "textSha256": "5a163d64cda51f9b69843f3c7bb888d61e7a0cef58dbbb916e92b3a9633ce71b",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/0cb60401eee21b79dde584c7.mp3",
+          "duration": 11.859591836734781,
+          "sha256": "0cb60401eee21b79dde584c7219db52687a9dd4f08752353be80e1b9cbcc690f",
+          "textSha256": "380b4ec4e0fe81f74b387ff1eb5d0885650b352efac06da6ad98e81ea2babbb8",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/32f04d3d91d77e69b8d796cb.mp3",
+          "duration": 10.605714285714358,
+          "sha256": "32f04d3d91d77e69b8d796cbc61fa4c6e65f143a21c50c5bbadf459ffe1d37ee",
+          "textSha256": "47be9381471b2b499442e033f41c40784ca9432ce72eff0a731f57bc1567c4b8",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/a0d7c71b233a1f081d0b3090.mp3",
+          "duration": 10.39673469387762,
+          "sha256": "a0d7c71b233a1f081d0b30909f6a499ebe7a3e13f8118690e50d147cf56d53e2",
+          "textSha256": "745b36053c04d04c6f3d9f698c2d9d1060aaf62f70b881bf6cb33055b27ef921",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/a780b33fe63ddea87e772ba1.mp3",
+          "duration": 10.971428571428648,
+          "sha256": "a780b33fe63ddea87e772ba109cd966b43e387a106dbb8bcd5bb74d4a6e6c3cd",
+          "textSha256": "c4f5fe468c9f0ae4f9cb506e2a8d2446a9370b7fa2b8817dbbb2ebb2d783977a",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c2-urheberschaft:pause": {
+      "full": {
+        "url": "/audio/stories-worlds/824bd0dc8f3ee0c87f0ef7ac.mp3",
+        "duration": 37.4073469387759,
+        "sha256": "824bd0dc8f3ee0c87f0ef7ac03a8eb7741878ed14c68313e4f16f634d59d71c0",
+        "textSha256": "869fc0a6368cc8235a3b99088fcb7b263b7b66b83f121ec722dbdc77358596ff",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/be23906291aa063d1c239754.mp3",
+          "duration": 11.96408163265315,
+          "sha256": "be23906291aa063d1c239754bbe449fe92916ccb13c7dba5de249195d2ff0a19",
+          "textSha256": "b77bb36cfb2bcd1cadf4aac2286ac450f86eb21eaa77b6e1d74021b130885817",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/38f0735a1b69a95841a5468e.mp3",
+          "duration": 7.810612244897998,
+          "sha256": "38f0735a1b69a95841a5468ee7be91b01dc2c409754ef8613cf2bae354560514",
+          "textSha256": "41583cc958f52db9543c4e64c6d7fa6bb9c344a28211c36ee01a72bce8878520",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/eb0e46540cd70b9ad2728f9f.mp3",
+          "duration": 8.515918367346986,
+          "sha256": "eb0e46540cd70b9ad2728f9fc68e34988a82ad38a108f2a220e2a5a3022e293c",
+          "textSha256": "20f90464270e61cb325f5d564df4b219b399fd4333e591cf4cf2e0b80782ba2d",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/80890164d0f027b9a02fc95f.mp3",
+          "duration": 8.097959183673511,
+          "sha256": "80890164d0f027b9a02fc95f65a1edc3f19ce5f0c0e11e8c625699ce73221ed3",
+          "textSha256": "ad921c03c85c90561f82e97a8e9bfc7f6071579e53decaaf9324afa6eb697e0f",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c2-urheberschaft:agreement": {
+      "full": {
+        "url": "/audio/stories-worlds/6c597a1b27b9bcb8eb2bd6d8.mp3",
+        "duration": 41.24734693877595,
+        "sha256": "6c597a1b27b9bcb8eb2bd6d876e80c8e33c24c4bd325610982609c18f8b6b9c4",
+        "textSha256": "f353413825ebcee102b28367a8f7e65f4be4c690bf33f4caa70867d11dae1cba",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/b04b3633d3570b8ce8bb3efa.mp3",
+          "duration": 11.96408163265315,
+          "sha256": "b04b3633d3570b8ce8bb3efa5d3730cfb581f3ac5862a0d70ff739575d7a1e17",
+          "textSha256": "08d25a929aa0c4399a85f0efbe1cc0a9b6ad34e4b943eb5ec0430f9b38ee0287",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/dadbad3f1ec89177095c6f23.mp3",
+          "duration": 10.99755102040824,
+          "sha256": "dadbad3f1ec89177095c6f23307a055c32925d556f9f412002b70d75770f3309",
+          "textSha256": "7069a2259f5ebacd5c9ad02c3e01686f6c3c6669317b52582215c1950b797d06",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/8a653362d700b10a92b89264.mp3",
+          "duration": 10.1355102040817,
+          "sha256": "8a653362d700b10a92b8926429a5e69b5663345048e772c88fb26c7df95a0f59",
+          "textSha256": "30dbcbcebea16df62d93ee46666a2d9951628e21ec4a1d765fd634060aac99bc",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/4bfed597941634ce6a19ceed.mp3",
+          "duration": 7.131428571428602,
+          "sha256": "4bfed597941634ce6a19ceedce64d8f536b16eaf1063d5aae781c93afa1978f2",
+          "textSha256": "46036c8b2f1657fd8eb7ce8c0e9919b55e18a99477ee0951976638291bee1f4c",
+          "sampleRate": 22050
+        }
+      ]
+    },
+    "story-world-c2-urheberschaft:dissent": {
+      "full": {
+        "url": "/audio/stories-worlds/9c301371e00aba4532e6c9ae.mp3",
+        "duration": 41.53469387755146,
+        "sha256": "9c301371e00aba4532e6c9aed9f7c79f59220c43fab73b39636cdfba952c6616",
+        "textSha256": "88109a0aaf2d945bd46f1e412959961690bb6996315dec36c047b9ca88d21fd6",
+        "sampleRate": 22050
+      },
+      "lines": [
+        {
+          "url": "/audio/stories-worlds/e7e5278a1a37975effcf0f78.mp3",
+          "duration": 11.180408163265385,
+          "sha256": "e7e5278a1a37975effcf0f78df5299f02c36d201792301aa3838d7e511122d93",
+          "textSha256": "6d415c7ace0e36cdf8bb73f81d3a6cae8e032c4c90b0d934e03deb7f28947b7f",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/37b8c9845981617137d93577.mp3",
+          "duration": 9.508571428571488,
+          "sha256": "37b8c9845981617137d9357789e67409d3ee4b587f8d21e63713325ff31fbaed",
+          "textSha256": "2a213f9ca26e43537322cbdee17a94233c3cd695ba0f7298fb5e0190c6e3515e",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/3d36573565667e1c0d3e0827.mp3",
+          "duration": 9.978775510204146,
+          "sha256": "3d36573565667e1c0d3e08271612b0d8ab624b53ea27ff08b11b80b393bac83f",
+          "textSha256": "9cfba9c1dd0292ce709dfcd2484f5743f9cf89c0d43cba3086e1c0b17540b9a0",
+          "sampleRate": 22050
+        },
+        {
+          "url": "/audio/stories-worlds/85c167428227920cf7ff4d76.mp3",
+          "duration": 9.874285714285778,
+          "sha256": "85c167428227920cf7ff4d7604c41e56fd723f6f199d62f7f37b852f3ae7119f",
+          "textSha256": "021a8b768b40322ec98bdbb15d9b4bfbaa28e2278228525fc265dd613b21fa72",
+          "sampleRate": 22050
+        }
+      ]
+    }
+  },
+  "glossary": {
+    "story-world-word-1": {
+      "url": "/audio/stories-worlds/d5922ed330285b09d7da88ac.mp3",
+      "duration": 1.0448979591836731,
+      "sha256": "d5922ed330285b09d7da88acb6f17fe7fcce7e3cb56f4c0af82cef2dacc1a872",
+      "textSha256": "4a50ee3dfe944e8dc204873ef60c55a6d3041a4d997627b9a630809bc042308a",
+      "sampleRate": 22050
+    },
+    "story-world-word-2": {
+      "url": "/audio/stories-worlds/8003bbdb1a8b8ee90fd438a5.mp3",
+      "duration": 1.2016326530612247,
+      "sha256": "8003bbdb1a8b8ee90fd438a53dc133f545c33e06d0fdca847c3c05d64c794248",
+      "textSha256": "f8241b52391bf55eae986f66421cbc418e691a1a10e8adffffb4035f72811f07",
+      "sampleRate": 22050
+    },
+    "story-world-word-3": {
+      "url": "/audio/stories-worlds/a73a43273c28e7f7ac02d103.mp3",
+      "duration": 1.097142857142857,
+      "sha256": "a73a43273c28e7f7ac02d103872ccfe16602d73ff644f8a8e41c1aed44dcfe1b",
+      "textSha256": "9333b71adf781f80f7b5a5239c6ea1bf2714c2281c8f72e47a8896d591047890",
+      "sampleRate": 22050
+    },
+    "story-world-word-4": {
+      "url": "/audio/stories-worlds/28b095575ad74df7816ef102.mp3",
+      "duration": 0.8097959183673465,
+      "sha256": "28b095575ad74df7816ef102f30b242a4bc8b85ec62b112f303ba10f6d110c16",
+      "textSha256": "c52b24f66d1b43622ce497b9998a5e67b103a2de04c4be41d841859a9a8b06d0",
+      "sampleRate": 22050
+    },
+    "story-world-word-5": {
+      "url": "/audio/stories-worlds/77b9b7cd3d2274c1c71f9c6a.mp3",
+      "duration": 0.8620408163265302,
+      "sha256": "77b9b7cd3d2274c1c71f9c6aa17bf68fd3eccf930a5145fd8e39405d1607acbf",
+      "textSha256": "83652bee2efce3882ab61a66234454b953a0bd004dc17d5f5cbd3609db6dc576",
+      "sampleRate": 22050
+    },
+    "story-world-word-6": {
+      "url": "/audio/stories-worlds/5c530aa9b00fa944dea268d8.mp3",
+      "duration": 1.2016326530612247,
+      "sha256": "5c530aa9b00fa944dea268d838e5bd13a18691827b5d7d6fbeff57d34873914a",
+      "textSha256": "dcb5679910fd4d17dfb3ae2c45a40af64308d830b03f1ffadbcc412596c99a9d",
+      "sampleRate": 22050
+    }
+  }
+}

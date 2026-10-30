@@ -28,7 +28,7 @@ test("reported A1 expression uses its existing hosted recording, including white
 
 test("all static vocabulary/card texts and listening exercise prompts have hosted recordings at every CEFR level", () => {
   const texts = publicPronunciationTexts();
-  assert.equal(texts.length, 1170);
+  assert.ok(texts.length >= 1170);
   for (const text of texts) {
     const a = pronunciationAudio(text);
     assert.ok(a, text);

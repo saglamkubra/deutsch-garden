@@ -8,6 +8,7 @@ import { miniCourses } from "../src/lib/courses/content.ts";
 import { courseAudio } from "../src/lib/courses/audio.ts";
 import vocabulary from "../src/data/vocabulary.json" with { type: "json" };
 import legacy from "../src/data/listening/audio-manifest.json" with { type: "json" };
+import worldGlossary from "../src/data/stories/world-glossary.json" with { type: "json" };
 type Asset = { url: string; sha256: string };
 const existing: Record<string, Asset> = {};
 for (const course of miniCourses)
@@ -26,6 +27,16 @@ for (const word of vocabulary) {
         .update(readFileSync("public" + a.url))
         .digest("hex"),
     };
+}
+const worldPath = "src/data/stories/world-audio.json";
+if (existsSync(worldPath)) {
+  const world = JSON.parse(readFileSync(worldPath, "utf8"));
+  for (const word of worldGlossary) {
+    const asset = world.glossary[word.id];
+    if (asset)
+      existing[audioText([word.article, word.word].filter(Boolean).join(" "))] =
+        { url: asset.url, sha256: asset.sha256 };
+  }
 }
 const texts = publicPronunciationTexts();
 mkdirSync(".cache", { recursive: true });

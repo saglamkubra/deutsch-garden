@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "story-world-a1-ausflug",
+    "title": "Otobüsle Küçük Bir Keşif",
+    "germanTitle": "Ein kleiner Ausflug mit dem Bus",
+    "level": "A1",
+    "category": "travel",
+    "description": "Bir park gezisinde yolu sor, tabelaları oku ve dört farklı gezi sonunu keşfet. Yer ve yön ifadelerini kısa cümlelerle çalış.",
+    "art": "train",
+    "minutes": 8,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Park hangi yönde?",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Es ist Samstag. Du bist mit deiner Freundin Mia in einer neuen Stadt.",
+            "tr": "Cumartesi günü. Arkadaşın Mia ile yeni bir şehirdesin."
+          },
+          {
+            "de": "Ihr möchtet zum Park fahren. An der Haltestelle stehen zwei Busse.",
+            "tr": "Parka gitmek istiyorsunuz. Durakta iki otobüs duruyor."
+          },
+          {
+            "de": "Auf einem Bus steht: Linie drei, Stadtpark. Der andere Bus fährt zum Markt.",
+            "tr": "Bir otobüste şöyle yazıyor: Üç numaralı hat, şehir parkı. Diğer otobüs pazara gidiyor."
+          },
+          {
+            "de": "Mia fragt: Ist das unser Bus? Du kannst den Fahrer fragen oder den Plan lesen.",
+            "tr": "Mia soruyor: Bu bizim otobüsümüz mü? Şoföre sorabilir veya planı okuyabilirsin."
+          }
+        ],
+        "words": [
+          "Haltestelle"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Fährt dieser Bus zum Park?",
+            "tr": "Bu otobüs parka gidiyor mu?",
+            "to": "driver"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich lese zuerst den Plan.",
+            "tr": "Önce planı okuyorum.",
+            "to": "map"
+          }
+        ],
+        "question": {
+          "prompt": "Üç numaralı otobüs nereye gidiyor?",
+          "options": [
+            "Şehir parkına.",
+            "Havaalanına.",
+            "Mia’nın evine."
+          ],
+          "correct": "Şehir parkına.",
+          "explanation": "Tabeladaki “Linie drei, Stadtpark” bilgisi parkı açıkça gösterir. “der andere Bus” ise diğer, yani pazara giden otobüstür."
+        }
+      },
+      {
+        "id": "driver",
+        "title": "Şoföre bir soru",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Du gehst zum Fahrer. Du fragst: Fährt dieser Bus zum Stadtpark?",
+            "tr": "Şoförün yanına gidiyorsun. Soruyorsun: Bu otobüs şehir parkına gidiyor mu?"
+          },
+          {
+            "de": "Ja, sagt er. Die Fahrt dauert zehn Minuten. Bitte steigt vorne ein.",
+            "tr": "Evet, diyor. Yolculuk on dakika sürüyor. Lütfen önden binin."
+          },
+          {
+            "de": "Mia zeigt auf die Haltestelle im Plan. Dort steht auch: Museum.",
+            "tr": "Mia plandaki durağı gösteriyor. Orada müze de yazıyor."
+          },
+          {
+            "de": "Der Fahrer erklärt: Das Museum ist neben dem Park. Ihr könnt dort auch aussteigen.",
+            "tr": "Şoför açıklıyor: Müze parkın yanında. Orada da inebilirsiniz."
+          }
+        ],
+        "words": [
+          "Haltestelle"
+        ],
+        "choices": [
+          {
+            "id": "driver-1",
+            "de": "Wir fahren direkt zum Park.",
+            "tr": "Doğrudan parka gidiyoruz.",
+            "to": "picnic"
+          },
+          {
+            "id": "driver-2",
+            "de": "Wir besuchen zuerst das Museum.",
+            "tr": "Önce müzeyi geziyoruz.",
+            "to": "museum"
+          }
+        ],
+        "question": {
+          "prompt": "Şoför müzenin yeri hakkında ne söylüyor?",
+          "options": [
+            "Parkın yanında olduğunu.",
+            "Pazarda olduğunu.",
+            "Şehrin dışında olduğunu."
+          ],
+          "correct": "Parkın yanında olduğunu.",
+          "explanation": "“neben dem Park” parkın yanında anlamına gelir. Şoför, müzenin uzaklığını değil parkla konum ilişkisini açıklıyor."
+        }
+      },
+      {
+        "id": "map",
+        "title": "Plandaki yeşil çizgi",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Du liest den Plan an der Haltestelle. Eine grüne Linie zeigt den Weg zum Park.",
+            "tr": "Duraktaki planı okuyorsun. Yeşil bir çizgi parka giden yolu gösteriyor."
+          },
+          {
+            "de": "Neben der Linie steht: Zu Fuß zwanzig Minuten. Der Weg führt am Fluss entlang.",
+            "tr": "Çizginin yanında şöyle yazıyor: Yürüyerek yirmi dakika. Yol nehir boyunca uzanıyor."
+          },
+          {
+            "de": "Mia sagt: Wir haben Zeit. Aber ich möchte auch den Markt sehen.",
+            "tr": "Mia diyor ki: Zamanımız var. Ama pazarı da görmek istiyorum."
+          },
+          {
+            "de": "Ihr könnt jetzt am Fluss gehen oder mit dem anderen Bus zum Markt fahren.",
+            "tr": "Şimdi nehir boyunca yürüyebilir veya diğer otobüsle pazara gidebilirsiniz."
+          }
+        ],
+        "words": [
+          "Haltestelle"
+        ],
+        "choices": [
+          {
+            "id": "map-1",
+            "de": "Wir gehen am Fluss entlang.",
+            "tr": "Nehir boyunca yürüyoruz.",
+            "to": "river"
+          },
+          {
+            "id": "map-2",
+            "de": "Wir fahren zuerst zum Markt.",
+            "tr": "Önce pazara gidiyoruz.",
+            "to": "market"
+          }
+        ],
+        "question": {
+          "prompt": "Parka yürümek ne kadar sürüyor?",
+          "options": [
+            "Yirmi dakika.",
+            "İki saat.",
+            "Beş dakika."
+          ],
+          "correct": "Yirmi dakika.",
+          "explanation": "“Zu Fuß” yürüyerek, “zwanzig Minuten” yirmi dakika demektir. Bu bilgi otobüs yolculuğunun on dakikalık süresinden farklıdır."
+        }
+      },
+      {
+        "id": "picnic",
+        "title": "Yeşil bankta öğle molası",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Ihr steigt am Park aus. Die Haltestelle ist direkt vor dem Eingang.",
+            "tr": "Parkta iniyorsunuz. Durak girişin hemen önünde."
+          },
+          {
+            "de": "Im Park findet ihr eine grüne Bank. Mia holt Brot und Äpfel aus ihrer Tasche.",
+            "tr": "Parkta yeşil bir bank buluyorsunuz. Mia çantasından ekmek ve elma çıkarıyor."
+          },
+          {
+            "de": "Du machst ein Foto von den Blumen. Danach esst ihr zusammen.",
+            "tr": "Çiçeklerin fotoğrafını çekiyorsun. Sonra birlikte yemek yiyorsunuz."
+          },
+          {
+            "de": "Vor der Rückfahrt schaut ihr auf den Plan. Jetzt kennt ihr die richtige Linie.",
+            "tr": "Dönüş yolculuğundan önce plana bakıyorsunuz. Artık doğru hattı biliyorsunuz."
+          }
+        ],
+        "words": [
+          "Haltestelle"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Gezide yiyecekleri kim getiriyor?",
+          "options": [
+            "Mia.",
+            "Otobüs şoförü.",
+            "Müze görevlisi."
+          ],
+          "correct": "Mia.",
+          "explanation": "“Mia holt … aus ihrer Tasche” cümlesinde yiyecekleri çantasından çıkaran Mia’dır. Diğer kişiler bu sahnede yiyecek getirmiyor."
+        },
+        "ending": "Parkta sakin bir piknik"
+      },
+      {
+        "id": "museum",
+        "title": "Yağmur ve renkli resimler",
+        "art": "train",
+        "lines": [
+          {
+            "de": "An der Haltestelle beginnt es zu regnen. Ihr lauft zum Museum neben dem Park.",
+            "tr": "Durakta yağmur yağmaya başlıyor. Parkın yanındaki müzeye koşuyorsunuz."
+          },
+          {
+            "de": "Eine Frau am Eingang sagt: Heute ist der Eintritt frei. Ihr könnt hineingehen.",
+            "tr": "Girişteki bir kadın diyor ki: Bugün giriş ücretsiz. İçeri girebilirsiniz."
+          },
+          {
+            "de": "Ihr seht bunte Bilder und eine alte Straßenkarte. Mia findet die Karte besonders schön.",
+            "tr": "Renkli resimler ve eski bir şehir haritası görüyorsunuz. Mia haritayı özellikle güzel buluyor."
+          },
+          {
+            "de": "Später scheint die Sonne wieder. Ihr geht noch kurz durch den Park.",
+            "tr": "Daha sonra güneş yeniden açıyor. Parkta kısa bir yürüyüş de yapıyorsunuz."
+          }
+        ],
+        "words": [
+          "Haltestelle"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Müzenin girişi bugün nasıl?",
+          "options": [
+            "Ücretsiz.",
+            "Kapalı.",
+            "Yalnızca gruplara açık."
+          ],
+          "correct": "Ücretsiz.",
+          "explanation": "“Der Eintritt ist frei” girişin ücretsiz olduğunu söyler. Burada “frei” boş bir yer değil, ücret alınmaması anlamındadır."
+        },
+        "ending": "Yağmurun getirdiği müze gezisi"
+      },
+      {
+        "id": "river",
+        "title": "Yürürken bulunan manzara",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Ihr bleibt nicht an der Haltestelle. Ihr geht langsam am Fluss entlang.",
+            "tr": "Durakta kalmıyorsunuz. Nehir boyunca yavaşça yürüyorsunuz."
+          },
+          {
+            "de": "Auf einer Brücke bleibt Mia stehen. Von hier sieht sie den ganzen Park.",
+            "tr": "Mia bir köprünün üzerinde duruyor. Buradan parkın tamamını görüyor."
+          },
+          {
+            "de": "Du fragst einen Mann: Ist der Eingang dort links? Er nickt und lächelt.",
+            "tr": "Bir adama soruyorsun: Giriş orada solda mı? Başını sallıyor ve gülümsüyor."
+          },
+          {
+            "de": "Ihr kommt zu Fuß an. Der Weg war schon ein schöner Teil des Ausflugs.",
+            "tr": "Yürüyerek varıyorsunuz. Yol da gezinin güzel bir parçası oldu."
+          }
+        ],
+        "words": [
+          "Haltestelle"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Mia parkı nereden görüyor?",
+          "options": [
+            "Bir köprüden.",
+            "Müzenin içinden.",
+            "Otobüsün arkasından."
+          ],
+          "correct": "Bir köprüden.",
+          "explanation": "“Auf einer Brücke” köprünün üzerinde demektir. “Von hier” ifadesi de Mia’nın o anda bulunduğu bu yere gönderme yapar."
+        },
+        "ending": "Nehir kıyısında keşif"
+      },
+      {
+        "id": "market",
+        "title": "Pazar dönüşü park",
+        "art": "train",
+        "lines": [
+          {
+            "de": "Ihr fahrt von der Haltestelle zum Markt. Dort kauft Mia zwei kleine Brötchen.",
+            "tr": "Duraktan pazara gidiyorsunuz. Mia orada iki küçük ekmek alıyor."
+          },
+          {
+            "de": "Ein Verkäufer zeigt euch den Weg zum Park. Er sagt: Geht geradeaus, dann rechts.",
+            "tr": "Bir satıcı size parkın yolunu gösteriyor. Diyor ki: Düz gidin, sonra sağa dönün."
+          },
+          {
+            "de": "Ihr folgt dem Weg und findet den Eingang. Die Brötchen nehmt ihr mit.",
+            "tr": "Yolu takip edip girişi buluyorsunuz. Ekmekleri yanınıza alıyorsunuz."
+          },
+          {
+            "de": "Am Ende sitzt ihr doch im Park. Heute habt ihr sogar zwei neue Orte kennengelernt.",
+            "tr": "Sonunda yine parkta oturuyorsunuz. Bugün iki yeni yer bile tanıdınız."
+          }
+        ],
+        "words": [
+          "Haltestelle"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Satıcı hangi yönleri söylüyor?",
+          "options": [
+            "Düz gidin, sonra sağa dönün.",
+            "Önce sola, sonra geri dönün.",
+            "Köprüden aşağı inin."
+          ],
+          "correct": "Düz gidin, sonra sağa dönün.",
+          "explanation": "“geradeaus” düz, “dann rechts” sonra sağa demektir. Yönlerin sırası önemlidir; önce düz gidilir, ardından sağa dönülür."
+        },
+        "ending": "Pazardan geçen lezzetli rota"
+      }
+    ]
+  },
+  {
+    "id": "story-world-a2-lesezeichen",
+    "title": "Kitabın Arasındaki Davet",
+    "germanTitle": "Das Lesezeichen mit der Einladung",
+    "level": "A2",
+    "category": "friendship",
+    "description": "Bir kitapta unutulmuş davet, iki farklı tanışma yolu ve dört arkadaşlık sonu. Davet etme, açıklama ve plan değiştirmeyi çalış.",
+    "art": "cafe",
+    "minutes": 9,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Kütüphanedeki küçük not",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Du hast in der Bibliothek einen Roman ausgeliehen. Zwischen den Seiten liegt ein blaues Lesezeichen.",
+            "tr": "Kütüphaneden bir roman ödünç aldın. Sayfaların arasında mavi bir ayraç duruyor."
+          },
+          {
+            "de": "Auf dem Lesezeichen steht: Unser Lesekreis trifft sich am Freitag um sechs im Café Linden.",
+            "tr": "Ayraçta şöyle yazıyor: Okuma grubumuz cuma günü saat altıda Linden Kafe’de buluşuyor."
+          },
+          {
+            "de": "Darunter hat jemand geschrieben: Neue Leute sind willkommen. Bring gern dein Lieblingsbuch mit.",
+            "tr": "Altına biri şunu yazmış: Yeni kişiler hoş karşılanır. İstersen en sevdiğin kitabı getir."
+          },
+          {
+            "de": "Du möchtest neue Freunde finden, kennst aber niemanden. Du kannst im Café nachfragen oder deinen Nachbarn Emir einladen.",
+            "tr": "Yeni arkadaşlar bulmak istiyorsun ama kimseyi tanımıyorsun. Kafeye sorabilir veya komşun Emir’i davet edebilirsin."
+          }
+        ],
+        "words": [
+          "Lesezeichen"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich frage zuerst im Café nach.",
+            "tr": "Önce kafeye sorarım.",
+            "to": "cafe"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich lade Emir ein.",
+            "tr": "Emir’i davet ederim.",
+            "to": "emir"
+          }
+        ],
+        "question": {
+          "prompt": "Okuma grubu ne zaman buluşuyor?",
+          "options": [
+            "Cuma günü saat altıda.",
+            "Her sabah saat sekizde.",
+            "Pazar günü öğle vakti."
+          ],
+          "correct": "Cuma günü saat altıda.",
+          "explanation": "Davetin “am Freitag um sechs” bölümü gün ve saati birlikte verir. “am” günle, “um” ise saatle kullanılır."
+        }
+      },
+      {
+        "id": "cafe",
+        "title": "Masanın yanında bir sandalye",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Am Freitag zeigst du der Bedienung das Lesezeichen. Sie deutet auf einen runden Tisch am Fenster.",
+            "tr": "Cuma günü ayracı servis görevlisine gösteriyorsun. Pencere kenarındaki yuvarlak masayı işaret ediyor."
+          },
+          {
+            "de": "Dort sitzt Lea mit einem Stapel Bücher. Sie sagt: Schön, dass du gekommen bist. Wir warten noch auf zwei Personen.",
+            "tr": "Lea orada bir kitap yığınıyla oturuyor. Diyor ki: Gelmene sevindim. İki kişiyi daha bekliyoruz."
+          },
+          {
+            "de": "Du erzählst von deinem Roman. Lea möchte wissen, ob du lieber vorlesen oder erst zuhören möchtest.",
+            "tr": "Romanından söz ediyorsun. Lea, sesli okumayı mı yoksa önce dinlemeyi mi tercih ettiğini öğrenmek istiyor."
+          },
+          {
+            "de": "Beides ist in Ordnung. Das Treffen ist kein Test, und niemand muss sofort sprechen.",
+            "tr": "İkisi de olur. Buluşma bir sınav değil ve hiç kimse hemen konuşmak zorunda değil."
+          }
+        ],
+        "words": [
+          "Lesezeichen"
+        ],
+        "choices": [
+          {
+            "id": "cafe-1",
+            "de": "Ich lese eine kurze Stelle vor.",
+            "tr": "Kısa bir bölümü sesli okurum.",
+            "to": "reading"
+          },
+          {
+            "id": "cafe-2",
+            "de": "Ich höre heute erst einmal zu.",
+            "tr": "Bugün önce bir dinlerim.",
+            "to": "listening"
+          }
+        ],
+        "question": {
+          "prompt": "Lea yeni katılımcıya ne söylüyor?",
+          "options": [
+            "Önce dinleyebileceğini de söylüyor.",
+            "Mutlaka ilk sırada okumasını istiyor.",
+            "Kitabını eve götürmesini yasaklıyor."
+          ],
+          "correct": "Önce dinleyebileceğini de söylüyor.",
+          "explanation": "“vorlesen oder erst zuhören” iki seçenek sunar. Son cümledeki “niemand muss” de hemen konuşma zorunluluğu olmadığını doğrular."
+        }
+      },
+      {
+        "id": "emir",
+        "title": "Birlikte gitmek daha kolay mı?",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Du klingelst bei Emir und zeigst ihm das Lesezeichen. Er liest gern, hat am Freitag aber lange Unterricht.",
+            "tr": "Emir’in kapısını çalıp ayracı gösteriyorsun. Okumayı seviyor ama cuma günü dersi uzun sürüyor."
+          },
+          {
+            "de": "Er sagt: Ich kann erst um halb sieben kommen. Vielleicht gehe ich beim nächsten Mal mit.",
+            "tr": "Diyor ki: Ancak altı buçukta gelebilirim. Belki bir dahaki sefere birlikte giderim."
+          },
+          {
+            "de": "Du möchtest ihn nicht unter Druck setzen. Ihr könnt im Café nachfragen oder zuerst zu zweit ein Buch auswählen.",
+            "tr": "Ona baskı yapmak istemiyorsun. Kafeye sorabilir veya önce ikiniz bir kitap seçebilirsiniz."
+          },
+          {
+            "de": "Emir freut sich über die Einladung. Für ihn ist wichtig, dass er auch später dazukommen darf.",
+            "tr": "Emir davete seviniyor. Onun için önemli olan, sonradan da katılabilmesi."
+          }
+        ],
+        "words": [
+          "Lesezeichen"
+        ],
+        "choices": [
+          {
+            "id": "emir-1",
+            "de": "Ich frage, ob Emir später kommen kann.",
+            "tr": "Emir’in sonradan gelip gelemeyeceğini sorarım.",
+            "to": "late"
+          },
+          {
+            "id": "emir-2",
+            "de": "Wir planen erst einen kleinen Buchabend.",
+            "tr": "Önce küçük bir kitap akşamı planlarız.",
+            "to": "home"
+          }
+        ],
+        "question": {
+          "prompt": "Emir neden saat altıda gelemiyor?",
+          "options": [
+            "Dersi uzun sürdüğü için.",
+            "Kitap okumayı sevmediği için.",
+            "Kafenin yerini bilmediği için."
+          ],
+          "correct": "Dersi uzun sürdüğü için.",
+          "explanation": "“hat … lange Unterricht” dersinin uzun sürdüğünü açıklar. “liest gern” okumayı sevdiğini söyler; bu yüzden ikinci seçenek metne aykırıdır."
+        }
+      },
+      {
+        "id": "reading",
+        "title": "Paylaşılan bir paragraf",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Du legst das Lesezeichen auf den Tisch und liest einen kurzen Abschnitt vor. Deine Stimme ist am Anfang leise.",
+            "tr": "Ayracı masaya bırakıp kısa bir bölümü sesli okuyorsun. Sesin başlangıçta alçak çıkıyor."
+          },
+          {
+            "de": "Lea wartet geduldig. Danach fragt sie, warum dir gerade diese Stelle gefällt.",
+            "tr": "Lea sabırla bekliyor. Sonra özellikle bu bölümü neden sevdiğini soruyor."
+          },
+          {
+            "de": "Du erklärst es mit einfachen Worten. Ein anderer Teilnehmer hat eine ähnliche Erfahrung gemacht.",
+            "tr": "Basit sözcüklerle açıklıyorsun. Başka bir katılımcı da benzer bir deneyim yaşamış."
+          },
+          {
+            "de": "Nach dem Treffen tauscht ihr Buchtipps aus. Für nächste Woche hast du schon eine Idee.",
+            "tr": "Buluşmadan sonra kitap önerileri paylaşıyorsunuz. Gelecek hafta için şimdiden bir fikrin var."
+          }
+        ],
+        "words": [
+          "Lesezeichen"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Okumadan sonra hangi konu konuşuluyor?",
+          "options": [
+            "Seçilen bölümün neden sevildiği.",
+            "Kitabın kaç para ettiği.",
+            "Kafenin ne zaman kapandığı."
+          ],
+          "correct": "Seçilen bölümün neden sevildiği.",
+          "explanation": "Lea’nın “warum dir gerade diese Stelle gefällt” sorusu kişisel bir gerekçe ister. Sahne, doğru telaffuza puan verildiğini söylemez."
+        },
+        "ending": "İlk paragraftan başlayan sohbet"
+      },
+      {
+        "id": "listening",
+        "title": "Sessiz katılım da katılımdır",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Das Lesezeichen bleibt heute in deinem Buch. Du hörst zu, während die anderen ihre Geschichten vorstellen.",
+            "tr": "Ayraç bugün kitabında kalıyor. Diğerleri hikâyelerini tanıtırken dinliyorsun."
+          },
+          {
+            "de": "Du notierst dir zwei neue Wörter. Als du eine Frage stellst, erklärt Lea den Ausdruck mit einem Beispiel.",
+            "tr": "İki yeni sözcüğü not ediyorsun. Bir soru sorduğunda Lea ifadeyi bir örnekle açıklıyor."
+          },
+          {
+            "de": "Am Ende sagt sie: Du kannst auch nächste Woche einfach zuhören. Wir freuen uns, wenn du wiederkommst.",
+            "tr": "Sonunda diyor ki: Gelecek hafta da sadece dinleyebilirsin. Tekrar gelirsen seviniriz."
+          },
+          {
+            "de": "Du gehst ohne Druck nach Hause. Für dich war Zuhören heute der richtige Anfang.",
+            "tr": "Baskı hissetmeden eve gidiyorsun. Senin için bugün doğru başlangıç dinlemekti."
+          }
+        ],
+        "words": [
+          "Lesezeichen"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Katılımcı iki yeni sözcükle ne yapıyor?",
+          "options": [
+            "Onları not ediyor.",
+            "Onları kitaptan siliyor.",
+            "Onlarla sınava giriyor."
+          ],
+          "correct": "Onları not ediyor.",
+          "explanation": "“notierst dir zwei neue Wörter” iki yeni sözcüğü kendin için not aldığını anlatır. Sonraki soru ise anlamayı destekleyen bir sorudur."
+        },
+        "ending": "Dinleyerek açılan arkadaşlık kapısı"
+      },
+      {
+        "id": "late",
+        "title": "Yarım saatlik esneklik",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Du schreibst die Telefonnummer vom Lesezeichen ab und rufst im Café an. Lea sagt, dass Emir später kommen kann.",
+            "tr": "Ayraçtaki telefon numarasını yazıp kafeyi arıyorsun. Lea, Emir’in daha geç gelebileceğini söylüyor."
+          },
+          {
+            "de": "Um halb sieben kommt er mit seinem Rucksack herein. Ein freier Stuhl steht schon neben dir.",
+            "tr": "Altı buçukta sırt çantasıyla içeri giriyor. Yanında boş bir sandalye hazır duruyor."
+          },
+          {
+            "de": "Ihr erzählt gemeinsam von einem Buch, das ihr beide kennt. Emir muss nichts nachholen oder erklären.",
+            "tr": "İkinizin de bildiği bir kitaptan birlikte söz ediyorsunuz. Emir hiçbir şeyi telafi etmek ya da açıklamak zorunda değil."
+          },
+          {
+            "de": "Auf dem Heimweg verabredet ihr euch für die nächste Woche. Aus der Einladung ist ein gemeinsamer Plan geworden.",
+            "tr": "Eve dönerken gelecek hafta için sözleşiyorsunuz. Davet ortak bir plana dönüştü."
+          }
+        ],
+        "words": [
+          "Lesezeichen"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Emir için önceden ne hazırlanıyor?",
+          "options": [
+            "Boş bir sandalye.",
+            "Yazılı bir sınav.",
+            "Başka bir kafeye bilet."
+          ],
+          "correct": "Boş bir sandalye.",
+          "explanation": "“Ein freier Stuhl steht schon neben dir” cümlesindeki “schon”, sandalyenin Emir gelmeden önce hazır olduğunu gösterir."
+        },
+        "ending": "Sonradan gelen arkadaşın yeri"
+      },
+      {
+        "id": "home",
+        "title": "İki kişilik kitap akşamı",
+        "art": "cafe",
+        "lines": [
+          {
+            "de": "Du gibst Emir das blaue Lesezeichen. Ihr trefft euch am Samstag bei dir und wählt zwei kurze Geschichten aus.",
+            "tr": "Mavi ayracı Emir’e veriyorsun. Cumartesi senin evinde buluşup iki kısa hikâye seçiyorsunuz."
+          },
+          {
+            "de": "Jeder liest eine Seite. Dann sprecht ihr darüber, welche Figur ihr gern kennenlernen würdet.",
+            "tr": "Her biriniz bir sayfa okuyor. Sonra hangi karakterle tanışmak isteyeceğiniz hakkında konuşuyorsunuz."
+          },
+          {
+            "de": "Für den Lesekreis habt ihr heute noch keinen festen Termin. Ihr wollt zuerst ohne Eile miteinander lesen.",
+            "tr": "Okuma grubu için bugün henüz kesin bir tarihiniz yok. Önce acele etmeden birlikte okumak istiyorsunuz."
+          },
+          {
+            "de": "Emir bringt beim nächsten Mal Tee mit. Eine Freundschaft braucht nicht immer einen großen Anfang.",
+            "tr": "Emir bir dahaki sefere çay getirecek. Bir arkadaşlık her zaman büyük bir başlangıç gerektirmez."
+          }
+        ],
+        "words": [
+          "Lesezeichen"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "İki arkadaş önce ne yapmayı seçiyor?",
+          "options": [
+            "Kendi hızlarında birlikte okumayı.",
+            "Okuma grubunu kapatmayı.",
+            "Bütün kitapları değiştirmeyi."
+          ],
+          "correct": "Kendi hızlarında birlikte okumayı.",
+          "explanation": "“zuerst ohne Eile miteinander lesen” önce acele etmeden birlikte okumak demektir. Grup için kesin bir randevu henüz alınmadığı ayrıca belirtilir."
+        },
+        "ending": "Küçük bir masada büyüyen dostluk"
+      }
+    ]
+  },
+  {
+    "id": "story-world-b1-reparatur",
+    "title": "Mahallenin Tamir Masası",
+    "germanTitle": "Ein Samstag im Reparaturcafé",
+    "level": "B1",
+    "category": "germany",
+    "description": "Bir mahalle etkinliğinde yardım iste, deneyimini anlat ve farklı çözüm yollarını karşılaştır. Güvenli sınırlar ve birlikte öğrenme üzerine dört son.",
+    "art": "town",
+    "minutes": 12,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Bozuk lambanın ikinci şansı",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Seit einigen Wochen wohnst du in einer neuen Nachbarschaft. Heute öffnet im Gemeinschaftshaus zum ersten Mal ein Reparaturcafé.",
+            "tr": "Birkaç haftadır yeni bir mahallede yaşıyorsun. Bugün toplum merkezinde ilk kez bir tamir kafesi açılıyor."
+          },
+          {
+            "de": "Deine Leselampe leuchtet nicht mehr. Auf dem Plakat steht, dass Freiwillige bei kleinen Reparaturen helfen und ihr Wissen teilen möchten.",
+            "tr": "Okuma lamban artık yanmıyor. Afişte gönüllülerin küçük tamirlerde yardımcı olmak ve bilgilerini paylaşmak istediği yazıyor."
+          },
+          {
+            "de": "Am Eingang begrüßt dich Jonas. Er erklärt, dass eine Reparatur nicht immer möglich ist und niemand einen Erfolg versprechen kann.",
+            "tr": "Girişte Jonas seni karşılıyor. Tamirin her zaman mümkün olmadığını ve hiç kimsenin başarı sözü veremeyeceğini açıklıyor."
+          },
+          {
+            "de": "Du kannst zuerst mit einer erfahrenen Helferin über die Lampe sprechen oder am gemeinsamen Tisch nach passenden Ersatzteilen suchen.",
+            "tr": "Önce deneyimli bir gönüllüyle lamba hakkında konuşabilir ya da ortak masada uygun yedek parça arayabilirsin."
+          }
+        ],
+        "words": [
+          "Reparatur"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich beschreibe zuerst das Problem.",
+            "tr": "Önce sorunu anlatırım.",
+            "to": "helper"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich schaue mich am Materialtisch um.",
+            "tr": "Malzeme masasına göz atarım.",
+            "to": "parts"
+          }
+        ],
+        "question": {
+          "prompt": "Etkinlikte tamir hakkında hangi sınır açıklanıyor?",
+          "options": [
+            "Her eşyanın onarılacağının garanti edilmediği.",
+            "Yalnızca yeni eşyaların kabul edildiği.",
+            "Bütün katılımcıların teknisyen olduğu."
+          ],
+          "correct": "Her eşyanın onarılacağının garanti edilmediği.",
+          "explanation": "Jonas’ın “nicht immer möglich” ve “niemand … versprechen” sözleri sonuç garantisi olmadığını gösterir. Gönüllü olmak teknisyen olmakla aynı şey değildir."
+        }
+      },
+      {
+        "id": "helper",
+        "title": "Sorunu tarif etmek",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Die Helferin Aylin fragt, seit wann die Lampe nicht mehr funktioniert. Du erzählst, dass sie gestern plötzlich ausgegangen ist.",
+            "tr": "Gönüllü Aylin, lambanın ne zamandan beri çalışmadığını soruyor. Dün aniden söndüğünü anlatıyorsun."
+          },
+          {
+            "de": "Sie prüft das Gerät nicht unter Spannung. Zuerst zieht ihr den Stecker, und Aylin erklärt, dass eine elektrische Reparatur Fachkenntnisse erfordert.",
+            "tr": "Cihazı gerilim altındayken incelemiyor. Önce fişi çekiyorsunuz; Aylin elektrikli cihaz tamirinin uzmanlık gerektirdiğini açıklıyor."
+          },
+          {
+            "de": "Bei der äußeren Sichtprüfung entdeckt sie ein beschädigtes Kabel. Sie möchte das Gerät hier nicht öffnen oder provisorisch reparieren.",
+            "tr": "Dışarıdan yaptığı görsel kontrolde hasarlı bir kablo fark ediyor. Cihazı burada açmak veya geçici olarak onarmak istemiyor."
+          },
+          {
+            "de": "Ihr könnt gemeinsam einen Fachbetrieb suchen oder die Lampe mit einem deutlichen Hinweis außer Betrieb nehmen und über eine sichere Alternative sprechen.",
+            "tr": "Birlikte uzman bir işletme arayabilir veya lambayı açık bir uyarıyla kullanım dışı bırakıp güvenli bir alternatif hakkında konuşabilirsiniz."
+          }
+        ],
+        "words": [
+          "Reparatur"
+        ],
+        "choices": [
+          {
+            "id": "helper-1",
+            "de": "Wir suchen einen Fachbetrieb.",
+            "tr": "Uzman bir işletme ararız.",
+            "to": "professional"
+          },
+          {
+            "id": "helper-2",
+            "de": "Ich lasse die Lampe vorerst aus.",
+            "tr": "Lambayı şimdilik kullanmam.",
+            "to": "alternative"
+          }
+        ],
+        "question": {
+          "prompt": "Aylin neden cihazı açmıyor?",
+          "options": [
+            "Elektrikli tamirin uzmanlık gerektirdiğini ve sınırlarını gözettiği için.",
+            "Katılımcıyla konuşmak istemediği için.",
+            "Lambanın yeni olduğunu düşündüğü için."
+          ],
+          "correct": "Elektrikli tamirin uzmanlık gerektirdiğini ve sınırlarını gözettiği için.",
+          "explanation": "Hasarlı kablo ve gerekli uzmanlık birlikte anlatılıyor. Sahne teknik tamir talimatı vermiyor; “nicht öffnen” güvenli sınırı açıkça koyuyor."
+        }
+      },
+      {
+        "id": "parts",
+        "title": "Parçadan önce bilgi",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Am Materialtisch liegen Knöpfe, Stoffreste und Schrauben. Ein Schild bittet darum, Teile nur nach Absprache für eine Reparatur mitzunehmen.",
+            "tr": "Malzeme masasında düğmeler, kumaş parçaları ve vidalar var. Bir tabela, tamir için parçaların yalnızca konuşup anlaşarak alınmasını istiyor."
+          },
+          {
+            "de": "Du findest kein passendes Teil für deine Lampe. Dafür zeigt dir Jonas eine Stofftasche, deren Träger sich gelöst hat.",
+            "tr": "Lamban için uygun parça bulamıyorsun. Buna karşılık Jonas sana sapı çıkmış bir bez çanta gösteriyor."
+          },
+          {
+            "de": "Er fragt, ob du das Nähen schon einmal ausprobiert hast. Du hast wenig Erfahrung, würdest aber gern etwas Einfaches lernen.",
+            "tr": "Daha önce dikiş dikmeyi deneyip denemediğini soruyor. Deneyimin az ama basit bir şey öğrenmek istiyorsun."
+          },
+          {
+            "de": "Du kannst bei der Tasche mitmachen oder die Materialien sortieren, damit andere schneller finden, was sie brauchen.",
+            "tr": "Çantanın onarımına katılabilir veya diğerlerinin ihtiyaçlarını daha hızlı bulması için malzemeleri düzenleyebilirsin."
+          }
+        ],
+        "words": [
+          "Reparatur"
+        ],
+        "choices": [
+          {
+            "id": "parts-1",
+            "de": "Ich lerne an der Stofftasche mit.",
+            "tr": "Bez çantada birlikte öğrenirim.",
+            "to": "sewing"
+          },
+          {
+            "id": "parts-2",
+            "de": "Ich helfe beim Sortieren.",
+            "tr": "Düzenlemeye yardım ederim.",
+            "to": "sorting"
+          }
+        ],
+        "question": {
+          "prompt": "Lamba için masada ne bulunuyor?",
+          "options": [
+            "Uygun bir parça bulunmuyor.",
+            "Kesin olarak gereken kablo bulunuyor.",
+            "Hazır bir yeni lamba bulunuyor."
+          ],
+          "correct": "Uygun bir parça bulunmuyor.",
+          "explanation": "“kein passendes Teil” uygun bir parça olmadığını söyler. Sonraki çanta örneği, asıl lambanın onarıldığı anlamına gelmez."
+        }
+      },
+      {
+        "id": "professional",
+        "title": "Doğru kişiye yönelmek",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Aylin notiert die Beschreibung des Problems, aber sie verspricht keine kostenlose Reparatur. Du rufst selbst bei einem Fachbetrieb an.",
+            "tr": "Aylin sorunun açıklamasını not ediyor ama ücretsiz tamir sözü vermiyor. Uzman işletmeyi kendin arıyorsun."
+          },
+          {
+            "de": "Dort fragt man nach dem Modell und bietet dir einen Termin zur Prüfung an. Über mögliche Kosten sollst du dich vor einer Entscheidung informieren.",
+            "tr": "Orada model soruluyor ve inceleme için bir randevu öneriliyor. Karar vermeden önce olası ücretler hakkında bilgi alman gerekiyor."
+          },
+          {
+            "de": "Die Lampe bleibt bis dahin ausgesteckt. Im Reparaturcafé hast du gelernt, ein Problem genauer zu beschreiben und passende Hilfe zu suchen.",
+            "tr": "Lamba o zamana kadar fişi çekilmiş durumda kalıyor. Tamir kafesinde bir sorunu daha açık anlatmayı ve uygun yardım aramayı öğrendin."
+          },
+          {
+            "de": "Am nächsten Samstag möchtest du wiederkommen. Auch wenn die Reparatur noch offen ist, kennst du nun Menschen in deiner Nachbarschaft.",
+            "tr": "Gelecek cumartesi tekrar gelmek istiyorsun. Tamir konusu henüz sonuçlanmamış olsa da artık mahallende insanlar tanıyorsun."
+          }
+        ],
+        "words": [
+          "Reparatur"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bu sonun sonunda lamba hakkında ne biliyoruz?",
+          "options": [
+            "Henüz onarılmadığını, inceleme randevusu önerildiğini.",
+            "Ücretsiz olarak yenilendiğini.",
+            "Artık kesinlikle güvenli olduğunu."
+          ],
+          "correct": "Henüz onarılmadığını, inceleme randevusu önerildiğini.",
+          "explanation": "Metin yalnızca inceleme randevusundan ve fişin çekili kalmasından söz eder. Sonuç, ücret veya güvenlik garantisi çıkarılamaz."
+        },
+        "ending": "Uzman yardımıyla atılan doğru adım"
+      },
+      {
+        "id": "alternative",
+        "title": "Onarım her zaman bugüne yetişmez",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Du legst einen Zettel zur Lampe: Nicht benutzen, Kabel beschädigt. Aylin bestätigt, dass die Reparatur damit noch nicht erledigt ist.",
+            "tr": "Lambaya bir not koyuyorsun: Kullanmayın, kablo hasarlı. Aylin, bunun tamirin tamamlandığı anlamına gelmediğini doğruluyor."
+          },
+          {
+            "de": "Für den heutigen Abend kannst du am hellen Fenster lesen. Jonas bietet dir außerdem an, eine intakte Ersatzlampe auszuleihen.",
+            "tr": "Bu akşam için aydınlık pencerenin yanında okuyabilirsin. Jonas ayrıca sağlam bir yedek lamba ödünç vermeyi öneriyor."
+          },
+          {
+            "de": "Ihr besprecht, wann du sie zurückbringst. Das alte Gerät bleibt unbenutzt, bis du fachkundige Hilfe gefunden hast.",
+            "tr": "Onu ne zaman geri getireceğini konuşuyorsunuz. Uzman yardımı bulana kadar eski cihaz kullanılmadan kalıyor."
+          },
+          {
+            "de": "Du gehst mit einer praktischen Zwischenlösung nach Hause. Hilfe kann auch bedeuten, die eigenen Grenzen ernst zu nehmen.",
+            "tr": "Pratik bir geçici çözümle eve gidiyorsun. Yardım etmek, kendi sınırlarını ciddiye almak anlamına da gelebilir."
+          }
+        ],
+        "words": [
+          "Reparatur"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Yedek lamba hangi amaçla veriliyor?",
+          "options": [
+            "Eski cihaz kullanılmadan geçici bir çözüm sağlamak için.",
+            "Eski lambanın tamir edildiğini kanıtlamak için.",
+            "Hasarlı kabloyu denemek için."
+          ],
+          "correct": "Eski cihaz kullanılmadan geçici bir çözüm sağlamak için.",
+          "explanation": "“Zwischenlösung” geçici çözüm anlamına gelir. Eski cihazın kullanılmadığı ve uzman yardımının hâlâ gerektiği ayrıca belirtilir."
+        },
+        "ending": "Güvenli bir geçici çözüm"
+      },
+      {
+        "id": "sewing",
+        "title": "Birlikte atılan ilk dikiş",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Vor der Reparatur der Stofftasche zeigt Jonas dir an einem Reststück eine einfache Naht. Du darfst zunächst langsam üben.",
+            "tr": "Bez çantanın tamirinden önce Jonas sana artık bir kumaş parçasında basit bir dikiş gösteriyor. Önce yavaşça alıştırma yapabiliyorsun."
+          },
+          {
+            "de": "Du fragst nach, wenn du einen Schritt nicht verstehst. Eine andere Teilnehmerin hält den Stoff, damit er nicht verrutscht.",
+            "tr": "Bir adımı anlamadığında tekrar soruyorsun. Başka bir katılımcı, kaymaması için kumaşı tutuyor."
+          },
+          {
+            "de": "Gemeinsam befestigt ihr den Träger und prüft vorsichtig die Naht. Die Tasche kann weiter benutzt werden, die Lampe ist dagegen noch nicht repariert.",
+            "tr": "Sapı birlikte tutturup dikişi dikkatlice kontrol ediyorsunuz. Çanta kullanılmaya devam edebilir; lamba ise henüz tamir edilmedi."
+          },
+          {
+            "de": "Du nimmst ein kleines Übungsstück mit. Beim nächsten Treffen willst du zeigen, was du inzwischen gelernt hast.",
+            "tr": "Yanına küçük bir alıştırma parçası alıyorsun. Bir sonraki buluşmada bu arada öğrendiklerini göstermek istiyorsun."
+          }
+        ],
+        "words": [
+          "Reparatur"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bu dalda hangi eşya onarılıyor?",
+          "options": [
+            "Bez çanta.",
+            "Elektrikli lamba.",
+            "Kafenin kapısı."
+          ],
+          "correct": "Bez çanta.",
+          "explanation": "“den Träger befestigen” çantanın sapını tutturmayı anlatır. “dagegen” karşıtlık kurar ve lambanın hâlâ onarılmadığını vurgular."
+        },
+        "ending": "Dikişlerle kurulan komşuluk"
+      },
+      {
+        "id": "sorting",
+        "title": "Görünmeyen emeğin masası",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Du sortierst die Materialien für die Reparatur nach Art und Größe. Dabei entdeckst du mehrere kleine Schachteln ohne Beschriftung.",
+            "tr": "Tamir malzemelerini türüne ve boyutuna göre düzenliyorsun. Bu sırada üzerinde etiket olmayan birkaç küçük kutu fark ediyorsun."
+          },
+          {
+            "de": "Mit Jonas schreibst du neue Etiketten. Unbekannte Teile legt ihr getrennt hin, statt ihre Funktion zu erraten.",
+            "tr": "Jonas’la yeni etiketler yazıyorsun. İşlevlerini tahmin etmek yerine bilinmeyen parçaları ayrı koyuyorsunuz."
+          },
+          {
+            "de": "Eine Teilnehmerin findet nun sofort die Knöpfe für ihre Jacke. Sie bedankt sich und fragt, ob du nächste Woche wieder hilfst.",
+            "tr": "Bir katılımcı artık ceketinin düğmelerini hemen buluyor. Teşekkür edip gelecek hafta tekrar yardım edip etmeyeceğini soruyor."
+          },
+          {
+            "de": "Deine Lampe bleibt zwar kaputt, doch du hast einen Platz in der Gruppe gefunden. Auch Ordnung kann gemeinsame Arbeit leichter machen.",
+            "tr": "Lamban hâlâ bozuk olsa da grupta kendine bir yer buldun. Düzen sağlamak da ortak işi kolaylaştırabilir."
+          }
+        ],
+        "words": [
+          "Reparatur"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "İşlevi bilinmeyen parçalara ne yapılıyor?",
+          "options": [
+            "Tahmin edilmeden ayrı konuluyor.",
+            "Hepsine aynı etiket yapıştırılıyor.",
+            "Lambaya takılıyor."
+          ],
+          "correct": "Tahmin edilmeden ayrı konuluyor.",
+          "explanation": "“statt … zu erraten” tahmin etmek yerine ifadesini kurar. Grup, parçaları yanlış tanıtmak yerine ayrı tutmayı seçiyor."
+        },
+        "ending": "Düzenleyerek katkıda bulunmak"
+      }
+    ]
+  },
+  {
+    "id": "story-world-b2-vermerk",
+    "title": "Kütüphanedeki Kurşun Kalem İzi",
+    "germanTitle": "Der Vermerk im Lesesaal",
+    "level": "B2",
+    "category": "mystery",
+    "description": "Bir sergi kataloğundaki notu araştır: gözlemle varsayımı ayır, kaynakları karşılaştır ve dört farklı çözüm yolunu gör.",
+    "art": "night",
+    "minutes": 12,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Tarihsiz bir kenar notu",
+        "art": "night",
+        "lines": [
+          {
+            "de": "Während du für eine kleine Ausstellung recherchierst, stößt du auf einen alten Katalog mit einem handschriftlichen Vermerk: Der Titel kam erst später.",
+            "tr": "Küçük bir sergi için araştırma yaparken, üzerinde el yazısıyla “Başlık sonradan eklendi” notu bulunan eski bir kataloğa rastlıyorsun."
+          },
+          {
+            "de": "Neben dem Vermerk steht weder ein Name noch ein Datum. Auf der gegenüberliegenden Seite ist ein Foto der Künstlerin Mara Stein abgedruckt.",
+            "tr": "Notun yanında ne bir isim ne de bir tarih var. Karşı sayfada sanatçı Mara Stein’ın bir fotoğrafı basılı."
+          },
+          {
+            "de": "Dein Kollege vermutet sofort, die Künstlerin habe den Titel selbst geändert. Der Katalog allein beweist diese Vermutung jedoch nicht.",
+            "tr": "Meslektaşın hemen, başlığı sanatçının kendisinin değiştirdiğini düşünüyor. Ancak katalog tek başına bu varsayımı kanıtlamıyor."
+          },
+          {
+            "de": "Du kannst zunächst die verschiedenen Katalogausgaben vergleichen oder die Bibliothekarin fragen, woher das Exemplar stammt.",
+            "tr": "Önce kataloğun farklı baskılarını karşılaştırabilir veya kütüphaneciye bu nüshanın nereden geldiğini sorabilirsin."
+          }
+        ],
+        "words": [
+          "Vermerk"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich vergleiche die Ausgaben.",
+            "tr": "Baskıları karşılaştırırım.",
+            "to": "editions"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich frage nach der Herkunft des Buches.",
+            "tr": "Kitabın kaynağını sorarım.",
+            "to": "origin"
+          }
+        ],
+        "question": {
+          "prompt": "Başlangıçta kesin olarak bilinen nedir?",
+          "options": [
+            "Notta yazar adı ve tarih bulunmadığı.",
+            "Notu sanatçının yazdığı.",
+            "Başlığın kasıtlı olarak sahteleştirildiği."
+          ],
+          "correct": "Notta yazar adı ve tarih bulunmadığı.",
+          "explanation": "Metin, notun imzasız ve tarihsiz olduğunu açıkça söyler. Meslektaşın düşüncesi “vermutet” ile verildiği için doğrulanmış bilgi değildir."
+        }
+      },
+      {
+        "id": "editions",
+        "title": "Aynı resim, iki başlık",
+        "art": "night",
+        "lines": [
+          {
+            "de": "In der ersten Ausgabe heißt das Bild Abend am Fluss, in der zweiten trägt es den Titel Rückkehr. Die Abbildung selbst ist unverändert.",
+            "tr": "İlk baskıda resmin adı Nehir Kıyısında Akşam, ikinci baskıda ise Dönüş. Görselin kendisi değişmemiş."
+          },
+          {
+            "de": "Ein gedruckter Vermerk nennt eine überarbeitete Werkliste, erklärt aber nicht, wer den neuen Titel vorgeschlagen hat.",
+            "tr": "Basılı bir not, gözden geçirilmiş bir eser listesinden söz ediyor ama yeni başlığı kimin önerdiğini açıklamıyor."
+          },
+          {
+            "de": "Im Archivverzeichnis findest du Hinweise auf einen Briefwechsel zwischen der Künstlerin und dem damaligen Kurator. Die Briefe sind noch nicht ausgewertet.",
+            "tr": "Arşiv dizininde sanatçıyla dönemin küratörü arasındaki yazışmaya ilişkin kayıtlar buluyorsun. Mektuplar henüz değerlendirilmemiş."
+          },
+          {
+            "de": "Du kannst die Briefe unter den geltenden Zugangsregeln prüfen lassen oder die Ausstellung vorerst nur um die gesicherte Titeländerung ergänzen.",
+            "tr": "Mektupların geçerli erişim kuralları çerçevesinde incelenmesini isteyebilir veya sergiye şimdilik yalnızca doğrulanmış başlık değişikliğini ekleyebilirsin."
+          }
+        ],
+        "words": [
+          "Vermerk"
+        ],
+        "choices": [
+          {
+            "id": "editions-1",
+            "de": "Ich lasse den Briefwechsel prüfen.",
+            "tr": "Yazışmanın incelenmesini isterim.",
+            "to": "letters"
+          },
+          {
+            "id": "editions-2",
+            "de": "Ich kennzeichne die offene Frage.",
+            "tr": "Açık kalan soruyu belirtirim.",
+            "to": "cautious"
+          }
+        ],
+        "question": {
+          "prompt": "Baskıların karşılaştırılması neyi doğruluyor?",
+          "options": [
+            "Resmin başlığının değiştiğini.",
+            "Başlığı mutlaka küratörün yazdığını.",
+            "Resmin yeniden boyandığını."
+          ],
+          "correct": "Resmin başlığının değiştiğini.",
+          "explanation": "İki başlık doğrudan karşılaştırılabiliyor; görsel aynı kalıyor. “erklärt aber nicht” ise değişikliği kimin yaptığı sorusunun açık kaldığını belirtir."
+        }
+      },
+      {
+        "id": "origin",
+        "title": "Bir kitabın dolaşan hikâyesi",
+        "art": "night",
+        "lines": [
+          {
+            "de": "Die Bibliothekarin erklärt, dass der Katalog aus dem Nachlass einer Übersetzerin stammt. Diese hatte später an einer Führung durch die Ausstellung teilgenommen.",
+            "tr": "Kütüphaneci, kataloğun bir çevirmenin geride bıraktığı koleksiyondan geldiğini açıklıyor. Çevirmen daha sonra sergideki bir rehberli geziye katılmış."
+          },
+          {
+            "de": "Der handschriftliche Vermerk könnte also eine persönliche Gesprächsnotiz sein. Ob er auf einer verlässlichen Aussage beruht, lässt sich daraus noch nicht ableiten.",
+            "tr": "El yazısı not bu nedenle kişisel bir konuşma notu olabilir. Güvenilir bir açıklamaya dayanıp dayanmadığı buradan henüz çıkarılamaz."
+          },
+          {
+            "de": "Im Buch liegt außerdem eine Einladung mit dem Namen des damaligen Museumsmitarbeiters. Seine öffentlich zugänglichen Erinnerungen erwähnen die Führung.",
+            "tr": "Kitabın içinde dönemin müze çalışanının adının bulunduğu bir davetiye de var. Çalışanın kamuya açık anıları bu rehberli geziden söz ediyor."
+          },
+          {
+            "de": "Du kannst diese Quelle mit anderen Belegen vergleichen oder die Fundgeschichte als offene Recherchefrage in die Ausstellung aufnehmen.",
+            "tr": "Bu kaynağı başka kanıtlarla karşılaştırabilir veya buluntunun hikâyesini sergiye açık bir araştırma sorusu olarak dahil edebilirsin."
+          }
+        ],
+        "words": [
+          "Vermerk"
+        ],
+        "choices": [
+          {
+            "id": "origin-1",
+            "de": "Ich suche unabhängige Belege.",
+            "tr": "Bağımsız kanıtlar ararım.",
+            "to": "corroborate"
+          },
+          {
+            "id": "origin-2",
+            "de": "Ich mache die Recherche sichtbar.",
+            "tr": "Araştırma sürecini görünür kılarım.",
+            "to": "open"
+          }
+        ],
+        "question": {
+          "prompt": "Kataloğun kökeni not hakkında ne sağlıyor?",
+          "options": [
+            "Olası bir bağlam, fakat kesin doğrulama değil.",
+            "Sanatçının imzasının doğrulandığını.",
+            "Başlık değişikliğinin hiç yaşanmadığını."
+          ],
+          "correct": "Olası bir bağlam, fakat kesin doğrulama değil.",
+          "explanation": "“könnte” olasılık bildirir; “noch nicht ableiten” kesin sonuca varılamadığını söyler. Kaynağın geçmişini bilmek, içeriğini otomatik doğrulamaz."
+        }
+      },
+      {
+        "id": "letters",
+        "title": "Tarihin yerini bulan mektup",
+        "art": "night",
+        "lines": [
+          {
+            "de": "Die Archivmitarbeiterin findet einen datierten Brief, in dem Mara Stein den Titel Rückkehr ausdrücklich vorschlägt. Ein zweiter Brief bestätigt die Übernahme in die Werkliste.",
+            "tr": "Arşiv görevlisi, Mara Stein’ın Dönüş başlığını açıkça önerdiği tarihli bir mektup buluyor. İkinci bir mektup da başlığın eser listesine alınmasını doğruluyor."
+          },
+          {
+            "de": "Der Vermerk im Katalog war damit inhaltlich auf einer richtigen Spur. Wer ihn geschrieben hat, bleibt trotzdem ungeklärt.",
+            "tr": "Böylece katalogdaki not içerik bakımından doğru bir iz üzerinde çıkıyor. Ancak notu kimin yazdığı yine de açıklığa kavuşmuyor."
+          },
+          {
+            "de": "Du zitierst die erlaubten Belegstellen mit Herkunft und Datum. Persönliche Details, die für die Titelfrage nichts beitragen, lässt du weg.",
+            "tr": "Kullanımına izin verilen kanıt bölümlerini kaynak ve tarihleriyle aktarıyorsun. Başlık sorusuna katkı sağlamayan kişisel ayrıntıları dışarıda bırakıyorsun."
+          },
+          {
+            "de": "Die Ausstellung erzählt nun von einer belegten Entscheidung der Künstlerin. Die Handschrift selbst wird nicht plötzlich zum Beweis ihrer Urheberschaft.",
+            "tr": "Sergi artık sanatçının belgelenmiş bir kararını anlatıyor. El yazısı ise birdenbire notun yazarlığının kanıtına dönüşmüyor."
+          }
+        ],
+        "words": [
+          "Vermerk"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Mektuplar hangi ayrımı korumayı gerektiriyor?",
+          "options": [
+            "Başlığın kaynağı ile el yazısı notun yazarını ayırmayı.",
+            "Bütün kişisel ayrıntıları yayımlamayı.",
+            "Katalogdaki her cümleyi sanatçıya ait saymayı."
+          ],
+          "correct": "Başlığın kaynağı ile el yazısı notun yazarını ayırmayı.",
+          "explanation": "Mektuplar sanatçının başlık önerisini kanıtlar; imzasız notun yazarını kanıtlamaz. Aynı konuda iki ayrı yazarlık sorusu bulunmaktadır."
+        },
+        "ending": "Belgesi bulunan değişiklik"
+      },
+      {
+        "id": "cautious",
+        "title": "Açık bırakılan boşluk",
+        "art": "night",
+        "lines": [
+          {
+            "de": "Du übernimmst in den Ausstellungstext, dass sich der Titel zwischen zwei Ausgaben geändert hat. Ein kurzer Vermerk nennt die noch ungeklärte Verantwortlichkeit.",
+            "tr": "Sergi metnine başlığın iki baskı arasında değiştiğini yazıyorsun. Kısa bir not, sorumlunun henüz belirlenemediğini söylüyor."
+          },
+          {
+            "de": "Dein Kollege möchte die spannendere Behauptung trotzdem verwenden. Du erklärst, dass eine anschauliche Geschichte fehlende Belege nicht ersetzen kann.",
+            "tr": "Meslektaşın daha heyecanlı iddiayı yine de kullanmak istiyor. Canlı bir anlatının eksik kanıtların yerini alamayacağını açıklıyorsun."
+          },
+          {
+            "de": "Die Recherche wird nicht abgebrochen. Ihr notiert lediglich, welche Quelle ihr als Nächstes prüfen wollt und weshalb die bisherige Aussage begrenzt bleibt.",
+            "tr": "Araştırma bırakılmıyor. Yalnızca sırada hangi kaynağı inceleyeceğinizi ve mevcut açıklamanın neden sınırlı kaldığını not ediyorsunuz."
+          },
+          {
+            "de": "Das Publikum bekommt eine klare Information statt einer scheinbaren Gewissheit. Die offene Frage wird zum ehrlichen Teil der Ausstellung.",
+            "tr": "İzleyiciye görünürde kesinlik yerine açık bir bilgi sunuluyor. Açık kalan soru serginin dürüst bir parçası oluyor."
+          }
+        ],
+        "words": [
+          "Vermerk"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Araştırmanın durumu bu sonda nasıl?",
+          "options": [
+            "Devam edecek, fakat mevcut iddia sınırlandırılıyor.",
+            "Bütün sorular kesin olarak çözülüyor.",
+            "Kaynaklara artık gerek olmadığı kabul ediliyor."
+          ],
+          "correct": "Devam edecek, fakat mevcut iddia sınırlandırılıyor.",
+          "explanation": "“nicht abgebrochen” araştırmanın bırakılmadığını söyler. Yalnızca şu anda desteklenebilen açıklama ile sonraki araştırma adımı ayrılır."
+        },
+        "ending": "Belirsizliği dürüstçe anlatmak"
+      },
+      {
+        "id": "corroborate",
+        "title": "Birbirini tamamlayan kaynaklar",
+        "art": "night",
+        "lines": [
+          {
+            "de": "Du findest einen zeitgenössischen Zeitungsbericht, der den Titelwechsel einer Anregung des Kurators zuschreibt. Das widerspricht zunächst der späteren Erinnerung des Museumsmitarbeiters.",
+            "tr": "Dönemin bir gazete haberini buluyorsun; haber başlık değişikliğini küratörün önerisine bağlıyor. Bu, müze çalışanının daha sonraki anısıyla başlangıçta çelişiyor."
+          },
+          {
+            "de": "Ein Vermerk in einer Sitzungsnotiz zeigt jedoch, dass Vorschlag und endgültige Zustimmung von verschiedenen Personen stammen können. Die Rollen müssen getrennt betrachtet werden.",
+            "tr": "Bir toplantı notundaki açıklama ise önerinin ve son onayın farklı kişilerden gelebileceğini gösteriyor. Roller ayrı ayrı ele alınmalı."
+          },
+          {
+            "de": "Ihr formuliert die Erklärung neu: Der Kurator regte den Wechsel an, die Künstlerin stimmte zu. Beide Quellen werden mit ihren Grenzen genannt.",
+            "tr": "Açıklamayı yeniden kuruyorsunuz: Değişikliği küratör önerdi, sanatçı onayladı. Her iki kaynak da sınırlarıyla birlikte belirtiliyor."
+          },
+          {
+            "de": "Das Rätsel führt nicht zu einer einzigen heldenhaften Entdeckung. Es zeigt, wie aus mehreren unvollständigen Aussagen ein genaueres Bild entsteht.",
+            "tr": "Gizem tek bir kahramanca keşifle bitmiyor. Birkaç eksik açıklamadan nasıl daha doğru bir tablo oluştuğunu gösteriyor."
+          }
+        ],
+        "words": [
+          "Vermerk"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Kaynaklar nasıl uzlaştırılıyor?",
+          "options": [
+            "Öneri ile son onay farklı roller olarak ele alınarak.",
+            "Geç tarihli bütün anlatılar silinerek.",
+            "Gazete haberi hiç okunmamış sayılarak."
+          ],
+          "correct": "Öneri ile son onay farklı roller olarak ele alınarak.",
+          "explanation": "Metin “Vorschlag” ve “endgültige Zustimmung” ayrımını kurar. Bu ayrım iki kişiye ilişkin bilgiyi zorla tek kişiye mal etmeden açıklar."
+        },
+        "ending": "Birden fazla sesle çözülen gizem"
+      },
+      {
+        "id": "open",
+        "title": "Ziyaretçinin de gördüğü araştırma",
+        "art": "night",
+        "lines": [
+          {
+            "de": "Du zeigst eine genehmigte Abbildung der Katalogseite und setzt darunter einen Vermerk: Wer schrieb diese Zeilen, und worauf stützte sich die Aussage?",
+            "tr": "Katalog sayfasının kullanımına izin verilmiş görselini gösterip altına bir not koyuyorsun: Bu satırları kim yazdı ve açıklama neye dayanıyordu?"
+          },
+          {
+            "de": "Daneben stehen nur die gesicherten Informationen zur Herkunft des Exemplars. Eine Besucherin erinnert sich an eine ähnliche Führung und bietet einen weiteren Hinweis an.",
+            "tr": "Yanında yalnızca nüshanın kaynağına ilişkin doğrulanmış bilgiler bulunuyor. Bir ziyaretçi benzer bir rehberli geziyi hatırlayıp ek bir ipucu sunuyor."
+          },
+          {
+            "de": "Ihr nehmt ihren Hinweis auf, prüft ihn aber erst, bevor er in den Ausstellungstext gelangt. Eine Erinnerung ist ein Ausgangspunkt, nicht schon ein Beleg.",
+            "tr": "İpucunu not alıyorsunuz ama sergi metnine girmeden önce inceliyorsunuz. Bir anı bir başlangıç noktasıdır; kendi başına kanıt sayılmaz."
+          },
+          {
+            "de": "Die Ausstellung bleibt offen für neue Erkenntnisse. Dass die Frage vorläufig ungelöst ist, wird weder versteckt noch dramatisch ausgeschmückt.",
+            "tr": "Sergi yeni bulgulara açık kalıyor. Sorunun şimdilik çözülememiş olduğu ne gizleniyor ne de dramatik biçimde süsleniyor."
+          }
+        ],
+        "words": [
+          "Vermerk"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Ziyaretçinin hatırladığı olay nasıl değerlendiriliyor?",
+          "options": [
+            "İncelenecek yeni bir ipucu olarak.",
+            "Hemen kesin kanıt olarak.",
+            "Bütün diğer kaynakları geçersiz sayan sonuç olarak."
+          ],
+          "correct": "İncelenecek yeni bir ipucu olarak.",
+          "explanation": "“prüft ihn aber erst” ifadesi yayımdan önce kontrol gerektiğini belirtir. Sonraki cümle de anı ile kanıtı açıkça ayırır."
+        },
+        "ending": "Açık kalan ama ilerleyen araştırma"
+      }
+    ]
+  },
+  {
+    "id": "story-world-c1-widerhall",
+    "title": "Hatıraları Dinleyen Ağaç",
+    "germanTitle": "Der Baum, der Erinnerungen hörte",
+    "level": "C1",
+    "category": "fantasy",
+    "description": "Bir ağacın geri verdiği sesler arasında hatırlama, yorum ve rıza kavramlarını tart. Dört sonun hiçbiri kayıp zamanı bütünüyle geri getirmiyor.",
+    "art": "garden",
+    "minutes": 12,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "Yaprakların taşıdığı ses",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Am Rand einer verlassenen Gartenanlage steht ein Baum, dessen Blätter nicht rauschen, sondern Bruchstücke vergangener Gespräche wiedergeben. Niemand weiß, weshalb er gerade jetzt zu sprechen beginnt.",
+            "tr": "Terk edilmiş bir bahçenin kıyısında yaprakları hışırdamak yerine geçmiş konuşmaların parçalarını tekrarlayan bir ağaç duruyor. Ağacın neden tam şimdi konuşmaya başladığını kimse bilmiyor."
+          },
+          {
+            "de": "Als du näher trittst, erkennst du den Widerhall eines Satzes, den deine Großmutter oft gesagt hat. Die Stimme klingt vertraut, doch der Zusammenhang bleibt unvollständig.",
+            "tr": "Yaklaştığında büyükannenin sıkça söylediği bir cümlenin yankısını tanıyorsun. Ses tanıdık geliyor ama bağlam eksik kalıyor."
+          },
+          {
+            "de": "Die Gärtnerin Nela warnt dich davor, den Baum für ein verlässliches Archiv zu halten. Er bewahre, so sagt sie, keine vollständigen Leben, sondern das, was an diesem Ort nachklinge.",
+            "tr": "Bahçıvan Nela, ağacı güvenilir bir arşiv saymaman konusunda seni uyarıyor. Ağacın bütün yaşamları değil, burada yankılanmayı sürdüren şeyleri sakladığını söylüyor."
+          },
+          {
+            "de": "Du kannst nach der Herkunft deiner vertrauten Stimme fragen oder zunächst zuhören, welche anderen Erinnerungen zwischen den Zweigen liegen.",
+            "tr": "Tanıdığın sesin kaynağını sorabilir veya önce dallar arasında başka hangi anıların bulunduğunu dinleyebilirsin."
+          }
+        ],
+        "words": [
+          "Widerhall"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich frage nach der vertrauten Stimme.",
+            "tr": "Tanıdık sesin kaynağını sorarım.",
+            "to": "voice"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich höre zuerst den anderen Stimmen zu.",
+            "tr": "Önce diğer sesleri dinlerim.",
+            "to": "others"
+          }
+        ],
+        "question": {
+          "prompt": "Nela ağacın niteliğini nasıl sınırlandırıyor?",
+          "options": [
+            "Eksiksiz bir yaşam arşivi olmadığını belirterek.",
+            "Her sesi kesinlikle doğru kişiye bağlayarak.",
+            "Bütün geçmişi geri getireceğini söyleyerek."
+          ],
+          "correct": "Eksiksiz bir yaşam arşivi olmadığını belirterek.",
+          "explanation": "Nela’nın “keine vollständigen Leben, sondern … nachklinge” karşıtlığı, duyulan seslerin parçalı niteliğini vurgular. Tanıdıklık güvenilirliğin kanıtı değildir."
+        }
+      },
+      {
+        "id": "voice",
+        "title": "Bir cümlenin değişen anlamı",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Der Baum wiederholt den Satz: Du darfst noch einmal anfangen. Je länger du zuhörst, desto weniger sicher bist du, ob er als Trost oder als Aufforderung gemeint war.",
+            "tr": "Ağaç şu cümleyi tekrarlıyor: Bir kez daha başlayabilirsin. Dinledikçe bunun teselli mi yoksa bir çağrı mı olduğundan daha az emin oluyorsun."
+          },
+          {
+            "de": "Nela erklärt, ein Widerhall könne eine Stimme bewahren, ohne ihre ursprüngliche Absicht festzuhalten. Was du darin hörst, werde auch von deiner eigenen Gegenwart geprägt.",
+            "tr": "Nela, bir yankının asıl niyeti sabitlemeden bir sesi koruyabileceğini açıklıyor. Seste duyduğun şeyin kendi bugünün tarafından da biçimlendiğini söylüyor."
+          },
+          {
+            "de": "Du könntest den Satz immer wieder abrufen, bis er alles andere überlagert. Oder du könntest ihn als Fragment annehmen und daneben deine eigene Erinnerung erzählen.",
+            "tr": "Cümleyi, diğer her şeyi bastırana kadar tekrar tekrar çağırabilirsin. Ya da onu bir parça olarak kabul edip yanına kendi anını koyabilirsin."
+          },
+          {
+            "de": "Der Baum nimmt dir die Entscheidung nicht ab. Er öffnet lediglich einen Raum, in dem Wiederholung und Weitererzählen unterschiedliche Wege anbieten.",
+            "tr": "Ağaç senin yerine karar vermiyor. Yalnızca tekrarın ve anlatıyı sürdürmenin farklı yollar sunduğu bir alan açıyor."
+          }
+        ],
+        "words": [
+          "Widerhall"
+        ],
+        "choices": [
+          {
+            "id": "voice-1",
+            "de": "Ich erzähle meine eigene Erinnerung dazu.",
+            "tr": "Yanına kendi anımı anlatırım.",
+            "to": "retell"
+          },
+          {
+            "id": "voice-2",
+            "de": "Ich bitte um eine letzte Wiederholung.",
+            "tr": "Son bir kez tekrarlanmasını isterim.",
+            "to": "farewell"
+          }
+        ],
+        "question": {
+          "prompt": "Tanıdık cümlenin yorumu neden değişebilir?",
+          "options": [
+            "Dinleyenin bugünkü deneyimleri de yoruma katıldığı için.",
+            "Ağaç cümlenin bütün bağlamını açıkladığı için.",
+            "Nela cümlenin kesin anlamını ilan ettiği için."
+          ],
+          "correct": "Dinleyenin bugünkü deneyimleri de yoruma katıldığı için.",
+          "explanation": "“von deiner eigenen Gegenwart geprägt” bugünün yoruma etkisini belirtir. Sesin korunmasıyla başlangıçtaki niyetin bilinmesi aynı şey değildir."
+        }
+      },
+      {
+        "id": "others",
+        "title": "Bahçedeki başkalarının hatıraları",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Zwischen den Zweigen hörst du einen Streit, ein Kinderlachen und den Widerhall eines Versprechens. Nicht jede Stimme scheint gehört werden zu wollen.",
+            "tr": "Dallar arasında bir tartışma, bir çocuk kahkahası ve bir sözün yankısını duyuyorsun. Her ses duyulmak istiyormuş gibi görünmüyor."
+          },
+          {
+            "de": "Nela erzählt, dass einige Menschen ihre Erinnerungen freiwillig dem Baum anvertraut hätten, während andere Gespräche nur zufällig an diesem Ort stattgefunden hätten.",
+            "tr": "Nela, bazı insanların anılarını isteyerek ağaca emanet ettiğini, diğer konuşmaların ise yalnızca tesadüfen burada gerçekleştiğini anlatıyor."
+          },
+          {
+            "de": "Die Magie unterscheidet diese Fälle nicht von selbst. Deshalb hat die Gärtnerin bisher niemandem erlaubt, die Stimmen öffentlich vorzuführen.",
+            "tr": "Büyü bu durumları kendiliğinden ayırt etmiyor. Bu nedenle bahçıvan şimdiye kadar hiç kimsenin sesleri halka açık biçimde sunmasına izin vermemiş."
+          },
+          {
+            "de": "Du kannst mit ihr Regeln für einen geschützten Ort entwickeln oder die hörbaren Stimmen vorerst durch neue Bäume und Abstand abschirmen.",
+            "tr": "Onunla korunaklı bir alan için kurallar geliştirebilir veya duyulan sesleri şimdilik yeni ağaçlar ve mesafe yoluyla perdeleyebilirsin."
+          }
+        ],
+        "words": [
+          "Widerhall"
+        ],
+        "choices": [
+          {
+            "id": "others-1",
+            "de": "Wir vereinbaren Regeln für das Zuhören.",
+            "tr": "Dinlemek için kurallar belirleriz.",
+            "to": "rules"
+          },
+          {
+            "id": "others-2",
+            "de": "Wir schaffen zunächst einen geschützten Abstand.",
+            "tr": "Önce korunaklı bir mesafe oluştururuz.",
+            "to": "distance"
+          }
+        ],
+        "question": {
+          "prompt": "Bahçıvan neden halka açık gösterime izin vermiyor?",
+          "options": [
+            "Gönüllü paylaşımla tesadüfen duyulan konuşmalar ayrılmadığı için.",
+            "Bütün anıların zaten herkesçe bilindiği için.",
+            "Yalnızca sessiz bir bahçe istediği için."
+          ],
+          "correct": "Gönüllü paylaşımla tesadüfen duyulan konuşmalar ayrılmadığı için.",
+          "explanation": "Sorun yalnızca ses düzeyi değildir. Nela, anılarını isteyerek paylaşanlarla tesadüfen konuşanlar arasındaki farkı gözetmeye çalışır."
+        }
+      },
+      {
+        "id": "retell",
+        "title": "Eksik sesin yanına kendi sesin",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Du erzählst von einem Nachmittag, an dem deine Großmutter denselben Satz zu dir gesagt hatte. Der Baum antwortet nicht mit einem Beweis, sondern mit einem leisen Widerhall.",
+            "tr": "Büyükannenin aynı cümleyi sana söylediği bir öğleden sonrayı anlatıyorsun. Ağaç bir kanıtla değil, hafif bir yankıyla karşılık veriyor."
+          },
+          {
+            "de": "Während du sprichst, merkst du, welche Einzelheiten du sicher erinnerst und welche du später ergänzt hast. Beides kann Bedeutung tragen, ohne dass es miteinander verwechselt werden muss.",
+            "tr": "Konuşurken hangi ayrıntıları kesin hatırladığını, hangilerini sonradan eklediğini fark ediyorsun. Birbirine karıştırılmadan ikisi de anlam taşıyabilir."
+          },
+          {
+            "de": "Nela bindet einen unbeschriebenen Faden an einen Zweig. Er soll dich nicht festhalten, sondern daran erinnern, dass deine Geschichte noch weitergeht.",
+            "tr": "Nela bir dala üzerinde yazı olmayan bir ip bağlıyor. Amaç seni oraya bağlamak değil, hikâyenin hâlâ sürdüğünü hatırlatmak."
+          },
+          {
+            "de": "Du verlässt die Anlage, ohne die Vergangenheit vollständig rekonstruiert zu haben. Mitgenommen hast du die Freiheit, aus einem Fragment kein abgeschlossenes Leben machen zu müssen.",
+            "tr": "Geçmişi bütünüyle yeniden kurmadan bahçeden ayrılıyorsun. Yanına aldığın şey, tek bir parçayı tamamlanmış bir yaşama dönüştürmek zorunda olmama özgürlüğü."
+          }
+        ],
+        "words": [
+          "Widerhall"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bu son hangi kazanımı öne çıkarıyor?",
+          "options": [
+            "Hatırlananla sonradan ekleneni ayırt ederek anlatıyı sürdürmeyi.",
+            "Ağacın bütün geçmişi kanıtladığını.",
+            "Kişisel anıların artık değersiz olduğunu."
+          ],
+          "correct": "Hatırlananla sonradan ekleneni ayırt ederek anlatıyı sürdürmeyi.",
+          "explanation": "“sicher erinnerst” ile “später ergänzt” ayrımı korunur. Son, eksiksiz yeniden kurma yerine parçalı bir geçmişle ilişki kurabilmeyi vurgular."
+        },
+        "ending": "Hatırayı sürdürmenin özgürlüğü"
+      },
+      {
+        "id": "farewell",
+        "title": "Tekrarın sonundaki sessizlik",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Du bittest den Baum um eine letzte Wiederholung. Diesmal hörst du dem Widerhall zu, ohne ihn auf eine einzige Bedeutung festlegen zu wollen.",
+            "tr": "Ağaçtan son bir tekrar istiyorsun. Bu kez yankıyı tek bir anlama sabitlemeye çalışmadan dinliyorsun."
+          },
+          {
+            "de": "Als die Stimme verstummt, lässt Nela die Stille stehen. Sie füllt sie weder mit einer Erklärung noch mit dem Versprechen, dass du jederzeit alles zurückholen könntest.",
+            "tr": "Ses sustuğunda Nela sessizliğe alan bırakıyor. Onu ne bir açıklamayla ne de her şeyi istediğin zaman geri getirebileceğin sözüyle dolduruyor."
+          },
+          {
+            "de": "Du verabschiedest dich nicht von deiner Großmutter, als wäre sie im Baum eingeschlossen. Du verabschiedest dich von der Erwartung, eine Stimme könne jeden Verlust aufheben.",
+            "tr": "Büyükannen ağacın içine hapsolmuş gibi ondan vedalaşmıyorsun. Bir sesin her kaybı ortadan kaldırabileceği beklentisine veda ediyorsun."
+          },
+          {
+            "de": "Auf dem Heimweg bleibt der Satz bei dir, aber er bestimmt nicht mehr jeden Gedanken. Er ist eine Möglichkeit geworden, keine Anweisung.",
+            "tr": "Eve dönerken cümle seninle kalıyor ama artık her düşünceni belirlemiyor. Bir talimat değil, bir olasılık haline geldi."
+          }
+        ],
+        "words": [
+          "Widerhall"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Veda burada neye yöneliktir?",
+          "options": [
+            "Bir sesin bütün kaybı gidereceği beklentisine.",
+            "Büyükannenin gerçekten ağaca hapsedilmesine.",
+            "Hatırlamanın her biçiminden vazgeçmeye."
+          ],
+          "correct": "Bir sesin bütün kaybı gidereceği beklentisine.",
+          "explanation": "Metin, büyükanneye ağacın içindeymiş gibi veda edilmediğini açıkça söyler. Bırakılan şey hatıra değil, sesin her kaybı gidereceği beklentisidir."
+        },
+        "ending": "Yankıdan sonra kalan alan"
+      },
+      {
+        "id": "rules",
+        "title": "Dinlemenin sorumluluğu",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Ihr besprecht, wie sich freiwillig geteilte Erinnerungen von unbeabsichtigt aufgefangenen Gesprächen trennen ließen. Ein angenehmer Widerhall allein soll kein Grund sein, etwas weiterzugeben.",
+            "tr": "Gönüllü olarak paylaşılan anıların istemeden yakalanan konuşmalardan nasıl ayrılabileceğini konuşuyorsunuz. Hoş bir yankı tek başına bir şeyi aktarma gerekçesi sayılmamalı."
+          },
+          {
+            "de": "Nela sammelt keine Namen oder Lebensgeschichten auf Vorrat. Wer den Ort besucht, soll selbst bestimmen können, ob überhaupt etwas erzählt oder bewahrt wird.",
+            "tr": "Nela önceden isim veya yaşam öyküsü toplamıyor. Mekânı ziyaret eden kişi, herhangi bir şey anlatılıp saklanıp saklanmayacağına kendisi karar verebilmeli."
+          },
+          {
+            "de": "Der Baum wird nicht zum öffentlichen Schauspiel. Ihr schafft kleine Zeiten des Zuhörens, in denen Fragen erlaubt sind und ein Nein ohne Begründung gilt.",
+            "tr": "Ağaç halka açık bir gösteriye dönüşmüyor. Soruların sorulabildiği ve hayır demenin gerekçe gerektirmediği küçük dinleme zamanları oluşturuyorsunuz."
+          },
+          {
+            "de": "Damit ist nicht jede Schwierigkeit gelöst. Doch die Magie muss sich nun an den Menschen messen lassen, statt dass die Menschen sich ihrer Wirkung unterordnen.",
+            "tr": "Böylece her güçlük çözülmüş olmuyor. Ancak artık insanların büyünün etkisine boyun eğmesi yerine büyünün insanlara göre değerlendirilmesi gerekiyor."
+          }
+        ],
+        "words": [
+          "Widerhall"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Kuralların temel yaklaşımı hangisi?",
+          "options": [
+            "İnsanın paylaşmama kararını da korumak.",
+            "Hoş duyulan her sesi yayımlamak.",
+            "Ziyaretçilerden önceden bütün anılarını toplamak."
+          ],
+          "correct": "İnsanın paylaşmama kararını da korumak.",
+          "explanation": "“ein Nein ohne Begründung gilt” gerekçesiz bir hayırın da geçerli olduğunu belirtir. Maginin varlığı, kişinin tercihinin önüne geçirilmez."
+        },
+        "ending": "Rızayla korunan masal bahçesi"
+      },
+      {
+        "id": "distance",
+        "title": "Koruyucu bir sessizlik kuşağı",
+        "art": "garden",
+        "lines": [
+          {
+            "de": "Ihr pflanzt junge Sträucher um den alten Baum. Je größer der Abstand zum Weg wird, desto schwächer ist der Widerhall dort zu hören.",
+            "tr": "Yaşlı ağacın çevresine genç çalılar dikiyorsunuz. Yoldan uzaklık arttıkça yankı orada daha az duyuluyor."
+          },
+          {
+            "de": "Die Erinnerungen werden nicht gelöscht, aber sie begegnen Vorübergehenden nicht länger ungefragt. Nela kennzeichnet den Bereich als stillen Garten und verzichtet auf neugierig machende Einzelheiten.",
+            "tr": "Anılar silinmiyor ama artık yoldan geçenlerin karşısına istenmeden çıkmıyor. Nela alanı sessiz bahçe olarak işaretliyor ve merak uyandıran ayrıntılar vermiyor."
+          },
+          {
+            "de": "Du weißt, dass Abstand allein die Frage nach Zustimmung nicht beantwortet. Er verhindert vorerst, dass aus einem ungelösten Problem eine tägliche Vorführung wird.",
+            "tr": "Tek başına mesafenin rıza sorusunu yanıtlamadığını biliyorsun. Şimdilik çözülememiş bir sorunun günlük bir gösteriye dönüşmesini önlüyor."
+          },
+          {
+            "de": "Später wollt ihr über weitere Schritte sprechen. Heute besteht eure Entscheidung darin, nicht alles Hörbare sofort verfügbar zu machen.",
+            "tr": "Daha sonra başka adımları konuşmak istiyorsunuz. Bugünkü kararınız, duyulabilen her şeyi hemen erişilebilir hale getirmemek."
+          }
+        ],
+        "words": [
+          "Widerhall"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Mesafe oluşturmanın sınırı nedir?",
+          "options": [
+            "Rıza sorununu tek başına çözmemesi.",
+            "Bütün anıları kesin olarak silmesi.",
+            "Sesleri daha geniş bir kitleye ulaştırması."
+          ],
+          "correct": "Rıza sorununu tek başına çözmemesi.",
+          "explanation": "“Abstand allein … nicht beantwortet” mesafenin sınırlı bir önlem olduğunu belirtir. Karar, sorunu çözmüş gibi yapmak yerine yayılmayı şimdilik azaltır."
+        },
+        "ending": "Hemen açılmayan bir kapı"
+      }
+    ]
+  },
+  {
+    "id": "story-world-c2-urheberschaft",
+    "title": "Toplantı Tutanaklarının Arasında",
+    "germanTitle": "Zwischen Entwurf und Unterschrift",
+    "level": "C2",
+    "category": "work",
+    "description": "Bir ekip metninde görünmeyen katkıları araştır. Söylenenle ima edileni, yazarlıkla sorumluluğu ve uzlaşmayla örtbas etmeyi ayıran dört son.",
+    "art": "town",
+    "minutes": 12,
+    "start": "start",
+    "scenes": [
+      {
+        "id": "start",
+        "title": "İsimsiz kalan ilk taslak",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Kurz vor der Veröffentlichung eines gemeinsamen Ausstellungskonzepts bemerkst du, dass die öffentliche Fassung nur die Projektleitung nennt, obwohl wesentliche Gedanken aus mehreren früheren Entwürfen übernommen wurden.",
+            "tr": "Ortak bir sergi tasarısının yayımlanmasından hemen önce, temel düşünceler önceki birkaç taslaktan alınmış olmasına rağmen kamuya açık sürümün yalnızca proje yönetimini andığını fark ediyorsun."
+          },
+          {
+            "de": "Eine Kollegin nennt das eine bloße Formalität; ein anderer spricht bereits von bewusster Aneignung. Zwischen beiden Zuschreibungen liegt allerdings eine Reihe ungeprüfter Annahmen über Urheberschaft und Verantwortung.",
+            "tr": "Bir çalışma arkadaşı bunu basit bir formalite sayıyor; bir diğeri şimdiden bilinçli sahiplenmeden söz ediyor. Ancak bu iki nitelemenin arasında yazarlık ve sorumluluk hakkında sınanmamış varsayımlar bulunuyor."
+          },
+          {
+            "de": "Du hast Zugriff auf die freigegebenen Versionsstände und auf ein Sitzungsprotokoll, dessen Formulierung offenlässt, ob die Unterschrift eine Autorenschaft oder lediglich die Freigabe bezeichnen sollte.",
+            "tr": "Erişimine açılmış sürümlere ve imzanın yazarlığı mı yoksa yalnızca yayım onayını mı göstermesi gerektiğini açık bırakan bir toplantı tutanağına erişimin var."
+          },
+          {
+            "de": "Du kannst zunächst die Entstehung des Textes nachvollziehbar dokumentieren oder die Beteiligten zu einem Gespräch über die Bedeutung der Namensnennung einladen.",
+            "tr": "Önce metnin oluşumunu izlenebilir biçimde belgeleyebilir veya ilgili kişileri isim belirtmenin anlamını konuşmaya davet edebilirsin."
+          }
+        ],
+        "words": [
+          "Urheberschaft"
+        ],
+        "choices": [
+          {
+            "id": "start-1",
+            "de": "Ich rekonstruiere die Textgeschichte.",
+            "tr": "Metnin oluşumunu yeniden kurarım.",
+            "to": "versions"
+          },
+          {
+            "id": "start-2",
+            "de": "Ich kläre zuerst die Erwartungen im Gespräch.",
+            "tr": "Önce görüşmede beklentileri açıklığa kavuştururum.",
+            "to": "meeting"
+          }
+        ],
+        "question": {
+          "prompt": "Metnin başında hangi değerlendirme henüz temellendirilmemiştir?",
+          "options": [
+            "Durumun mutlaka bilinçli sahiplenme olduğu.",
+            "Kamuya açık sürümde yalnızca yönetimin anıldığı.",
+            "Önceki sürümlere erişilebildiği."
+          ],
+          "correct": "Durumun mutlaka bilinçli sahiplenme olduğu.",
+          "explanation": "İlk iki cümle görünür olguyu ve buna yüklenen anlamı ayırır. “bewusste Aneignung” niyet isnadıdır; metin bunun henüz araştırılmadığını vurgular."
+        }
+      },
+      {
+        "id": "versions",
+        "title": "Cümlelerin izini sürmek",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Die Versionsstände zeigen, dass Nora die Leitfrage entwickelt, Selim die Beispiele präzisiert und die Projektleitung den Text gekürzt hat. Keine dieser Tätigkeiten lässt sich ohne Weiteres mit der gesamten Urheberschaft gleichsetzen.",
+            "tr": "Sürümler, ana soruyu Nora’nın geliştirdiğini, örnekleri Selim’in belirginleştirdiğini ve proje yönetiminin metni kısalttığını gösteriyor. Bu çalışmaların hiçbiri doğrudan metnin bütün yazarlığıyla özdeşleştirilemez."
+          },
+          {
+            "de": "Im Protokoll ist von einer redaktionellen Schlussfassung die Rede. Ob die Namen der inhaltlich Mitwirkenden bewusst gestrichen oder schon beim Zusammenführen der Dateien übersehen wurden, bleibt zunächst unklar.",
+            "tr": "Tutanakta editoryal bir son sürümden söz ediliyor. İçeriğe katkı verenlerin isimlerinin bilinçli olarak mı çıkarıldığı yoksa dosyalar birleştirilirken mi gözden kaçtığı henüz belirsiz."
+          },
+          {
+            "de": "Du beschränkst deine Übersicht auf belegbare Änderungen und lässt beiläufige private Kommentare außen vor. Gerade eine sorgfältige Dokumentation darf nicht mehr behaupten, als ihre Quellen tragen.",
+            "tr": "Özetini belgelenebilir değişikliklerle sınırlıyor ve araya giren özel yorumları dışarıda bırakıyorsun. Özellikle özenli bir belgeleme, kaynaklarının taşıdığından daha fazlasını iddia etmemeli."
+          },
+          {
+            "de": "Nun könntest du eine begründete Korrektur der Zuschreibung vorschlagen oder vor jeder öffentlichen Änderung die noch offenen Fragen zur Freigabe klären lassen.",
+            "tr": "Şimdi katkı atfının gerekçeli biçimde düzeltilmesini önerebilir veya herhangi bir kamuya açık değişiklikten önce yayım onayına ilişkin açık soruları açıklığa kavuşturtabilirsin."
+          }
+        ],
+        "words": [
+          "Urheberschaft"
+        ],
+        "choices": [
+          {
+            "id": "versions-1",
+            "de": "Ich schlage eine transparente Beitragsnotiz vor.",
+            "tr": "Şeffaf bir katkı notu öneririm.",
+            "to": "credits"
+          },
+          {
+            "id": "versions-2",
+            "de": "Ich lasse die offenen Freigabefragen klären.",
+            "tr": "Açık onay sorularının netleştirilmesini isterim.",
+            "to": "pause"
+          }
+        ],
+        "question": {
+          "prompt": "Sürüm incelemesi hangi sonuca izin veriyor?",
+          "options": [
+            "Farklı kişilerin farklı türde katkı yaptığının gösterilmesine.",
+            "Niyetin bütün ayrıntılarıyla kesinleştirilmesine.",
+            "Özel yorumların yayımlanmasının zorunlu sayılmasına."
+          ],
+          "correct": "Farklı kişilerin farklı türde katkı yaptığının gösterilmesine.",
+          "explanation": "“zeigen” ile verilen somut katkılar belirlenebilir. İsimlerin neden kaybolduğu ise “bleibt … unklar” ile ayrı, henüz açık bir soru olarak korunur."
+        }
+      },
+      {
+        "id": "meeting",
+        "title": "Aynı sözcük, farklı beklenti",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Im Gespräch wird deutlich, dass Freigabe für die Projektleitung eine gebündelte Verantwortung bedeutete, während Nora darunter die Bestätigung einer gemeinsam ausgewiesenen Urheberschaft verstanden hatte.",
+            "tr": "Görüşmede, onayın proje yönetimi için tek elde toplanmış sorumluluk, Nora içinse ortaklaşa belirtilen yazarlığın doğrulanması anlamına geldiği ortaya çıkıyor."
+          },
+          {
+            "de": "Selim hält es für wenig hilfreich, aus dieser begrifflichen Verschiebung entweder eine harmlose Bagatelle oder bereits eine nachgewiesene Täuschung zu machen. Die Wirkung auf die Beteiligten sei dennoch ernst zu nehmen.",
+            "tr": "Selim, bu kavramsal kaymadan ya zararsız bir önemsizlik ya da şimdiden kanıtlanmış bir aldatma sonucu çıkarmanın pek yararlı olmadığını düşünüyor. Buna rağmen durumun ilgili kişiler üzerindeki etkisinin ciddiye alınması gerektiğini söylüyor."
+          },
+          {
+            "de": "Einigkeit über die unterschiedlichen Erwartungen ersetzt noch keine Vereinbarung darüber, wie Beiträge künftig sichtbar werden. Ebenso wenig legt sie fest, wer für die veröffentlichten Aussagen einsteht.",
+            "tr": "Farklı beklentilerin kabul edilmesi, katkıların gelecekte nasıl görünür olacağına ilişkin anlaşmanın yerini tutmuyor. Yayımlanan açıklamaların sorumluluğunu kimin üstleneceğini de belirlemiyor."
+          },
+          {
+            "de": "Du kannst eine gemeinsame Arbeitsvereinbarung anstoßen oder auf einer gesonderten Darstellung der voneinander abweichenden Positionen bestehen.",
+            "tr": "Ortak bir çalışma düzenlemesi başlatabilir veya birbirinden ayrılan görüşlerin ayrı ayrı gösterilmesinde ısrar edebilirsin."
+          }
+        ],
+        "words": [
+          "Urheberschaft"
+        ],
+        "choices": [
+          {
+            "id": "meeting-1",
+            "de": "Wir formulieren eine gemeinsame Arbeitsvereinbarung.",
+            "tr": "Ortak bir çalışma düzenlemesi yazarız.",
+            "to": "agreement"
+          },
+          {
+            "id": "meeting-2",
+            "de": "Wir halten die Unterschiede ausdrücklich fest.",
+            "tr": "Farklılıkları açıkça kayda geçiririz.",
+            "to": "dissent"
+          }
+        ],
+        "question": {
+          "prompt": "Görüşmede beklentilerin farklı olduğunun anlaşılması neyi sağlamaz?",
+          "options": [
+            "Katkı ve sorumluluk hakkında kendiliğinden tamamlanmış bir anlaşmayı.",
+            "Sorunun kavramsal bir yönü olduğunun görülmesini.",
+            "Katılımcıların görüşlerini açıklayabilmesini."
+          ],
+          "correct": "Katkı ve sorumluluk hakkında kendiliğinden tamamlanmış bir anlaşmayı.",
+          "explanation": "“ersetzt noch keine Vereinbarung” ifadesi teşhis ile çözümü ayırır. Beklenti farkını anlamak, ileriye dönük kuralları otomatik olarak oluşturmaz."
+        }
+      },
+      {
+        "id": "credits",
+        "title": "İsim listesinden daha fazlası",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Du legst eine Beitragsnotiz vor, die Entwicklung der Leitfrage, Ausarbeitung der Beispiele und redaktionelle Bearbeitung unterscheidet. Die Urheberschaft wird nicht nachträglich auf eine einzige Person zugespitzt.",
+            "tr": "Ana sorunun geliştirilmesini, örneklerin işlenmesini ve editoryal çalışmayı ayıran bir katkı notu sunuyorsun. Yazarlık sonradan tek bir kişiye indirgenmiyor."
+          },
+          {
+            "de": "Die Beteiligten prüfen die Beschreibung ihrer jeweiligen Arbeit und einigen sich auf eine sachliche Ergänzung. Die Verantwortung für die freigegebene Gesamtfassung wird daneben ausdrücklich benannt.",
+            "tr": "İlgili kişiler kendi çalışmalarına ilişkin açıklamaları kontrol ediyor ve nesnel bir ek üzerinde anlaşıyor. Onaylanmış bütün sürümün sorumluluğu da ayrıca belirtiliyor."
+          },
+          {
+            "de": "Damit ist nicht bewiesen, dass die ursprüngliche Auslassung absichtlich geschah. Korrigiert wird eine unzureichende Darstellung, ohne aus der Korrektur eine unbelegte Absichtserklärung abzuleiten.",
+            "tr": "Bu, önceki eksikliğin kasıtlı olduğunu kanıtlamıyor. Düzeltmeden kanıtsız bir niyet sonucu çıkarmadan yetersiz bir gösterim düzeltiliyor."
+          },
+          {
+            "de": "Das Konzept erscheint mit nachvollziehbaren Angaben. Nicht die Länge der Namensliste macht die Lösung tragfähig, sondern die überprüfbare Beziehung zwischen Beitrag, Anerkennung und Verantwortung.",
+            "tr": "Tasarım izlenebilir bilgilerle yayımlanıyor. Çözümü sağlam kılan isim listesinin uzunluğu değil; katkı, takdir ve sorumluluk arasındaki kontrol edilebilir ilişki."
+          }
+        ],
+        "words": [
+          "Urheberschaft"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Çözümün dayanağı bu sonda nedir?",
+          "options": [
+            "Katkı, atıf ve sorumluluğun ayrı ve doğrulanabilir biçimde gösterilmesi.",
+            "İsim listesinin mümkün olduğunca uzatılması.",
+            "İlk eksikliğin niyetinin kanıtsız ilan edilmesi."
+          ],
+          "correct": "Katkı, atıf ve sorumluluğun ayrı ve doğrulanabilir biçimde gösterilmesi.",
+          "explanation": "Son cümlede “Nicht … sondern …” yapısı nicelikten ilişkiye geçişi vurgular. Düzeltmenin, geçmiş niyeti kendiliğinden kanıtlamadığı da özellikle korunur."
+        },
+        "ending": "Emeği görünür kılan katkı notu"
+      },
+      {
+        "id": "pause",
+        "title": "Yavaşlatmanın gerekçesi",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Du erläuterst, weshalb die Frage der Urheberschaft noch nicht von der Freigabefrage getrennt geklärt ist. Die Gruppe verschiebt die Veröffentlichung, statt fehlende Einigung als stillschweigende Zustimmung auszugeben.",
+            "tr": "Yazarlık sorusunun yayım onayı sorusundan ayrı olarak neden henüz açıklığa kavuşmadığını anlatıyorsun. Grup, eksik uzlaşmayı örtük onay gibi sunmak yerine yayımı erteliyor."
+          },
+          {
+            "de": "Die Pause erhält einen konkreten Rahmen: Welche Textstellen sind strittig, wer muss angehört werden, und bis wann soll eine neue Fassung vorliegen?",
+            "tr": "Araya somut bir çerçeve veriliyor: Hangi metin bölümleri tartışmalı, kimin görüşü alınmalı ve yeni sürüm ne zamana kadar hazırlanmalı?"
+          },
+          {
+            "de": "Nora begrüßt, dass die Verzögerung nicht ihr persönlich zugeschoben wird. Selim hält zugleich fest, dass eine Frist allein den Konflikt nicht löst.",
+            "tr": "Nora, gecikmenin kişisel olarak kendisine yüklenmemesini olumlu karşılıyor. Selim aynı zamanda, tek başına bir sürenin çatışmayı çözmeyeceğini kayda geçiriyor."
+          },
+          {
+            "de": "Das Ergebnis ist vorläufig, aber nicht beliebig. Die Gruppe hat entschieden, welche Ungewissheit sie vor einer öffentlichen Aussage noch bearbeiten muss.",
+            "tr": "Sonuç geçici ama keyfî değil. Grup, kamuya açık bir açıklamadan önce hangi belirsizliği ele alması gerektiğine karar vermiş durumda."
+          }
+        ],
+        "words": [
+          "Urheberschaft"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Erteleme hangi özellikle salt oyalanmadan ayrılıyor?",
+          "options": [
+            "Somut sorular, kişiler ve bir zaman çerçevesi belirlenmesiyle.",
+            "Bütün sorumluluğun Nora’ya yüklenmesiyle.",
+            "Bir tarihin tek başına çözüm sayılmasıyla."
+          ],
+          "correct": "Somut sorular, kişiler ve bir zaman çerçevesi belirlenmesiyle.",
+          "explanation": "Ortadaki sorular, dinlenecek kişiler ve süre tanımlanmıştır. Metin aynı zamanda sürenin kendisini çözüm saymadığını açıkça söyler."
+        },
+        "ending": "Gerekçesi ve sınırı olan bir ara"
+      },
+      {
+        "id": "agreement",
+        "title": "Gelecekteki metinlerin kuralı",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Ihr formuliert eine Vereinbarung, die Entwurf, redaktionelle Bearbeitung, Urheberschaft und Freigabe getrennt beschreibt. Neue Mitarbeitende sollen diese Unterscheidungen nicht erst aus einem Konflikt lernen müssen.",
+            "tr": "Taslağı, editoryal çalışmayı, yazarlığı ve yayım onayını ayrı ayrı açıklayan bir düzenleme yazıyorsunuz. Yeni çalışanların bu ayrımları ancak bir çatışma yaşayınca öğrenmesi gerekmemeli."
+          },
+          {
+            "de": "Die bestehende Fassung wird gemeinsam überprüft; eine sachliche Ergänzung nennt die nachweisbaren Beiträge. Wer mit einer Zuschreibung nicht einverstanden ist, kann dies vor der Veröffentlichung sichtbar machen.",
+            "tr": "Mevcut sürüm birlikte gözden geçiriliyor; nesnel bir ek, kanıtlanabilir katkıları belirtiyor. Bir atfa katılmayan kişi, bunu yayımdan önce görünür kılabiliyor."
+          },
+          {
+            "de": "Niemand muss die frühere Auslassung schönreden, um an der neuen Regel mitzuwirken. Eine tragfähige Vereinbarung verlangt nicht, dass alle dieselbe Erinnerung an den Konflikt übernehmen.",
+            "tr": "Yeni kurala katkı vermek için hiç kimse geçmişteki eksikliği hoş göstermek zorunda değil. Sağlam bir düzenleme, herkesin çatışmaya ilişkin aynı anıyı benimsemesini gerektirmez."
+          },
+          {
+            "de": "Der Streit verschwindet nicht rückwirkend. Er verändert aber die Bedingungen, unter denen das nächste gemeinsame Projekt beginnen kann.",
+            "tr": "Tartışma geriye dönük olarak ortadan kalkmıyor. Ancak sonraki ortak projenin başlayabileceği koşulları değiştiriyor."
+          }
+        ],
+        "words": [
+          "Urheberschaft"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Ortak kural neyi gerektirmiyor?",
+          "options": [
+            "Herkesin geçmiş çatışmayı aynı biçimde hatırlamasını.",
+            "Katkı türlerinin açıkça tanımlanmasını.",
+            "Yayımdan önce itirazın görünür olabilmesini."
+          ],
+          "correct": "Herkesin geçmiş çatışmayı aynı biçimde hatırlamasını.",
+          "explanation": "“verlangt nicht” ile düzenlemenin sınırı çizilir. İşbirliği için ortak bir süreç kurulabilir; kişilerin geçmişe ilişkin yorumlarının tekleştirilmesi gerekmez."
+        },
+        "ending": "Aynı hatırayı dayatmayan uzlaşma"
+      },
+      {
+        "id": "dissent",
+        "title": "Uzlaşılmayan noktanın kaydı",
+        "art": "town",
+        "lines": [
+          {
+            "de": "Ihr könnt euch über die Urheberschaft einzelner Passagen nicht vollständig einigen. Statt eine Einigung zu behaupten, haltet ihr die unterschiedlichen Positionen sachlich und mit Zustimmung der Betroffenen fest.",
+            "tr": "Bazı bölümlerin yazarlığı konusunda tam olarak anlaşamıyorsunuz. Anlaşma varmış gibi yapmak yerine, ilgili kişilerin onayıyla farklı görüşleri nesnel biçimde kaydediyorsunuz."
+          },
+          {
+            "de": "Die Veröffentlichung beschränkt sich auf den gemeinsam freigegebenen Teil. Umstrittene Zuschreibungen werden nicht nebenbei in einer Fußnote entschieden, die nur eine Seite formuliert hat.",
+            "tr": "Yayım, birlikte onaylanan bölümle sınırlanıyor. Tartışmalı atıflar, yalnızca bir tarafın yazdığı bir dipnotla dolaylı olarak karara bağlanmıyor."
+          },
+          {
+            "de": "Für die offenen Fragen vereinbart ihr ein weiteres, klar begrenztes Verfahren. Bis dahin wird weder Schweigen als Zustimmung noch Widerspruch als mangelnde Kollegialität ausgelegt.",
+            "tr": "Açık sorular için sınırları belirli başka bir süreç kararlaştırıyorsunuz. O zamana kadar ne sessizlik onay ne de itiraz ekip arkadaşlığı eksikliği olarak yorumlanıyor."
+          },
+          {
+            "de": "Der gemeinsame Text ist kürzer geworden, die Darstellung aber redlicher. Zusammenzuarbeiten bedeutet hier, Differenzen verantwortlich zu begrenzen, nicht sie aus dem Blick zu drängen.",
+            "tr": "Ortak metin kısaldı ama gösterim daha dürüst hale geldi. Burada birlikte çalışmak, farklılıkları gözden uzaklaştırmak değil, sorumlu biçimde sınırlandırmak anlamına geliyor."
+          }
+        ],
+        "words": [
+          "Urheberschaft"
+        ],
+        "choices": [],
+        "question": {
+          "prompt": "Bu sonun işbirliği anlayışı hangisi?",
+          "options": [
+            "Anlaşmazlığı gizlemeden ortak alanı sınırlandırmak.",
+            "Sessiz kalan herkesin onay verdiğini varsaymak.",
+            "İtiraz edenleri ekip dışında bırakmak."
+          ],
+          "correct": "Anlaşmazlığı gizlemeden ortak alanı sınırlandırmak.",
+          "explanation": "Son, ortaklaşa onaylanmış metni korurken açık soruları ayrı bir sürece bırakır. “weder … noch …” yapısı sessizlik ve itiraz hakkında iki hatalı çıkarımı da reddeder."
+        },
+        "ending": "Farklılıkları saklamayan ortak metin"
+      }
+    ]
+  }
+]

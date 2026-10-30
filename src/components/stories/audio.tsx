@@ -4,6 +4,7 @@ import type { Ref } from "react";
 import assets from "@/data/stories/audio.json";
 import comedyAssets from "@/data/stories/comedy-audio.json";
 import extraAssets from "@/data/stories/extra-audio.json";
+import worldAssets from "@/data/stories/world-audio.json";
 import { SpeechSequence, browserSpeechHost } from "@/lib/listening/speech";
 import type { StoryScene } from "@/lib/stories/types";
 import { Play, RotateCcw, Square } from "lucide-react";
@@ -13,6 +14,7 @@ export const storyAudio = {
   ...assets.scenes,
   ...extraAssets.scenes,
   ...comedyAssets.scenes,
+  ...worldAssets.scenes,
 } as Record<string, { full: Asset; lines: Asset[] }>;
 export function StoryAudio({
   storyId,

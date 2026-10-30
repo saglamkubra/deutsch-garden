@@ -4,11 +4,13 @@ import extra from "../../data/stories/extra-stories.json" with { type: "json" };
 import extraGlossary from "../../data/stories/extra-glossary.json" with { type: "json" };
 import comedy from "../../data/stories/comedy-stories.json" with { type: "json" };
 import comedyGlossary from "../../data/stories/comedy-glossary.json" with { type: "json" };
+import world from "../../data/stories/world-stories.json" with { type: "json" };
+import worldGlossary from "../../data/stories/world-glossary.json" with { type: "json" };
 import { originalA1 } from "../learning/seed.ts";
 import { LocalVocabularyRepository } from "../learning/repository.ts";
 import type { Story } from "./types.ts";
 import { validateStory } from "./graph.ts";
-export const stories = [...raw, ...extra, ...comedy] as Story[];
+export const stories = [...raw, ...extra, ...comedy, ...world] as Story[];
 for (const story of stories) {
   const errors = validateStory(story);
   if (errors.length) throw new Error(story.id + ": " + errors.join("; "));
@@ -40,6 +42,7 @@ export const glossary = [
   ...authoredGlossary,
   ...extraGlossary,
   ...comedyGlossary,
+  ...worldGlossary,
 ] as StoryWord[];
 export function resolveWord(lemma: string): StoryWord | undefined {
   const w = storyRepository.all().find((w) => w.german_word === lemma);

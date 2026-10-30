@@ -1,0 +1,62 @@
+[
+  {
+    "id": "story-world-word-1",
+    "word": "Haltestelle",
+    "article": "die",
+    "meaning": "durak",
+    "plural": "Haltestellen",
+    "de": "An der Haltestelle wartet ein Bus.",
+    "tr": "Durakta bir otobüs bekliyor.",
+    "repository": false
+  },
+  {
+    "id": "story-world-word-2",
+    "word": "Lesezeichen",
+    "article": "das",
+    "meaning": "kitap ayracı",
+    "plural": "Lesezeichen",
+    "de": "Das Lesezeichen liegt zwischen den Seiten.",
+    "tr": "Ayraç sayfaların arasında duruyor.",
+    "repository": false
+  },
+  {
+    "id": "story-world-word-3",
+    "word": "Reparatur",
+    "article": "die",
+    "meaning": "tamir; onarım",
+    "plural": "Reparaturen",
+    "de": "Nicht jede Reparatur ist sofort möglich.",
+    "tr": "Her tamir hemen mümkün değildir.",
+    "repository": false
+  },
+  {
+    "id": "story-world-word-4",
+    "word": "Vermerk",
+    "article": "der",
+    "meaning": "not; kısa açıklama",
+    "plural": "Vermerke",
+    "de": "Der Vermerk enthält kein Datum.",
+    "tr": "Notta tarih bulunmuyor.",
+    "repository": false
+  },
+  {
+    "id": "story-world-word-5",
+    "word": "Widerhall",
+    "article": "der",
+    "meaning": "yankı; bir etkinin sürmesi",
+    "plural": "Widerhalle",
+    "de": "Der Widerhall einer Stimme ist noch kein vollständiges Gespräch.",
+    "tr": "Bir sesin yankısı, eksiksiz bir konuşma demek değildir.",
+    "repository": false
+  },
+  {
+    "id": "story-world-word-6",
+    "word": "Urheberschaft",
+    "article": "die",
+    "meaning": "bir metnin veya eserin kim tarafından oluşturulduğu; yazarlık",
+    "plural": "",
+    "de": "Die Urheberschaft wird getrennt von der Freigabe beschrieben.",
+    "tr": "Yazarlık, yayım onayından ayrı olarak açıklanıyor.",
+    "repository": false
+  }
+]
