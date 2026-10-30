@@ -26,7 +26,7 @@ export function StoryAudio({
   const data = storyAudio[storyId + ":" + scene.id],
     audio = useRef<HTMLAudioElement>(null),
     speech = useRef<SpeechSequence | null>(null);
-  const [speed, setSpeed] = useState(0.85),
+  const [speed, setSpeed] = useState(1),
     [fallback, setFallback] = useState(false),
     [notice, setNotice] = useState("");
   useImperativeHandle(ref, () => ({
@@ -65,6 +65,7 @@ export function StoryAudio({
     a.pause();
     a.src = url;
     a.playbackRate = speed;
+    a.preservesPitch = true;
     a.currentTime = 0;
     try {
       await a.play();
@@ -111,7 +112,10 @@ export function StoryAudio({
             )
           }
           onLoadedMetadata={() => {
-            if (audio.current) audio.current.playbackRate = speed;
+            if (audio.current) {
+              audio.current.preservesPitch = true;
+              audio.current.playbackRate = speed;
+            }
           }}
         />
       )}

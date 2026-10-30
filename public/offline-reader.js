@@ -15,7 +15,7 @@
   };
   const publicAudio = (p) =>
     typeof p === "string" &&
-    /^\/audio\/(courses|course-examples|course-extension|stories|stories-comedy|listening|listening-complete)\/[a-zA-Z0-9_.-]+\.(mp3|wav)$/.test(
+    /^\/audio\/(courses|course-examples|course-extension|pronunciation|deutsch-garden|extensions|stories|stories-comedy|listening|listening-complete)\/[a-zA-Z0-9_.-]+\.(mp3|wav)$/.test(
       p,
     );
   async function boot() {

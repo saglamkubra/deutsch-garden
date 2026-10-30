@@ -46,7 +46,7 @@ export function ListeningPlayer({
   const [ready, setReady] = useState(false),
     [playing, setPlaying] = useState(false),
     [position, setPosition] = useState(initialPosition),
-    [rate, setRate] = useState(0.85),
+    [rate, setRate] = useState(1),
     [volume, setVolume] = useState(1),
     [muted, setMuted] = useState(false),
     [error, setError] = useState(""),
@@ -204,6 +204,7 @@ export function ListeningPlayer({
         onLoadedMetadata={() => {
           const el = audio.current;
           if (el) {
+            el.preservesPitch = true;
             el.playbackRate = rate;
             el.volume = volume;
             el.currentTime = Math.min(

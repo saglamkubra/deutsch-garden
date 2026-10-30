@@ -271,7 +271,7 @@ export function LumiChat() {
       finished: () => {},
     });
     speaker.current = sequence;
-    sequence.setRate(0.85);
+    sequence.setRate(1);
     const lines = text
       .match(/[^.!?]+[.!?]?/g)
       ?.flatMap((s) => s.match(/.{1,300}(?:\s|$)|.{1,300}/g) ?? [s]) ?? [text];
@@ -626,7 +626,7 @@ export function LumiChat() {
                     onClick={() => speak(m.content)}
                   >
                     <Volume2 size={14} />
-                    Dinle / yeniden çal
+                    Dinle / yeniden çal · Cihaz sesi
                   </button>
                 )}
                 {m.reply && (

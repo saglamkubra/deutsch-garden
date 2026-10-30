@@ -114,6 +114,20 @@ test("downloaded public lessons and ranged audio work with network unavailable",
     416,
   );
   assert.equal(await request(w, "/api/account/config"), null);
+  for (const prefix of ["pronunciation", "deutsch-garden", "extensions"]) {
+    const path = `/audio/${prefix}/public-example.mp3`;
+    w.saved.set(
+      path,
+      new Response(new Uint8Array([1, 2, 3]), {
+        headers: { "Content-Type": "audio/mpeg" },
+      }),
+    );
+    assert.equal(
+      (await request(w, path, "cors", "GET", "bytes=1-")).status,
+      206,
+    );
+    assert.equal(await request(w, path + "?private=1"), null);
+  }
   assert.equal(w.fetched.length, 0);
 });
 test("Offline navigation uses a generic Turkish page; APIs, RSC, private files and cross-origin requests are never intercepted", async () => {

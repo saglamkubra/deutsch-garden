@@ -566,7 +566,7 @@ function RecordedAudio({ assetId, label }: { assetId: string; label: string }) {
   const ref = useRef<HTMLAudioElement>(null),
     asset = audioAssets[assetId];
   const [error, setError] = useState(false),
-    [rate, setRate] = useState(0.85);
+    [rate, setRate] = useState(1);
   useEffect(() => {
     const a = ref.current;
     return () => {
@@ -586,7 +586,10 @@ function RecordedAudio({ assetId, label }: { assetId: string; label: string }) {
         src={asset.url}
         aria-label={label}
         onLoadedMetadata={() => {
-          if (ref.current) ref.current.playbackRate = rate;
+          if (ref.current) {
+            ref.current.preservesPitch = true;
+            ref.current.playbackRate = rate;
+          }
         }}
         onError={() => setError(true)}
       />
