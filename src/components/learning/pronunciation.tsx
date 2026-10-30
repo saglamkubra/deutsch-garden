@@ -2,15 +2,27 @@
 import { useEffect, useRef, useState, useId } from "react";
 import { Volume2, Turtle, Square } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { pronunciationAudio } from "@/lib/learning/pronunciation-audio";
 export function Pronunciation({ text }: { text: string }) {
   const [state, setState] = useState<"idle" | "loading" | "speaking">("idle");
   const [notice, setNotice] = useState("");
   const statusId = useId();
   const active = useRef<SpeechSynthesisUtterance | null>(null);
+  const recording = useRef<HTMLAudioElement | null>(null);
+  const hosted = pronunciationAudio(text);
   const cleanup = useRef<(() => void) | null>(null);
   function stop() {
     cleanup.current?.();
     cleanup.current = null;
+    if (recording.current) {
+      const player = recording.current;
+      recording.current = null;
+      player.onended = null;
+      player.onerror = null;
+      player.pause();
+      player.removeAttribute("src");
+      player.load();
+    }
     if (active.current) {
       active.current = null;
       window.speechSynthesis?.cancel();
@@ -19,6 +31,40 @@ export function Pronunciation({ text }: { text: string }) {
   useEffect(() => () => stop(), []);
   function play(rate: number) {
     stop();
+    if (hosted) {
+      const player = new Audio(hosted.url);
+      recording.current = player;
+      player.playbackRate = rate < 0.8 ? 0.8 : 1;
+      player.preservesPitch = true;
+      setState("loading");
+      setNotice("Hazır Almanca ses kaydı açılıyor.");
+      const finish = (error = false) => {
+        if (recording.current !== player) return;
+        stop();
+        setState("idle");
+        setNotice(
+          error
+            ? "Hazır ses kaydı çalınamadı. Bağlantını kontrol edip yeniden dene."
+            : "Seslendirme tamamlandı.",
+        );
+      };
+      player.onended = () => finish();
+      player.onerror = () => finish(true);
+      const timeout = window.setTimeout(() => finish(true), 20000);
+      cleanup.current = () => window.clearTimeout(timeout);
+      void player
+        .play()
+        .then(() => {
+          if (recording.current !== player) return;
+          // The timeout bounds loading, not the duration of a slow recording.
+          cleanup.current?.();
+          cleanup.current = null;
+          setState("speaking");
+          setNotice("Hazır Almanca ses kaydı çalınıyor.");
+        })
+        .catch(() => finish(true));
+      return;
+    }
     if (
       !("speechSynthesis" in window) ||
       !("SpeechSynthesisUtterance" in window)
@@ -131,7 +177,10 @@ export function Pronunciation({ text }: { text: string }) {
         </Button>
       </div>
       <p id={statusId} role="status">
-        {notice || "Cihaz sesi · Profesyonel insan kaydı değildir."}
+        {notice ||
+          (hosted
+            ? "Hazır Almanca ses · Yapay seslendirme kaydıdır."
+            : "Cihaz sesi · Profesyonel insan kaydı değildir.")}
       </p>
     </div>
   );
