@@ -186,6 +186,7 @@
 }
 .diary-cards article > div {
   display: flex;
+  flex-wrap: wrap;
   gap: 10px;
   margin-top: 20px;
 }
@@ -260,4 +261,24 @@
   display: flex;
   justify-content: flex-end;
   gap: 12px;
+}
+.diary-review-panel {
+  overflow-wrap: anywhere;
+}
+.diary-review-panel textarea {
+  min-height: 180px;
+  background: #fffefa;
+}
+.diary-review-panel article {
+  padding: 16px;
+  margin-top: 14px;
+  border: 1px solid var(--edge);
+  border-radius: 16px;
+  background: #fffefa;
+  overflow-wrap: anywhere;
+}
+#diary-review:focus-visible {
+  outline: 3px solid #9671c1;
+  outline-offset: 5px;
+  border-radius: 24px;
 }

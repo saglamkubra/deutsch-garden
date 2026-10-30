@@ -91,6 +91,14 @@ export function Diary() {
   const [month, setMonth] = useState("");
   const [level, setLevel] = useState<keyof typeof prompts>("A1");
   const [consent, setConsent] = useState(false);
+  const [reviewChoice, setReviewChoice] = useState<{
+    owner: string | null;
+    id: string;
+  } | null>(null);
+  const reviewEntry =
+    reviewChoice?.owner === owner
+      ? entries.find((e) => e.id === reviewChoice.id)
+      : undefined;
   const alive = useRef(false);
   const lock = useRef(false);
   const key = physicalKey(DIARY_KEY, owner);
@@ -424,7 +432,23 @@ export function Diary() {
           </p>
         </aside>
       </div>
-      <DiaryReview text={record.draft?.content ?? ""} level={level} />
+      <div id="diary-review" tabIndex={-1}>
+        {reviewEntry && (
+          <Button variant="outline" onClick={() => setReviewChoice(null)}>
+            Açık taslağı incelemeye dön
+          </Button>
+        )}
+        <DiaryReview
+          key={`${owner}:${reviewEntry ? reviewEntry.id + ":" + reviewEntry.updatedAt : record.revision}:${level}`}
+          text={reviewEntry?.content ?? record.draft?.content ?? ""}
+          level={level}
+          label={
+            reviewEntry
+              ? reviewEntry.title || "Kaydedilmiş yazı"
+              : "Açık taslak"
+          }
+        />
+      </div>
       {owner && guest.length > 0 && (
         <section className="diary-import">
           <h2>Bu cihazda {guest.length} misafir yazın var</h2>
@@ -514,6 +538,20 @@ export function Diary() {
                 </p>
                 <DiaryReward entryId={e.id} owner={owner} />
                 <div>
+                  <Button
+                    variant="outline"
+                    disabled={busy || protectedData}
+                    onClick={() => {
+                      setReviewChoice({ owner, id: e.id });
+                      requestAnimationFrame(() => {
+                        const target = document.getElementById("diary-review");
+                        target?.scrollIntoView({ block: "center" });
+                        target?.focus({ preventScroll: true });
+                      });
+                    }}
+                  >
+                    Lumi ile incele
+                  </Button>
                   <Button
                     variant="outline"
                     disabled={busy || protectedData}

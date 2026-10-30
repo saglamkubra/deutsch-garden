@@ -14,6 +14,167 @@ import {
 import { readDiary, writeDiary } from "./storage.ts";
 import { entryFromRow, diaryRemote } from "./remote.ts";
 import { createClient } from "@supabase/supabase-js";
+import {
+  diaryReviewRequest,
+  reviewBlockReason,
+  reviewExcerpt,
+  sendDiaryReview,
+} from "./review.ts";
+
+test("inceleme onayı olmadan, boş veya sınırı aşan bölüm için hiçbir istek gönderilmez", async () => {
+  let calls = 0;
+  const fetcher: typeof fetch = async () => {
+    calls++;
+    throw Error("Must not send");
+  };
+  for (const [text, consent] of [
+    ["Ich lerne.", false],
+    [" ", true],
+    ["a".repeat(801), true],
+  ] as const) {
+    await assert.rejects(
+      sendDiaryReview(
+        diaryReviewRequest(text, "A1"),
+        consent,
+        new AbortController().signal,
+        fetcher,
+      ),
+    );
+  }
+  assert.equal(calls, 0);
+  assert.match(reviewBlockReason("Ich lerne.", false), /onay/);
+  assert.match(reviewBlockReason("a".repeat(801), true), /800/);
+});
+test("uzun günlükten görünür bölüm hazırlanır; asıl yazı ve UTF-16 karakterleri korunur", () => {
+  const source = "Heute lerne ich Deutsch. ".repeat(80);
+  const copy = source;
+  const excerpt = reviewExcerpt(source);
+  assert.ok(excerpt.length <= 800 && excerpt.length > 650);
+  assert.ok(source.startsWith(excerpt));
+  assert.equal(source, copy);
+  assert.equal(reviewExcerpt("Ich lerne."), "Ich lerne.");
+  assert.equal(
+    reviewExcerpt("a".repeat(799) + "🌸" + "x".repeat(10)).length,
+    799,
+  );
+});
+const reviewResult = (requestId: string) => ({
+  requestId,
+  remaining: 19,
+  completion: null,
+  reply: {
+    message: "Heute habe ich Deutsch gelernt.",
+    encouragementTr: "Güzel bir başlangıç!",
+    corrections: [
+      {
+        original: "Heute ich habe Deutsch lernen.",
+        corrected: "Heute habe ich Deutsch gelernt.",
+        explanationTr:
+          "Çekimli fiil ikinci konumda olmalı; Perfekt için gelernt kullanılır.",
+        alternative: "Ich habe heute Deutsch gelernt.",
+      },
+    ],
+    vocabulary: [],
+  },
+});
+test("diary-review yalnızca seçilen bölümü gönderir, yanıtı doğrular ve özgün yazıyı değiştirmez", async () => {
+  const text = "Heute ich habe Deutsch lernen.";
+  const request = diaryReviewRequest(text, "A2", () => "diary-review-test-123");
+  const before = JSON.stringify(request);
+  const posts: unknown[] = [];
+  const fetcher: typeof fetch = async (_, options) => {
+    if (options?.method === "POST") {
+      posts.push(JSON.parse(String(options.body)));
+      return Response.json(reviewResult(request.requestId));
+    }
+    return Response.json({ configured: true, authenticated: true });
+  };
+  const result = await sendDiaryReview(
+    request,
+    true,
+    new AbortController().signal,
+    fetcher,
+  );
+  assert.equal(result.reply.corrections.length, 1);
+  assert.equal(posts.length, 1);
+  assert.deepEqual(posts[0], request);
+  assert.equal(request.mode, "diary-review");
+  assert.equal(JSON.stringify(request), before);
+});
+test("kurulum, erişim ve origin hataları yanlış kurulum mesajına dönüştürülmez", async () => {
+  const request = diaryReviewRequest("Ich lerne.", "A1");
+  for (const [data, status, message] of [
+    [{ configured: false }, 200, /kurulumu/],
+    [{ configured: true, authenticated: false }, 200, /erişim parolan/],
+    [
+      { error: { message: "Bu adresten sohbet isteği kabul edilmiyor." } },
+      403,
+      /Bu adresten/,
+    ],
+  ] as const) {
+    let posts = 0;
+    const fetcher: typeof fetch = async (_, options) => {
+      if (options?.method === "POST") posts++;
+      return Response.json(data, { status });
+    };
+    await assert.rejects(
+      sendDiaryReview(request, true, new AbortController().signal, fetcher),
+      message,
+    );
+    assert.equal(posts, 0);
+  }
+});
+test("kota hatasından sonra aynı istek kimliğiyle tekrar denenir; sunucunun gerçek mesajı gösterilir", async () => {
+  const request = diaryReviewRequest("Heute ich habe Deutsch lernen.", "A2");
+  let posts = 0;
+  const ids: string[] = [];
+  const fetcher: typeof fetch = async (_, options) => {
+    if (options?.method !== "POST")
+      return Response.json({ configured: true, authenticated: true });
+    posts++;
+    ids.push(JSON.parse(String(options.body)).requestId);
+    return posts === 1
+      ? Response.json(
+          { error: { message: "Günlük kullanım sınırına ulaştın." } },
+          { status: 429 },
+        )
+      : Response.json(reviewResult(request.requestId));
+  };
+  await assert.rejects(
+    sendDiaryReview(request, true, new AbortController().signal, fetcher),
+    /Günlük kullanım sınırına/,
+  );
+  assert.equal(
+    (
+      await sendDiaryReview(
+        request,
+        true,
+        new AbortController().signal,
+        fetcher,
+      )
+    ).remaining,
+    19,
+  );
+  assert.deepEqual(ids, [request.requestId, request.requestId]);
+});
+test("geçersiz veya başka isteğe ait AI sonuçları kabul edilmez", async () => {
+  const request = diaryReviewRequest("Ich lerne.", "A1");
+  for (const data of [
+    { reply: "uydurulmuş sonuç" },
+    reviewResult("different-request-id"),
+  ]) {
+    const fetcher: typeof fetch = async (_, options) =>
+      Response.json(
+        options?.method === "POST"
+          ? data
+          : { configured: true, authenticated: true },
+      );
+    await assert.rejects(
+      sendDiaryReview(request, true, new AbortController().signal, fetcher),
+      /doğrulanamadı|eşleşmedi/,
+    );
+  }
+});
 const id = "11111111-1111-4111-8111-111111111111";
 const entry = () =>
   entryFromDraft(
