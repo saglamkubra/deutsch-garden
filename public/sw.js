@@ -12,7 +12,7 @@ const learningPath = (p) =>
   p === "/cevrimdisi.html" ||
   p === "/offline-reader.js" ||
   /^\/offline-packs\/(A1|A2|B1|B2|C1|C2)\.json$/.test(p) ||
-  /^\/audio\/(courses|course-examples|course-extension|pronunciation|deutsch-garden|extensions|stories|stories-comedy|stories-worlds|listening|listening-complete)\/[a-zA-Z0-9_.-]+\.(mp3|wav)$/.test(
+  /^\/audio\/(courses|course-examples|course-extension|pronunciation|deutsch-garden|extensions|stories|stories-comedy|stories-worlds|stories-library|listening|listening-complete)\/[a-zA-Z0-9_.-]+\.(mp3|wav)$/.test(
     p,
   );
 self.addEventListener("install", (event) =>

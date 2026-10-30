@@ -1,0 +1,306 @@
+[
+  {
+    "id": "story-library-a1-blumenladen",
+    "level": "A1",
+    "category": "work",
+    "title": "Çiçekçide İlk Sabah",
+    "plot": "A new helper in a small flower shop asks about colors, numbers and a simple bouquet order. Branches lead to four distinct helpful outcomes; no assumed job knowledge.",
+    "art": "town"
+  },
+  {
+    "id": "story-library-a1-fensterbrett",
+    "level": "A1",
+    "category": "germany",
+    "title": "Pencere Önündeki Saksılar",
+    "plot": "A newcomer meets neighbors through flowers on a shared window ledge. Use introductions, locations and polite simple questions; no claims about tenancy law.",
+    "art": "town"
+  },
+  {
+    "id": "story-library-a1-picknick",
+    "level": "A1",
+    "category": "friendship",
+    "title": "Yağmurdan Sonra Piknik",
+    "plot": "Two friends adjust a picnic after rain. A dry bench, a covered courtyard, a garden and a friendly cafe offer genuinely different small adventures.",
+    "art": "park"
+  },
+  {
+    "id": "story-library-a1-einkauf",
+    "level": "A1",
+    "category": "daily",
+    "title": "Pazar Sepetindeki Liste",
+    "plot": "A handwritten shopping list leads through a friendly market. Practice fruit, quantities, simple prices and asking what an unfamiliar item is.",
+    "art": "cafe"
+  },
+  {
+    "id": "story-library-a2-backtag",
+    "level": "A2",
+    "category": "daily",
+    "title": "Fırından Gelen Koku",
+    "plot": "Neighbors prepare a shared baking afternoon. Explain a missing ingredient, ask for help and choose between changing plans and sharing tasks; no technical oven instructions.",
+    "art": "cafe"
+  },
+  {
+    "id": "story-library-a2-schluessel",
+    "level": "A2",
+    "category": "mystery",
+    "title": "Mavi Anahtarlık",
+    "plot": "A blue bicycle keyring is found near the library. Compare public clues and ask staff without revealing private addresses; four plausible ways to find or safely await the owner.",
+    "art": "night"
+  },
+  {
+    "id": "story-library-a2-laterne",
+    "level": "A2",
+    "category": "fantasy",
+    "title": "Yolu Gösteren Fener",
+    "plot": "A friendly lantern lights different garden paths when people ask kind questions. Choices determine what the characters discover, without danger or frightening creatures.",
+    "art": "garden"
+  },
+  {
+    "id": "story-library-a2-probetag",
+    "level": "A2",
+    "category": "work",
+    "title": "Kütüphanede Deneme Günü",
+    "plot": "A learner helps at a fictional library open day. Clarify a task, explain available time and decide how to organize a welcoming reading corner.",
+    "art": "town"
+  },
+  {
+    "id": "story-library-a2-faehre",
+    "level": "A2",
+    "category": "travel",
+    "title": "Küçük Feribot Yolculuğu",
+    "plot": "Two travelers plan a calm daytime ferry excursion and respond to a changed timetable. Distinct endings focus on the island garden, waterfront village, market or a later trip, no emergency.",
+    "art": "train"
+  },
+  {
+    "id": "story-library-a2-tauschregal",
+    "level": "A2",
+    "category": "germany",
+    "title": "Mahallenin Takas Rafı",
+    "plot": "A newcomer discovers a neighborhood exchange shelf. Explain what can be shared, read the organizers' simple fictional rules and choose how to contribute.",
+    "art": "town"
+  },
+  {
+    "id": "story-library-b1-wochenmarkt",
+    "level": "B1",
+    "category": "daily",
+    "title": "Son Domates Kasası",
+    "plot": "The last tomato crate at a market prompts a discussion about sharing, cooking together and changing a shopping plan. Give reasons and recount what happened without moral pressure.",
+    "art": "cafe"
+  },
+  {
+    "id": "story-library-b1-fotoalbum",
+    "level": "B1",
+    "category": "friendship",
+    "title": "Eski Fotoğraftaki Yeni Plan",
+    "plot": "Two friends find an old group photograph and plan a small reunion. Ask permission before sharing photos and respect a friend who prefers a quiet meeting.",
+    "art": "park"
+  },
+  {
+    "id": "story-library-b1-windpost",
+    "level": "B1",
+    "category": "fantasy",
+    "title": "Rüzgâr Postanesi",
+    "plot": "A magical post office carries friendly messages in the wind. An unsigned public greeting needs context; decide whether to ask, display a neutral notice or write a new invitation.",
+    "art": "garden"
+  },
+  {
+    "id": "story-library-b1-umleitung",
+    "level": "B1",
+    "category": "travel",
+    "title": "Bisiklet Rotasındaki Değişiklik",
+    "plot": "An ordinary signed cycle-path diversion changes a relaxed day trip. Compare time, companions' preferences and public route information; no dangerous maneuvers.",
+    "art": "train"
+  },
+  {
+    "id": "story-library-b1-radioteam",
+    "level": "B1",
+    "category": "work",
+    "title": "Okul Radyosunun İlk Yayını",
+    "plot": "An adult language class produces its first school radio program. Resolve a recording mistake, divide tasks and credit contributors while explaining opinions.",
+    "art": "town"
+  },
+  {
+    "id": "story-library-b1-neuanfang",
+    "level": "B1",
+    "category": "friendship",
+    "title": "Bir Yanlış Anlaşılmanın Ardından",
+    "plot": "A brief text message sounded colder than intended. Friends separate assumptions from what was actually written, listen and choose different respectful ways to reconnect.",
+    "art": "park"
+  },
+  {
+    "id": "story-library-b1-gartenfest",
+    "level": "B1",
+    "category": "germany",
+    "title": "Avludaki Bahar Şenliği",
+    "plot": "Neighbors organize a courtyard spring gathering. Balance quiet and sociable activities through requests and reasons; all event rules are fictional agreements, not German legal advice.",
+    "art": "town"
+  },
+  {
+    "id": "story-library-b2-rezeptbuch",
+    "level": "B2",
+    "category": "daily",
+    "title": "Tarif Defterinin Yeni Sayfası",
+    "plot": "A family recipe notebook inspires a community dinner. Distinguish preserving a tradition from allowing adaptations, and explain changes transparently without invented cultural claims.",
+    "art": "cafe"
+  },
+  {
+    "id": "story-library-b2-ausstellung",
+    "level": "B2",
+    "category": "friendship",
+    "title": "İki Arkadaş, Bir Sergi",
+    "plot": "Friends preparing an exhibition disagree about selection and credit. Compare artistic aims, negotiate boundaries and produce distinct cooperative or independent outcomes.",
+    "art": "park"
+  },
+  {
+    "id": "story-library-b2-zeitgarten",
+    "level": "B2",
+    "category": "fantasy",
+    "title": "Dakikaların Açtığı Bahçe",
+    "plot": "A magical garden grows flowers when attention is freely given, not when people rush. Four branches explore curiosity, rest, cooperation and leaving room for unfinished work.",
+    "art": "garden"
+  },
+  {
+    "id": "story-library-b2-inselroute",
+    "level": "B2",
+    "category": "travel",
+    "title": "Adanın İki Yolu",
+    "plot": "Visitors compare two fictional island routes and learn why an area is temporarily closed. Choose informed alternatives, question assumptions and consider companions without shaming them.",
+    "art": "train"
+  },
+  {
+    "id": "story-library-b2-stadtteilzeitung",
+    "level": "B2",
+    "category": "germany",
+    "title": "Mahalle Gazetesinin Açık Sayfası",
+    "plot": "A neighborhood newspaper receives conflicting accounts of a community project. Compare sources, seek clarification and distinguish an opinion column from a report.",
+    "art": "town"
+  },
+  {
+    "id": "story-library-b2-werkstattplan",
+    "level": "B2",
+    "category": "work",
+    "title": "Tasarım Atölyesindeki İki Öneri",
+    "plot": "A design workshop has two feasible plans and limited time. Weigh accessibility, materials and clarity; four endings arise from transparent priorities rather than one perfect answer.",
+    "art": "town"
+  },
+  {
+    "id": "story-library-b2-postkarte",
+    "level": "B2",
+    "category": "mystery",
+    "title": "Gecikmiş Kartpostalın Rotası",
+    "plot": "A delayed postcard arrives at a public bookshop with an ambiguous place name. Use dates, public maps and the shop archive to reconstruct several plausible routes without a crime plot.",
+    "art": "night"
+  },
+  {
+    "id": "story-library-c1-reparierteuhr",
+    "level": "C1",
+    "category": "daily",
+    "title": "Durmuş Saatin Etrafında",
+    "plot": "A stopped decorative clock in a shared reading room triggers a nuanced discussion of routine, memory and practical usefulness. Avoid electrical repair instructions and grief themes.",
+    "art": "cafe"
+  },
+  {
+    "id": "story-library-c1-gemeinsamertext",
+    "level": "C1",
+    "category": "friendship",
+    "title": "Birlikte Yazılan Sessizlik",
+    "plot": "Two friends co-write a short stage text and disagree about a deliberate pause. Explore subtext, listening and preserving different interpretations without forcing agreement.",
+    "art": "park"
+  },
+  {
+    "id": "story-library-c1-gartenarchiv",
+    "level": "C1",
+    "category": "mystery",
+    "title": "Bahçe Arşivindeki Boş Sayfa",
+    "plot": "A missing page in a fictional community garden archive invites several explanations. Compare the limits of documentary evidence and preserve uncertainty without sensationalism.",
+    "art": "night"
+  },
+  {
+    "id": "story-library-c1-nachtzug",
+    "level": "C1",
+    "category": "travel",
+    "title": "Gece Trenindeki Pencere",
+    "plot": "A comfortable overnight train journey brings several perspectives on the same landscape. Choices explore conversation, observation, an audio guide and a shared travel note; no threat or emergency.",
+    "art": "train"
+  },
+  {
+    "id": "story-library-c1-uebersetzung",
+    "level": "C1",
+    "category": "work",
+    "title": "Çeviri Masasındaki Anlamlar",
+    "plot": "A team translates an original short museum text with an ambiguous key phrase. Weigh audience, register and retained ambiguity, with no copyrighted source material.",
+    "art": "town"
+  },
+  {
+    "id": "story-library-c1-lesesaal",
+    "level": "C1",
+    "category": "germany",
+    "title": "Mahallenin Sessiz Köşesi",
+    "plot": "Residents discuss how a fictional neighborhood reading space can welcome conversation while protecting quiet study. Different negotiated arrangements retain tradeoffs.",
+    "art": "town"
+  },
+  {
+    "id": "story-library-c1-sternenkarte",
+    "level": "C1",
+    "category": "fantasy",
+    "title": "Yeryüzüne Çizilen Yıldız Haritası",
+    "plot": "A whimsical map projects stars onto garden paths, but the pattern changes with the questions asked. Explore interpretation, cooperation and accepting incomplete knowledge; no pseudo-scientific claims.",
+    "art": "garden"
+  },
+  {
+    "id": "story-library-c2-randnotizen",
+    "level": "C2",
+    "category": "daily",
+    "title": "Gündelik Olanın Kenar Notları",
+    "plot": "An essay workshop reconsiders a supposedly trivial daily observation. Distinguish precise detail, imposed symbolism and retrospective storytelling through nuanced voices.",
+    "art": "cafe"
+  },
+  {
+    "id": "story-library-c2-unausgesprochen",
+    "level": "C2",
+    "category": "friendship",
+    "title": "Söylenmeyen Cümlenin Ardından",
+    "plot": "Friends revisit an unfinished sentence after a collaborative event. Explore implicature, irony and respectful non-disclosure without assuming motives or forcing emotional resolution.",
+    "art": "park"
+  },
+  {
+    "id": "story-library-c2-namenhaus",
+    "level": "C2",
+    "category": "fantasy",
+    "title": "Adını Değiştiren Ev",
+    "plot": "A benign magical house changes the names of its rooms when visitors tell different stories. Four endings explore identity, language and shared space without erasing anyone's memories.",
+    "art": "garden"
+  },
+  {
+    "id": "story-library-c2-reisefuehrer",
+    "level": "C2",
+    "category": "travel",
+    "title": "Bir Rehberin Dipnotlarında",
+    "plot": "An original fictional travel guide has notes that complicate its confident main narrative. Compare narrative authority, selective description and situated perspectives without inventing real history.",
+    "art": "train"
+  },
+  {
+    "id": "story-library-c2-stadtgespraech",
+    "level": "C2",
+    "category": "germany",
+    "title": "Bir Meydanın Birden Çok Adı",
+    "plot": "People in a fictional German neighborhood use different informal names for the same square. Trace contexts of naming and belonging without making claims about actual municipal regulations.",
+    "art": "town"
+  },
+  {
+    "id": "story-library-c2-vernissage",
+    "level": "C2",
+    "category": "comedy",
+    "title": "Açılış Konuşmasının Kaybolan Noktası",
+    "plot": "At an art opening, one missing full stop turns a serious speech into a chain of harmless misunderstandings. Use subtle situational humor, irony and register shifts without mocking identities.",
+    "art": "gift"
+  },
+  {
+    "id": "story-library-c2-spiegelbrief",
+    "level": "C2",
+    "category": "mystery",
+    "title": "Aynadaki Notun Yazarı",
+    "plot": "A playful unsigned note in a public writers' studio can be read in two ways. Test interpretations and authorship hypotheses using textual evidence, not a detective crime or private surveillance.",
+    "art": "night"
+  }
+]

@@ -2,6 +2,8 @@
 
 Bir doğum günü hediyesi olarak hazırlanan Almanca öğrenme bahçesi. Arayüz dili Türkçe; öğretilen dil Almanca.
 
+Hikâye Dünyam'da artık **A1–C2'nin her seviyesinde 10, toplam 60 hikâye** var. Her seviyede sekiz kategorinin tamamı dolu. Önceki 22 hikâye ve kayıtları korunarak 38 seçimli, açıklamalı sorulu ve hazır Almanca sesli hikâye eklendi. [Hikâye kitaplığı raporu](docs/STORY-LIBRARY.md).
+
 Günlük ödülleri, onaylı Lumi yazı incelemesi, çevrimdışı dersler ve bildirimler için [son eklemeler ve kurulum](docs/REMAINING-SETUP.md). Yeni 010/011 SQL dosyaları canlı veritabanına otomatik uygulanmaz.
 
 ## Güncel ders haritası · A1–C2
@@ -10,7 +12,7 @@ Günlük ödülleri, onaylı Lumi yazı incelemesi, çevrimdışı dersler ve bi
 
 İçeriği yeniden üretmek için `npm run content:build`, katalog testleri için `npm run test:curriculum` kullanılır. Aşağıdaki bölüm raporları önceki içerik partilerinin tarihçesidir.
 
-Dinleme Kulübü artık **65 hazır ders ve 690 soru** içerir. A1–C2’nin her birinde dokuz kategorinin tamamı doludur. Eski 15 ders korunarak 50 özgün, gerçek ses dosyalı ders eklendi; 25 taslak kalıcı kimliği korundu. Toplam yaklaşık 61 dakika ses vardır. [Dinleme tamamlanma raporu](docs/LISTENING-COMPLETE.md). Hikâye dünyasındaki 10 çalışan hikâye değişmedi; önceki genişletme raporu [MEDIA-EXTENSION.md](docs/MEDIA-EXTENSION.md) içindedir.
+Dinleme Kulübü artık **65 hazır ders ve 690 soru** içerir. A1–C2’nin her birinde dokuz kategorinin tamamı doludur. Eski 15 ders korunarak 50 özgün, gerçek ses dosyalı ders eklendi; 25 taslak kalıcı kimliği korundu. Toplam yaklaşık 61 dakika ses vardır. [Dinleme tamamlanma raporu](docs/LISTENING-COMPLETE.md). Önceki hikâye genişletmelerinin tarihçesi [MEDIA-EXTENSION.md](docs/MEDIA-EXTENSION.md) içindedir; güncel hikâye sayısı 60'tır.
 
 A2 Gramer'in 12 konusu da hazır: her derste sekiz anlatım, sekiz açıklamalı örnek ve 24 soruluk test var. A1 kayıtları korunur. Ayrıntılar: [A2 Gramer raporu](docs/A2-GRAMMAR.md).
 

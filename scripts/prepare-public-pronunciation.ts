@@ -9,6 +9,7 @@ import { courseAudio } from "../src/lib/courses/audio.ts";
 import vocabulary from "../src/data/vocabulary.json" with { type: "json" };
 import legacy from "../src/data/listening/audio-manifest.json" with { type: "json" };
 import worldGlossary from "../src/data/stories/world-glossary.json" with { type: "json" };
+import libraryGlossary from "../src/data/stories/library-glossary.json" with { type: "json" };
 type Asset = { url: string; sha256: string };
 const existing: Record<string, Asset> = {};
 for (const course of miniCourses)
@@ -39,6 +40,16 @@ if (existsSync(worldPath)) {
   }
 }
 const texts = publicPronunciationTexts();
+const libraryPath = "src/data/stories/library-audio.json";
+if (existsSync(libraryPath)) {
+  const library = JSON.parse(readFileSync(libraryPath, "utf8"));
+  for (const word of libraryGlossary) {
+    const asset = library.glossary[word.id];
+    if (asset)
+      existing[audioText([word.article, word.word].filter(Boolean).join(" "))] =
+        { url: asset.url, sha256: asset.sha256 };
+  }
+}
 mkdirSync(".cache", { recursive: true });
 writeFileSync(
   ".cache/public-pronunciation-input.json",

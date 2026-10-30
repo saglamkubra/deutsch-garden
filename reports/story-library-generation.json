@@ -1,0 +1,17 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "requestsThisRun": 0,
+  "requestsTotal": 46,
+  "repairRequestsThisRun": 0,
+  "repairsTotal": 8,
+  "inputTokens": 31586,
+  "outputTokens": 207621,
+  "completed": 38,
+  "planned": 38,
+  "provider": "Google Gemini",
+  "purpose": "public educational content drafts",
+  "humanEditorialApproval": false,
+  "aiAssistedStories": 33,
+  "editorialOriginalStories": 5,
+  "sourceSha256": "28d39e0445124e3ebd7740428fb781adeabed4f35c949b72b1b1ededfabb9a28"
+}

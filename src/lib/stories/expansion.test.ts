@@ -52,7 +52,7 @@ function quiz(state: StoryState, id: string, wrong = false) {
   return state;
 }
 test("six additions fill previously empty level/category pairs with substantial, genuinely branching stories", () => {
-  assert.equal(stories.length, 22);
+  assert.equal(stories.length, 60);
   assert.equal(additions.length, 6);
   assert.deepEqual(
     additions.map((s) => [s.level, s.category]),
@@ -70,6 +70,7 @@ test("six additions fill previously empty level/category pairs with substantial,
       !stories.some(
         (old) =>
           !old.id.startsWith("story-world-") &&
+          !old.id.startsWith("story-library-") &&
           old.level === s.level &&
           old.category === s.category,
       ),

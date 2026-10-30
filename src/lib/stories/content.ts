@@ -6,11 +6,19 @@ import comedy from "../../data/stories/comedy-stories.json" with { type: "json" 
 import comedyGlossary from "../../data/stories/comedy-glossary.json" with { type: "json" };
 import world from "../../data/stories/world-stories.json" with { type: "json" };
 import worldGlossary from "../../data/stories/world-glossary.json" with { type: "json" };
+import library from "../../data/stories/library-stories.json" with { type: "json" };
+import libraryGlossary from "../../data/stories/library-glossary.json" with { type: "json" };
 import { originalA1 } from "../learning/seed.ts";
 import { LocalVocabularyRepository } from "../learning/repository.ts";
 import type { Story } from "./types.ts";
 import { validateStory } from "./graph.ts";
-export const stories = [...raw, ...extra, ...comedy, ...world] as Story[];
+export const stories = [
+  ...raw,
+  ...extra,
+  ...comedy,
+  ...world,
+  ...library,
+] as Story[];
 for (const story of stories) {
   const errors = validateStory(story);
   if (errors.length) throw new Error(story.id + ": " + errors.join("; "));
@@ -37,14 +45,19 @@ export type StoryWord = {
   de: string;
   tr: string;
   repository: boolean;
+  forms?: string[];
 };
 export const glossary = [
   ...authoredGlossary,
   ...extraGlossary,
   ...comedyGlossary,
   ...worldGlossary,
+  ...libraryGlossary,
 ] as StoryWord[];
 export function resolveWord(lemma: string): StoryWord | undefined {
+  // Scene-specific IDs disambiguate senses and inflected forms in new stories.
+  const contextual = glossary.find((w) => w.id === lemma);
+  if (contextual) return contextual;
   const w = storyRepository.all().find((w) => w.german_word === lemma);
   return w
     ? {
@@ -101,8 +114,11 @@ export function annotatedParts(text: string, lemmas: string[]) {
     .filter(Boolean)
     .map((text) => ({
       text,
-      word: words.find(
-        (w) => w.word.toLocaleLowerCase("de") === text.toLocaleLowerCase("de"),
+      word: words.find((w) =>
+        [w.word, ...(w.forms ?? [])].some(
+          (form) =>
+            form.toLocaleLowerCase("de") === text.toLocaleLowerCase("de"),
+        ),
       ),
     }));
 }

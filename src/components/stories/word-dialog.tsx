@@ -9,6 +9,7 @@ import storyAssets from "@/data/stories/audio.json";
 import comedyAssets from "@/data/stories/comedy-audio.json";
 import extraAssets from "@/data/stories/extra-audio.json";
 import worldAssets from "@/data/stories/world-audio.json";
+import libraryAssets from "@/data/stories/library-audio.json";
 import { collectStoryWord, useStories } from "@/lib/stories/store";
 import type { StoryWord } from "@/lib/stories/content";
 export function StoryWordDialog({
@@ -33,6 +34,7 @@ export function StoryWordDialog({
         ...storyAssets.glossary,
         ...extraAssets.glossary,
         ...comedyAssets.glossary,
+        ...libraryAssets.glossary,
         ...worldAssets.glossary,
       } as Record<string, { url: string }>
     )[word.id];

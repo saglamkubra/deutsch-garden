@@ -65,9 +65,9 @@ function quiz(s: StoryState, id: string, wrong = false) {
   return s;
 }
 test("all original and new comedy stories have valid bilingual graphs", () => {
-  assert.equal(stories.length, 22);
-  assert.equal(stories.filter((s) => s.level === "A1").length, 6);
-  assert.equal(stories.filter((s) => s.level === "A2").length, 4);
+  assert.equal(stories.length, 60);
+  assert.equal(stories.filter((s) => s.level === "A1").length, 10);
+  assert.equal(stories.filter((s) => s.level === "A2").length, 10);
   let edges = 0,
     ends = 0;
   for (const s of stories) {
@@ -80,8 +80,8 @@ test("all original and new comedy stories have valid bilingual graphs", () => {
       n.words.forEach((w) => assert.ok(resolveWord(w), w));
     }
   }
-  assert.equal(edges, 132);
-  assert.equal(ends, 88);
+  assert.equal(edges, 360);
+  assert.equal(ends, 240);
 });
 test("higher-level stories preserve each branch and new glossary through refresh without repeat rewards", () => {
   for (const level of ["B1", "B2", "C1", "C2"] as const) {
@@ -312,7 +312,7 @@ test("favorites, level/category/duration/status/search filters use real stories 
     1,
   );
   assert.equal(filterStories(s, { level: "A1", search: "KAFE" }).length, 1);
-  assert.equal(filterStories(s, { level: "C1" }).length, 3);
+  assert.equal(filterStories(s, { level: "C1" }).length, 10);
 });
 test("vocabulary resolves genuine repository or explicit glossary, saves uniquely and avoids substring highlights", () => {
   const w = resolveWord("Blume")!;
@@ -382,7 +382,9 @@ test("all original and additional hosted audio files match real PCM, duration an
   let count = 0;
   for (const story of stories.filter(
     (s) =>
-      !s.id.startsWith("story-comedy-") && !s.id.startsWith("story-world-"),
+      !s.id.startsWith("story-comedy-") &&
+      !s.id.startsWith("story-world-") &&
+      !s.id.startsWith("story-library-"),
   ))
     for (const scene of story.scenes) {
       const a =
@@ -417,12 +419,16 @@ test("all original and additional hosted audio files match real PCM, duration an
     Object.keys(assets.glossary).length,
     glossary.filter(
       (w) =>
-        !w.id.startsWith("story-comedy-") && !w.id.startsWith("story-world-"),
+        !w.id.startsWith("story-comedy-") &&
+        !w.id.startsWith("story-world-") &&
+        !w.id.startsWith("story-library-"),
     ).length,
   );
   for (const word of glossary.filter(
     (w) =>
-      !w.id.startsWith("story-comedy-") && !w.id.startsWith("story-world-"),
+      !w.id.startsWith("story-comedy-") &&
+      !w.id.startsWith("story-world-") &&
+      !w.id.startsWith("story-library-"),
   )) {
     const a = assets.glossary[word.id as keyof typeof assets.glossary];
     assert.ok(a);
