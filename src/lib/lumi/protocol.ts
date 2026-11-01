@@ -30,6 +30,7 @@ export type TutorWord = {
 export type TutorReply = {
   message: string;
   encouragementTr: string;
+  noticeTr?: string;
   corrections: Correction[];
   vocabulary: TutorWord[];
 };
@@ -124,6 +125,7 @@ export function validReply(v: unknown): v is TutorReply {
     !object(v) ||
     !str(v.message, 1800) ||
     !str(v.encouragementTr, 250) ||
+    (v.noticeTr !== undefined && !str(v.noticeTr, 250)) ||
     !Array.isArray(v.corrections) ||
     v.corrections.length > 3 ||
     !Array.isArray(v.vocabulary) ||

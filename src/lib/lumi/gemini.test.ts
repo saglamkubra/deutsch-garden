@@ -40,6 +40,14 @@ test("Gemini model metadata cache and structured generation contract", async () 
         assert.equal(config.responseMimeType, "application/json");
         assert.equal(config.maxOutputTokens, 1200);
         assert.ok(config.responseJsonSchema);
+        assert.equal(
+          (
+            config.responseJsonSchema as {
+              properties: { corrections: { maxItems: number } };
+            }
+          ).properties.corrections.maxItems,
+          0,
+        );
         assert.match(String(config.systemInstruction), /Target CEFR: A2/);
         assert.deepEqual(input.contents, [
           { role: "user", parts: [{ text: request.messages[0].content }] },

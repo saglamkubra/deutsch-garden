@@ -9,6 +9,7 @@ import {
   ProviderFailure,
   tutorInstructions,
   validateTutorReply,
+  tutorReplySchema,
 } from "./provider.ts";
 import { setupResponse } from "./runtime.ts";
 import { LumiLedger, dayStamp } from "./ledger.ts";
@@ -57,6 +58,147 @@ const fixture: TutorReply = {
     },
   ],
 };
+test("whole-message case and terminal punctuation differences restore the exact learner quote", () => {
+  const r = request([{ role: "user", content: "ich wohne in ankara" }]);
+  const c = {
+    original: "Ich wohne in Ankara.",
+    corrected: "Ich wohne in Ankara.",
+    explanationTr: "Cümle ve şehir adı büyük harfle yazılır.",
+    alternative: "Ich lebe in Ankara.",
+  };
+  const input = { ...fixture, corrections: [c] };
+  const result = validateTutorReply(input, r);
+  assert.equal(result.corrections[0].original, "ich wohne in ankara");
+  assert.equal(input.corrections[0].original, "Ich wohne in Ankara.");
+  assert.equal(result.corrections[0].corrected, c.corrected);
+});
+test("quote recovery rejects invented words and missing negation", () => {
+  const r = request([
+    { role: "user", content: "ich liebe in ankara" },
+    { role: "assistant", content: "Du meinst wohnen?" },
+    { role: "user", content: "ich wohne nicht in ankara" },
+  ]);
+  for (const original of [
+    "Ich wohne in Ankara.",
+    "Ich arbeite nicht in Ankara.",
+    "Berlin",
+  ]) {
+    assert.throws(
+      () =>
+        validateTutorReply(
+          {
+            ...fixture,
+            corrections: [
+              {
+                original,
+                corrected: "Ich wohne in Ankara.",
+                explanationTr: "Örnek açıklama.",
+                alternative: "Ich lebe in Ankara.",
+              },
+            ],
+          },
+          r,
+        ),
+      (e: unknown) => e instanceof ProviderFailure && e.reason === "grounding",
+    );
+  }
+});
+test("the reproduced stale Ankara correction is omitted with a visible notice, while the chat and history survive", async () => {
+  const h = await harness();
+  try {
+    const prior = [
+      { role: "user" as const, content: "ich liebe in ankara" },
+      { role: "assistant" as const, content: fixture.message },
+    ];
+    const first = await h.send(request(prior.slice(0, 1)));
+    assert.equal(first.status, 200);
+    h.clock();
+    h.setReply({
+      ...fixture,
+      message: "Das ist toll! Ist Ankara eine schöne Stadt?",
+      corrections: [
+        {
+          original: "ich liebe in ankara",
+          corrected: "ich wohne in ankara",
+          explanationTr: "Yaşamak için wohnen kullanılır.",
+          alternative: "Ich wohne in Ankara.",
+        },
+      ],
+    });
+    const second = request([
+      ...prior,
+      { role: "user", content: "ich wohne in ankara" },
+    ]);
+    const response = await h.send(second);
+    assert.equal(response.status, 200);
+    const result = await response.json();
+    assert.equal(result.reply.corrections.length, 0);
+    assert.match(result.reply.noticeTr, /Önceki mesajına/);
+    assert.equal(
+      result.reply.message,
+      "Das ist toll! Ist Ankara eine schöne Stadt?",
+    );
+    assert.ok(validResult(result));
+    const calls = h.calls();
+    assert.deepEqual(await (await h.send(second)).json(), result);
+    assert.equal(h.calls(), calls);
+    let local = newChat(
+      { ...initialLumi(), consent: true },
+      second.conversationId,
+      "A1",
+      "daily",
+      "gentle",
+      1,
+    );
+    local = queueMessage(
+      local,
+      second.conversationId,
+      second.requestId,
+      "message",
+      "ich wohne in ankara",
+      2,
+    );
+    local = receiveReply(local, second.conversationId, result, 3);
+    const restored = JSON.parse(JSON.stringify(local));
+    assert.ok(validLumi(restored));
+    assert.match(
+      restored.conversations[0].messages.at(-1)?.reply?.noticeTr ?? "",
+      /Önceki mesajına/,
+    );
+  } finally {
+    h.ledger.close();
+  }
+});
+test("provider schemas enforce the selected correction policy before generation", () => {
+  const r = request([{ role: "user", content: "Ich lerne." }]);
+  const limit = (value: TutorRequest) =>
+    (tutorReplySchema(value).properties.corrections as { maxItems: number })
+      .maxItems;
+  assert.equal(limit(r), 1);
+  assert.equal(limit({ ...r, correction: "summary" }), 0);
+  assert.equal(limit({ ...r, mode: "diary-review" }), 3);
+  assert.equal(limit({ ...r, action: "finish" }), 2);
+  assert.equal(limit({ ...r, action: "translate", word: "lernen" }), 0);
+  assert.equal(
+    (
+      tutorReplySchema({ ...r, action: "translate", word: "lernen" }).properties
+        .vocabulary as { minItems: number }
+    ).minItems,
+    1,
+  );
+});
+test("validation diagnostics expose only a safe reason, never provider text or private originals", async () => {
+  const h = await harness();
+  try {
+    const text = await h.service
+      .error(new ProviderFailure("INVALID_PROVIDER_RESPONSE", "grounding"))
+      .text();
+    assert.match(text, /son mesajında bulunmayan/);
+    assert.ok(!text.includes("ich wohne"));
+  } finally {
+    h.ledger.close();
+  }
+});
 const config: LumiConfig = {
   key: "fake-test-key-not-real",
   model: "test-structured-model",

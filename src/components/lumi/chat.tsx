@@ -634,6 +634,9 @@ export function LumiChat() {
                     <p className="lumi-encouragement">
                       🌷 {m.reply.encouragementTr}
                     </p>
+                    {m.reply.noticeTr && (
+                      <p className="lumi-encouragement">{m.reply.noticeTr}</p>
+                    )}
                     {m.reply.corrections.length > 0 && (
                       <details className="lumi-corrections" open={c.closed}>
                         <summary>

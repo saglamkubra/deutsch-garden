@@ -217,6 +217,16 @@ export class LumiService {
     }
   }
   error(e: unknown) {
+    const reasons = {
+      shape:
+        "AI yanıtının biçimi beklenene uymadı. Mesajın korunuyor; yeniden deneyebilirsin.",
+      grounding:
+        "Lumi, son mesajında bulunmayan bir ifadeyi düzeltmeye çalıştı. Bu düzeltme kabul edilmedi; aynı isteği yeniden deneyebilirsin.",
+      "correction-limit":
+        "Lumi, seçtiğin düzeltme tercihine uymayan sayıda öneri verdi. Yanıt eklenmedi; yeniden deneyebilirsin.",
+      translation:
+        "AI kelime açıklaması doğrulanamadı. Yeniden deneyebilirsin.",
+    };
     const code =
         e instanceof TutorError || e instanceof ProviderFailure
           ? e.code
@@ -226,7 +236,12 @@ export class LumiService {
       {
         error: {
           code,
-          message: ERRORS[code] ?? ERRORS.PROVIDER_ERROR,
+          message:
+            e instanceof ProviderFailure &&
+            e.code === "INVALID_PROVIDER_RESPONSE" &&
+            e.reason
+              ? reasons[e.reason]
+              : (ERRORS[code] ?? ERRORS.PROVIDER_ERROR),
           retryAfter: e instanceof TutorError ? e.retry : 0,
         },
       },

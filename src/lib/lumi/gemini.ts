@@ -1,7 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 import {
   ProviderFailure,
-  REPLY_SCHEMA,
+  tutorReplySchema,
   tutorInstructions,
   validateTutorReply,
 } from "./provider.ts";
@@ -106,7 +106,7 @@ export async function callGeminiTutor(
       config: {
         systemInstruction: tutorInstructions(r),
         responseMimeType: "application/json",
-        responseJsonSchema: REPLY_SCHEMA,
+        responseJsonSchema: tutorReplySchema(r),
         maxOutputTokens: config.outputTokens,
         candidateCount: 1,
       },
